@@ -1,0 +1,3 @@
+Leer las fuentes de datos
+Integrar las fuentes de datos
+Visualizar los datos, tal cual se leyeron

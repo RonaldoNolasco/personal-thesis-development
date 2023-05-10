@@ -1,0 +1,4 @@
+Leer los datos
+Realizar la separacion del entrenamiento y testeo
+Crear modelos y entrenarlos
+Mostrar las métricas

@@ -1,0 +1,5 @@
+Leer los datos
+Aplicar escalas o normalizaciones
+Utilizar los maestros para los nuevos datos
+Asignar la variable objetivo
+Visualizar los datos
