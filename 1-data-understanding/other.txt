@@ -1,0 +1,6 @@
+5 errores educación:
+D:\Documents\Projects\hrms-gys\hrms-gys-ml\1-data-understanding\1-source-data\main\bumeran\iteration-4\bandeja-entrada\Has recibido un CV para el aviso _Especialista en Analítica Jr_(50).html
+D:\Documents\Projects\hrms-gys\hrms-gys-ml\1-data-understanding\1-source-data\main\bumeran\iteration-4\bandeja-entrada\Has recibido un CV para el aviso _Gestor de Servicios de TI_(132).html
+D:\Documents\Projects\hrms-gys\hrms-gys-ml\1-data-understanding\1-source-data\main\bumeran\iteration-4\bandeja-entrada-asistente-social\Has recibido un CV para el aviso _Asistente Social_(173).html
+D:\Documents\Projects\hrms-gys\hrms-gys-ml\1-data-understanding\1-source-data\main\bumeran\iteration-4\bandeja-entrada-asistente-social\Has recibido un CV para el aviso _Asistente Social_(71).html
+D:\Documents\Projects\hrms-gys\hrms-gys-ml\1-data-understanding\1-source-data\main\bumeran\iteration-4\ejecutivo-comercial\Has recibido un CV para el aviso _Ejecutivo Comercial TI_(38).html
