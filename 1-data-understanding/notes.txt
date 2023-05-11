@@ -21,3 +21,4 @@ Total de archivos con filtros y data integra: 9794
 
 Experiencia laboral: 9233 validos - 561 invalidos
 Educación: 9673 validos - 121 invalidos
+Los otros 3 no se analizaron, ya que si no encuentra simplemente le pone 0
