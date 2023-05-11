@@ -18,3 +18,6 @@ Archivos con data incompleta: 3
 1-source-data\main\bumeran\iteration-4\programador-net\Has recibido un CV para el aviso _Programador .Net Senior_(4).html
 
 Total de archivos con filtros y data integra: 9794
+
+Experiencia laboral: 9233 validos - 561 invalidos
+Educación: 9673 validos - 121 invalidos

@@ -1,16 +1,2 @@
-while(None):
-  print("None")
-  break
-
-while(False):
-  print("False")
-  break
-
-while(True):
-  print("True")
-  break
-
-while(not None):
-  print("not None")
-  break
-
+a, b = (2, 3) if True else (4, 5)
+print(a, b)
