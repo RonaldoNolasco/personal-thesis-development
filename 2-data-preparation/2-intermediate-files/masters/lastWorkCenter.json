@@ -1,0 +1,4034 @@
+[
+    {
+        "origin": "(Huawei)",
+        "destiny": "Huawei"
+    },
+    {
+        "origin": "Ab Technology Sac",
+        "destiny": "Wasy Technology Sac"
+    },
+    {
+        "origin": "Abc Consultores",
+        "destiny": "Consultor"
+    },
+    {
+        "origin": "Abc Consultores",
+        "destiny": "H&Amp;E Consultores"
+    },
+    {
+        "origin": "Abc Consultores",
+        "destiny": "Tpa Consultores"
+    },
+    {
+        "origin": "Abc Consultores",
+        "destiny": "Vc Consultores Tic"
+    },
+    {
+        "origin": "Accenture",
+        "destiny": "Accenture Peru"
+    },
+    {
+        "origin": "Acceso Crediticio S.A",
+        "destiny": "Acceso Crediticio Sa"
+    },
+    {
+        "origin": "Activiza",
+        "destiny": "Ativa"
+    },
+    {
+        "origin": "Adecco Consulting",
+        "destiny": "Adecco Consulting S.A."
+    },
+    {
+        "origin": "Adecco Consulting",
+        "destiny": "Bdo Consulting"
+    },
+    {
+        "origin": "Adecco Consulting S.A.",
+        "destiny": "Mdp Consulting S.A"
+    },
+    {
+        "origin": "Adecco Consulting S.A.",
+        "destiny": "Mdp Consulting S.A.C"
+    },
+    {
+        "origin": "Adexus Peru S.A.",
+        "destiny": "Adexus Peru Sa"
+    },
+    {
+        "origin": "Ai Inversiones Palo Alto Ii S.A.C.",
+        "destiny": "Ai Inversiones Palo Alto Ii S.A.C. (Canvia)"
+    },
+    {
+        "origin": "Ai Inversiones Palo Alto Ii S.A.C.",
+        "destiny": "Ai Inversiones Palo Alto Ii Sac (Canvia)"
+    },
+    {
+        "origin": "Ai Inversiones Palo Alto Ii S.A.C.",
+        "destiny": "Ai Inversiones Palo Santo"
+    },
+    {
+        "origin": "Ai Inversiones Palo Alto Ii S.A.C. (Canvia)",
+        "destiny": "Ai Inversiones Palo Alto Ii Sac (Canvia)"
+    },
+    {
+        "origin": "Ajeper",
+        "destiny": "Ajeper S.A"
+    },
+    {
+        "origin": "Alicorp",
+        "destiny": "Alicorp S.A"
+    },
+    {
+        "origin": "Alicorp",
+        "destiny": "Alicorp S.A."
+    },
+    {
+        "origin": "Alicorp",
+        "destiny": "Alicorp Saa"
+    },
+    {
+        "origin": "Alicorp S.A",
+        "destiny": "Alicorp S.A."
+    },
+    {
+        "origin": "Alicorp S.A",
+        "destiny": "Alicorp S.A.A"
+    },
+    {
+        "origin": "Alicorp S.A",
+        "destiny": "Alicorp S.A.A."
+    },
+    {
+        "origin": "Alicorp S.A",
+        "destiny": "Alicorp Saa"
+    },
+    {
+        "origin": "Alicorp S.A.",
+        "destiny": "Alicorp S.A.A"
+    },
+    {
+        "origin": "Alicorp S.A.",
+        "destiny": "Alicorp S.A.A."
+    },
+    {
+        "origin": "Alicorp S.A.",
+        "destiny": "Alicorp Saa"
+    },
+    {
+        "origin": "Alicorp S.A.A",
+        "destiny": "Alicorp S.A.A."
+    },
+    {
+        "origin": "Alicorp Saa",
+        "destiny": "Alimencorp Sac"
+    },
+    {
+        "origin": "Alteliza",
+        "destiny": "Alteliza Home"
+    },
+    {
+        "origin": "Alternativa Tecnologica",
+        "destiny": "Avantica Technologies"
+    },
+    {
+        "origin": "Alvida S.A",
+        "destiny": "Avla S.A."
+    },
+    {
+        "origin": "America Movil",
+        "destiny": "America Movil Peru"
+    },
+    {
+        "origin": "America Movil",
+        "destiny": "America Movil Peru Sac"
+    },
+    {
+        "origin": "America Movil Peru",
+        "destiny": "America Movil Peru (Claro Peru)"
+    },
+    {
+        "origin": "America Movil Peru",
+        "destiny": "America Movil Peru S.A.C."
+    },
+    {
+        "origin": "America Movil Peru",
+        "destiny": "America Movil Peru Sac"
+    },
+    {
+        "origin": "America Movil Peru (Claro Peru)",
+        "destiny": "America Movil Peru Sac"
+    },
+    {
+        "origin": "America Movil Peru S.A.C.",
+        "destiny": "America Movil Peru S.A.C. - Claro"
+    },
+    {
+        "origin": "America Movil Peru S.A.C.",
+        "destiny": "America Movil Peru Sac"
+    },
+    {
+        "origin": "America Movil Peru S.A.C. - Claro",
+        "destiny": "America Movil Peru Sac"
+    },
+    {
+        "origin": "Americatel Del Peru",
+        "destiny": "Pertel Del Peru"
+    },
+    {
+        "origin": "Anovo Peru S.A.C",
+        "destiny": "Anovo Peru Sac."
+    },
+    {
+        "origin": "Anovo Peru S.A.C",
+        "destiny": "Bdo Peru S.A.C"
+    },
+    {
+        "origin": "Anovo Peru S.A.C",
+        "destiny": "Bpo Peru S.A.C"
+    },
+    {
+        "origin": "Aqh Consulting",
+        "destiny": "Mdp Consulting"
+    },
+    {
+        "origin": "Aqh Consulting",
+        "destiny": "Ti Consulting"
+    },
+    {
+        "origin": "Aqh Consulting",
+        "destiny": "Zat Consulting"
+    },
+    {
+        "origin": "Arcadis Peru",
+        "destiny": "Fridays Peru"
+    },
+    {
+        "origin": "Arcadis Peru",
+        "destiny": "Siscard Peru"
+    },
+    {
+        "origin": "Arqsoft Consultores",
+        "destiny": "Arqsoft Consultores Sac"
+    },
+    {
+        "origin": "Artesco S.A.",
+        "destiny": "Precor S.A."
+    },
+    {
+        "origin": "Asesores -E",
+        "destiny": "Asesores-E"
+    },
+    {
+        "origin": "Assist Card Peru",
+        "destiny": "Assistcard Peru"
+    },
+    {
+        "origin": "Assistcard Peru",
+        "destiny": "Astara Peru"
+    },
+    {
+        "origin": "Assistcard Peru",
+        "destiny": "Siscard Peru"
+    },
+    {
+        "origin": "Atos Peru",
+        "destiny": "Tsoft Peru"
+    },
+    {
+        "origin": "Avance Legal",
+        "destiny": "Avance Legal S.A.C."
+    },
+    {
+        "origin": "Ayesa Peru",
+        "destiny": "Gea Peru"
+    },
+    {
+        "origin": "Ayesa S.A.C.",
+        "destiny": "Matysger S.A.C."
+    },
+    {
+        "origin": "Aynitech",
+        "destiny": "Aynitech S.A."
+    },
+    {
+        "origin": "Azteca Comunicaciones Peru",
+        "destiny": "Azteca Comunicaciones Peru S.A.C"
+    },
+    {
+        "origin": "Background Consultores",
+        "destiny": "Background Consultores S.A.C"
+    },
+    {
+        "origin": "Backus",
+        "destiny": "Backus Sac"
+    },
+    {
+        "origin": "Bafing",
+        "destiny": "Bafing Sac"
+    },
+    {
+        "origin": "Baires Sac",
+        "destiny": "Bairesa Sac"
+    },
+    {
+        "origin": "Bairesa Sac",
+        "destiny": "Caesa Sac"
+    },
+    {
+        "origin": "Banco Credito Del Peru",
+        "destiny": "Banco De Credito Del Peru"
+    },
+    {
+        "origin": "Banco Credito Del Peru",
+        "destiny": "Banco Del Credito Del Peru"
+    },
+    {
+        "origin": "Banco De Comercio",
+        "destiny": "Banco De Credito"
+    },
+    {
+        "origin": "Banco De Credito",
+        "destiny": "Banco De Credito Del Peru"
+    },
+    {
+        "origin": "Banco De Credito",
+        "destiny": "Banco Del Credito Del Peru"
+    },
+    {
+        "origin": "Banco De Credito Del Peru",
+        "destiny": "Banco De Credito Del Peru - Bcp"
+    },
+    {
+        "origin": "Banco De Credito Del Peru",
+        "destiny": "Banco Del Credito Del Peru"
+    },
+    {
+        "origin": "Banco Falabella",
+        "destiny": "Banco Falabella Peru"
+    },
+    {
+        "origin": "Banco Falabella",
+        "destiny": "Banco Falabella Peru S.A."
+    },
+    {
+        "origin": "Banco Falabella Peru",
+        "destiny": "Banco Falabella Peru S.A."
+    },
+    {
+        "origin": "Banco Interamericano De Finanza Banbif",
+        "destiny": "Banco Interamericano De Finanzas"
+    },
+    {
+        "origin": "Banco Interamericano De Finanza Banbif",
+        "destiny": "Banco Interamericano De Finanzas (Banbif)"
+    },
+    {
+        "origin": "Banco Interamericano De Finanzas",
+        "destiny": "Banco Interamericano De Finanzas (Banbif)"
+    },
+    {
+        "origin": "Banco Pichincha",
+        "destiny": "Banco Pichincha (Via Evol)"
+    },
+    {
+        "origin": "Banco Pichincha",
+        "destiny": "Banco Pichincha - Ecuador"
+    },
+    {
+        "origin": "Banco Pichincha",
+        "destiny": "Banco Pichincha Del Peru"
+    },
+    {
+        "origin": "Banco Ripley",
+        "destiny": "Banco Ripley Del Peru"
+    },
+    {
+        "origin": "Banco Ripley",
+        "destiny": "Banco Ripley Mdp"
+    },
+    {
+        "origin": "Banco Ripley",
+        "destiny": "Banco Ripley S.A"
+    },
+    {
+        "origin": "Banco Ripley",
+        "destiny": "Banco Ripley Sac"
+    },
+    {
+        "origin": "Banco Ripley Mdp",
+        "destiny": "Banco Ripley S.A"
+    },
+    {
+        "origin": "Banco Ripley Mdp",
+        "destiny": "Banco Ripley Sac"
+    },
+    {
+        "origin": "Banco Ripley S.A",
+        "destiny": "Banco Ripley Sac"
+    },
+    {
+        "origin": "Bbva - Continental",
+        "destiny": "Bbva Continental"
+    },
+    {
+        "origin": "Bcp - Banco De Credito Del Peru",
+        "destiny": "Bcp Banco De Credito Del Peru"
+    },
+    {
+        "origin": "Bcts Consulting",
+        "destiny": "Bdo Consulting"
+    },
+    {
+        "origin": "Bcts Consulting",
+        "destiny": "Ids Consulting"
+    },
+    {
+        "origin": "Bcts Consulting",
+        "destiny": "Kaits Consulting"
+    },
+    {
+        "origin": "Bcts Consulting",
+        "destiny": "Rsk Consulting"
+    },
+    {
+        "origin": "Bdo Consulting",
+        "destiny": "Ids Consulting"
+    },
+    {
+        "origin": "Bdo Consulting",
+        "destiny": "Mdp Consulting"
+    },
+    {
+        "origin": "Bdo Peru S.A.C",
+        "destiny": "Bpo Peru S.A.C"
+    },
+    {
+        "origin": "Bdo Peru S.A.C",
+        "destiny": "Kolff Peru S.A.C."
+    },
+    {
+        "origin": "Belcorp",
+        "destiny": "Celucorp"
+    },
+    {
+        "origin": "Binsa",
+        "destiny": "Minsa"
+    },
+    {
+        "origin": "Bionet S.A.",
+        "destiny": "Dinet S.A."
+    },
+    {
+        "origin": "Bisa Ingenieria De Proyectos",
+        "destiny": "Bisa Ingenieria Y Proyectos"
+    },
+    {
+        "origin": "Bitacore S.A.C",
+        "destiny": "Seratic S.A.C"
+    },
+    {
+        "origin": "Bitel Peru",
+        "destiny": "Entel Peru"
+    },
+    {
+        "origin": "Bluetab",
+        "destiny": "Bluetab Peru"
+    },
+    {
+        "origin": "Bluetab Ibm Company",
+        "destiny": "Bluetab, An Ibm Company"
+    },
+    {
+        "origin": "Bluetab Solutions",
+        "destiny": "Bluetab Solutions Peru"
+    },
+    {
+        "origin": "Bmp Consulting Sac",
+        "destiny": "Mdp Consulting S.A"
+    },
+    {
+        "origin": "Bmp Consulting Sac",
+        "destiny": "Mdp Consulting Sac"
+    },
+    {
+        "origin": "Bmp Consulting Sac",
+        "destiny": "Tawa Consulting Sac."
+    },
+    {
+        "origin": "Bpo Peru S.A.C",
+        "destiny": "Kolff Peru S.A.C."
+    },
+    {
+        "origin": "Bps Consultores",
+        "destiny": "H&Amp;E Consultores"
+    },
+    {
+        "origin": "Bps Consultores",
+        "destiny": "Js Consultors"
+    },
+    {
+        "origin": "Bps Consultores",
+        "destiny": "Tpa Consultores"
+    },
+    {
+        "origin": "Business Analytics",
+        "destiny": "Business Analytics Sac"
+    },
+    {
+        "origin": "Bwit Peru Sac",
+        "destiny": "Gfi Peru Sac"
+    },
+    {
+        "origin": "Bwit Peru Sac",
+        "destiny": "Gta Peru Sac"
+    },
+    {
+        "origin": "Bwit Peru Sac",
+        "destiny": "Hitss Peru Sac"
+    },
+    {
+        "origin": "Bwit Peru Sac",
+        "destiny": "Soaint Peru Sac"
+    },
+    {
+        "origin": "C&Amp;J Constructores",
+        "destiny": "Cyj Constructores"
+    },
+    {
+        "origin": "Caja Cencosud Del Grupo Scotibank",
+        "destiny": "Caja Cencosud Scotiabank"
+    },
+    {
+        "origin": "Caja Metropolitana",
+        "destiny": "Caja Metropolitana De Lima"
+    },
+    {
+        "origin": "Caja Municipal De Ahorro Y Credito De Ica",
+        "destiny": "Caja Municipal De Ahorro Y Credito De Tacna"
+    },
+    {
+        "origin": "Caja Municipal De Ahorro Y Credito De Ica",
+        "destiny": "Caja Municipal De Ahorro Y Credito De Tacna S.A."
+    },
+    {
+        "origin": "Caja Municipal De Ahorro Y Credito De Ica",
+        "destiny": "Caja Municipal De Creditos Y Ahorros De Maynas"
+    },
+    {
+        "origin": "Caja Municipal De Ahorro Y Credito De Tacna",
+        "destiny": "Caja Municipal De Ahorro Y Credito De Tacna S.A."
+    },
+    {
+        "origin": "Caja Municipal De Ahorro Y Credito De Tacna",
+        "destiny": "Caja Municipal De Creditos Y Ahorros De Maynas"
+    },
+    {
+        "origin": "Caja Municipal De Ahorro Y Credito De Tacna S.A.",
+        "destiny": "Caja Municipal De Creditos Y Ahorros De Maynas"
+    },
+    {
+        "origin": "Camposol",
+        "destiny": "Camposol S.A."
+    },
+    {
+        "origin": "Canvia",
+        "destiny": "Canvia Sa"
+    },
+    {
+        "origin": "Cartones Del Pacifico",
+        "destiny": "Cartones Del Pacifico S.A.C."
+    },
+    {
+        "origin": "Casa Andina",
+        "destiny": "Casa Andina Hoteles"
+    },
+    {
+        "origin": "Celer",
+        "destiny": "Celer Sac"
+    },
+    {
+        "origin": "Celer Sac",
+        "destiny": "Reliper Sac"
+    },
+    {
+        "origin": "Celima S.A.",
+        "destiny": "Celsa S.A"
+    },
+    {
+        "origin": "Cencosud Retail Peru",
+        "destiny": "Cencosud Retail S.A."
+    },
+    {
+        "origin": "Cens",
+        "destiny": "Cns"
+    },
+    {
+        "origin": "Centria",
+        "destiny": "Ceti"
+    },
+    {
+        "origin": "Centro De Sistemas Y Negocios S.A. (Grupo Gloria)",
+        "destiny": "Centro De Sistemas Y Negocios S.A. - Grupo Gloria"
+    },
+    {
+        "origin": "Centro De Sistemas Y Negocios S.A. (Grupo Gloria)",
+        "destiny": "Centro De Sistemas Y Negocios Sa"
+    },
+    {
+        "origin": "Centro De Sistemas Y Negocios S.A. - Grupo Gloria",
+        "destiny": "Centro De Sistemas Y Negocios Sa"
+    },
+    {
+        "origin": "Centro Nacional De Servicios",
+        "destiny": "Centro Nacional De Servicios - Cns"
+    },
+    {
+        "origin": "Centrum Pucp",
+        "destiny": "Centrum Pupc"
+    },
+    {
+        "origin": "Century 21",
+        "destiny": "Century21"
+    },
+    {
+        "origin": "Ceragon Networks",
+        "destiny": "Mego Networks"
+    },
+    {
+        "origin": "Certicom",
+        "destiny": "Certicom Lima"
+    },
+    {
+        "origin": "Certicom",
+        "destiny": "Certicom Sac"
+    },
+    {
+        "origin": "Certicom Lima",
+        "destiny": "Certicom Sac"
+    },
+    {
+        "origin": "Cfg-Copeinca",
+        "destiny": "Cfg-Copeinca S.A.C"
+    },
+    {
+        "origin": "Cfg-Copeinca",
+        "destiny": "Copeinca"
+    },
+    {
+        "origin": "Chain Services Ti S.A.C - Csti",
+        "destiny": "Chain Services Ti S.A.C. - Csti"
+    },
+    {
+        "origin": "Cibernos Peru Sac",
+        "destiny": "Cibertec Peru Sac"
+    },
+    {
+        "origin": "Cibernos Peru Sac",
+        "destiny": "Everis Peru Sac"
+    },
+    {
+        "origin": "Cibertec Peru S.A.C",
+        "destiny": "Cibertec Peru Sac"
+    },
+    {
+        "origin": "Cicsa Peru Sac",
+        "destiny": "Cicsa Peru Sac."
+    },
+    {
+        "origin": "Cicsa Peru Sac",
+        "destiny": "Hitss Peru Sac"
+    },
+    {
+        "origin": "Cimacom",
+        "destiny": "Cimacom Data"
+    },
+    {
+        "origin": "Cinte - Ibm - Banco De Credito",
+        "destiny": "Cinte-Ibm-Banco De Credito"
+    },
+    {
+        "origin": "Claro Peru",
+        "destiny": "Cobra Peru"
+    },
+    {
+        "origin": "Clinica Internacional",
+        "destiny": "Clinica Internacional S.A"
+    },
+    {
+        "origin": "Clinica Internacional S.A",
+        "destiny": "Clininica Internacional S.A."
+    },
+    {
+        "origin": "Clinica San Felipe",
+        "destiny": "Clinica San Gabriel"
+    },
+    {
+        "origin": "Clinica San Juan Bautista",
+        "destiny": "Clinica San Juan De Dios"
+    },
+    {
+        "origin": "Clinica San Pablo - Surco",
+        "destiny": "Clinica San Pablo S.A.C."
+    },
+    {
+        "origin": "Club Tenis Las Terrazas Miraflores",
+        "destiny": "Club Tennis Las Terrazas Miraflores"
+    },
+    {
+        "origin": "Cluster And Business Solutions",
+        "destiny": "Cluster And Business Solutions S.A.C."
+    },
+    {
+        "origin": "Cobra Peru",
+        "destiny": "Cobra Peru Sa"
+    },
+    {
+        "origin": "Cobra Peru",
+        "destiny": "Cobra Peru Sac"
+    },
+    {
+        "origin": "Cobra Peru",
+        "destiny": "Cobraperu"
+    },
+    {
+        "origin": "Cobra Peru Sa",
+        "destiny": "Cobra Peru Sac"
+    },
+    {
+        "origin": "Cobra Peru Sa",
+        "destiny": "Cork Peru Sa"
+    },
+    {
+        "origin": "Cobra Peru Sac",
+        "destiny": "Cork Peru Sa"
+    },
+    {
+        "origin": "Cobra Peru Sac",
+        "destiny": "Indra Peru Sac"
+    },
+    {
+        "origin": "Colegio De Ingenieros - Cdll",
+        "destiny": "Colegio De Ingenieros Del Peru"
+    },
+    {
+        "origin": "Colegio De Ingenieros Del Peru",
+        "destiny": "Colegio Ingenieros Del Peru"
+    },
+    {
+        "origin": "Comarch",
+        "destiny": "Comarch Peru"
+    },
+    {
+        "origin": "Comercial Denia S.A",
+        "destiny": "Comercial Denia S.A.C"
+    },
+    {
+        "origin": "Comercio Independiente",
+        "destiny": "Proyecto Independiente"
+    },
+    {
+        "origin": "Comercio Independiente",
+        "destiny": "Servicio Independiente"
+    },
+    {
+        "origin": "Compania Food Retail S.A.C.",
+        "destiny": "Compania Food Retail Sac"
+    },
+    {
+        "origin": "Compania Minera Milpo Saa",
+        "destiny": "Compania Minera Miskimayo"
+    },
+    {
+        "origin": "Compania Minera Milpo Saa",
+        "destiny": "Compania Minera Raura"
+    },
+    {
+        "origin": "Comsatel Peru S.A.C.",
+        "destiny": "Comsatel Peru Sac"
+    },
+    {
+        "origin": "Comsatel Peru S.A.C.",
+        "destiny": "Roldem Peru S.A.C."
+    },
+    {
+        "origin": "Comsatel Peru S.A.C.",
+        "destiny": "Tesacom Peru S.A.C."
+    },
+    {
+        "origin": "Comsatel Peru Sac",
+        "destiny": "Comsatel Sac"
+    },
+    {
+        "origin": "Comsatel Peru Sac",
+        "destiny": "Promet Peru Sac"
+    },
+    {
+        "origin": "Comsatel Peru Sac",
+        "destiny": "Topsales Peru Sac"
+    },
+    {
+        "origin": "Confecciones Jm",
+        "destiny": "Confecciones Textimax"
+    },
+    {
+        "origin": "Consolucion Sac",
+        "destiny": "Consorcio Lac"
+    },
+    {
+        "origin": "Consorcio Hbo Sac",
+        "destiny": "Consorcio Lac"
+    },
+    {
+        "origin": "Consorcio Minero Horizonte",
+        "destiny": "Consorcio Minero Horizonte .S.A"
+    },
+    {
+        "origin": "Constructor S.A.C.",
+        "destiny": "Constructora Mausaa S.A."
+    },
+    {
+        "origin": "Constructora E Inmobiliaria Joshua",
+        "destiny": "Constructora E Inmobiliaria Marcan"
+    },
+    {
+        "origin": "Constructora E Inmobiliaria Marcan",
+        "destiny": "Inmobiliaria Y Contructora Marcan"
+    },
+    {
+        "origin": "Constructora Malaga Hnos S.A",
+        "destiny": "Constructora Mausaa S.A."
+    },
+    {
+        "origin": "Constructora P Y F Sac",
+        "destiny": "Constructora Pawer Sac"
+    },
+    {
+        "origin": "Consultor",
+        "destiny": "Consultora Csc"
+    },
+    {
+        "origin": "Consultor",
+        "destiny": "Consultoria"
+    },
+    {
+        "origin": "Consultor",
+        "destiny": "Consultoria Data"
+    },
+    {
+        "origin": "Consultor",
+        "destiny": "Consultoria Ti"
+    },
+    {
+        "origin": "Consultor",
+        "destiny": "Tpa Consultores"
+    },
+    {
+        "origin": "Consultor Independiente",
+        "destiny": "Consultora Independiente"
+    },
+    {
+        "origin": "Consultor Independiente",
+        "destiny": "Consultoria Independiente"
+    },
+    {
+        "origin": "Consultora Csc",
+        "destiny": "Consultoria"
+    },
+    {
+        "origin": "Consultora Csc",
+        "destiny": "Consultoria Ti"
+    },
+    {
+        "origin": "Consultora Independiente",
+        "destiny": "Consultoria Independiente"
+    },
+    {
+        "origin": "Consultoria",
+        "destiny": "Consultoria Data"
+    },
+    {
+        "origin": "Consultoria",
+        "destiny": "Consultoria General"
+    },
+    {
+        "origin": "Consultoria",
+        "destiny": "Consultoria Privada"
+    },
+    {
+        "origin": "Consultoria",
+        "destiny": "Consultoria Ti"
+    },
+    {
+        "origin": "Consultoria Data",
+        "destiny": "Consultoria Privada"
+    },
+    {
+        "origin": "Consultoria Data",
+        "destiny": "Consultoria Ti"
+    },
+    {
+        "origin": "Consultoria Privada",
+        "destiny": "Consultoria Ti"
+    },
+    {
+        "origin": "Consultorio Psicologico De La Unmsm",
+        "destiny": "Consultorio Psicologico Libera Y Sana"
+    },
+    {
+        "origin": "Cooperativa De Ahorro Y Credito 15 De Setiembre",
+        "destiny": "Cooperativa De Ahorro Y Credito Interfinco"
+    },
+    {
+        "origin": "Cooperativa De Ahorro Y Credito 15 De Setiembre",
+        "destiny": "Cooperativa De Ahorro Y Credito Leon Xiii"
+    },
+    {
+        "origin": "Cooperativa De Ahorro Y Credito 15 De Setiembre",
+        "destiny": "Cooperativa De Ahorro Y Creditos"
+    },
+    {
+        "origin": "Cooperativa De Ahorro Y Credito Interfinco",
+        "destiny": "Cooperativa De Ahorro Y Credito Leon Xiii"
+    },
+    {
+        "origin": "Cooperativa De Ahorro Y Credito Interfinco",
+        "destiny": "Cooperativa De Ahorro Y Creditos"
+    },
+    {
+        "origin": "Cooperativa De Ahorro Y Credito Interfinco",
+        "destiny": "Cooperativa De Ahorro Y Creditos San Miguel"
+    },
+    {
+        "origin": "Cooperativa De Ahorro Y Credito Leon Xiii",
+        "destiny": "Cooperativa De Ahorro Y Creditos"
+    },
+    {
+        "origin": "Cooperativa De Ahorro Y Credito Leon Xiii",
+        "destiny": "Cooperativa De Ahorro Y Creditos San Miguel"
+    },
+    {
+        "origin": "Cooperativa De Ahorro Y Creditos",
+        "destiny": "Cooperativa De Ahorro Y Creditos San Miguel"
+    },
+    {
+        "origin": "Coorporacion Sapia",
+        "destiny": "Coorporacion Sapia (Cosapi Data)"
+    },
+    {
+        "origin": "Coorporacion Sapia",
+        "destiny": "Corporacion Sapia"
+    },
+    {
+        "origin": "Corpol",
+        "destiny": "Corpol Sa"
+    },
+    {
+        "origin": "Corporacion 1To1",
+        "destiny": "Corporacion Ew"
+    },
+    {
+        "origin": "Corporacion 1To1",
+        "destiny": "Corporacion Roots"
+    },
+    {
+        "origin": "Corporacion Asura",
+        "destiny": "Corporacion Corrales"
+    },
+    {
+        "origin": "Corporacion Asura",
+        "destiny": "Corporacion Ew"
+    },
+    {
+        "origin": "Corporacion Asura",
+        "destiny": "Corporacion Olivares"
+    },
+    {
+        "origin": "Corporacion Asura",
+        "destiny": "Corporacion Sealers"
+    },
+    {
+        "origin": "Corporacion Asura",
+        "destiny": "Corporacion Usil"
+    },
+    {
+        "origin": "Corporacion Corrales",
+        "destiny": "Corporacion Fonafe"
+    },
+    {
+        "origin": "Corporacion Corrales",
+        "destiny": "Corporacion Olivares"
+    },
+    {
+        "origin": "Corporacion Corrales",
+        "destiny": "Corporacion Sealers"
+    },
+    {
+        "origin": "Corporacion Dctech",
+        "destiny": "Corporacion Jeruth"
+    },
+    {
+        "origin": "Corporacion Ew",
+        "destiny": "Corporacion Meier"
+    },
+    {
+        "origin": "Corporacion Ew",
+        "destiny": "Corporacion Roots"
+    },
+    {
+        "origin": "Corporacion Ew",
+        "destiny": "Corporacion Sapia"
+    },
+    {
+        "origin": "Corporacion Ew",
+        "destiny": "Corporacion Usil"
+    },
+    {
+        "origin": "Corporacion Fonafe",
+        "destiny": "Corporacion Fonafe - Enaco S.A."
+    },
+    {
+        "origin": "Corporacion Fonafe",
+        "destiny": "Corporacion Solivan"
+    },
+    {
+        "origin": "Corporacion Jeruth",
+        "destiny": "Corporacion Meier"
+    },
+    {
+        "origin": "Corporacion Meier",
+        "destiny": "Corporacion Olivares"
+    },
+    {
+        "origin": "Corporacion Meier",
+        "destiny": "Corporacion Panaservice"
+    },
+    {
+        "origin": "Corporacion Meier",
+        "destiny": "Corporacion Sealers"
+    },
+    {
+        "origin": "Corporacion Meier",
+        "destiny": "Corporacion Usil"
+    },
+    {
+        "origin": "Corporacion Olivares",
+        "destiny": "Corporacion Panaservice"
+    },
+    {
+        "origin": "Corporacion Olivares",
+        "destiny": "Corporacion Sealers"
+    },
+    {
+        "origin": "Corporacion Olivares",
+        "destiny": "Corporacion Solivan"
+    },
+    {
+        "origin": "Corporacion Olivares",
+        "destiny": "Corporacion Usil"
+    },
+    {
+        "origin": "Corporacion Panaservice",
+        "destiny": "Corporacion Panaservice S.A.C"
+    },
+    {
+        "origin": "Corporacion Panaservice",
+        "destiny": "Corporacion Sealers"
+    },
+    {
+        "origin": "Corporacion Rd Srl",
+        "destiny": "Corporacion Sealers"
+    },
+    {
+        "origin": "Corporacion Roots",
+        "destiny": "Corporacion Roots S.A."
+    },
+    {
+        "origin": "Corporacion Roots",
+        "destiny": "Corporacion Usil"
+    },
+    {
+        "origin": "Corporacion Sapia",
+        "destiny": "Corporacion Sapia S.A."
+    },
+    {
+        "origin": "Corporacion Sapia",
+        "destiny": "Corporacion Sealers"
+    },
+    {
+        "origin": "Corporacion Sapia",
+        "destiny": "Corporacion Solivan"
+    },
+    {
+        "origin": "Corporacion Sapia",
+        "destiny": "Corporacion Usil"
+    },
+    {
+        "origin": "Cosapi Data",
+        "destiny": "Cosapi Sa"
+    },
+    {
+        "origin": "Cosapi S.A",
+        "destiny": "Cosapi S.A."
+    },
+    {
+        "origin": "Cosapi S.A",
+        "destiny": "Cosapi Sa"
+    },
+    {
+        "origin": "Cosapi S.A.",
+        "destiny": "Cosapi Sa"
+    },
+    {
+        "origin": "Crosland",
+        "destiny": "Crosland Sac"
+    },
+    {
+        "origin": "Crosland Sac",
+        "destiny": "Crovisa Sac"
+    },
+    {
+        "origin": "Csti Corp",
+        "destiny": "Csti Corp."
+    },
+    {
+        "origin": "Csti Corp",
+        "destiny": "Csti Group"
+    },
+    {
+        "origin": "Csti Corp",
+        "destiny": "Csticorp"
+    },
+    {
+        "origin": "Csti Corp.",
+        "destiny": "Csticorp"
+    },
+    {
+        "origin": "Cya Consulting",
+        "destiny": "Data Consulting"
+    },
+    {
+        "origin": "Cya Consulting",
+        "destiny": "Exxa Consulting"
+    },
+    {
+        "origin": "Cya Consulting",
+        "destiny": "Page Consulting"
+    },
+    {
+        "origin": "Cya Consulting",
+        "destiny": "Tawa Consulting"
+    },
+    {
+        "origin": "Cya Consulting",
+        "destiny": "Zat Consulting"
+    },
+    {
+        "origin": "Daily Technology",
+        "destiny": "Padisa Technology"
+    },
+    {
+        "origin": "Data Consulting",
+        "destiny": "Exxa Consulting"
+    },
+    {
+        "origin": "Data Consulting",
+        "destiny": "Page Consulting"
+    },
+    {
+        "origin": "Data Consulting",
+        "destiny": "Pradera Consulting"
+    },
+    {
+        "origin": "Data Consulting",
+        "destiny": "Tata Consulting(Rimac)"
+    },
+    {
+        "origin": "Data Consulting",
+        "destiny": "Tawa Consulting"
+    },
+    {
+        "origin": "Data Consulting",
+        "destiny": "Ti Consulting"
+    },
+    {
+        "origin": "Data Consulting",
+        "destiny": "Zat Consulting"
+    },
+    {
+        "origin": "Datacont",
+        "destiny": "Datacont S.A"
+    },
+    {
+        "origin": "Dca Publicidad",
+        "destiny": "Orange Publicidad"
+    },
+    {
+        "origin": "Delfosti",
+        "destiny": "Delosi"
+    },
+    {
+        "origin": "Deloitte &Amp; Touche",
+        "destiny": "Deloitte &Amp; Touche S.R.L"
+    },
+    {
+        "origin": "Dimerc Peru S.A.C.",
+        "destiny": "Dimerc Peru Sac"
+    },
+    {
+        "origin": "Dimerc Peru S.A.C.",
+        "destiny": "Everis Peru S.A.C."
+    },
+    {
+        "origin": "Dimerc Peru S.A.C.",
+        "destiny": "Neoris Peru S.A.C."
+    },
+    {
+        "origin": "Dinet S.A.",
+        "destiny": "Mincetur S.A."
+    },
+    {
+        "origin": "Direccion Regional De Educacion Cajamarca",
+        "destiny": "Direccion Regional De Educacion Lima Provincia"
+    },
+    {
+        "origin": "Dms Peru Sac",
+        "destiny": "Dominion Peru Sac"
+    },
+    {
+        "origin": "Dms Peru Sac",
+        "destiny": "Gdm Peru Sac"
+    },
+    {
+        "origin": "Dms Peru Sac",
+        "destiny": "Pss Peru Sac"
+    },
+    {
+        "origin": "Domiruth Travel",
+        "destiny": "Domiruth Travel Service Sac"
+    },
+    {
+        "origin": "Dreams Corporation Sac",
+        "destiny": "Dreams Corporation Sac- Casino New York"
+    },
+    {
+        "origin": "Dwconsulware",
+        "destiny": "Dwconsulware Del Peru"
+    },
+    {
+        "origin": "Dyg Solutions",
+        "destiny": "Itg Solutions"
+    },
+    {
+        "origin": "Dyg Solutions",
+        "destiny": "Key Solutions"
+    },
+    {
+        "origin": "Efact",
+        "destiny": "Efact Sac"
+    },
+    {
+        "origin": "Efact",
+        "destiny": "Efc"
+    },
+    {
+        "origin": "Efact Sac",
+        "destiny": "Enchufate Sac"
+    },
+    {
+        "origin": "Efact Sac",
+        "destiny": "Exact Sac"
+    },
+    {
+        "origin": "Efitec",
+        "destiny": "Efitec Ti"
+    },
+    {
+        "origin": "El Comercio",
+        "destiny": "El Comercio Sa"
+    },
+    {
+        "origin": "Empresa Editora El Comercio",
+        "destiny": "Empresa Editora El Comercio Sa"
+    },
+    {
+        "origin": "Enel Distribucion",
+        "destiny": "Enel Distribucion Peru S.A.A."
+    },
+    {
+        "origin": "Enotria S.A",
+        "destiny": "Enotria S.A."
+    },
+    {
+        "origin": "Enotria S.A",
+        "destiny": "Enotria Sa"
+    },
+    {
+        "origin": "Enotria S.A",
+        "destiny": "Enotria Sac"
+    },
+    {
+        "origin": "Enotria S.A.",
+        "destiny": "Enotria Sa"
+    },
+    {
+        "origin": "Enotria S.A.",
+        "destiny": "Enotria Sac"
+    },
+    {
+        "origin": "Enotria S.A.",
+        "destiny": "Gloria S.A."
+    },
+    {
+        "origin": "Enotria Sa",
+        "destiny": "Enotria Sac"
+    },
+    {
+        "origin": "Entel",
+        "destiny": "Entelgy"
+    },
+    {
+        "origin": "Entel Peru",
+        "destiny": "Entel Peru S.A."
+    },
+    {
+        "origin": "Entel Peru S.A.",
+        "destiny": "Stantec Peru S.A."
+    },
+    {
+        "origin": "Eralma Constructora",
+        "destiny": "Tale Constructora"
+    },
+    {
+        "origin": "Ernest &Amp; Young",
+        "destiny": "Ernst &Amp; Young"
+    },
+    {
+        "origin": "Ernest &Amp; Young",
+        "destiny": "Ernst &Amp; Young (Ey)"
+    },
+    {
+        "origin": "Ernst &Amp; Young",
+        "destiny": "Ernst &Amp; Young (Ey)"
+    },
+    {
+        "origin": "Everest S.A.S.",
+        "destiny": "Everis S.A."
+    },
+    {
+        "origin": "Everest S.A.S.",
+        "destiny": "Everis S.A.C."
+    },
+    {
+        "origin": "Everis",
+        "destiny": "Everis Bpo"
+    },
+    {
+        "origin": "Everis",
+        "destiny": "Everis S.A"
+    },
+    {
+        "origin": "Everis",
+        "destiny": "Everis Sac"
+    },
+    {
+        "origin": "Everis - Bcp",
+        "destiny": "Everis Bpo"
+    },
+    {
+        "origin": "Everis Peru",
+        "destiny": "Everis Peru S.A.C"
+    },
+    {
+        "origin": "Everis Peru",
+        "destiny": "Everis Peru S.A.C."
+    },
+    {
+        "origin": "Everis Peru",
+        "destiny": "Everis Peru Sac"
+    },
+    {
+        "origin": "Everis Peru",
+        "destiny": "Experis Peru"
+    },
+    {
+        "origin": "Everis Peru S.A.C",
+        "destiny": "Everis Peru S.A.C."
+    },
+    {
+        "origin": "Everis Peru S.A.C",
+        "destiny": "Everis Peru Sac"
+    },
+    {
+        "origin": "Everis Peru S.A.C",
+        "destiny": "Everis S.A"
+    },
+    {
+        "origin": "Everis Peru S.A.C",
+        "destiny": "Everis S.A."
+    },
+    {
+        "origin": "Everis Peru S.A.C",
+        "destiny": "Everis S.A.C."
+    },
+    {
+        "origin": "Everis Peru S.A.C",
+        "destiny": "Neoris Peru S.A.C."
+    },
+    {
+        "origin": "Everis Peru S.A.C.",
+        "destiny": "Everis Peru Sac"
+    },
+    {
+        "origin": "Everis Peru S.A.C.",
+        "destiny": "Everis S.A"
+    },
+    {
+        "origin": "Everis Peru S.A.C.",
+        "destiny": "Everis S.A."
+    },
+    {
+        "origin": "Everis Peru S.A.C.",
+        "destiny": "Everis S.A.C."
+    },
+    {
+        "origin": "Everis Peru S.A.C.",
+        "destiny": "Neoris Peru S.A.C."
+    },
+    {
+        "origin": "Everis Peru Sac",
+        "destiny": "Everis Sac"
+    },
+    {
+        "origin": "Everis S.A",
+        "destiny": "Everis S.A."
+    },
+    {
+        "origin": "Everis S.A",
+        "destiny": "Everis S.A.C."
+    },
+    {
+        "origin": "Everis S.A",
+        "destiny": "Everis Sac"
+    },
+    {
+        "origin": "Everis S.A.",
+        "destiny": "Everis S.A.C."
+    },
+    {
+        "origin": "Evol (Tsnet S.A.)",
+        "destiny": "Evol - Tsnet S.A."
+    },
+    {
+        "origin": "Experian",
+        "destiny": "Experian Peru"
+    },
+    {
+        "origin": "Experian",
+        "destiny": "Experis"
+    },
+    {
+        "origin": "Experian Peru",
+        "destiny": "Experis Peru"
+    },
+    {
+        "origin": "Experis",
+        "destiny": "Experis Peru"
+    },
+    {
+        "origin": "Experis - Manpowergroup",
+        "destiny": "Experis -Manpower Group"
+    },
+    {
+        "origin": "Experis - Manpowergroup",
+        "destiny": "Experis Manpower"
+    },
+    {
+        "origin": "Experis - Manpowergroup",
+        "destiny": "Experis Manpower Group"
+    },
+    {
+        "origin": "Experis -Manpower Group",
+        "destiny": "Experis Manpower"
+    },
+    {
+        "origin": "Experis -Manpower Group",
+        "destiny": "Experis Manpower Group"
+    },
+    {
+        "origin": "Experis Manpower",
+        "destiny": "Experis Manpower Group"
+    },
+    {
+        "origin": "Expertia Travel",
+        "destiny": "Expertia Travel Sac"
+    },
+    {
+        "origin": "Exxa Consulting",
+        "destiny": "Page Consulting"
+    },
+    {
+        "origin": "Exxa Consulting",
+        "destiny": "Tawa Consulting"
+    },
+    {
+        "origin": "Exxa Consulting",
+        "destiny": "Ti Consulting"
+    },
+    {
+        "origin": "Exxa Consulting",
+        "destiny": "Zat Consulting"
+    },
+    {
+        "origin": "Factor It",
+        "destiny": "Factorit"
+    },
+    {
+        "origin": "Factor It",
+        "destiny": "Vector It"
+    },
+    {
+        "origin": "Facturactiva",
+        "destiny": "Facturactiva Del Peru"
+    },
+    {
+        "origin": "Fargoline S.A.",
+        "destiny": "Freno S.A."
+    },
+    {
+        "origin": "Farmacias Peruanas",
+        "destiny": "Farmacias Peruanas - Intercorp"
+    },
+    {
+        "origin": "Farmacias Peruanas",
+        "destiny": "Farmacias Peruanas S.A"
+    },
+    {
+        "origin": "Farmacias Peruanas",
+        "destiny": "Farmacias Peruanas S.A."
+    },
+    {
+        "origin": "Farmacias Peruanas S.A",
+        "destiny": "Farmacias Peruanas S.A."
+    },
+    {
+        "origin": "Ferreycorp S.A",
+        "destiny": "Ferreyros S.A"
+    },
+    {
+        "origin": "Ferreycorp S.A",
+        "destiny": "Ferreyros S.A."
+    },
+    {
+        "origin": "Ferreyros",
+        "destiny": "Ferreyros S.A"
+    },
+    {
+        "origin": "Ferreyros",
+        "destiny": "Ferreyros S.A."
+    },
+    {
+        "origin": "Ferreyros",
+        "destiny": "Ferreyros Sa"
+    },
+    {
+        "origin": "Ferreyros S.A",
+        "destiny": "Ferreyros S.A."
+    },
+    {
+        "origin": "Ferreyros S.A",
+        "destiny": "Ferreyros Sa"
+    },
+    {
+        "origin": "Ferreyros S.A.",
+        "destiny": "Ferreyros Sa"
+    },
+    {
+        "origin": "Fesepsa",
+        "destiny": "Fesepsa S.A"
+    },
+    {
+        "origin": "Financiera Confianza",
+        "destiny": "Financiera Confianza S.A.A."
+    },
+    {
+        "origin": "Financiera Credinka",
+        "destiny": "Financiera Credinka S.A"
+    },
+    {
+        "origin": "Financiera Credinka",
+        "destiny": "Financiera Crediscotia"
+    },
+    {
+        "origin": "Financiera Efectiva",
+        "destiny": "Financiera Efectiva S.A."
+    },
+    {
+        "origin": "Financiera Efectiva",
+        "destiny": "Financiera Efectiva/Grupo Efe"
+    },
+    {
+        "origin": "Financiera Efectiva",
+        "destiny": "Financiera Tfc"
+    },
+    {
+        "origin": "Financiera Efectiva S.A.",
+        "destiny": "Financiera Tfc S.A"
+    },
+    {
+        "origin": "Financiera Oh",
+        "destiny": "Financiera Tfc"
+    },
+    {
+        "origin": "Financiera Proempresa",
+        "destiny": "Financiera Proempresa Sa"
+    },
+    {
+        "origin": "Financiera Tfc",
+        "destiny": "Financiera Tfc S.A"
+    },
+    {
+        "origin": "Fondo Mivivienda",
+        "destiny": "Fondo Mivivienda S.A."
+    },
+    {
+        "origin": "Fortel",
+        "destiny": "Fortel Bpo"
+    },
+    {
+        "origin": "Fortel Customer Experience",
+        "destiny": "Fortel Customer Experience Bpo"
+    },
+    {
+        "origin": "Fractal",
+        "destiny": "Fractalia"
+    },
+    {
+        "origin": "Fractal",
+        "destiny": "Fractalup"
+    },
+    {
+        "origin": "Fractalia",
+        "destiny": "Fractalia Peru"
+    },
+    {
+        "origin": "Fractalia",
+        "destiny": "Fractalia S.A.C"
+    },
+    {
+        "origin": "Fractalia",
+        "destiny": "Fractalup"
+    },
+    {
+        "origin": "Fractalia Peru",
+        "destiny": "Fractalia Peru Sa"
+    },
+    {
+        "origin": "Free Lance",
+        "destiny": "Freelance"
+    },
+    {
+        "origin": "Free Lance",
+        "destiny": "Freelancer"
+    },
+    {
+        "origin": "Freelance",
+        "destiny": "Freelance Azure"
+    },
+    {
+        "origin": "Freelance",
+        "destiny": "Freelancer"
+    },
+    {
+        "origin": "Freelance",
+        "destiny": "Freelancer.Com"
+    },
+    {
+        "origin": "Freelance",
+        "destiny": "Frelance"
+    },
+    {
+        "origin": "Freelance Azure",
+        "destiny": "Freelancer"
+    },
+    {
+        "origin": "Freelancer",
+        "destiny": "Freelancer.Com"
+    },
+    {
+        "origin": "Freelancer",
+        "destiny": "Frelance"
+    },
+    {
+        "origin": "Fridays Peru",
+        "destiny": "Hias Peru"
+    },
+    {
+        "origin": "G3 Asociados",
+        "destiny": "J/R Asociados"
+    },
+    {
+        "origin": "Gdm Peru Sac",
+        "destiny": "Gfi Peru Sac"
+    },
+    {
+        "origin": "Gdm Peru Sac",
+        "destiny": "Gta Peru Sac"
+    },
+    {
+        "origin": "Gea Peru",
+        "destiny": "Gepae Peru"
+    },
+    {
+        "origin": "Gea Peru",
+        "destiny": "Gilat Peru"
+    },
+    {
+        "origin": "Gea Peru",
+        "destiny": "Goled Peru"
+    },
+    {
+        "origin": "Gea Peru",
+        "destiny": "Refax Peru"
+    },
+    {
+        "origin": "Gestion De Servicios Compartidos",
+        "destiny": "Gestion De Servicios Compartidos Sac"
+    },
+    {
+        "origin": "Gestion De Servicios Compartidos",
+        "destiny": "Gestion De Servicios Compartidos Valtx"
+    },
+    {
+        "origin": "Gestion De Servicios Compartidos Sac",
+        "destiny": "Gestion De Servicios Compartidos Valtx"
+    },
+    {
+        "origin": "Gestion Source",
+        "destiny": "Gestionsource"
+    },
+    {
+        "origin": "Gewalt Peru Sac",
+        "destiny": "Gta Peru Sac"
+    },
+    {
+        "origin": "Gfi Peru",
+        "destiny": "Gfi Peru Sac"
+    },
+    {
+        "origin": "Gfi Peru",
+        "destiny": "Gilat Peru"
+    },
+    {
+        "origin": "Gfi Peru Sac",
+        "destiny": "Gfi Sac"
+    },
+    {
+        "origin": "Gfi Peru Sac",
+        "destiny": "Gta Peru Sac"
+    },
+    {
+        "origin": "Gfi Peru Sac",
+        "destiny": "Pil Peru Sac"
+    },
+    {
+        "origin": "Gilat Networking Peru",
+        "destiny": "Gilat Networks Peru"
+    },
+    {
+        "origin": "Gilat Networking Peru",
+        "destiny": "Gilat Networks Peru S.A."
+    },
+    {
+        "origin": "Gilat Networks",
+        "destiny": "Gilat Networks Peru"
+    },
+    {
+        "origin": "Gilat Networks",
+        "destiny": "Gilat Networks Peru S.A."
+    },
+    {
+        "origin": "Gilat Networks",
+        "destiny": "Optical Network"
+    },
+    {
+        "origin": "Gilat Networks",
+        "destiny": "Optical Networks"
+    },
+    {
+        "origin": "Gilat Networks Peru",
+        "destiny": "Gilat Networks Peru S.A."
+    },
+    {
+        "origin": "Gilat Peru",
+        "destiny": "Globant Peru"
+    },
+    {
+        "origin": "Gilat Peru",
+        "destiny": "Gtd Peru"
+    },
+    {
+        "origin": "Global Business Solution Sac",
+        "destiny": "Global Business Solutions"
+    },
+    {
+        "origin": "Global Hitss",
+        "destiny": "Global Hitss Peru"
+    },
+    {
+        "origin": "Global Hitss",
+        "destiny": "Global Its"
+    },
+    {
+        "origin": "Global Hitss",
+        "destiny": "Globalhitss"
+    },
+    {
+        "origin": "Global Hitss",
+        "destiny": "Glolbal Hitss"
+    },
+    {
+        "origin": "Global Hitss (Grupo America Movil)",
+        "destiny": "Global Hitss - America Movil"
+    },
+    {
+        "origin": "Global Hitss - America Movil",
+        "destiny": "Global Hitss - America Movil / Claro"
+    },
+    {
+        "origin": "Global Hitss Peru",
+        "destiny": "Global Hitss Peru S.A.C."
+    },
+    {
+        "origin": "Globalhitss",
+        "destiny": "Glolbal Hitss"
+    },
+    {
+        "origin": "Globant",
+        "destiny": "Globant Peru"
+    },
+    {
+        "origin": "Globant Peru",
+        "destiny": "Globokas Peru"
+    },
+    {
+        "origin": "Globokas",
+        "destiny": "Globokas Peru"
+    },
+    {
+        "origin": "Gloria S.A",
+        "destiny": "Gloria S.A."
+    },
+    {
+        "origin": "Gobierno Regional De Loreto",
+        "destiny": "Gobierno Regional Del Callao"
+    },
+    {
+        "origin": "Gobierno Regional Del Callao",
+        "destiny": "Gobierno Regional Pasco"
+    },
+    {
+        "origin": "Golden Investment",
+        "destiny": "Golden Investment S.A"
+    },
+    {
+        "origin": "Grana Y Montero",
+        "destiny": "Grana Y Montero Petrolera"
+    },
+    {
+        "origin": "Grupo Aje",
+        "destiny": "Grupo Ast"
+    },
+    {
+        "origin": "Grupo Aje",
+        "destiny": "Grupo Fe"
+    },
+    {
+        "origin": "Grupo Ast",
+        "destiny": "Grupo Athos"
+    },
+    {
+        "origin": "Grupo Ast",
+        "destiny": "Grupo Utp"
+    },
+    {
+        "origin": "Grupo Auna",
+        "destiny": "Grupo Sura"
+    },
+    {
+        "origin": "Grupo C Peru Sac",
+        "destiny": "Sr Group Peru Sac"
+    },
+    {
+        "origin": "Grupo Coril S.A.",
+        "destiny": "Grupo Deltron S.A."
+    },
+    {
+        "origin": "Grupo Coril S.A.",
+        "destiny": "Grupo Kio S.A.C"
+    },
+    {
+        "origin": "Grupo Dalisa S.A.C",
+        "destiny": "Grupo Gurkas S.A.C"
+    },
+    {
+        "origin": "Grupo Dalisa S.A.C",
+        "destiny": "Grupo Kio S.A.C"
+    },
+    {
+        "origin": "Grupo Deltron",
+        "destiny": "Grupo Deltron S.A."
+    },
+    {
+        "origin": "Grupo Electrodata",
+        "destiny": "Grupo Electrodata S.A.C."
+    },
+    {
+        "origin": "Grupo Erca",
+        "destiny": "Grupo Sura"
+    },
+    {
+        "origin": "Grupo Jlb",
+        "destiny": "Grupo Jma"
+    },
+    {
+        "origin": "Grupo Palmas",
+        "destiny": "Grupo Pana"
+    },
+    {
+        "origin": "Grupo Palmas",
+        "destiny": "Grupo Paracas"
+    },
+    {
+        "origin": "Grupo Pana",
+        "destiny": "Grupo Paracas"
+    },
+    {
+        "origin": "Grupo Pana",
+        "destiny": "Grupo Planeta S.A."
+    },
+    {
+        "origin": "Grupo Pana",
+        "destiny": "Grupo San Pablo"
+    },
+    {
+        "origin": "Grupo Pana",
+        "destiny": "Grupo Tawa"
+    },
+    {
+        "origin": "Grupo Rpp",
+        "destiny": "Grupo Utp"
+    },
+    {
+        "origin": "Grupo San Pablo",
+        "destiny": "Grupo San Pablo S.A."
+    },
+    {
+        "origin": "Grupo Seidor",
+        "destiny": "Grupo Seidor Peru"
+    },
+    {
+        "origin": "Grupo Stefanini",
+        "destiny": "Stefanini"
+    },
+    {
+        "origin": "Grupo Utp",
+        "destiny": "Grupoutp"
+    },
+    {
+        "origin": "Gs1 Peru",
+        "destiny": "Gss - Peru"
+    },
+    {
+        "origin": "Gt Software",
+        "destiny": "Phc Software"
+    },
+    {
+        "origin": "Gta Peru Sac",
+        "destiny": "Soaint Peru Sac"
+    },
+    {
+        "origin": "H&Amp;E Consultores",
+        "destiny": "Tpa Consultores"
+    },
+    {
+        "origin": "Hello Zum",
+        "destiny": "Hellozum"
+    },
+    {
+        "origin": "Hewlett Packard",
+        "destiny": "Hewlett-Packard"
+    },
+    {
+        "origin": "Hias Peru",
+        "destiny": "Hitss Peru"
+    },
+    {
+        "origin": "Hias Peru",
+        "destiny": "Sima Peru"
+    },
+    {
+        "origin": "High Service",
+        "destiny": "High Servis"
+    },
+    {
+        "origin": "High Service International",
+        "destiny": "High Service International Sac"
+    },
+    {
+        "origin": "High Talent Asociados S.A.C",
+        "destiny": "High Talent Asoiciados"
+    },
+    {
+        "origin": "Hiper S.A.",
+        "destiny": "Hiper Sa."
+    },
+    {
+        "origin": "Hipermercados Tottus",
+        "destiny": "Hipermercados Tottus S.A"
+    },
+    {
+        "origin": "Hitss Peru",
+        "destiny": "Hitss Peru S.A.C"
+    },
+    {
+        "origin": "Hitss Peru",
+        "destiny": "Hitss Peru S.A.C."
+    },
+    {
+        "origin": "Hitss Peru",
+        "destiny": "Hitss Peru Sac"
+    },
+    {
+        "origin": "Hitss Peru S.A.C",
+        "destiny": "Hitss Peru S.A.C."
+    },
+    {
+        "origin": "Hitss Peru S.A.C",
+        "destiny": "Hitss Peru Sac"
+    },
+    {
+        "origin": "Hitss Peru S.A.C",
+        "destiny": "Pss Peru S.A.C."
+    },
+    {
+        "origin": "Hitss Peru S.A.C.",
+        "destiny": "Hitss Peru Sac"
+    },
+    {
+        "origin": "Hitss Peru S.A.C.",
+        "destiny": "Pss Peru S.A.C."
+    },
+    {
+        "origin": "Hitss Peru S.A.C.",
+        "destiny": "Sapimsa Peru S.A.C."
+    },
+    {
+        "origin": "Hitss Peru Sac",
+        "destiny": "Pss Peru Sac"
+    },
+    {
+        "origin": "Hundred",
+        "destiny": "Hundred Sac"
+    },
+    {
+        "origin": "Hundred (Belcorp)",
+        "destiny": "Hundred / Belcorp"
+    },
+    {
+        "origin": "Hundred Consulting Sac",
+        "destiny": "Tns Consulting Sac"
+    },
+    {
+        "origin": "Ibam",
+        "destiny": "Ibm"
+    },
+    {
+        "origin": "Ibm Del Peru",
+        "destiny": "Ibm Del Peru S.A.C."
+    },
+    {
+        "origin": "Ibm Del Peru",
+        "destiny": "Ibm Del Peru Sac"
+    },
+    {
+        "origin": "Ibm Del Peru",
+        "destiny": "Ibm Del Peru Sac."
+    },
+    {
+        "origin": "Ibm Del Peru S.A.C.",
+        "destiny": "Ibm Del Peru Sac"
+    },
+    {
+        "origin": "Ibm Del Peru S.A.C.",
+        "destiny": "Ibm Del Peru Sac."
+    },
+    {
+        "origin": "Ibm Del Peru S.A.C.",
+        "destiny": "Msl Del Peru S.A.C."
+    },
+    {
+        "origin": "Ibm Del Peru S.A.C.",
+        "destiny": "Sgs Del Peru S.A.C"
+    },
+    {
+        "origin": "Ibm Del Peru Sac",
+        "destiny": "Ibm Del Peru Sac."
+    },
+    {
+        "origin": "Ibm Peru",
+        "destiny": "Ibm_Peru"
+    },
+    {
+        "origin": "Ibtgroup",
+        "destiny": "Itgroup"
+    },
+    {
+        "origin": "Ice Solutions",
+        "destiny": "Ide Solution"
+    },
+    {
+        "origin": "Ice Solutions",
+        "destiny": "Itg Solutions"
+    },
+    {
+        "origin": "Ice Solutions",
+        "destiny": "Key Solutions"
+    },
+    {
+        "origin": "Ice Solutions",
+        "destiny": "Leira Solutions"
+    },
+    {
+        "origin": "Ice Solutions",
+        "destiny": "T-Id Solutions"
+    },
+    {
+        "origin": "Ice Solutions",
+        "destiny": "Tech Solutions"
+    },
+    {
+        "origin": "Ide Solution",
+        "destiny": "Itg Solutions"
+    },
+    {
+        "origin": "Ide Solution",
+        "destiny": "Key Solutions"
+    },
+    {
+        "origin": "Ide Solution",
+        "destiny": "T-Id Solutions"
+    },
+    {
+        "origin": "Ids Consulting",
+        "destiny": "Rsk Consulting"
+    },
+    {
+        "origin": "Ids Latam",
+        "destiny": "Redbus Latam"
+    },
+    {
+        "origin": "Indra",
+        "destiny": "Indra S.A"
+    },
+    {
+        "origin": "Indra Peru",
+        "destiny": "Indra Peru S.A."
+    },
+    {
+        "origin": "Indra Peru",
+        "destiny": "Indra Peru Sac"
+    },
+    {
+        "origin": "Indra Peru S.A.",
+        "destiny": "Indra Peru Sac"
+    },
+    {
+        "origin": "Indra Peru S.A.",
+        "destiny": "Indra S.A"
+    },
+    {
+        "origin": "Industrias Dq",
+        "destiny": "Industrias Teal"
+    },
+    {
+        "origin": "Industrias Sadare S.A.C",
+        "destiny": "Industrias Triveca S.A.C"
+    },
+    {
+        "origin": "Inetum",
+        "destiny": "Inetum Sac"
+    },
+    {
+        "origin": "Informatica Delta",
+        "destiny": "Informatica Delta / Ripley S.A"
+    },
+    {
+        "origin": "Informatica Delta",
+        "destiny": "Informatica Delta Sac"
+    },
+    {
+        "origin": "Ingram Micro",
+        "destiny": "Ingram Micro S.A.C."
+    },
+    {
+        "origin": "Innova Pucp",
+        "destiny": "Innovapucp"
+    },
+    {
+        "origin": "Innovarit",
+        "destiny": "Inovati"
+    },
+    {
+        "origin": "Inpe",
+        "destiny": "Inpelsa"
+    },
+    {
+        "origin": "Instituto Cibertec",
+        "destiny": "Instituto Libertador"
+    },
+    {
+        "origin": "Instituto Cimas",
+        "destiny": "Instituto Superior Cimas"
+    },
+    {
+        "origin": "Instituto Nacional De Calidad",
+        "destiny": "Instituto Nacional De Oftalmologia"
+    },
+    {
+        "origin": "Instituto Nacional De Estadistica (Ine)",
+        "destiny": "Instituto Nacional De Estadistica E Informatica"
+    },
+    {
+        "origin": "Instituto Superior Cimas",
+        "destiny": "Instituto Superior Sise"
+    },
+    {
+        "origin": "Instituto Superior Cimas",
+        "destiny": "Instituto Superior Tecsup"
+    },
+    {
+        "origin": "Instituto Superior Sise",
+        "destiny": "Instituto Superior Tecsup"
+    },
+    {
+        "origin": "Intech Sa",
+        "destiny": "Interoc Sa"
+    },
+    {
+        "origin": "Integrator S.A.C.",
+        "destiny": "Integrator Sac"
+    },
+    {
+        "origin": "Intelec",
+        "destiny": "Intelica"
+    },
+    {
+        "origin": "Intelica",
+        "destiny": "Intelica Corp"
+    },
+    {
+        "origin": "Intelica",
+        "destiny": "Intelidata"
+    },
+    {
+        "origin": "Intercorp Retail",
+        "destiny": "Intercorpretail"
+    },
+    {
+        "origin": "Interfono Sac",
+        "destiny": "Interoc Sa"
+    },
+    {
+        "origin": "Interseguro",
+        "destiny": "Interseguros"
+    },
+    {
+        "origin": "Inventory Group Sac",
+        "destiny": "Recovery Group Sac"
+    },
+    {
+        "origin": "Inversiones Karmont S.A.C.",
+        "destiny": "Inversiones Kayser S.A.C"
+    },
+    {
+        "origin": "Inversiones Lamariel Sac",
+        "destiny": "Inversiones Luteda Sac"
+    },
+    {
+        "origin": "Inversiones Luteda Sac",
+        "destiny": "Inversiones Rentables Sac"
+    },
+    {
+        "origin": "Ipg Mediabrands",
+        "destiny": "Mediabrands"
+    },
+    {
+        "origin": "Iq Project",
+        "destiny": "Iq Project Sac"
+    },
+    {
+        "origin": "Iq Project",
+        "destiny": "Iqproject"
+    },
+    {
+        "origin": "Isystems Sac",
+        "destiny": "Qsystem Sac"
+    },
+    {
+        "origin": "It Consulting Corporation",
+        "destiny": "It Consulting Corporation Sac"
+    },
+    {
+        "origin": "Italtel",
+        "destiny": "Italtel Peru"
+    },
+    {
+        "origin": "Itg Solutions",
+        "destiny": "Itg Solutions S.A.C"
+    },
+    {
+        "origin": "Itg Solutions",
+        "destiny": "Itg Solutions Sac"
+    },
+    {
+        "origin": "Itg Solutions",
+        "destiny": "T-Id Solutions"
+    },
+    {
+        "origin": "Itg Solutions",
+        "destiny": "Target Solutions"
+    },
+    {
+        "origin": "Itg Solutions S.A.C",
+        "destiny": "Itg Solutions Sac"
+    },
+    {
+        "origin": "Jfb Servicios Generales S.A.C.",
+        "destiny": "Tac Servicios Generales S.A.C."
+    },
+    {
+        "origin": "Jutmay Inversiones S.A.C.",
+        "destiny": "Wych Inversiones S.A.C"
+    },
+    {
+        "origin": "Kaits Consulting",
+        "destiny": "Kaits Consulting Sac"
+    },
+    {
+        "origin": "Kaits Consulting",
+        "destiny": "Zat Consulting"
+    },
+    {
+        "origin": "Kallpa Generacion",
+        "destiny": "Kallpa Generacion S.A"
+    },
+    {
+        "origin": "Key Solutions",
+        "destiny": "Leira Solutions"
+    },
+    {
+        "origin": "Key Solutions",
+        "destiny": "Tech Solutions"
+    },
+    {
+        "origin": "Komatsu - Mitsui",
+        "destiny": "Komatsu - Mitsui Maquinarias"
+    },
+    {
+        "origin": "Komatsu - Mitsui",
+        "destiny": "Komatsu Mitsui"
+    },
+    {
+        "origin": "Konecta",
+        "destiny": "Konecta Bpo"
+    },
+    {
+        "origin": "Konecta",
+        "destiny": "Konecta Bto"
+    },
+    {
+        "origin": "Konecta",
+        "destiny": "Konecta Peru"
+    },
+    {
+        "origin": "Konecta Bpo",
+        "destiny": "Konecta Bto"
+    },
+    {
+        "origin": "Kunaq & Asociados",
+        "destiny": "Kunaq &Amp; Asociados"
+    },
+    {
+        "origin": "La Positiva",
+        "destiny": "La Positiva Seguros"
+    },
+    {
+        "origin": "La Positiva Seguros",
+        "destiny": "La Positiva Seguros Y Reaseguros"
+    },
+    {
+        "origin": "Laboratoria",
+        "destiny": "Laboratorios Auna"
+    },
+    {
+        "origin": "Laboratoria",
+        "destiny": "Laboratorios Precisa"
+    },
+    {
+        "origin": "Laboratoria",
+        "destiny": "Laboratorios Qualab"
+    },
+    {
+        "origin": "Laboratoria",
+        "destiny": "Laboratorios Smasac"
+    },
+    {
+        "origin": "Laboratorios Ac Farma S.A.",
+        "destiny": "Laboratorios Frada S.A.C"
+    },
+    {
+        "origin": "Laboratorios Auna",
+        "destiny": "Laboratorios Qualab"
+    },
+    {
+        "origin": "Laboratorios Auna",
+        "destiny": "Laboratorios Smasac"
+    },
+    {
+        "origin": "Laboratorios Precisa",
+        "destiny": "Laboratorios Smasac"
+    },
+    {
+        "origin": "Laboratorios Qualab",
+        "destiny": "Laboratorios Smasac"
+    },
+    {
+        "origin": "Laive",
+        "destiny": "Laive S.A"
+    },
+    {
+        "origin": "Lc Group Sac",
+        "destiny": "Leading Group Sac"
+    },
+    {
+        "origin": "Le Cordon Bleu",
+        "destiny": "Le Cordon Bleu Peru"
+    },
+    {
+        "origin": "Levapan Del Peru Sac",
+        "destiny": "Loterias Del Peru Sac"
+    },
+    {
+        "origin": "Lima Caucho S.A",
+        "destiny": "Lima Caucho S.A."
+    },
+    {
+        "origin": "Los Portales",
+        "destiny": "Los Portales S.A."
+    },
+    {
+        "origin": "Los Portales",
+        "destiny": "Los Portales Sa"
+    },
+    {
+        "origin": "Los Portales S.A.",
+        "destiny": "Los Portales Sa"
+    },
+    {
+        "origin": "Lucha Partners",
+        "destiny": "Lucha Partners S.A.C"
+    },
+    {
+        "origin": "Lumingo (Grupo El Comercio)",
+        "destiny": "Lumingo - Grupo El Comercio"
+    },
+    {
+        "origin": "Luz Del Sur",
+        "destiny": "Luz Del Sur S.A.A"
+    },
+    {
+        "origin": "Luz Del Sur",
+        "destiny": "Luz Del Sur S.A.A."
+    },
+    {
+        "origin": "Luz Del Sur S.A.A",
+        "destiny": "Luz Del Sur S.A.A."
+    },
+    {
+        "origin": "Mab Peru",
+        "destiny": "Maim Peru"
+    },
+    {
+        "origin": "Machen Peru S.A.C.",
+        "destiny": "Tesacom Peru S.A.C."
+    },
+    {
+        "origin": "Maim Peru",
+        "destiny": "Sima Peru"
+    },
+    {
+        "origin": "Maim Peru",
+        "destiny": "Wim Peru"
+    },
+    {
+        "origin": "Manpower",
+        "destiny": "Manpower Peru"
+    },
+    {
+        "origin": "Manpower",
+        "destiny": "Manpowergroup"
+    },
+    {
+        "origin": "Manpower Peru",
+        "destiny": "Mapfre Peru"
+    },
+    {
+        "origin": "Manpower Professional",
+        "destiny": "Manpower Professional Services"
+    },
+    {
+        "origin": "Manpower Professional",
+        "destiny": "Manpower Professional Services S.A."
+    },
+    {
+        "origin": "Manpower Professional Services",
+        "destiny": "Manpower Professional Services S.A."
+    },
+    {
+        "origin": "Manpower- Experis",
+        "destiny": "Manpowergroup - Experis"
+    },
+    {
+        "origin": "Manpowergropup Peru",
+        "destiny": "Manpowergroup"
+    },
+    {
+        "origin": "Manpowergroup",
+        "destiny": "Manpowergroup - Experis"
+    },
+    {
+        "origin": "Mapfre Peru",
+        "destiny": "Mapfre Peru Vida"
+    },
+    {
+        "origin": "Mas Soluciones Corredores De Seguros",
+        "destiny": "Mas Soluciones Corredores De Seguros S.A.C."
+    },
+    {
+        "origin": "Materia Gris",
+        "destiny": "Materia Gris Sac"
+    },
+    {
+        "origin": "Mcg",
+        "destiny": "Mcgc"
+    },
+    {
+        "origin": "Mdp Consulting",
+        "destiny": "Mdp Consulting S.A"
+    },
+    {
+        "origin": "Mdp Consulting",
+        "destiny": "Mdp Consulting S.A.C"
+    },
+    {
+        "origin": "Mdp Consulting",
+        "destiny": "Mdp Consulting S.A.C."
+    },
+    {
+        "origin": "Mdp Consulting",
+        "destiny": "Mdp Consulting Sac"
+    },
+    {
+        "origin": "Mdp Consulting",
+        "destiny": "Ti Consulting"
+    },
+    {
+        "origin": "Mdp Consulting",
+        "destiny": "Zat Consulting"
+    },
+    {
+        "origin": "Mdp Consulting S.A",
+        "destiny": "Mdp Consulting S.A.C"
+    },
+    {
+        "origin": "Mdp Consulting S.A",
+        "destiny": "Mdp Consulting S.A.C."
+    },
+    {
+        "origin": "Mdp Consulting S.A",
+        "destiny": "Mdp Consulting Sac"
+    },
+    {
+        "origin": "Mdp Consulting S.A.C",
+        "destiny": "Mdp Consulting S.A.C."
+    },
+    {
+        "origin": "Mdp Consulting S.A.C",
+        "destiny": "Mdp Consulting Sac"
+    },
+    {
+        "origin": "Mdp Consulting S.A.C",
+        "destiny": "Tawa Consulting S.A.C."
+    },
+    {
+        "origin": "Mdp Consulting S.A.C.",
+        "destiny": "Mdp Consulting Sac"
+    },
+    {
+        "origin": "Mdp Consulting S.A.C.",
+        "destiny": "Tawa Consulting S.A.C."
+    },
+    {
+        "origin": "Mdp Consulting Sac",
+        "destiny": "Tawa Consulting Sac."
+    },
+    {
+        "origin": "Media Network",
+        "destiny": "Media Networks"
+    },
+    {
+        "origin": "Media Networks",
+        "destiny": "Mego Networks"
+    },
+    {
+        "origin": "Mediabyte",
+        "destiny": "Mediabyte S.A.C"
+    },
+    {
+        "origin": "Mediabyte",
+        "destiny": "Mediabyte Sac"
+    },
+    {
+        "origin": "Mediabyte S.A.C",
+        "destiny": "Mediabyte Sac"
+    },
+    {
+        "origin": "Mi Banco",
+        "destiny": "Mibanco"
+    },
+    {
+        "origin": "Michael Page",
+        "destiny": "Michael Page Para Abb"
+    },
+    {
+        "origin": "Millenials Med",
+        "destiny": "Millennials Med"
+    },
+    {
+        "origin": "Millennial",
+        "destiny": "Millennials Med"
+    },
+    {
+        "origin": "Mincetur",
+        "destiny": "Mincetur S.A."
+    },
+    {
+        "origin": "Mincetur S.A.",
+        "destiny": "Mistr S.A."
+    },
+    {
+        "origin": "Ministerio De Desarrollo E Inclusion Social",
+        "destiny": "Ministerio De Desarrollo E Inclusion Social - Pn Pais"
+    },
+    {
+        "origin": "Ministerio De Educacion",
+        "destiny": "Ministerio De Salud"
+    },
+    {
+        "origin": "Ministerio De La Mujer",
+        "destiny": "Ministerio De Salud"
+    },
+    {
+        "origin": "Ministerio De Salud",
+        "destiny": "Ministerio De Salud Del Peru"
+    },
+    {
+        "origin": "Ministerio De Trabajo",
+        "destiny": "Ministerio Del Trabajo"
+    },
+    {
+        "origin": "Ministerio De Transporte Y Comunicaciones",
+        "destiny": "Ministerio De Transporte Y Telecomunicaciones"
+    },
+    {
+        "origin": "Ministerio De Transporte Y Comunicaciones",
+        "destiny": "Ministerio De Trnasporte Y Comunicaciones"
+    },
+    {
+        "origin": "Ministerio De Transporte Y Telecomunicaciones",
+        "destiny": "Ministerio De Trnasporte Y Comunicaciones"
+    },
+    {
+        "origin": "Ministerio De Vivienda Construccion Y Saneamiento",
+        "destiny": "Ministerio De Vivienda, Construccion Y Saneamiento"
+    },
+    {
+        "origin": "Ministerio Produccion",
+        "destiny": "Ministerio Publico"
+    },
+    {
+        "origin": "Mision Tecnologica Canal Hp",
+        "destiny": "Mision Tecnologica Sac"
+    },
+    {
+        "origin": "Mobil Bus",
+        "destiny": "Movil Bus."
+    },
+    {
+        "origin": "Msl Del Peru S.A.C.",
+        "destiny": "Sgs Del Peru S.A.C"
+    },
+    {
+        "origin": "Mtc Servicios Generales",
+        "destiny": "Tac Servicios Generales S.A.C."
+    },
+    {
+        "origin": "Municialidad Metropolitana De Lima",
+        "destiny": "Municipalidad Metropolitana De Lima"
+    },
+    {
+        "origin": "Municipalidad De Bellavista",
+        "destiny": "Municipalidad De Lima"
+    },
+    {
+        "origin": "Municipalidad De Carabayllo",
+        "destiny": "Municipalidad De Chanchamayo"
+    },
+    {
+        "origin": "Municipalidad De Carabayllo",
+        "destiny": "Municipalidad De Chorrillos"
+    },
+    {
+        "origin": "Municipalidad De La Molina",
+        "destiny": "Municipalidad De La Punta"
+    },
+    {
+        "origin": "Municipalidad De La Molina",
+        "destiny": "Municipalidad De Lima"
+    },
+    {
+        "origin": "Municipalidad De La Molina",
+        "destiny": "Municipalidad De San Isidro"
+    },
+    {
+        "origin": "Municipalidad De La Molina",
+        "destiny": "Municipalidad Metropolitana De Lima"
+    },
+    {
+        "origin": "Municipalidad De La Punta",
+        "destiny": "Municipalidad De Lima"
+    },
+    {
+        "origin": "Municipalidad De La Punta",
+        "destiny": "Municipalidad De Punta Hermosa"
+    },
+    {
+        "origin": "Municipalidad De La Punta",
+        "destiny": "Municipalidad Pucusana"
+    },
+    {
+        "origin": "Municipalidad De Lima",
+        "destiny": "Municipalidad De San Isidro"
+    },
+    {
+        "origin": "Municipalidad De San Isidro",
+        "destiny": "Municipalidad De San Martin De Porres"
+    },
+    {
+        "origin": "Municipalidad De San Isidro",
+        "destiny": "Municipalidad De San Sebastian"
+    },
+    {
+        "origin": "Municipalidad Distrital Caleta De Carquin",
+        "destiny": "Municipalidad Distrital De Bellavista"
+    },
+    {
+        "origin": "Municipalidad Distrital Caleta De Carquin",
+        "destiny": "Municipalidad Distrital De Chaclacayo"
+    },
+    {
+        "origin": "Municipalidad Distrital Caleta De Carquin",
+        "destiny": "Municipalidad Distrital De Miguel Checa"
+    },
+    {
+        "origin": "Municipalidad Distrital Caleta De Carquin",
+        "destiny": "Municipalidad Distrital De Nepena"
+    },
+    {
+        "origin": "Municipalidad Distrital Caleta De Carquin",
+        "destiny": "Municipalidad Distrital De Paracas"
+    },
+    {
+        "origin": "Municipalidad Distrital Caleta De Carquin",
+        "destiny": "Municipalidad Distrital De Ventanilla"
+    },
+    {
+        "origin": "Municipalidad Distrital De Bellavista",
+        "destiny": "Municipalidad Distrital De Chaclacayo"
+    },
+    {
+        "origin": "Municipalidad Distrital De Bellavista",
+        "destiny": "Municipalidad Distrital De Comas"
+    },
+    {
+        "origin": "Municipalidad Distrital De Bellavista",
+        "destiny": "Municipalidad Distrital De Huanchaco"
+    },
+    {
+        "origin": "Municipalidad Distrital De Bellavista",
+        "destiny": "Municipalidad Distrital De Miguel Checa"
+    },
+    {
+        "origin": "Municipalidad Distrital De Bellavista",
+        "destiny": "Municipalidad Distrital De Nepena"
+    },
+    {
+        "origin": "Municipalidad Distrital De Bellavista",
+        "destiny": "Municipalidad Distrital De Pachacamac"
+    },
+    {
+        "origin": "Municipalidad Distrital De Bellavista",
+        "destiny": "Municipalidad Distrital De Paracas"
+    },
+    {
+        "origin": "Municipalidad Distrital De Bellavista",
+        "destiny": "Municipalidad Distrital De Ventanilla"
+    },
+    {
+        "origin": "Municipalidad Distrital De Bellavista",
+        "destiny": "Municipalidad Distritial De Bellavista"
+    },
+    {
+        "origin": "Municipalidad Distrital De Carmen De La Legua",
+        "destiny": "Municipalidad Distrital De Comas"
+    },
+    {
+        "origin": "Municipalidad Distrital De Carmen De La Legua",
+        "destiny": "Municipalidad Distrital De Miguel Checa"
+    },
+    {
+        "origin": "Municipalidad Distrital De Carmen De La Legua",
+        "destiny": "Municipalidad Distrital De Nepena"
+    },
+    {
+        "origin": "Municipalidad Distrital De Carmen De La Legua",
+        "destiny": "Municipalidad Distrital De Paracas"
+    },
+    {
+        "origin": "Municipalidad Distrital De Chaclacayo",
+        "destiny": "Municipalidad Distrital De Comas"
+    },
+    {
+        "origin": "Municipalidad Distrital De Chaclacayo",
+        "destiny": "Municipalidad Distrital De Huanchaco"
+    },
+    {
+        "origin": "Municipalidad Distrital De Chaclacayo",
+        "destiny": "Municipalidad Distrital De Miguel Checa"
+    },
+    {
+        "origin": "Municipalidad Distrital De Chaclacayo",
+        "destiny": "Municipalidad Distrital De Nepena"
+    },
+    {
+        "origin": "Municipalidad Distrital De Chaclacayo",
+        "destiny": "Municipalidad Distrital De Pachacamac"
+    },
+    {
+        "origin": "Municipalidad Distrital De Chaclacayo",
+        "destiny": "Municipalidad Distrital De Paracas"
+    },
+    {
+        "origin": "Municipalidad Distrital De Chaclacayo",
+        "destiny": "Municipalidad Distrital De Ventanilla"
+    },
+    {
+        "origin": "Municipalidad Distrital De Chaclacayo",
+        "destiny": "Municipalidad Distritial De Bellavista"
+    },
+    {
+        "origin": "Municipalidad Distrital De Comas",
+        "destiny": "Municipalidad Distrital De Huanchaco"
+    },
+    {
+        "origin": "Municipalidad Distrital De Comas",
+        "destiny": "Municipalidad Distrital De Miguel Checa"
+    },
+    {
+        "origin": "Municipalidad Distrital De Comas",
+        "destiny": "Municipalidad Distrital De Nepena"
+    },
+    {
+        "origin": "Municipalidad Distrital De Comas",
+        "destiny": "Municipalidad Distrital De Pachacamac"
+    },
+    {
+        "origin": "Municipalidad Distrital De Comas",
+        "destiny": "Municipalidad Distrital De Paracas"
+    },
+    {
+        "origin": "Municipalidad Distrital De Comas",
+        "destiny": "Municipalidad Distrital De Ventanilla"
+    },
+    {
+        "origin": "Municipalidad Distrital De Comas",
+        "destiny": "Municipalidad Distritial De Bellavista"
+    },
+    {
+        "origin": "Municipalidad Distrital De Huanchaco",
+        "destiny": "Municipalidad Distrital De Miguel Checa"
+    },
+    {
+        "origin": "Municipalidad Distrital De Huanchaco",
+        "destiny": "Municipalidad Distrital De Nepena"
+    },
+    {
+        "origin": "Municipalidad Distrital De Huanchaco",
+        "destiny": "Municipalidad Distrital De Pachacamac"
+    },
+    {
+        "origin": "Municipalidad Distrital De Huanchaco",
+        "destiny": "Municipalidad Distrital De Paracas"
+    },
+    {
+        "origin": "Municipalidad Distrital De Huanchaco",
+        "destiny": "Municipalidad Distrital De Ventanilla"
+    },
+    {
+        "origin": "Municipalidad Distrital De Huanchaco",
+        "destiny": "Municipalidad Distritial De Bellavista"
+    },
+    {
+        "origin": "Municipalidad Distrital De Miguel Checa",
+        "destiny": "Municipalidad Distrital De Nepena"
+    },
+    {
+        "origin": "Municipalidad Distrital De Miguel Checa",
+        "destiny": "Municipalidad Distrital De Paracas"
+    },
+    {
+        "origin": "Municipalidad Distrital De Miguel Checa",
+        "destiny": "Municipalidad Distrital De Ventanilla"
+    },
+    {
+        "origin": "Municipalidad Distrital De Nepena",
+        "destiny": "Municipalidad Distrital De Pachacamac"
+    },
+    {
+        "origin": "Municipalidad Distrital De Nepena",
+        "destiny": "Municipalidad Distrital De Paracas"
+    },
+    {
+        "origin": "Municipalidad Distrital De Nepena",
+        "destiny": "Municipalidad Distrital De Ventanilla"
+    },
+    {
+        "origin": "Municipalidad Distrital De Nepena",
+        "destiny": "Municipalidad Distritial De Bellavista"
+    },
+    {
+        "origin": "Municipalidad Distrital De Pachacamac",
+        "destiny": "Municipalidad Distrital De Paracas"
+    },
+    {
+        "origin": "Municipalidad Distrital De Pachacamac",
+        "destiny": "Municipalidad Distrital De Ventanilla"
+    },
+    {
+        "origin": "Municipalidad Distrital De Paracas",
+        "destiny": "Municipalidad Distrital De Ventanilla"
+    },
+    {
+        "origin": "Municipalidad Distrital De Paracas",
+        "destiny": "Municipalidad Distritial De Bellavista"
+    },
+    {
+        "origin": "Municipalidad Distrital De Ventanilla",
+        "destiny": "Municipalidad Distritial De Bellavista"
+    },
+    {
+        "origin": "Municipalidad Provincial De Cajamarca",
+        "destiny": "Municipalidad Provincial De Chincheros"
+    },
+    {
+        "origin": "Municipalidad Provincial De Cajamarca",
+        "destiny": "Municipalidad Provincial De Huaraz"
+    },
+    {
+        "origin": "Municipalidad Provincial De Cajamarca",
+        "destiny": "Municipalidad Provincial Del Callao"
+    },
+    {
+        "origin": "Municipalidad Provincial De Chincheros",
+        "destiny": "Municipalidad Provincial De Huaraz"
+    },
+    {
+        "origin": "Municipalidad Provincial De Chincheros",
+        "destiny": "Municipalidad Provincial Del Callao"
+    },
+    {
+        "origin": "Municipalidad Provincial De Chincheros",
+        "destiny": "Municipalidad Provincial Jorge Basadre"
+    },
+    {
+        "origin": "Municipalidad Provincial De Huaraz",
+        "destiny": "Municipalidad Provincial Del Callao"
+    },
+    {
+        "origin": "Municipalidad Provincial De Huaraz",
+        "destiny": "Municipalidad Provincial Jorge Basadre"
+    },
+    {
+        "origin": "Municipalidad Provincial Del Callao",
+        "destiny": "Municipalidad Provincial Jorge Basadre"
+    },
+    {
+        "origin": "Nearshore Peru S.A.C.",
+        "destiny": "Neoris Peru S.A.C."
+    },
+    {
+        "origin": "New Control",
+        "destiny": "Web Control"
+    },
+    {
+        "origin": "New Digital Partners",
+        "destiny": "New Digital Partners S.A.C."
+    },
+    {
+        "origin": "Noatum Logistics Peru Inc. S.R.L - Sede Latam",
+        "destiny": "Noatum Logistics Peru Inc. S.R.L."
+    },
+    {
+        "origin": "Novopan Peru Sac",
+        "destiny": "Soaint Peru Sac"
+    },
+    {
+        "origin": "Ntt Data",
+        "destiny": "Ntt Data Sac"
+    },
+    {
+        "origin": "Ntt Data",
+        "destiny": "Ntt Data- Peru"
+    },
+    {
+        "origin": "Ntt Data",
+        "destiny": "Nttdata"
+    },
+    {
+        "origin": "Ntt Data Peru S.A.C.",
+        "destiny": "Ntt Data Peru, S.A.C."
+    },
+    {
+        "origin": "Ntt Data Peru S.A.C.",
+        "destiny": "Ntt Data- Peru"
+    },
+    {
+        "origin": "Ntt Data Peru S.A.C.",
+        "destiny": "Nttdata Peru S.A.C"
+    },
+    {
+        "origin": "Nttdata",
+        "destiny": "Nttdata Peru"
+    },
+    {
+        "origin": "Nttdata Peru",
+        "destiny": "Nttdata Peru S.A.C"
+    },
+    {
+        "origin": "Nuovo Profil",
+        "destiny": "Nuovo Profil S.A.C"
+    },
+    {
+        "origin": "Oceano Consulting Sac",
+        "destiny": "Tns Consulting Sac"
+    },
+    {
+        "origin": "Oficina Nacional De Procesos Electorales",
+        "destiny": "Oficina Nacional De Procesos Electorales (Onpe)"
+    },
+    {
+        "origin": "Oficina Nacional De Procesos Electorales",
+        "destiny": "Oficina Nacional De Procesos Electorales - Onpe"
+    },
+    {
+        "origin": "Oficina Nacional De Procesos Electorales",
+        "destiny": "Oficina Nacional De Procesos Electorales - Ref2018"
+    },
+    {
+        "origin": "Oficina Nacional De Procesos Electorales (Onpe)",
+        "destiny": "Oficina Nacional De Procesos Electorales - Onpe"
+    },
+    {
+        "origin": "Oficina Nacional De Procesos Electorales (Onpe)",
+        "destiny": "Oficina Nacional De Procesos Electorales - Ref2018"
+    },
+    {
+        "origin": "Oficina Nacional De Procesos Electorales - Onpe",
+        "destiny": "Oficina Nacional De Procesos Electorales - Ref2018"
+    },
+    {
+        "origin": "Onp",
+        "destiny": "Onpe"
+    },
+    {
+        "origin": "Optical Network",
+        "destiny": "Optical Network (Win)"
+    },
+    {
+        "origin": "Optical Network",
+        "destiny": "Optical Networks"
+    },
+    {
+        "origin": "Optical Network (Win)",
+        "destiny": "Optical Networks"
+    },
+    {
+        "origin": "Overall Business",
+        "destiny": "Overall Business S.A."
+    },
+    {
+        "origin": "Overall Strategy",
+        "destiny": "Overall Strategy Sac"
+    },
+    {
+        "origin": "Pacifico Seguros",
+        "destiny": "Pacifico Seguros Y Reaseguros"
+    },
+    {
+        "origin": "Pacifico Seguros",
+        "destiny": "Pacificos Seguros"
+    },
+    {
+        "origin": "Page Consulting",
+        "destiny": "Page Consulting - Ibm"
+    },
+    {
+        "origin": "Page Consulting",
+        "destiny": "Pradera Consulting"
+    },
+    {
+        "origin": "Page Consulting",
+        "destiny": "Tawa Consulting"
+    },
+    {
+        "origin": "Page Consulting",
+        "destiny": "Ti Consulting"
+    },
+    {
+        "origin": "Page Consulting",
+        "destiny": "Zat Consulting"
+    },
+    {
+        "origin": "Peru Apps",
+        "destiny": "Peruapps"
+    },
+    {
+        "origin": "Peruana De Moldeados S.A.",
+        "destiny": "Peruana De Moldeados S.A. (Pamolsa)"
+    },
+    {
+        "origin": "Petroperu",
+        "destiny": "Petroperu S.A."
+    },
+    {
+        "origin": "Petroperu",
+        "destiny": "Promperu"
+    },
+    {
+        "origin": "Pex Peru",
+        "destiny": "Place Peru"
+    },
+    {
+        "origin": "Pex Peru",
+        "destiny": "Refax Peru"
+    },
+    {
+        "origin": "Phc Software",
+        "destiny": "Phc Software Peru Sac"
+    },
+    {
+        "origin": "Pil Peru Sac",
+        "destiny": "Pss Peru Sac"
+    },
+    {
+        "origin": "Platino 24 7",
+        "destiny": "Platino247"
+    },
+    {
+        "origin": "Playwith Latin America",
+        "destiny": "Playwith Latin America Sac"
+    },
+    {
+        "origin": "Poder Judicial",
+        "destiny": "Poder Judicial Del Peru"
+    },
+    {
+        "origin": "Policia Nacional Del Peru",
+        "destiny": "Policia Nacional Del Peru Dirandro"
+    },
+    {
+        "origin": "Practia Consulting",
+        "destiny": "Practia Consulting S.A.C"
+    },
+    {
+        "origin": "Practia Consulting",
+        "destiny": "Pradera Consulting"
+    },
+    {
+        "origin": "Pradera Consulting",
+        "destiny": "Tawa Consulting"
+    },
+    {
+        "origin": "Presidencia De Consejo De Ministros",
+        "destiny": "Presidencia De Consejo De Ministros -Pcm"
+    },
+    {
+        "origin": "Primax Peru",
+        "destiny": "Sima Peru"
+    },
+    {
+        "origin": "Procesos De Medios De Pago",
+        "destiny": "Procesos De Medios De Pago S.A. - Izipay"
+    },
+    {
+        "origin": "Procesos De Medios De Pago",
+        "destiny": "Procesos De Medios De Pago S.A.C - Izipay"
+    },
+    {
+        "origin": "Procesos De Medios De Pago S.A. - Izipay",
+        "destiny": "Procesos De Medios De Pago S.A.C - Izipay"
+    },
+    {
+        "origin": "Prodac",
+        "destiny": "Prodac Sa"
+    },
+    {
+        "origin": "Programa Nacional De Centros Juveniles",
+        "destiny": "Programa Nacional De Centros Juveniles Pronaseg"
+    },
+    {
+        "origin": "Prosegur",
+        "destiny": "Proseguridar"
+    },
+    {
+        "origin": "Prosegur Tecnologia",
+        "destiny": "Prosegur Tecnologia S.A."
+    },
+    {
+        "origin": "Protecso",
+        "destiny": "Proyectos"
+    },
+    {
+        "origin": "Protiviti",
+        "destiny": "Protiviti Peru"
+    },
+    {
+        "origin": "Protiviti Member Firm",
+        "destiny": "Protiviti Member Firme Peru Sac"
+    },
+    {
+        "origin": "Proyecto Personal",
+        "destiny": "Proyectos Ti - Personales"
+    },
+    {
+        "origin": "Pss Peru S.A.C.",
+        "destiny": "Pss S.A.C."
+    },
+    {
+        "origin": "Qds - Group",
+        "destiny": "Qds Group"
+    },
+    {
+        "origin": "Qsystem",
+        "destiny": "Qsystem Sac"
+    },
+    {
+        "origin": "Quimicos Goicochea S.A.C",
+        "destiny": "Quimicos Goicochea S.A.C."
+    },
+    {
+        "origin": "R&Amp;C Asesores Sac",
+        "destiny": "R&C Asesores Sac"
+    },
+    {
+        "origin": "Real Systems",
+        "destiny": "Real Systems S.A"
+    },
+    {
+        "origin": "Real Systems",
+        "destiny": "Real Systems S.A."
+    },
+    {
+        "origin": "Real Systems",
+        "destiny": "Real Systems Sa"
+    },
+    {
+        "origin": "Real Systems",
+        "destiny": "Royal Systems"
+    },
+    {
+        "origin": "Real Systems S.A",
+        "destiny": "Real Systems S.A."
+    },
+    {
+        "origin": "Real Systems S.A",
+        "destiny": "Real Systems Sa"
+    },
+    {
+        "origin": "Real Systems S.A.",
+        "destiny": "Real Systems Sa"
+    },
+    {
+        "origin": "Renzo Costa",
+        "destiny": "Renzo Costa Sac"
+    },
+    {
+        "origin": "Reparto Peru S.A.C",
+        "destiny": "Sonepar Peru S.A.C"
+    },
+    {
+        "origin": "Representaciones Rodul S.A.C.",
+        "destiny": "Representaciones Techlab S.A.C"
+    },
+    {
+        "origin": "Repsol",
+        "destiny": "Repsol Sa"
+    },
+    {
+        "origin": "Ripley",
+        "destiny": "Ripley S.A"
+    },
+    {
+        "origin": "Roldem Peru S.A.C.",
+        "destiny": "Sodexo Peru S.A.C."
+    },
+    {
+        "origin": "Roldem Peru S.A.C.",
+        "destiny": "Tesacom Peru S.A.C."
+    },
+    {
+        "origin": "Rx Tecompany",
+        "destiny": "Rxtecompany"
+    },
+    {
+        "origin": "San Fernando",
+        "destiny": "San Fernando S.A."
+    },
+    {
+        "origin": "San Fernando",
+        "destiny": "San Fernando Sa"
+    },
+    {
+        "origin": "San Fernando",
+        "destiny": "San Gerardo"
+    },
+    {
+        "origin": "San Fernando S.A.",
+        "destiny": "San Fernando Sa"
+    },
+    {
+        "origin": "Sanilab International",
+        "destiny": "Yanbal International"
+    },
+    {
+        "origin": "Santa Elena",
+        "destiny": "Santa Elena - Avinka"
+    },
+    {
+        "origin": "Sapia",
+        "destiny": "Sapia Sa"
+    },
+    {
+        "origin": "Satelital Telecomunicaciones",
+        "destiny": "Satelital Telecomunicaciones Sac"
+    },
+    {
+        "origin": "Scotiabank",
+        "destiny": "Scotiabank Peru"
+    },
+    {
+        "origin": "Scotiabank Del Peru",
+        "destiny": "Scotiabank Peru"
+    },
+    {
+        "origin": "Scotiabank Peru",
+        "destiny": "Scotiabank Peru S.A.A."
+    },
+    {
+        "origin": "Securitas S.A.C.",
+        "destiny": "Segursat S.A.C"
+    },
+    {
+        "origin": "Securitas S.A.C.",
+        "destiny": "Seratic S.A.C"
+    },
+    {
+        "origin": "Segursat S.A.C",
+        "destiny": "Seratic S.A.C"
+    },
+    {
+        "origin": "Servicio Call Center Entel Peru",
+        "destiny": "Servicios Call Center Del Peru"
+    },
+    {
+        "origin": "Servicios Call Center Del Peru",
+        "destiny": "Servicios De Call Center"
+    },
+    {
+        "origin": "Sgs Del Peru",
+        "destiny": "Sgs Del Peru S.A.C"
+    },
+    {
+        "origin": "Sgs Del Peru S.A.C",
+        "destiny": "Sonda Del Peru S.A"
+    },
+    {
+        "origin": "Sgs Del Peru S.A.C",
+        "destiny": "Sonda Del Peru S.A."
+    },
+    {
+        "origin": "Sima Peru",
+        "destiny": "Sodimac Peru"
+    },
+    {
+        "origin": "Sima Peru",
+        "destiny": "Wim Peru"
+    },
+    {
+        "origin": "Siscotec Peru S.A.C.",
+        "destiny": "Sodexo Peru S.A.C."
+    },
+    {
+        "origin": "Sispro Sac",
+        "destiny": "Soprin Sac"
+    },
+    {
+        "origin": "Sociedad Minera Corona",
+        "destiny": "Sociedad Minera Corona Sa"
+    },
+    {
+        "origin": "Sodexo Peru S.A.C.",
+        "destiny": "Sodexo Peru Sac"
+    },
+    {
+        "origin": "Sodimac",
+        "destiny": "Sodimac Peru"
+    },
+    {
+        "origin": "Software Enterprise Services",
+        "destiny": "Sofware Enterprise Services"
+    },
+    {
+        "origin": "Solgas S.A.",
+        "destiny": "Solla S.A"
+    },
+    {
+        "origin": "Soluciones Ha",
+        "destiny": "Soluciones M4G"
+    },
+    {
+        "origin": "Sonda Del Peru",
+        "destiny": "Sonda Del Peru S.A"
+    },
+    {
+        "origin": "Sonda Del Peru",
+        "destiny": "Sonda Del Peru S.A."
+    },
+    {
+        "origin": "Sonda Del Peru S.A",
+        "destiny": "Sonda Del Peru S.A."
+    },
+    {
+        "origin": "Sonepar Peru S.A.C",
+        "destiny": "Sonepar Peru Sa"
+    },
+    {
+        "origin": "St Computacion",
+        "destiny": "St Computacion S.A.C."
+    },
+    {
+        "origin": "Stefanini",
+        "destiny": "Stefanini Group"
+    },
+    {
+        "origin": "Stefanini",
+        "destiny": "Stefanini Peru"
+    },
+    {
+        "origin": "Stefanini Group",
+        "destiny": "Stefanini Peru"
+    },
+    {
+        "origin": "Suiza Lab",
+        "destiny": "Suizalab"
+    },
+    {
+        "origin": "Sunat",
+        "destiny": "Sungate"
+    },
+    {
+        "origin": "Super Mercados Peruanos",
+        "destiny": "Supermecados Peruanos"
+    },
+    {
+        "origin": "Super Mercados Peruanos",
+        "destiny": "Supermercados Peruanos"
+    },
+    {
+        "origin": "Superintendencia De Banca Y Seguros Afp",
+        "destiny": "Superintendencia De Banca, Seguros Y Afp"
+    },
+    {
+        "origin": "Superintendencia Nacional De Migraciones",
+        "destiny": "Superintendencia Nacional De Registros Publicos"
+    },
+    {
+        "origin": "Superintendencia Nacional De Migraciones",
+        "destiny": "Superintendencia Nacional De Servicios De Saneamiento"
+    },
+    {
+        "origin": "Supermecados Peruanos",
+        "destiny": "Supermercados Peruanos"
+    },
+    {
+        "origin": "Supermecados Peruanos",
+        "destiny": "Supermercados Peruanos S.A"
+    },
+    {
+        "origin": "Supermecados Peruanos",
+        "destiny": "Supermercados Peruanos Sa"
+    },
+    {
+        "origin": "Supermercados Peruanos",
+        "destiny": "Supermercados Peruanos S.A"
+    },
+    {
+        "origin": "Supermercados Peruanos",
+        "destiny": "Supermercados Peruanos Sa"
+    },
+    {
+        "origin": "Supermercados Peruanos",
+        "destiny": "Supermercados Peruanos, Plaza Vea"
+    },
+    {
+        "origin": "Supermercados Peruanos S.A",
+        "destiny": "Supermercados Peruanos Sa"
+    },
+    {
+        "origin": "Supermercados Peruanos S.A",
+        "destiny": "Supermercados Peruanos, Plaza Vea"
+    },
+    {
+        "origin": "Supermercados Peruanos Sa",
+        "destiny": "Supermercados Peruanos, Plaza Vea"
+    },
+    {
+        "origin": "System Support &Amp; Services",
+        "destiny": "System Support And Service"
+    },
+    {
+        "origin": "System Support &Amp; Services",
+        "destiny": "System Support&Amp;Service"
+    },
+    {
+        "origin": "System Support &Amp; Services",
+        "destiny": "Systems Support &Amp; Services S.A"
+    },
+    {
+        "origin": "System Support And Service",
+        "destiny": "System Support&Amp;Service"
+    },
+    {
+        "origin": "System Support And Service",
+        "destiny": "Systems Support &Amp; Services S.A"
+    },
+    {
+        "origin": "System Support&Amp;Service",
+        "destiny": "Systems Support &Amp; Services S.A"
+    },
+    {
+        "origin": "T-Gestiona",
+        "destiny": "Tgestiona"
+    },
+    {
+        "origin": "T-Id Solutions",
+        "destiny": "Tech Solutions"
+    },
+    {
+        "origin": "Tadcon",
+        "destiny": "Tradicion"
+    },
+    {
+        "origin": "Tai Loy",
+        "destiny": "Tai Loy S.A"
+    },
+    {
+        "origin": "Talma Servicios Aeroportuarios",
+        "destiny": "Talma Servicios Aeroportuarios S.A"
+    },
+    {
+        "origin": "Target Marketing",
+        "destiny": "Tellstar Marketing"
+    },
+    {
+        "origin": "Tata Consultacy Service",
+        "destiny": "Tata Consultancy Services"
+    },
+    {
+        "origin": "Tata Consultacy Service",
+        "destiny": "Tata Consultancy Services - Tcs"
+    },
+    {
+        "origin": "Tata Consultacy Service",
+        "destiny": "Tata Consulting Service"
+    },
+    {
+        "origin": "Tata Consultacy Service",
+        "destiny": "Tata Consulting Services"
+    },
+    {
+        "origin": "Tata Consultancy Services",
+        "destiny": "Tata Consultancy Services - Tcs"
+    },
+    {
+        "origin": "Tata Consultancy Services",
+        "destiny": "Tata Consulting Service"
+    },
+    {
+        "origin": "Tata Consultancy Services",
+        "destiny": "Tata Consulting Services"
+    },
+    {
+        "origin": "Tata Consultancy Services",
+        "destiny": "Tata Consulting Services / Bcp"
+    },
+    {
+        "origin": "Tata Consultancy Services - Tcs",
+        "destiny": "Tata Consulting Services"
+    },
+    {
+        "origin": "Tata Consulting Service",
+        "destiny": "Tata Consulting Services"
+    },
+    {
+        "origin": "Tata Consulting Service",
+        "destiny": "Tata Consulting Services / Bcp"
+    },
+    {
+        "origin": "Tata Consulting Services",
+        "destiny": "Tata Consulting Services / Bcp"
+    },
+    {
+        "origin": "Tawa Consulting",
+        "destiny": "Tawa Consulting S.A.C."
+    },
+    {
+        "origin": "Tawa Consulting",
+        "destiny": "Tawa Consulting Sac."
+    },
+    {
+        "origin": "Tawa Consulting",
+        "destiny": "Ti Consulting"
+    },
+    {
+        "origin": "Tawa Consulting",
+        "destiny": "Zat Consulting"
+    },
+    {
+        "origin": "Tawa Consulting S.A.C.",
+        "destiny": "Tawa Consulting Sac."
+    },
+    {
+        "origin": "Tcontakto",
+        "destiny": "Tcontakto Sac"
+    },
+    {
+        "origin": "Teamsoft",
+        "destiny": "Teamsoft Sac"
+    },
+    {
+        "origin": "Teamsoft",
+        "destiny": "Tsoft"
+    },
+    {
+        "origin": "Tec4",
+        "destiny": "Tec4Biz"
+    },
+    {
+        "origin": "Tech Mahindra",
+        "destiny": "Techmahindra"
+    },
+    {
+        "origin": "Tech Solutions",
+        "destiny": "Tech Solutions Peru"
+    },
+    {
+        "origin": "Techo Peru",
+        "destiny": "Touch Peru"
+    },
+    {
+        "origin": "Tecnicas Cp",
+        "destiny": "Tecnicas Cp Sac"
+    },
+    {
+        "origin": "Tecnologica De Alimentos S.A",
+        "destiny": "Tecnologica De Alimentos S.A."
+    },
+    {
+        "origin": "Tecsur S.A",
+        "destiny": "Tecsur S.A."
+    },
+    {
+        "origin": "Telefonica",
+        "destiny": "Telefonica S.A."
+    },
+    {
+        "origin": "Telefonica",
+        "destiny": "Telefonica Tech"
+    },
+    {
+        "origin": "Telefonica Del Peru",
+        "destiny": "Telefonica Del Peru - Tech"
+    },
+    {
+        "origin": "Telefonica Del Peru",
+        "destiny": "Telefonica Del Peru S.A.A."
+    },
+    {
+        "origin": "Telefonica Del Peru",
+        "destiny": "Telefonica Del Peru Saa"
+    },
+    {
+        "origin": "Telefonica Del Peru - Rio Pacifico S.A.C.",
+        "destiny": "Telefonica Del Peru S.A.A."
+    },
+    {
+        "origin": "Telefonica Del Peru - Tech",
+        "destiny": "Telefonica Del Peru Saa"
+    },
+    {
+        "origin": "Telefonica Del Peru S.A.A.",
+        "destiny": "Telefonica Del Peru Saa"
+    },
+    {
+        "origin": "Telefonica Del Peru S.A.A.",
+        "destiny": "Telefonica S.A."
+    },
+    {
+        "origin": "Telefonica Ingenieria De La Seguridad",
+        "destiny": "Telefonica Ingenieria De Seguridad"
+    },
+    {
+        "origin": "Telefonica Ingenieria De La Seguridad",
+        "destiny": "Telefonica Ingenieria De Seguridad - Tis"
+    },
+    {
+        "origin": "Telefonica Ingenieria De La Seguridad",
+        "destiny": "Telefonica Ingenieria De Seguridad S.A."
+    },
+    {
+        "origin": "Telefonica Ingenieria De Seguridad",
+        "destiny": "Telefonica Ingenieria De Seguridad - Tis"
+    },
+    {
+        "origin": "Telefonica Ingenieria De Seguridad",
+        "destiny": "Telefonica Ingenieria De Seguridad S.A."
+    },
+    {
+        "origin": "Telefonica Ingenieria De Seguridad - Tis",
+        "destiny": "Telefonica Ingenieria De Seguridad S.A."
+    },
+    {
+        "origin": "Textiles Camones",
+        "destiny": "Textiles Camones S.A."
+    },
+    {
+        "origin": "Textiles Camones",
+        "destiny": "Textiles Camones Sa"
+    },
+    {
+        "origin": "Textiles Camones S.A.",
+        "destiny": "Textiles Camones Sa"
+    },
+    {
+        "origin": "Tgestiona",
+        "destiny": "Tgestiona Sac"
+    },
+    {
+        "origin": "The Factory Hka",
+        "destiny": "The Factory Hka Peru"
+    },
+    {
+        "origin": "Ti Consulting",
+        "destiny": "Zat Consulting"
+    },
+    {
+        "origin": "Tiendas De Mejoramiento Del Hogar Sac",
+        "destiny": "Tiendas De Mejoramiento Del Hogar Sodimac"
+    },
+    {
+        "origin": "Tolouse Lautrec",
+        "destiny": "Toulouse Lautrec"
+    },
+    {
+        "origin": "Tomocorp",
+        "destiny": "Tomocorp Sac"
+    },
+    {
+        "origin": "Top Strategic Sac",
+        "destiny": "Topstrategic"
+    },
+    {
+        "origin": "Topestrategic",
+        "destiny": "Topstrategic"
+    },
+    {
+        "origin": "Tottus",
+        "destiny": "Tottus Sa"
+    },
+    {
+        "origin": "Transportes Edatur",
+        "destiny": "Transportes Grau Otros"
+    },
+    {
+        "origin": "Trazzo Iluminacion",
+        "destiny": "Trazzo Iluminacion Sac"
+    },
+    {
+        "origin": "Trupal S.A",
+        "destiny": "Trupal S.A."
+    },
+    {
+        "origin": "Ugel 03",
+        "destiny": "Ugel 05"
+    },
+    {
+        "origin": "Universidad Alas Peruanas",
+        "destiny": "Universidad Alas Peruanas Sa"
+    },
+    {
+        "origin": "Universidad Alas Peruanas",
+        "destiny": "Universidad De Piura"
+    },
+    {
+        "origin": "Universidad Cientifica Del Sur",
+        "destiny": "Universidad Cientifica Del Sur S.A.C"
+    },
+    {
+        "origin": "Universidad De Ciencias Aplicadas",
+        "destiny": "Universidad De Ciencias Aplicadas (Upc)"
+    },
+    {
+        "origin": "Universidad De Ciencias Aplicadas",
+        "destiny": "Universidad De Ciencias Y Humanidades"
+    },
+    {
+        "origin": "Universidad De Ciencias Aplicadas (Upc)",
+        "destiny": "Universidad Peruana De Ciencias Aplicadas(Upc)"
+    },
+    {
+        "origin": "Universidad De Lambayeque",
+        "destiny": "Universidad De Lima"
+    },
+    {
+        "origin": "Universidad De Las Americas",
+        "destiny": "Universidad De Lima"
+    },
+    {
+        "origin": "Universidad De Lima",
+        "destiny": "Universidad De Piura"
+    },
+    {
+        "origin": "Universidad De Piura",
+        "destiny": "Universidad Del Pacifico"
+    },
+    {
+        "origin": "Universidad De San Martin De Porres",
+        "destiny": "Universidad San Martin De Porres"
+    },
+    {
+        "origin": "Universidad Del Pacifico",
+        "destiny": "Universidad Pacifico"
+    },
+    {
+        "origin": "Universidad Esan",
+        "destiny": "Universidad Upc"
+    },
+    {
+        "origin": "Universidad Nacional Atonoma De Chota",
+        "destiny": "Universidad Nacional Autonoma De Chota"
+    },
+    {
+        "origin": "Universidad Nacional Atonoma De Chota",
+        "destiny": "Universidad Nacional Del Callao"
+    },
+    {
+        "origin": "Universidad Nacional Del Callao",
+        "destiny": "Universidad Nacional Federico Villarreal"
+    },
+    {
+        "origin": "Universidad Peruana De Ciencias Aplicadas",
+        "destiny": "Universidad Peruana De Ciencias Aplicadas (Upc)"
+    },
+    {
+        "origin": "Universidad Peruana De Ciencias Aplicadas",
+        "destiny": "Universidad Peruana De Ciencias Aplicadas - Upc"
+    },
+    {
+        "origin": "Universidad Peruana De Ciencias Aplicadas",
+        "destiny": "Universidad Peruana De Ciencias Aplicadas(Upc)"
+    },
+    {
+        "origin": "Universidad Peruana De Ciencias Aplicadas (Upc)",
+        "destiny": "Universidad Peruana De Ciencias Aplicadas - Upc"
+    },
+    {
+        "origin": "Universidad Peruana De Ciencias Aplicadas (Upc)",
+        "destiny": "Universidad Peruana De Ciencias Aplicadas(Upc)"
+    },
+    {
+        "origin": "Universidad Peruana De Ciencias Aplicadas - Upc",
+        "destiny": "Universidad Peruana De Ciencias Aplicadas(Upc)"
+    },
+    {
+        "origin": "Universidad Privada Del Norte",
+        "destiny": "Universidad Privada Del Norte Sac"
+    },
+    {
+        "origin": "Universidad Privada Del Norte",
+        "destiny": "Universidad Privada Norbert Wiener"
+    },
+    {
+        "origin": "Universidad Privada Del Norte",
+        "destiny": "Universidad Privada Norbet Wiener"
+    },
+    {
+        "origin": "Universidad Privada Norbert Wiener",
+        "destiny": "Universidad Privada Norbert Wiener S.A."
+    },
+    {
+        "origin": "Universidad Privada Norbert Wiener",
+        "destiny": "Universidad Privada Norbet Wiener"
+    },
+    {
+        "origin": "Universidad Privada Norbert Wiener S.A.",
+        "destiny": "Universidad Privada Norbet Wiener"
+    },
+    {
+        "origin": "Universidad San Ignacio De Loyola",
+        "destiny": "Universidad San Ignacio De Loyola - Usil"
+    },
+    {
+        "origin": "Universidad San Martin De Porres",
+        "destiny": "Universidad San Martin De Porres - Uva"
+    },
+    {
+        "origin": "Universidad Tecnologica Del Peru",
+        "destiny": "Universidad Tecnologica Del Peru S.A.C"
+    },
+    {
+        "origin": "Unmsm",
+        "destiny": "Unmsm Sum"
+    },
+    {
+        "origin": "Untels",
+        "destiny": "Utel"
+    },
+    {
+        "origin": "Valtx (Ex T-Gestiona)",
+        "destiny": "Valtx / Tgestiona"
+    },
+    {
+        "origin": "Vertiv",
+        "destiny": "Vertiv Co"
+    },
+    {
+        "origin": "Viettel Peru S.A.C",
+        "destiny": "Viettel Peru S.A.C."
+    },
+    {
+        "origin": "Viettel Peru S.A.C",
+        "destiny": "Viettel Peru S.A.C. | Bitel"
+    },
+    {
+        "origin": "Viettel Peru S.A.C",
+        "destiny": "Viettel Peru Sac"
+    },
+    {
+        "origin": "Viettel Peru S.A.C.",
+        "destiny": "Viettel Peru S.A.C. | Bitel"
+    },
+    {
+        "origin": "Viettel Peru S.A.C.",
+        "destiny": "Viettel Peru Sac"
+    },
+    {
+        "origin": "Viettel Peru S.A.C. | Bitel",
+        "destiny": "Viettel Peru Sac - Bitel"
+    },
+    {
+        "origin": "Viettel Peru Sac",
+        "destiny": "Viettel Peru Sac - Bitel"
+    },
+    {
+        "origin": "Visanet",
+        "destiny": "Visanet S.A"
+    },
+    {
+        "origin": "Visual Soft S.A.C.",
+        "destiny": "Visualsoft S. A. C."
+    },
+    {
+        "origin": "Visual Soft S.A.C.",
+        "destiny": "Visualsoft S.A.C."
+    },
+    {
+        "origin": "Visualsoft S. A. C.",
+        "destiny": "Visualsoft S.A.C."
+    },
+    {
+        "origin": "Webhelp",
+        "destiny": "Webhelp Peru"
+    },
+    {
+        "origin": "Worki 360",
+        "destiny": "Worki360"
+    },
+    {
+        "origin": "Wt Sourcing Peru",
+        "destiny": "Wts Sourcing Peru"
+    },
+    {
+        "origin": "Xirect Software Solution",
+        "destiny": "Xirect Software Solutions"
+    },
+    {
+        "origin": "Yanbal International",
+        "destiny": "Yanbal International - Unique"
+    },
+    {
+        "origin": "Zoluxiones",
+        "destiny": "Zoluxiones S.A.C"
+    },
+    {
+        "origin": "Zoluxiones",
+        "destiny": "Zoluxiones S.A.C."
+    },
+    {
+        "origin": "Zoluxiones",
+        "destiny": "Zoluxiones Sac"
+    },
+    {
+        "origin": "Zoluxiones S.A.C",
+        "destiny": "Zoluxiones S.A.C."
+    },
+    {
+        "origin": "Zoluxiones S.A.C",
+        "destiny": "Zoluxiones Sac"
+    },
+    {
+        "origin": "Zoluxiones S.A.C.",
+        "destiny": "Zoluxiones Sac"
+    }
+]
