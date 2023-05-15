@@ -1,0 +1,14 @@
+Total de archivos sin filtrar: 10229
+
+Archivos excluidos con los filtros: 2
+1-source-data\\main\\bumeran\\iteration-5\\bandeja-entrada-2019-and-before\\Renan Abarca Torres te indicó como referencia en Bumeran.com.html
+1-source-data\\main\\bumeran\\iteration-5\\bandeja-entrada-2020\\CVs Java  - Búsqueda.html
+
+Total de archivos con filtros: 10227
+
+Archivos con data incompleta: 3
+1-source-data\main\bumeran\iteration-5\bandeja-entrada-2022\Has recibido un CV para el aviso _Analista Programador Senior_Full Stack_(2).html
+1-source-data\main\bumeran\iteration-5\bandeja-entrada-2022\Has recibido un CV para el aviso _Analista Programador_(6).html
+1-source-data\main\bumeran\iteration-5\programador-net\Has recibido un CV para el aviso _Programador .Net Senior_(4).html
+
+Total de archivos con filtros y data integra: 10224
