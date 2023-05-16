@@ -209,8 +209,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-04-14 22:16,Carlos Joel Cordova Chira,"Av. Tamputoco, 1545, Independencia, Lima, Peru",4,Peru,Lima,Independencia,"Av. Tamputoco, 1545"
 2023-04-14 21:42,Rafael Carrillo Roque,"Av.Lima 1664 Villa Maria Del Triunfo, Lima, Lima, Peru",3,Peru,Lima,Lima,Av.Lima 1664 Villa Maria Del Triunfo
 2023-04-14 21:40,Eros Gianluca Fasabi Corilloclla,"Calle Francisco Reyes # 185, Comas, Lima, Peru",3,Peru,Lima,Comas,Calle Francisco Reyes # 185
-2023-04-14 18:41,Llerena Benites Jose Salvador,"Alameda Del Corregidor, La Molina, Lima, Peru",3,Peru,Lima,La Molina,Alameda Del Corregidor
 2023-04-14 18:41,Alexander Alberto Diaz Maldonado,"Calle Paris 215, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Calle Paris 215
+2023-04-14 18:41,Llerena Benites Jose Salvador,"Alameda Del Corregidor, La Molina, Lima, Peru",3,Peru,Lima,La Molina,Alameda Del Corregidor
 2023-04-14 18:09,Victor Hugo Marticorena Yanez,"Los Gladiolos 1634, Lima, Lima, Peru",3,Peru,Lima,Lima,Los Gladiolos 1634
 2023-04-14 16:45,Carlos Eduardo Martinez Lozano,"Calle Julio Cesar Tello 256, Ate., Lima, Peru",3,Peru,Lima,Ate.,Calle Julio Cesar Tello 256
 2023-04-14 16:39,Daniel Antonio Gavidia Quispe,,0,,,,
@@ -240,8 +240,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-04-13 12:12,Renee Del Pilar Maldonado Farfan,"Avenida Alfredo Benavides 560, Miraflores, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Miraflores,Avenida Alfredo Benavides 560
 2023-04-13 12:06,Wilder Andres Alcantara Diaz,"Av. Chimpu Ocllo 423, Carabayllo, Lima, Peru",3,Peru,Lima,Carabayllo,Av. Chimpu Ocllo 423
 2023-04-13 11:59,Carlos Ponce,"Av. La Paz 1222, , Gobierno Regional Del Callao, Peru",3,Peru,Gobierno Regional Del Callao,,Av. La Paz 1222
-2023-04-13 11:57,Sonia Lizeth Garces Saenz,"Calle Jose Diaz 976, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Calle Jose Diaz 976
 2023-04-13 11:57,Jorge Luis Ugarte Cruz,"Santiago 9, Cusco, Cuzco, Peru",3,Peru,Cuzco,Cusco,Santiago 9
+2023-04-13 11:57,Sonia Lizeth Garces Saenz,"Calle Jose Diaz 976, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Calle Jose Diaz 976
 2023-04-13 11:46,Jhon Cotos,"Mz A1 Lote 10, Comas, Lima, Peru",3,Peru,Lima,Comas,Mz A1 Lote 10
 2023-04-13 10:30,Cesar Antonio Romero Abad,,0,,,,
 2023-04-13 10:02,Smith Norabuena Asparrin,,0,,,,
@@ -403,16 +403,16 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-04-03 12:52,Jim Johel Sarmiento Fernandez,"Calle Rubens 115, San Borja, Lima, Peru",3,Peru,Lima,San Borja,Calle Rubens 115
 2023-04-03 12:47,Guillermo Rolando Cornejo Ascuez,"Madrid 142, Ate., Lima, Peru",3,Peru,Lima,Ate.,Madrid 142
 2023-04-03 12:43,"Ing. David Fernandez Penaloza, Pmp, Itil, Smc, Cmmi","Jiron Huiracocha 1570, Jesus Maria, Peru",2,Peru,,Jesus Maria,Jiron Huiracocha 1570
-2023-04-03 12:41,Ricardo Armando Ramirez Angeles,"Mz J Lt 18, Puente Piedra, Lima, Peru",3,Peru,Lima,Puente Piedra,Mz J Lt 18
 2023-04-03 12:41,Ruben Reynaldo Rojas Rodriguez,"Jorge Chavez 671, Carmen De La Legua - Reynoso, Callao, Peru",3,Peru,Callao,Carmen De La Legua - Reynoso,Jorge Chavez 671
+2023-04-03 12:41,Ricardo Armando Ramirez Angeles,"Mz J Lt 18, Puente Piedra, Lima, Peru",3,Peru,Lima,Puente Piedra,Mz J Lt 18
 2023-04-03 11:44,Francisco Jose Reyes Tapia,"Ciudad Real 161, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Ciudad Real 161
 2023-04-03 11:08,Carlos Andres Velasquez Flores,"Cayrucachi 336, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Cayrucachi 336
 2023-04-03 11:00,Gerson Alejo,"1 De Octubre Mz E Lt 6, Villa Maria Del Triunfo, Lima, Peru",3,Peru,Lima,Villa Maria Del Triunfo,1 De Octubre Mz E Lt 6
 2023-04-03 10:45,Sandro Joseph Malca Neyra,"Jr. Juan Manuel Crespo Mz C Lote 21, Ate Vitarte, Lima, Peru",3,Peru,Lima,Ate Vitarte,Jr. Juan Manuel Crespo Mz C Lote 21
 2023-04-03 09:03,Luis Enrique Aguirre Carrasco,"Av. Universitaria Mz 51 Lt 9 Villa Sol - Los Olivos, Lima, Lima, Peru",3,Peru,Lima,Lima,Av. Universitaria Mz 51 Lt 9 Villa Sol - Los Olivos
 2023-04-03 04:25,Claudia Flores Icochea,"Jr. Jimenez Pimentel 865, Tarapoto, San Martin, Peru",3,Peru,San Martin,Tarapoto,Jr. Jimenez Pimentel 865
-2023-04-03 00:38,Katherine Yessilu Capitan Piscoya,"Mesones Muro, Ferrenafe, Lambayeque, Peru",3,Peru,Lambayeque,Ferrenafe,Mesones Muro
 2023-04-03 00:38,Erickson Orlando Lino Barrantes,"Av. Gabriel Condorcanqui Mz-35 Lt-31 La Esperanza, Trujillo, La Libertad, Peru",3,Peru,La Libertad,Trujillo,Av. Gabriel Condorcanqui Mz-35 Lt-31 La Esperanza
+2023-04-03 00:38,Katherine Yessilu Capitan Piscoya,"Mesones Muro, Ferrenafe, Lambayeque, Peru",3,Peru,Lambayeque,Ferrenafe,Mesones Muro
 2023-04-02 20:28,Piero Mendoza Pimentel,,0,,,,
 2023-04-02 19:19,Cristhian Enrique Riquelme Romero,"Mz. O10 Lte. 16, San Juan De Miraflores, Lima, Peru",3,Peru,Lima,San Juan De Miraflores,Mz. O10 Lte. 16
 2023-04-02 16:11,Melissa Calderon,"Al Frente De La Villa Militar Este, Av. Edmundo Aguilar, Chorrillos, Lima, Peru",4,Peru,Lima,Chorrillos,"Al Frente De La Villa Militar Este, Av. Edmundo Aguilar"
@@ -527,8 +527,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-03-28 18:51,Jorge Francisco Chavez Cachay,,0,,,,
 2023-03-28 17:47,Juan Manuel Torres Ramirez,"Ventanilla, Callao, Lima, Peru",3,Peru,Lima,Callao,Ventanilla
 2023-03-28 17:16,Anibal F.R,,0,,,,
-2023-03-28 17:01,Xiomara Pasco San Martin,"Avenida Brasil 3357, Magdalena Del Mar, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Magdalena Del Mar,Avenida Brasil 3357
 2023-03-28 17:01,Andy Ancasi Cano,"Avenida Mariano Pastor Sevilla - San Juan De Miraflores, Lima, Lima, Peru",3,Peru,Lima,Lima,Avenida Mariano Pastor Sevilla - San Juan De Miraflores
+2023-03-28 17:01,Xiomara Pasco San Martin,"Avenida Brasil 3357, Magdalena Del Mar, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Magdalena Del Mar,Avenida Brasil 3357
 2023-03-28 16:42,Diego Yurin Palomino Villasante,"Av. Huayruropata 1953, Cusco, Cuzco, Peru",3,Peru,Cuzco,Cusco,Av. Huayruropata 1953
 2023-03-28 16:40,Junnior Jamil Hurtado Cachay,"Av. Los Nogales , Santa Anita, Lima, Peru",3,Peru,Lima,Santa Anita,Av. Los Nogales 
 2023-03-28 14:48,Yesica Baldeon Hidalgo,"Calle Fray Angelico 303, San Borja, Lima, Peru",3,Peru,Lima,San Borja,Calle Fray Angelico 303
@@ -608,8 +608,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-03-27 11:25,Julio Diaz Diaz,"Calle Tacama 190, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Calle Tacama 190
 2023-03-27 11:22,Alexander Perez Cieza,"Siesa 28, San Juan De Lurigancho., Lima, Peru",3,Peru,Lima,San Juan De Lurigancho.,Siesa 28
 2023-03-27 11:07,Dixor Ronald Gayoso Perez,"Jr. Pinar Del Rio # 1831, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Jr. Pinar Del Rio # 1831
-2023-03-27 10:49,Luis Diego Sarmiento Astonitos,"Cadiz 378, La Molina, Lima, Peru",3,Peru,Lima,La Molina,Cadiz 378
 2023-03-27 10:49,Antonio Alexandro Jaimes Soto,"San Genaro, Chorrillos, Lima, Peru",3,Peru,Lima,Chorrillos,San Genaro
+2023-03-27 10:49,Luis Diego Sarmiento Astonitos,"Cadiz 378, La Molina, Lima, Peru",3,Peru,Lima,La Molina,Cadiz 378
 2023-03-27 10:44,Vanessa Quispe,,0,,,,
 2023-03-27 10:39,Jacinto Ramirez Sotomayor,,0,,,,
 2023-03-27 10:35,Angela Adriana Flores Regalado,"Avenida Mangomarca 300, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Avenida Mangomarca 300
@@ -702,8 +702,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-03-24 10:59,Betza0116@Gmail.Com Betza0116@Gmail.Com,"Jr. Progreso- 661, Huancayo, Junin, Peru",3,Peru,Junin,Huancayo,Jr. Progreso- 661
 2023-03-24 10:47,Walter Bejar,"Upis San Jose Mz. E Lote 3, Alto Selva Alegre, Arequipa, Peru",3,Peru,Arequipa,Alto Selva Alegre,Upis San Jose Mz. E Lote 3
 2023-03-24 10:32,Grecia Ailed Guzman La Torre,"Jiron Ramon Castilla Mz E Lote 20, Gobierno Regional Del Callao, Peru",2,Peru,,Gobierno Regional Del Callao,Jiron Ramon Castilla Mz E Lote 20
-2023-03-24 10:08,Andres Ynafuko Ramos,"Pasaje Puruchuca Mz B Lote 9, Ate Vitarte, Lima, Peru",3,Peru,Lima,Ate Vitarte,Pasaje Puruchuca Mz B Lote 9
 2023-03-24 10:08,John Christian Villegas Espinoza,", San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,
+2023-03-24 10:08,Andres Ynafuko Ramos,"Pasaje Puruchuca Mz B Lote 9, Ate Vitarte, Lima, Peru",3,Peru,Lima,Ate Vitarte,Pasaje Puruchuca Mz B Lote 9
 2023-03-24 09:45,Junior Jampier Casas Levano,"Av.Canada - Lima, Lima, Lima, Peru",3,Peru,Lima,Lima,Av.Canada - Lima
 2023-03-24 09:12,,,0,,,,
 2023-03-24 09:04,Sandra Pacheco Lizares,"La Cruceta, Santiago De Surco, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Santiago De Surco,La Cruceta
@@ -941,8 +941,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-03-10 00:44,Gustavo Alejandro Hurtado Benancio,"Av. B 122, Rimac, Lima, Peru",3,Peru,Lima,Rimac,Av. B 122
 2023-03-10 00:06,Jasser Lopez Aguirre,"Cantuta 183, Independencia, Lima, Peru",3,Peru,Lima,Independencia,Cantuta 183
 2023-03-09 23:58,Kevin Brandon Pacheco Fernandez,"Asoc. Canaan Mz J Lte 1, El Agustino, Lima, Peru",3,Peru,Lima,El Agustino,Asoc. Canaan Mz J Lte 1
-2023-03-09 21:45,Ursula Isabel Carolina Mejia Malpartida,"Jr. Monte Abeto 490, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Jr. Monte Abeto 490
 2023-03-09 21:45,Terry Ordonez Motta,"Jiron Avenida Camino Real 690, Surco, Lima, Peru",3,Peru,Lima,Surco,Jiron Avenida Camino Real 690
+2023-03-09 21:45,Ursula Isabel Carolina Mejia Malpartida,"Jr. Monte Abeto 490, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Jr. Monte Abeto 490
 2023-03-09 21:34,Tania Isabel Ccahuana Rivas,"Jr. Los Rubies 1949, Sjl. A La Altura De La Cdra 5 De La Av. Proceres De La Independencia- San Juan De Lurigancho, Lima, Peru",3,Peru,Lima,Sjl. A La Altura De La Cdra 5 De La Av. Proceres De La Independencia- San Juan De Lurigancho,Jr. Los Rubies 1949
 2023-03-09 21:30,Levi Eliel Vilchez Saavedra,"Av. Prolongacion Iquitos 1554, Lince, Lima, Peru",3,Peru,Lima,Lince,Av. Prolongacion Iquitos 1554
 2023-03-09 21:25,Roxana Munoz,"Avenida Bocanegra 33, Callao, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Callao,Avenida Bocanegra 33
@@ -1187,8 +1187,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-02-22 12:28,Jean Cabrera Minauro,"La Verbena 255, La Molina, Lima, Peru",3,Peru,Lima,La Molina,La Verbena 255
 2023-02-22 12:06,Luis Quispe,"Begonias, Carabayllo, Lima, Peru",3,Peru,Lima,Carabayllo,Begonias
 2023-02-22 11:32,Nelson Criollo Mendoza,"Mz Ll Lote 1, Lima, Lima, Peru",3,Peru,Lima,Lima,Mz Ll Lote 1
-2023-02-22 11:17,Carlos Alberto Pineda Leon,"Jiron Ayacucho 130, Cercado De Lima, Lima, Peru",3,Peru,Lima,Cercado De Lima,Jiron Ayacucho 130
 2023-02-22 11:17,Eduardo Passano,"Pasaje Bayovar #116 Maranga San Miguel, Lima, Lima, Peru",3,Peru,Lima,Lima,Pasaje Bayovar #116 Maranga San Miguel
+2023-02-22 11:17,Carlos Alberto Pineda Leon,"Jiron Ayacucho 130, Cercado De Lima, Lima, Peru",3,Peru,Lima,Cercado De Lima,Jiron Ayacucho 130
 2023-02-22 10:54,Diego Vivar Flores,"Caolin 359, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Caolin 359
 2023-02-22 10:45,Diego Canelo,"Urb San Elias Mz P Los Olivos, Lima, Lima, Peru",3,Peru,Lima,Lima,Urb San Elias Mz P Los Olivos
 2023-02-22 09:34,Juana Cristina Gonzales Camones,"Jr. Santa Rosa 355 Km. 13, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Santa Rosa 355 Km. 13
@@ -1366,8 +1366,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-02-13 17:40,Joel Alexander Susaya Garcia,"Calle Las Camelias 830, San Isidro, Lima, Peru",3,Peru,Lima,San Isidro,Calle Las Camelias 830
 2023-02-13 17:15,Cesar Michelle Mogollon Gutierrez,"Prolongacion Huamanga 119, La Victoria, Lima, Peru",3,Peru,Lima,La Victoria,Prolongacion Huamanga 119
 2023-02-13 17:05,Diego Armando Bernaola Viru,"Avenida A Ndeg790 Condominios Los Laureles 2, Comas, Lima, Peru",3,Peru,Lima,Comas,Avenida A Ndeg790 Condominios Los Laureles 2
-2023-02-13 16:42,Wilberth Alejandro Rosales Huerta,"Av.Belisario Suarez 833, San Juan De Miraflores, Lima, Peru",3,Peru,Lima,San Juan De Miraflores,Av.Belisario Suarez 833
 2023-02-13 16:42,Victor Manuel Junior Leonardo Lopez,"Avenida Condevilla, , Callao, Peru",3,Peru,Callao,,Avenida Condevilla
+2023-02-13 16:42,Wilberth Alejandro Rosales Huerta,"Av.Belisario Suarez 833, San Juan De Miraflores, Lima, Peru",3,Peru,Lima,San Juan De Miraflores,Av.Belisario Suarez 833
 2023-02-13 16:29,Nathaly Canari Porras,"Co, San Juan De Lurigancho, Lima, Peru",3,Peru,Lima,San Juan De Lurigancho,Co
 2023-02-13 16:08,Betzabe Oyanguren Cisneros,"Jr.Las Salinas 666, Rimac, Lima, Peru",3,Peru,Lima,Rimac,Jr.Las Salinas 666
 2023-02-13 15:43,Ahdimirj Williams Cirilo Rosales,"Av. Los Alisos 1176, Los Olivos, Lima, Peru",3,Peru,Lima,Los Olivos,Av. Los Alisos 1176
@@ -1379,8 +1379,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-02-13 14:12,Sol Vasquez Miranda,"Paisajista, Trujillo, La Libertad, Peru",3,Peru,La Libertad,Trujillo,Paisajista
 2023-02-13 14:10,Maria Virginia Ubillus Carmen,"Santa Clorinda 924, Distrito De Lima, Departamento De Lima, Peru",3,Peru,Departamento De Lima,Distrito De Lima,Santa Clorinda 924
 2023-02-13 14:06,Diana Zamora Boza,"290,102, La Molina, Lima, Peru",4,Peru,Lima,La Molina,"290,102"
-2023-02-13 13:55,Williams Bazan Asencios,"Jr. Hualcan 1211 - Urb. Covida, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Hualcan 1211 - Urb. Covida
 2023-02-13 13:55,Milagros Arteaga,"Calle Juan Fermel 2083, San Martin De Porres, Lima, Peru",3,Peru,Lima,San Martin De Porres,Calle Juan Fermel 2083
+2023-02-13 13:55,Williams Bazan Asencios,"Jr. Hualcan 1211 - Urb. Covida, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Hualcan 1211 - Urb. Covida
 2023-02-13 13:30,Andrea Ayanz,"Luis Galvez Chipoco 340, Cercado De Lima, Lima, Peru",3,Peru,Lima,Cercado De Lima,Luis Galvez Chipoco 340
 2023-02-13 13:28,Yocelyne Mirella Galindo Espinoza,"Calle Las Calandrias, Santa Anita, Lima, Peru",3,Peru,Lima,Santa Anita,Calle Las Calandrias
 2023-02-13 13:24,William Leonardo Mayo Ramos,"Jr. Napo 801 Dpto 401, Brena, Lima, Peru",3,Peru,Lima,Brena,Jr. Napo 801 Dpto 401
@@ -1388,8 +1388,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-02-13 13:01,Jorge Morales De La Cruz,"Salaverry, San Miguel, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,San Miguel,Salaverry
 2023-02-13 12:56,Rossely Santamaria Ramirez,"Jr. Mercado 190, San Ignacio, Cajamarca, Peru",3,Peru,Cajamarca,San Ignacio,Jr. Mercado 190
 2023-02-13 12:48,Antonio Wilfredo Cusimayta Morocco,"A.H Por La Union Mz. C Lt 14, Villa Maria Del Triunfo, Lima, Peru",3,Peru,Lima,Villa Maria Del Triunfo,A.H Por La Union Mz. C Lt 14
-2023-02-13 12:44,Jose William Mondragon Guerrero,"San Miguel , Lima, Lima, Peru",3,Peru,Lima,Lima,San Miguel 
 2023-02-13 12:44,Bryan Guzman,"Calle Victor Andres Belaunde 146, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Calle Victor Andres Belaunde 146
+2023-02-13 12:44,Jose William Mondragon Guerrero,"San Miguel , Lima, Lima, Peru",3,Peru,Lima,Lima,San Miguel 
 2023-02-13 12:34,Stefanie Ortiz,"Jiron Los Urubes 924, San Juan De Lurigancho., Lima, Peru",3,Peru,Lima,San Juan De Lurigancho.,Jiron Los Urubes 924
 2023-02-13 12:32,Kevin Angel Oviedo Bernuy,"Manuel Pardo 537, Cercado De Lima, Lima, Peru",3,Peru,Lima,Cercado De Lima,Manuel Pardo 537
 2023-02-13 12:27,Renato Cardenas Lopez,,0,,,,
@@ -1400,8 +1400,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-02-13 12:03,Andrea Capcha,"Jiron Valentin Espejo 436, Cercado De Lima, Gobierno Regional De Lima, Peru",3,Peru,Gobierno Regional De Lima,Cercado De Lima,Jiron Valentin Espejo 436
 2023-02-13 12:02,Guillermo Fernando Rodriguez Chavez,"Avenida Velasco Astete 382, San Borja, Lima, Peru",3,Peru,Lima,San Borja,Avenida Velasco Astete 382
 2023-02-13 11:57,Edgar Enrique Vega Pereyra,"Lima - Peru, Brena, Lima, Peru",3,Peru,Lima,Brena,Lima - Peru
-2023-02-13 11:53,Susan Vargas,"Puente Piedra , Puente Piedra, Lima, Peru",3,Peru,Lima,Puente Piedra,Puente Piedra 
 2023-02-13 11:53,Jenifer Montenegro Camarena,"Calle Rio Amazonas Mz L Lote 10, Ate., Lima, Peru",3,Peru,Lima,Ate.,Calle Rio Amazonas Mz L Lote 10
+2023-02-13 11:53,Susan Vargas,"Puente Piedra , Puente Piedra, Lima, Peru",3,Peru,Lima,Puente Piedra,Puente Piedra 
 2023-02-13 11:48,Jimena Celis,,0,,,,
 2023-02-13 11:44,Valeria Chaqquere,"Pasaje La Sombrilla 300, Surquillo, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Surquillo,Pasaje La Sombrilla 300
 2023-02-13 11:43,Claudia Dileo Alonso,"Las Gardenias 106, Surco, Lima, Peru",3,Peru,Lima,Surco,Las Gardenias 106
@@ -1438,8 +1438,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-02-10 17:45,Luis Alfredo Torre Alvarez,"Sector 1, Villa El Salvador, Lima, Peru",3,Peru,Lima,Villa El Salvador,Sector 1
 2023-02-10 13:43,Miguel Angel Huarcaya Alegria,,0,,,,
 2023-02-10 12:50,Patricia Guillen Farfan,"Jiron Perez De Tudela 2723, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Jiron Perez De Tudela 2723
-2023-02-10 12:02,Josselin Andrea Calderon Alarcon,"Mz 42 Lt 09, Rimac, Lima, Peru",3,Peru,Lima,Rimac,Mz 42 Lt 09
 2023-02-10 12:02,Jessica Jackeline Sanchez Rosales,"Avenida Manuel Cipriano Dulanto 550, Pueblo Libre, Gobierno Regional De Lima, Peru",3,Peru,Gobierno Regional De Lima,Pueblo Libre,Avenida Manuel Cipriano Dulanto 550
+2023-02-10 12:02,Josselin Andrea Calderon Alarcon,"Mz 42 Lt 09, Rimac, Lima, Peru",3,Peru,Lima,Rimac,Mz 42 Lt 09
 2023-02-10 10:25,Gian Carlos Huaytalla Borda,"Av Wisse, Lima, Lima, Peru",3,Peru,Lima,Lima,Av Wisse
 2023-02-10 10:14,Magali Lucinda,"Calle Lambayeque 115 Dpto 302 La Molina, Lima, Lima, Peru",3,Peru,Lima,Lima,Calle Lambayeque 115 Dpto 302 La Molina
 2023-02-10 10:01,Maria Ines Gonzales Saldana,"Jr. San Juan 605, Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Lima,Jr. San Juan 605
@@ -1498,8 +1498,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-02-08 20:59,Johnson Antonio Lopez Ticlia,"Andres Avelino Caceres 517, El Porvenir, La Libertad, Peru",3,Peru,La Libertad,El Porvenir,Andres Avelino Caceres 517
 2023-02-08 19:42,Andersson Steven Mancilla Mansilla,"Juan Velasco Alvarado -Huanchaco-El Milagro, Huanchaco, La Libertad, Peru",3,Peru,La Libertad,Huanchaco,Juan Velasco Alvarado -Huanchaco-El Milagro
 2023-02-08 19:37,Pedro Enrique Suarez Sanchez,,0,,,,
-2023-02-08 19:36,Pedro Enrique Suarez Sanchez,,0,,,,
 2023-02-08 19:36,Andersson Steven Mancilla Mansilla,"Juan Velasco Alvarado -Huanchaco-El Milagro, Huanchaco, La Libertad, Peru",3,Peru,La Libertad,Huanchaco,Juan Velasco Alvarado -Huanchaco-El Milagro
+2023-02-08 19:36,Pedro Enrique Suarez Sanchez,,0,,,,
 2023-02-08 18:02,Oscar Enrique Uceda Gonzales,"Maria Izaga 999, Chiclayo, Lambayeque, Peru",3,Peru,Lambayeque,Chiclayo,Maria Izaga 999
 2023-02-08 17:41,Gerson Alejo,"1 De Octubre Mz E Lt 6, Villa Maria Del Triunfo, Lima, Peru",3,Peru,Lima,Villa Maria Del Triunfo,1 De Octubre Mz E Lt 6
 2023-02-08 17:40,Gerson Alejo,"1 De Octubre Mz E Lt 6, Villa Maria Del Triunfo, Lima, Peru",3,Peru,Lima,Villa Maria Del Triunfo,1 De Octubre Mz E Lt 6
@@ -1555,9 +1555,9 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-02-06 13:21,Franco Martin Menna,"Los Quetzales 281, San Isidro, Lima, Peru",3,Peru,Lima,San Isidro,Los Quetzales 281
 2023-02-06 12:59,Luis Quispe,"Begonias, Carabayllo, Lima, Peru",3,Peru,Lima,Carabayllo,Begonias
 2023-02-06 12:39,Luis Alberto Quispe Sanchez,"Calle Sevilla 217, Departamento 402, Callao, Lima, Peru",4,Peru,Lima,Callao,"Calle Sevilla 217, Departamento 402"
-2023-02-06 12:25,Martin Sanchez Carrera,"Los Olivos, Lima, Lima, Peru",3,Peru,Lima,Lima,Los Olivos
 2023-02-06 12:25,Alfredo Sanchez Silva,"Felipe Zela 546, Santa Anita, Lima, Peru",3,Peru,Lima,Santa Anita,Felipe Zela 546
 2023-02-06 12:25,Saul Junior Ruelas Sulca,"Aija 172, Brena, Lima, Peru",3,Peru,Lima,Brena,Aija 172
+2023-02-06 12:25,Martin Sanchez Carrera,"Los Olivos, Lima, Lima, Peru",3,Peru,Lima,Lima,Los Olivos
 2023-02-06 12:13,Ricardo Humberto Sojo Cruz,"Av. Panamericana 172, Sullana, Piura, Peru",3,Peru,Piura,Sullana,Av. Panamericana 172
 2023-02-06 12:07,Juan Reyin Cabrera Avila,"Avenida Asturias, Ate., Lima, Peru",3,Peru,Lima,Ate.,Avenida Asturias
 2023-02-06 12:02,Katya Rocio Morales Blancas,"Manuel Del Pino 750, Lima, Lima, Peru",3,Peru,Lima,Lima,Manuel Del Pino 750
@@ -1622,15 +1622,15 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-01-31 16:59,Freddy Fartolino Guerrero,"Avenida Brigida Silva De Ochoa 239, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Avenida Brigida Silva De Ochoa 239
 2023-01-31 16:53,Sandy Carranza Correa,"Las Lavandas 124, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Las Lavandas 124
 2023-01-31 16:52,Rodmi Daniel Mendoza Romero,"Centenario 190, La Molina, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,La Molina,Centenario 190
-2023-01-31 16:14,Jack Alexander Jimenez Huerta,,0,,,,
 2023-01-31 16:14,Diana Magaly Asto Ruiz,"Jiron Alfonso Ugarte 791, Lima, Lima, Peru",3,Peru,Lima,Lima,Jiron Alfonso Ugarte 791
+2023-01-31 16:14,Jack Alexander Jimenez Huerta,,0,,,,
 2023-01-31 16:11,Carlos Ericson Rodriguez Castro,"2110,5,102, Santiago De Surco, Lima, Peru",5,Peru,Lima,Santiago De Surco,"2110,5,102"
 2023-01-31 15:28,Jorge Morales De La Cruz,"Salaverry, San Miguel, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,San Miguel,Salaverry
 2023-01-31 15:27,Myriam Talavera,"Calle Batrich Bosovich 329, San Borja, Lima, Peru",3,Peru,Lima,San Borja,Calle Batrich Bosovich 329
 2023-01-31 15:25,Jose Alfonso Cachay Guzman,"Urb. Virgen Del Rosario Mz J Lot 8, Ancon, Lima, Peru",3,Peru,Lima,Ancon,Urb. Virgen Del Rosario Mz J Lot 8
 2023-01-31 15:19,Aron Luis Hurtado Guerra,"Las Azucenas 143, Villa Maria Del Triunfo, Lima, Peru",3,Peru,Lima,Villa Maria Del Triunfo,Las Azucenas 143
-2023-01-31 14:55,Jayr Jhoseph Camones Zaravia,"San Carlos 196, Comas, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Comas,San Carlos 196
 2023-01-31 14:55,Sheila Antonella Herencia Aquije,"., Huacachina, Ica, Peru",3,Peru,Ica,Huacachina,.
+2023-01-31 14:55,Jayr Jhoseph Camones Zaravia,"San Carlos 196, Comas, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Comas,San Carlos 196
 2023-01-31 14:54,Jayr Jhoseph Camones Zaravia,"San Carlos 196, Comas, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Comas,San Carlos 196
 2023-01-31 14:47,Diana Atachagua Aquije,"Peru, Ate Vitarte, Lima, Peru",3,Peru,Lima,Ate Vitarte,Peru
 2023-01-31 14:13,Miguel Angel Arana Huillca,"Av Los Pinos, Chorrillos, Lima, Peru",3,Peru,Lima,Chorrillos,Av Los Pinos
@@ -1805,8 +1805,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2023-01-10 14:41,Nelvin Velazco Farias,"Av. Los Olivos , San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Av. Los Olivos 
 2023-01-10 14:33,Elvis Wilson Alcantara Pinedo,"Jr. Pedro Abad Galiante - Surco, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Pedro Abad Galiante - Surco
 2023-01-10 13:46,Carmen Leydi Gonzales Sulca,"Avenida Arnaldo Marquez 579, Lima, Lima, Peru",3,Peru,Lima,Lima,Avenida Arnaldo Marquez 579
-2023-01-10 13:25,Alexis Javier Levano Saire,"Av. Los Proceres 760, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Av. Los Proceres 760
 2023-01-10 13:25,Bruno Vasquez,,0,,,,
+2023-01-10 13:25,Alexis Javier Levano Saire,"Av. Los Proceres 760, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Av. Los Proceres 760
 2023-01-10 13:23,Jose Antonio Enmanuel Reyes Arcos,,0,,,,
 2023-01-10 11:12,Gaston Ibanez Perez,"Calera De La Merced 248, Surquillo, Lima, Peru",3,Peru,Lima,Surquillo,Calera De La Merced 248
 2023-01-10 11:00,Jose Luis Marcelo Romero Zacarias,"Avenida Brasil 715, Jesus Maria, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Jesus Maria,Avenida Brasil 715
@@ -2051,8 +2051,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-12-26 13:22,Stephano Zevallos Rodriguez,"Jr El Carmen 269, Surquillo, Lima, Peru",3,Peru,Lima,Surquillo,Jr El Carmen 269
 2022-12-26 12:27,Luis Ronaldo Romero Miranda,,0,,,,
 2022-12-26 11:59,Kevin Alejandro Grillo Romero,"Calle Severo Payano, Santiago De Surco, Gobierno Regional De Lima, Peru",3,Peru,Gobierno Regional De Lima,Santiago De Surco,Calle Severo Payano
-2022-12-26 11:54,Allison Yadira Ramirez Alama,"Sta Luzmila, Comas, Lima, Peru",3,Peru,Lima,Comas,Sta Luzmila
 2022-12-26 11:54,Jose Alfonso Cachay Guzman,"Urb. Virgen Del Rosario Mz J Lot 8, Ancon, Lima, Peru",3,Peru,Lima,Ancon,Urb. Virgen Del Rosario Mz J Lot 8
+2022-12-26 11:54,Allison Yadira Ramirez Alama,"Sta Luzmila, Comas, Lima, Peru",3,Peru,Lima,Comas,Sta Luzmila
 2022-12-26 11:44,Diana Atachagua Aquije,"Peru, Ate Vitarte, Lima, Peru",3,Peru,Lima,Ate Vitarte,Peru
 2022-12-26 11:10,Ivan Balandra Camacho,"Av Victor Malasquez Chacaltana Mz 21 Lt 33, Pachacamac, Lima, Peru",3,Peru,Lima,Pachacamac,Av Victor Malasquez Chacaltana Mz 21 Lt 33
 2022-12-26 10:59,Aron Luis Hurtado Guerra,"Las Azucenas 143, Villa Maria Del Triunfo, Lima, Peru",3,Peru,Lima,Villa Maria Del Triunfo,Las Azucenas 143
@@ -2162,8 +2162,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-12-11 19:40,Jean Antony Julio Miranda Cruz,"Ate, Ate., Lima, Peru",3,Peru,Lima,Ate.,Ate
 2022-12-11 19:26,Hugo Santa Maria Podesta,"Calle Enrique Palacios 612, Miraflores, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Miraflores,Calle Enrique Palacios 612
 2022-12-10 23:00,William Ortiz,"Av Oscar R Benavides 3046, Lima, Lima, Peru",3,Peru,Lima,Lima,Av Oscar R Benavides 3046
-2022-12-10 21:48,Cristhian Hildebrando Rodriguez Ruiz,"Avenida Morales Duarez 992, Carmen De La Legua - Reynoso, Callao, Peru",3,Peru,Callao,Carmen De La Legua - Reynoso,Avenida Morales Duarez 992
 2022-12-10 21:48,Ricardo Fernandez Reto,,0,,,,
+2022-12-10 21:48,Cristhian Hildebrando Rodriguez Ruiz,"Avenida Morales Duarez 992, Carmen De La Legua - Reynoso, Callao, Peru",3,Peru,Callao,Carmen De La Legua - Reynoso,Avenida Morales Duarez 992
 2022-12-10 12:07,Angel Jesse Guevara Silvano,,0,,,,
 2022-12-10 01:14,Allison Yadira Ramirez Alama,"Sta Luzmila, Comas, Lima, Peru",3,Peru,Lima,Comas,Sta Luzmila
 2022-12-09 22:24,Carlos Alejandro Vega Gallegos,"Calle Navarra 137, Lima, Lima, Peru",3,Peru,Lima,Lima,Calle Navarra 137
@@ -2202,13 +2202,13 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-12-06 16:58,Alejandra Lourdes Vargas Cumpa,"Calle 13 De Abril 910, Arequipa, Arequipa, Peru",3,Peru,Arequipa,Arequipa,Calle 13 De Abril 910
 2022-12-06 15:49,Alejandra Lourdes Vargas Cumpa,"Calle 13 De Abril 910, Arequipa, Arequipa, Peru",3,Peru,Arequipa,Arequipa,Calle 13 De Abril 910
 2022-12-06 15:06,Betsy Culquicondor Martinez,"Calle 13 Nro 262, Independencia, Lima, Peru",3,Peru,Lima,Independencia,Calle 13 Nro 262
-2022-12-06 14:23,Alejandra Lourdes Vargas Cumpa,"Calle 13 De Abril 910, Arequipa, Arequipa, Peru",3,Peru,Arequipa,Arequipa,Calle 13 De Abril 910
 2022-12-06 14:23,Victor Hugo Marticorena Yanez,"Los Gladiolos 1634, Lima, Lima, Peru",3,Peru,Lima,Lima,Los Gladiolos 1634
+2022-12-06 14:23,Alejandra Lourdes Vargas Cumpa,"Calle 13 De Abril 910, Arequipa, Arequipa, Peru",3,Peru,Arequipa,Arequipa,Calle 13 De Abril 910
 2022-12-06 13:41,Jose Alfonso Cachay Guzman,"Urb. Virgen Del Rosario Mz J Lot 8, Ancon, Lima, Peru",3,Peru,Lima,Ancon,Urb. Virgen Del Rosario Mz J Lot 8
 2022-12-06 13:30,Herbert Alberto Diaz Cucho,"Los Pecanos 339, Cercado De Lima, Lima, Peru",3,Peru,Lima,Cercado De Lima,Los Pecanos 339
 2022-12-06 13:28,Alcibiades Zuniga Vilca,"Calle Andalucia 559, Pueblo Libre, Lima, Peru",3,Peru,Lima,Pueblo Libre,Calle Andalucia 559
-2022-12-06 11:43,Gaston Ibanez Perez,"Calera De La Merced 248, Surquillo, Lima, Peru",3,Peru,Lima,Surquillo,Calera De La Merced 248
 2022-12-06 11:43,Diego Alonso Yupanqui Vidal,"Francisco Moreno 228, Peru, Lima, Peru",3,Peru,Lima,Peru,Francisco Moreno 228
+2022-12-06 11:43,Gaston Ibanez Perez,"Calera De La Merced 248, Surquillo, Lima, Peru",3,Peru,Lima,Surquillo,Calera De La Merced 248
 2022-12-06 11:03,Gianfranco Herrera Mostacero,"Calle Hernando De Magallanes 446, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Calle Hernando De Magallanes 446
 2022-12-06 09:48,Danilo Jose Sandoval Huaman,"Ca. Los Brillantes 560, La Victoria, Lima, Peru",3,Peru,Lima,La Victoria,Ca. Los Brillantes 560
 2022-12-06 09:28,Jose Ignacio Lombardi Benavides,"Jr. Via Lactea 431 Dpto 305, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Jr. Via Lactea 431 Dpto 305
@@ -2224,11 +2224,11 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-12-05 20:42,Anthony Cueva,"Fidelli 128, Barranco, Lima, Peru",3,Peru,Lima,Barranco,Fidelli 128
 2022-12-05 20:37,Alejandra Lourdes Vargas Cumpa,"Calle 13 De Abril 910, Arequipa, Arequipa, Peru",3,Peru,Arequipa,Arequipa,Calle 13 De Abril 910
 2022-12-05 20:37,Alejandra Lourdes Vargas Cumpa,"Calle 13 De Abril 910, Arequipa, Arequipa, Peru",3,Peru,Arequipa,Arequipa,Calle 13 De Abril 910
-2022-12-05 19:51,Cynthia Victoria Ramon Vargas,"Av. Escardo 620, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Av. Escardo 620
 2022-12-05 19:51,Erik Maguin Chirinos Cruz,"Pasaje San Martin # 180, Villa Maria Del Triunfo, Lima, Peru",3,Peru,Lima,Villa Maria Del Triunfo,Pasaje San Martin # 180
+2022-12-05 19:51,Cynthia Victoria Ramon Vargas,"Av. Escardo 620, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Av. Escardo 620
 2022-12-05 19:19,Frank David Merino Vasquez,"Jiron Las Gaviotas 2121, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Jiron Las Gaviotas 2121
-2022-12-05 19:07,Jahnsen Ricardo Guardamino Barrueta,"Psje. Los Olivos 191, El Agustino, Lima, Peru",3,Peru,Lima,El Agustino,Psje. Los Olivos 191
 2022-12-05 19:07,Luis Puerta,"Avenida San Luis 1040, San Luis, Lima, Peru",3,Peru,Lima,San Luis,Avenida San Luis 1040
+2022-12-05 19:07,Jahnsen Ricardo Guardamino Barrueta,"Psje. Los Olivos 191, El Agustino, Lima, Peru",3,Peru,Lima,El Agustino,Psje. Los Olivos 191
 2022-12-05 18:48,Jeffer Rojas Escalante,"Avenida El Derby 511, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Avenida El Derby 511
 2022-12-05 18:31,Fabiola Sofia Cervantes Valdivia,"Calle Coronel Inclan 553, Miraflores, Lima, Peru",3,Peru,Lima,Miraflores,Calle Coronel Inclan 553
 2022-12-05 16:44,Fabiola Sofia Cervantes Valdivia,"Calle Coronel Inclan 553, Miraflores, Lima, Peru",3,Peru,Lima,Miraflores,Calle Coronel Inclan 553
@@ -2376,8 +2376,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-11-23 17:45,Joseph Victor Susano Salazar,"Jr Oxapampa 322, Brena, Lima, Peru",3,Peru,Lima,Brena,Jr Oxapampa 322
 2022-11-23 16:29,Jeymi Zelada Navarro,,0,,,,
 2022-11-23 12:03,Omar Gabriel Castro Cruz,"Malecon Chorrillos B- 15, Miraflores, Arequipa, Peru",3,Peru,Arequipa,Miraflores,Malecon Chorrillos B- 15
-2022-11-23 11:31,Leslie Carol Mundaca Retuerto,"Heroes De La Libertad 266, Lima, Lima, Peru",3,Peru,Lima,Lima,Heroes De La Libertad 266
 2022-11-23 11:31,Nayelli Huaman,,0,,,,
+2022-11-23 11:31,Leslie Carol Mundaca Retuerto,"Heroes De La Libertad 266, Lima, Lima, Peru",3,Peru,Lima,Lima,Heroes De La Libertad 266
 2022-11-23 10:07,Maria Alejandra Arriaran Valdivia,,0,,,,
 2022-11-23 09:10,Valeria Tasayco Rodriguez,"Jr Dona Delmira 320, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Jr Dona Delmira 320
 2022-11-23 03:53,David William Romero Rodriguez,"Av. Honorio Delgado 291, San Martin De Porres, Gobierno Regional De Lima, Peru",3,Peru,Gobierno Regional De Lima,San Martin De Porres,Av. Honorio Delgado 291
@@ -2427,8 +2427,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-11-18 22:29,Esau Rafael Arenas Campos,"Av. Universitaria, Cuadra 60, Los Olivos, Lima, Peru",4,Peru,Lima,Los Olivos,"Av. Universitaria, Cuadra 60"
 2022-11-18 19:39,Edward Valentino Soto Meneses,"Av. Independencia, Chosica, Lima, Peru",3,Peru,Lima,Chosica,Av. Independencia
 2022-11-18 19:09,Cheryl Francisco,"Jr. Jamica 331, Callao, Lima, Peru",3,Peru,Lima,Callao,Jr. Jamica 331
-2022-11-18 12:41,Jonhatan Isaac Pachao Taipe,"Lima, Lima, Lima, Peru",3,Peru,Lima,Lima,Lima
 2022-11-18 12:41,Rosa Elena Gonzales Condori,"Jr Los Linos 231, San Juan De Lurigancho, Lima, Peru",3,Peru,Lima,San Juan De Lurigancho,Jr Los Linos 231
+2022-11-18 12:41,Jonhatan Isaac Pachao Taipe,"Lima, Lima, Lima, Peru",3,Peru,Lima,Lima,Lima
 2022-11-18 11:51,Fiorella Salas,"Surco, Surco, Lima, Peru",3,Peru,Lima,Surco,Surco
 2022-11-18 10:03,Pedro Nizama Yamunaque,"Miraflores, Lima, Miraflores, Lima, Peru",4,Peru,Lima,Miraflores,"Miraflores, Lima"
 2022-11-18 07:27,Deisy Esquivel,,0,,,,
@@ -2597,8 +2597,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-11-11 00:13,Jocelyn Arroyo Calderon,"Jr. Tiburcio Rios 287, San Martin De Porres, Lima, Peru",3,Peru,Lima,San Martin De Porres,Jr. Tiburcio Rios 287
 2022-11-10 22:23,Erick Edu Zapana Quispe,"Avenida Juan Pablo Ii, Callao, Callao, Peru",3,Peru,Callao,Callao,Avenida Juan Pablo Ii
 2022-11-10 22:00,Diego Ronaldo Jesus Veneros,"Avenida Los Dominicos, Callao, Callao, Peru",3,Peru,Callao,Callao,Avenida Los Dominicos
-2022-11-10 21:43,Franco Ramirez,"Fray Angelico 540, San Borja, Lima, Peru",3,Peru,Lima,San Borja,Fray Angelico 540
 2022-11-10 21:43,Ana Claudia Espinoza,"Zoila Amoretti 108-112, Pueblo Libre, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Pueblo Libre,Zoila Amoretti 108-112
+2022-11-10 21:43,Franco Ramirez,"Fray Angelico 540, San Borja, Lima, Peru",3,Peru,Lima,San Borja,Fray Angelico 540
 2022-11-10 21:38,Leonardo Enrique Lopez Coronado,"Piura , Piura, Piura, Peru",3,Peru,Piura,Piura,Piura 
 2022-11-10 21:10,Ana Maria Orbegozo Morales,"San Miguel , Lima, Lima, Peru",3,Peru,Lima,Lima,San Miguel 
 2022-11-10 21:02,Graciela Natalia Avilez Escudero,,0,,,,
@@ -2618,8 +2618,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-11-10 17:13,Steven Cruz Cabrera,"Mz37 Lte26 Calle 46, Los Olivos, Lima, Peru",3,Peru,Lima,Los Olivos,Mz37 Lte26 Calle 46
 2022-11-10 17:13,Alexandra Moscol Castillo,"Huron 115, La Molina, Lima, Peru",3,Peru,Lima,La Molina,Huron 115
 2022-11-10 17:00,Alexander Martin Chacon Cobenas,"Avenida Peru 1160, Huacho, Gobierno Regional De Lima, Peru",3,Peru,Gobierno Regional De Lima,Huacho,Avenida Peru 1160
-2022-11-10 16:44,Hector Eduardo Gallegos Estrada,"Jr Corbeta La Union 150. Block L .Dpto 104. Condominio Las Praderas De Surco.Santiago De Surco, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr Corbeta La Union 150. Block L .Dpto 104. Condominio Las Praderas De Surco.Santiago De Surco
 2022-11-10 16:44,Claudia Estefany Martinez Paiva,"Jr. Huanuco 313 Dpto. 400 , Distrito De Lima, Departamento De Lima, Peru",3,Peru,Departamento De Lima,Distrito De Lima,Jr. Huanuco 313 Dpto. 400 
+2022-11-10 16:44,Hector Eduardo Gallegos Estrada,"Jr Corbeta La Union 150. Block L .Dpto 104. Condominio Las Praderas De Surco.Santiago De Surco, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr Corbeta La Union 150. Block L .Dpto 104. Condominio Las Praderas De Surco.Santiago De Surco
 2022-11-10 16:26,Claudia Obregon,"Av. La Molina 1951, La Molina, Lima, Peru",3,Peru,Lima,La Molina,Av. La Molina 1951
 2022-11-10 16:01,Eliana Jocelyne De La Cruz Melendez,,0,,,,
 2022-11-10 15:46,Angie Carolina Chiroque Vilchez,"A.A.H.H Kumamoto Mz K Lt 67, Ventanilla, Lima, Peru",3,Peru,Lima,Ventanilla,A.A.H.H Kumamoto Mz K Lt 67
@@ -2703,25 +2703,25 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-11-07 23:15,Richard Alfredo Linares Aliaga,"Av. El Olivar 928, , Gobierno Regional Del Callao, Peru",3,Peru,Gobierno Regional Del Callao,,Av. El Olivar 928
 2022-11-07 23:13,Nathaly Rixsi Abarca,"Calle Las Geodas 1797, San Juan De Lurigancho, Lima, Peru",3,Peru,Lima,San Juan De Lurigancho,Calle Las Geodas 1797
 2022-11-07 22:08,Wendy Melissa Celis Minope,"Hermilio Valdizan 425, Jesus Maria, Lima, Peru",3,Peru,Lima,Jesus Maria,Hermilio Valdizan 425
-2022-11-07 21:40,Leslie Samanta Urbano Urbano,"., Lince, Lima, Peru",3,Peru,Lima,Lince,.
-2022-11-07 21:40,Adan Peralta,"Espinar 837, Sullana, Piura, Peru",3,Peru,Piura,Sullana,Espinar 837
-2022-11-07 21:40,Allison Mercedes Pelaez Ibanez,"6,204, Lima, Lima, Peru",4,Peru,Lima,Lima,"6,204"
-2022-11-07 21:40,Lizbet Madeley Sandoval Sanchez,"Urb. Lopez Albujar M R Prima Lote 15, Sullana, Piura, Peru",3,Peru,Piura,Sullana,Urb. Lopez Albujar M R Prima Lote 15
-2022-11-07 21:40,Fabio Guerra Goicochea,"Jr. Huamanga Ndeg 560, Magdalena Del Mar, Lima, Peru",3,Peru,Lima,Magdalena Del Mar,Jr. Huamanga Ndeg 560
-2022-11-07 21:40,Leydi Soto Espejo,"Av. 28 De Julio Ndeg 420, Chepen, La Libertad, Peru",3,Peru,La Libertad,Chepen,Av. 28 De Julio Ndeg 420
-2022-11-07 21:40,Elio Cesar Ramon Abanto Paqui,,0,,,,
 2022-11-07 21:40,Lilly Zapata,"Chiclayo, Chiclayo, Lambayeque, Peru",3,Peru,Lambayeque,Chiclayo,Chiclayo
 2022-11-07 21:40,Gianna Sofia Gonzales Guerra,"Av. Las Gaviotas 284, Chorrillos, Lima, Peru",3,Peru,Lima,Chorrillos,Av. Las Gaviotas 284
+2022-11-07 21:40,Adan Peralta,"Espinar 837, Sullana, Piura, Peru",3,Peru,Piura,Sullana,Espinar 837
+2022-11-07 21:40,Lizbet Madeley Sandoval Sanchez,"Urb. Lopez Albujar M R Prima Lote 15, Sullana, Piura, Peru",3,Peru,Piura,Sullana,Urb. Lopez Albujar M R Prima Lote 15
+2022-11-07 21:40,Leydi Soto Espejo,"Av. 28 De Julio Ndeg 420, Chepen, La Libertad, Peru",3,Peru,La Libertad,Chepen,Av. 28 De Julio Ndeg 420
+2022-11-07 21:40,Fabio Guerra Goicochea,"Jr. Huamanga Ndeg 560, Magdalena Del Mar, Lima, Peru",3,Peru,Lima,Magdalena Del Mar,Jr. Huamanga Ndeg 560
+2022-11-07 21:40,Elio Cesar Ramon Abanto Paqui,,0,,,,
+2022-11-07 21:40,Leslie Samanta Urbano Urbano,"., Lince, Lima, Peru",3,Peru,Lima,Lince,.
+2022-11-07 21:40,Allison Mercedes Pelaez Ibanez,"6,204, Lima, Lima, Peru",4,Peru,Lima,Lima,"6,204"
 2022-11-07 17:54,Raysa Cardenas Carrasco,,0,,,,
-2022-11-07 17:54,Victor Samuel Izquierdo Zuloaga,"Manuel Gonzales 736, Comas, Lima, Peru",3,Peru,Lima,Comas,Manuel Gonzales 736
 2022-11-07 17:54,Fanny Isabel Lopez Mejia,"Calle 2, San Martin De Porres, Gobierno Regional De Lima, Peru",3,Peru,Gobierno Regional De Lima,San Martin De Porres,Calle 2
+2022-11-07 17:54,Victor Samuel Izquierdo Zuloaga,"Manuel Gonzales 736, Comas, Lima, Peru",3,Peru,Lima,Comas,Manuel Gonzales 736
 2022-11-07 15:12,Juda Ben Hur Chavez Puscan,"Bartolome Herrera 762, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Bartolome Herrera 762
 2022-11-07 15:12,Miguel Esteban Maza,"Calle Hungria, Los Olivos, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Los Olivos,Calle Hungria
-2022-11-07 14:26,Anapaula Mori,,0,,,,
-2022-11-07 14:26,Ayling Acobo,"Urb. Piedra Santa Ii, Arequipa, Arequipa, Peru",3,Peru,Arequipa,Arequipa,Urb. Piedra Santa Ii
 2022-11-07 14:26,Nayeli Lozano,,0,,,,
-2022-11-07 14:26,Alexander Christian Campusano Medrano,"Jr. Ignacio Torote 588, Los Olivos, Lima, Peru",3,Peru,Lima,Los Olivos,Jr. Ignacio Torote 588
+2022-11-07 14:26,Ayling Acobo,"Urb. Piedra Santa Ii, Arequipa, Arequipa, Peru",3,Peru,Arequipa,Arequipa,Urb. Piedra Santa Ii
 2022-11-07 14:26,Liss Elena Estela Castillo,"Calle Jose Diaz, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Calle Jose Diaz
+2022-11-07 14:26,Alexander Christian Campusano Medrano,"Jr. Ignacio Torote 588, Los Olivos, Lima, Peru",3,Peru,Lima,Los Olivos,Jr. Ignacio Torote 588
+2022-11-07 14:26,Anapaula Mori,,0,,,,
 2022-11-07 12:41,Aaron Arias Arana,"Calle El Carmen, Villa Maria Del Triunfo, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Villa Maria Del Triunfo,Calle El Carmen
 2022-11-07 12:30,Claudia Nino De Guzman Vizcarra,"Avenida Brasil 367, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Avenida Brasil 367
 2022-11-07 12:03,Maria Fernanda Salcedo,"Loma Ponciana 243, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Loma Ponciana 243
@@ -2851,8 +2851,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-11-03 19:26,Max Henry Fuentes Rivera,"Av.Alisos Urb.Virgen Del Rosario, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Av.Alisos Urb.Virgen Del Rosario
 2022-11-03 19:10,Adrian Alexander Rua Cruz,"Pumacahua Cte14 Lte07 Nzc 1, Chorrillos, Lima, Peru",3,Peru,Lima,Chorrillos,Pumacahua Cte14 Lte07 Nzc 1
 2022-11-03 19:02,Moises Becerra,"Jr Los Ruisenores Mz A Lt 16, San Juan De Lurigancho., Lima, Peru",3,Peru,Lima,San Juan De Lurigancho.,Jr Los Ruisenores Mz A Lt 16
-2022-11-03 18:54,Marcos Rosas Santa Cruz,"Av. Pisac - Canta Callao, , Gobierno Regional Del Callao, Peru",3,Peru,Gobierno Regional Del Callao,,Av. Pisac - Canta Callao
 2022-11-03 18:54,Sebastian Pacheco,"Manco Capac 650, Callao, Lima, Peru",3,Peru,Lima,Callao,Manco Capac 650
+2022-11-03 18:54,Marcos Rosas Santa Cruz,"Av. Pisac - Canta Callao, , Gobierno Regional Del Callao, Peru",3,Peru,Gobierno Regional Del Callao,,Av. Pisac - Canta Callao
 2022-11-03 18:13,Carla Fernanda Pisconte Mite,"Santa Rosa De Surco Mz. B Lte. 23, Surco, Lima, Peru",3,Peru,Lima,Surco,Santa Rosa De Surco Mz. B Lte. 23
 2022-11-03 18:05,Juan Sebastian Avalos Munoz,"Yutay 123, Rimac, Lima, Peru",3,Peru,Lima,Rimac,Yutay 123
 2022-11-03 17:56,Sergio Alonso Lengua Portocarrero,"Avenida Cesar Canevaro 542, Lince, Lima, Peru",3,Peru,Lima,Lince,Avenida Cesar Canevaro 542
@@ -2873,11 +2873,11 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-11-03 16:16,Geraldine Kristell Gallegos Vilca,"Abancay 214, Arequipa, Arequipa, Peru",3,Peru,Arequipa,Arequipa,Abancay 214
 2022-11-03 16:13,Jaime Junior Sotero Chira,"Mz. H Lote 08 4, Distrito De Victor Larco Herrera, La Libertad, Peru",3,Peru,La Libertad,Distrito De Victor Larco Herrera,Mz. H Lote 08 4
 2022-11-03 16:13,Angelym Delgado Flores,"Urbanizacion Ciudad Del Pescador Mz P1 Lote 4, Gobierno Regional Del Callao, Peru",2,Peru,,Gobierno Regional Del Callao,Urbanizacion Ciudad Del Pescador Mz P1 Lote 4
-2022-11-03 16:09,Giancarlo Linarez,,0,,,,
 2022-11-03 16:09,Andrea Prado,"Mz J Lt 1, Los Olivos, Lima, Peru",3,Peru,Lima,Los Olivos,Mz J Lt 1
+2022-11-03 16:09,Giancarlo Linarez,,0,,,,
 2022-11-03 16:06,Merly Flores Lima,"Ica 176, Carabayllo, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Carabayllo,Ica 176
-2022-11-03 16:04,Arnold Alejos,"Mayorazgo , Ate., Lima, Peru",3,Peru,Lima,Ate.,Mayorazgo 
 2022-11-03 16:04,Nohelia Quintana Rondon,"Santiago De Surco , Lima, Lima, Peru",3,Peru,Lima,Lima,Santiago De Surco 
+2022-11-03 16:04,Arnold Alejos,"Mayorazgo , Ate., Lima, Peru",3,Peru,Lima,Ate.,Mayorazgo 
 2022-11-03 13:32,Naysa Liseth Quispe Cordero,"Calle Teodoro Cardenas 558, Lima Cercado, Lima, Peru",3,Peru,Lima,Lima Cercado,Calle Teodoro Cardenas 558
 2022-11-03 11:08,Sandra Catacora Chambilla,"Ciudad Nueva, Tacna, Tacna, Peru",3,Peru,Tacna,Tacna,Ciudad Nueva
 2022-11-03 02:19,Omar David Quispe Francia,"Los Eucaliptos 213, San Juan De Miraflores, Lima, Peru",3,Peru,Lima,San Juan De Miraflores,Los Eucaliptos 213
@@ -3284,8 +3284,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-09-05 11:06,Andy Ticse,"Av. Nestor Gambetta Alta Jr.Ancash Mze6 Lt. 38, Callao, Lima, Peru",3,Peru,Lima,Callao,Av. Nestor Gambetta Alta Jr.Ancash Mze6 Lt. 38
 2022-09-05 10:36,Kiara Fernanda Orihuela Bravo,,0,,,,
 2022-09-05 10:33,Leyly Yoela Pizarro Velasco,,0,,,,
-2022-09-05 10:14,Cinthia Carolina Quintanilla Huaman,"Jr Montecarlo 409, Huancayo, Junin, Peru",3,Peru,Junin,Huancayo,Jr Montecarlo 409
 2022-09-05 10:14,Adriana Delgado Leiva,"Huiracocha 1847, Jesus Maria, Lima, Peru",3,Peru,Lima,Jesus Maria,Huiracocha 1847
+2022-09-05 10:14,Cinthia Carolina Quintanilla Huaman,"Jr Montecarlo 409, Huancayo, Junin, Peru",3,Peru,Junin,Huancayo,Jr Montecarlo 409
 2022-09-05 10:00,Over Ventocilla Hilario,,0,,,,
 2022-09-05 09:54,Brenda Aroste,"Micaela Con Universitaria , Comas, Lima, Peru",3,Peru,Lima,Comas,Micaela Con Universitaria 
 2022-09-05 09:16,Ana Claudia Flores Mejia,"Av El Sol, Villa El Salvador, Lima, Peru",3,Peru,Lima,Villa El Salvador,Av El Sol
@@ -3310,8 +3310,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-09-04 22:54,Juan Zegarra Cavassa,"Jr. Zorritos 1399, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Zorritos 1399
 2022-09-04 22:35,Andrea Mirella Del Carmen Cespedes Molinari,"Manuel Montero Rosas 380, San Juan De Miraflores, Lima, Peru",3,Peru,Lima,San Juan De Miraflores,Manuel Montero Rosas 380
 2022-09-04 22:33,Katherine Gabriela Huanca Flores,"Avenida Gerardo Unger 123, San Martin De Porres, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,San Martin De Porres,Avenida Gerardo Unger 123
-2022-09-04 22:01,Diego Armando Casquino Vargas,"Jr Pomabamba 275, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr Pomabamba 275
 2022-09-04 22:01,Jhon Becker Mejia Lume,"A.H Jesus Alberto Paez Jr. Los Arquitectos Mz K10 Lt 22, San Juan De Lurigancho., Lima, Peru",3,Peru,Lima,San Juan De Lurigancho.,A.H Jesus Alberto Paez Jr. Los Arquitectos Mz K10 Lt 22
+2022-09-04 22:01,Diego Armando Casquino Vargas,"Jr Pomabamba 275, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr Pomabamba 275
 2022-09-04 22:00,Brenda Arlette Miranda Huapaya,"Jose Mateo Pumacahua 151, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Jose Mateo Pumacahua 151
 2022-09-04 21:51,Nicolle Santos Aybar,"Avenida Manuel Cipriano Dulanto, Pueblo Libre, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Pueblo Libre,Avenida Manuel Cipriano Dulanto
 2022-09-04 21:32,Anais Del Rosario Jimenez Vergara,"1,47, San Martin De Porres, Lima, Peru",4,Peru,Lima,San Martin De Porres,"1,47"
@@ -3364,8 +3364,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-09-03 12:13,Daniela Zerga,,0,,,,
 2022-09-03 10:15,Daniel Orlando Cherre Ruiz,"Calle Chiquitoy, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Calle Chiquitoy
 2022-09-03 09:18,Nohelia Quintana Rondon,"Santiago De Surco , Lima, Lima, Peru",3,Peru,Lima,Lima,Santiago De Surco 
-2022-09-03 08:34,Rebeca Contreras Gonzales,"Tres Compuertas, San Juan De Lurigancho., Lima, Peru",3,Peru,Lima,San Juan De Lurigancho.,Tres Compuertas
 2022-09-03 08:34,Mariel Laya Ganoza,"Los Petirrojos , San Isidro, Lima, Peru",3,Peru,Lima,San Isidro,Los Petirrojos 
+2022-09-03 08:34,Rebeca Contreras Gonzales,"Tres Compuertas, San Juan De Lurigancho., Lima, Peru",3,Peru,Lima,San Juan De Lurigancho.,Tres Compuertas
 2022-09-03 07:40,Katherine Comitivos,,0,,,,
 2022-09-02 23:14,Melody Del Carmen Vasquez Garcia,"Calle Enrique Villar, Lima, Lima, Peru",3,Peru,Lima,Lima,Calle Enrique Villar
 2022-09-02 23:12,Ricardo Diego Jaramillo Romero,"Avenida Jose Granda, Cercado De Lima, Peru",2,Peru,,Cercado De Lima,Avenida Jose Granda
@@ -3400,8 +3400,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-09-02 17:35,Pierre Calderon,"Virgen Del Carmen 155, Comas, Lima, Peru",3,Peru,Lima,Comas,Virgen Del Carmen 155
 2022-09-02 17:34,Laura Piscoya,"Av Jose Carlos Mariategui, Ancon, Lima, Peru",3,Peru,Lima,Ancon,Av Jose Carlos Mariategui
 2022-09-02 17:31,Miguel Lopez Loarte,"Calle Velasquez 296, San Borja, Lima, Peru",3,Peru,Lima,San Borja,Calle Velasquez 296
-2022-09-02 17:24,Betsy Marili Ochoa Mantilla,"Av. San Felipe 620, Jesus Maria, Lima, Peru",3,Peru,Lima,Jesus Maria,Av. San Felipe 620
 2022-09-02 17:24,Rocio Peves,,0,,,,
+2022-09-02 17:24,Betsy Marili Ochoa Mantilla,"Av. San Felipe 620, Jesus Maria, Lima, Peru",3,Peru,Lima,Jesus Maria,Av. San Felipe 620
 2022-09-02 17:16,Yanired Diana Jacinto Pecho,"Calle 6, Santa Anita, Lima, Peru",3,Peru,Lima,Santa Anita,Calle 6
 2022-09-02 17:14,Carlos Enrique Farfan Rondoy,"Urb.Alejandro Taboada G- 26, Talara, Piura, Peru",3,Peru,Piura,Talara,Urb.Alejandro Taboada G- 26
 2022-09-02 17:06,Cindey Rimapa Moreano,"Avenida Miguel Iglesias, San Juan De Miraflores, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,San Juan De Miraflores,Avenida Miguel Iglesias
@@ -3441,8 +3441,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-09-02 13:14,Emilio Cueva Cevallos,,0,,,,
 2022-09-02 13:14,Flavia Andrea Quispe Raez,"Av. Brigida Silva De Ochoa 181, Lima, Lima, Peru",3,Peru,Lima,Lima,Av. Brigida Silva De Ochoa 181
 2022-09-02 13:09,Stefano Andre Vasquez Molina,"Calle Camilo Carrillo 132, Surco, Lima, Peru",3,Peru,Lima,Surco,Calle Camilo Carrillo 132
-2022-09-02 13:03,Carlos Enrique Gomez Contreras,"Jupiter 163, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Jupiter 163
 2022-09-02 13:03,Gabriela Trujillo Cortez,,0,,,,
+2022-09-02 13:03,Carlos Enrique Gomez Contreras,"Jupiter 163, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Jupiter 163
 2022-09-02 12:57,Jair Edu Matos Caycho,"Avenida Brasil 2199, Jesus Maria, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Jesus Maria,Avenida Brasil 2199
 2022-09-02 12:56,Henry Avila,"Genaro Numa Llona 398, San Juan De Miraflores, Lima, Peru",3,Peru,Lima,San Juan De Miraflores,Genaro Numa Llona 398
 2022-09-02 12:52,Enrique Chumpitaz Lizarraga,"Jiron Monte Cedro, Santiago De Surco, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Santiago De Surco,Jiron Monte Cedro
@@ -3465,13 +3465,13 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-09-02 11:24,Gabriela Yanira Romero Escalante,"Av Tomas Marsano 8, Lima, Lima, Peru",3,Peru,Lima,Lima,Av Tomas Marsano 8
 2022-09-02 11:23,Alisson Sheyla Diaz Llampasi,"Av. Colectora, Carabayllo, Lima, Lima, Peru",4,Peru,Lima,Lima,"Av. Colectora, Carabayllo"
 2022-09-02 11:18,Milagros Natali Pajuelo Ruiz,"Calle Ancash S/N, Asoc.Viv Antonio Raimondi, Puente Piedra, Lima, Peru",4,Peru,Lima,Puente Piedra,"Calle Ancash S/N, Asoc.Viv Antonio Raimondi"
-2022-09-02 11:17,Stefany Aranda,"Augusto Aguirre, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Augusto Aguirre
 2022-09-02 11:17,Andrea Daniela Rodriguez Calmet,"Av. Jose Leonardo Ortiz, Resd. Karl Weiss Puerta 2 Blockg Dpt 202, Chiclayo, Lambayeque, Peru",4,Peru,Lambayeque,Chiclayo,"Av. Jose Leonardo Ortiz, Resd. Karl Weiss Puerta 2 Blockg Dpt 202"
+2022-09-02 11:17,Stefany Aranda,"Augusto Aguirre, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Augusto Aguirre
 2022-09-02 11:13,Clara Yupanqui Mejia,"Calle Oscar Wilde Mz-C1 Lt- 5, Surquillo, Lima, Peru",3,Peru,Lima,Surquillo,Calle Oscar Wilde Mz-C1 Lt- 5
 2022-09-02 11:11,Eliane Cristina Xiomara Vega Prado,"Calle Sinchi Roca 361, Chaclacayo, Lima, Peru",3,Peru,Lima,Chaclacayo,Calle Sinchi Roca 361
 2022-09-02 11:09,Bruno Bahamonde Araya,"Calle 13 Mz &Quot;L&Quot; Lote 12 Urb Santa Rosa Calla, Callao, Lima, Lima",3,Lima,Lima,Callao,Calle 13 Mz &Quot;L&Quot; Lote 12 Urb Santa Rosa Calla
-2022-09-02 11:08,Pamela Luna Valdeiglesias,"Santiago De Surco , Lima, Lima, Peru",3,Peru,Lima,Lima,Santiago De Surco 
 2022-09-02 11:08,Oscar Javier Camacho Ortega,"Lima, Lima, Lima, Peru",3,Peru,Lima,Lima,Lima
+2022-09-02 11:08,Pamela Luna Valdeiglesias,"Santiago De Surco , Lima, Lima, Peru",3,Peru,Lima,Lima,Santiago De Surco 
 2022-09-02 11:04,Veronica Katherine Diaz Quispe,"Calle Miguel Grau S/N Mz N Lt 15 Ahh 15, San Juan De Miraflores, Lima, Peru",3,Peru,Lima,San Juan De Miraflores,Calle Miguel Grau S/N Mz N Lt 15 Ahh 15
 2022-09-02 11:03,Carmen Rosa Mercado Vargas,"La Molina, Lima, Lima, Peru",3,Peru,Lima,Lima,La Molina
 2022-09-02 10:48,Elizabeth Samaniego Ramirez,"Residencial Mosha, San Juan De Lurigancho, Lima, Peru",3,Peru,Lima,San Juan De Lurigancho,Residencial Mosha
@@ -3480,8 +3480,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-09-02 01:01,Ricardo Juarez,,0,,,,
 2022-09-01 23:35,Cynthia Enciso Ortiz,"Calle Tupac Amaru, Callao, Gobierno Regional De Lima, Peru",3,Peru,Gobierno Regional De Lima,Callao,Calle Tupac Amaru
 2022-09-01 22:47,Angie Carolina Colan Cueva,"Calle Isla Hawai , Pueblo Libre, Lima, Peru",3,Peru,Lima,Pueblo Libre,Calle Isla Hawai 
-2022-09-01 20:37,Luis Enrique Neyra Nunez,,0,,,,
 2022-09-01 20:37,Alexander Alberto Diaz Maldonado,"Calle Paris 215, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Calle Paris 215
+2022-09-01 20:37,Luis Enrique Neyra Nunez,,0,,,,
 2022-09-01 18:25,John Charles Rodriguez Patino,"Leonhard Euler 197, San Borja, Lima, Peru",3,Peru,Lima,San Borja,Leonhard Euler 197
 2022-09-01 18:15,Lucas Alfonso Alvarado Aguado,"Calle Los Rosales 177, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Calle Los Rosales 177
 2022-09-01 18:08,Ana Cecilia Gutierrez Zubieta,,0,,,,
@@ -3911,13 +3911,13 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-07-13 22:36,Ivan Cesar Ascencio Tiza,"Mz E Lote 45, Lima, Lima, Peru",3,Peru,Lima,Lima,Mz E Lote 45
 2022-07-13 20:23,Alessandra Escobar Sarapura,,0,,,,
 2022-07-13 18:06,Ever Ruben Vidal Bejar,"Los Nogales 251, Lima, Lima, Peru",3,Peru,Lima,Lima,Los Nogales 251
-2022-07-13 16:18,Ivan Augusto Diaz Maldonado,"Paris 215, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Paris 215
 2022-07-13 16:18,Graciela Maria Cardenas Diaz,"Brena, Brena, Lima, Peru",3,Peru,Lima,Brena,Brena
+2022-07-13 16:18,Ivan Augusto Diaz Maldonado,"Paris 215, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Paris 215
 2022-07-13 15:42,Judith Svr,,0,,,,
 2022-07-13 13:26,Evelyn Marilyn Sosa Cabillas,"Avenida San Eugenio 991, Lima, Peru",2,Peru,,Lima,Avenida San Eugenio 991
 2022-07-13 12:49,Gaston Ibanez Perez,"Calera De La Merced 248, Surquillo, Lima, Peru",3,Peru,Lima,Surquillo,Calera De La Merced 248
-2022-07-13 12:38,Graciela Maria Cardenas Diaz,"Brena, Brena, Lima, Peru",3,Peru,Lima,Brena,Brena
 2022-07-13 12:38,Alexander Alberto Diaz Maldonado,"Calle Paris 215, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Calle Paris 215
+2022-07-13 12:38,Graciela Maria Cardenas Diaz,"Brena, Brena, Lima, Peru",3,Peru,Lima,Brena,Brena
 2022-07-13 10:40,Arturo Arias,"Av Victor Alzamora 477, Surquillo, Lima, Peru",3,Peru,Lima,Surquillo,Av Victor Alzamora 477
 2022-07-13 04:52,Michael Efrain Dianderas Alcantara,"La Cruceta Surco, Lima, Lima, Peru",3,Peru,Lima,Lima,La Cruceta Surco
 2022-07-12 19:31,Charles Albuquerque,"Avenida Paseo De La Republica 5686, Miraflores, Lima, Peru",3,Peru,Lima,Miraflores,Avenida Paseo De La Republica 5686
@@ -4561,8 +4561,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2022-02-01 04:26,Pedro Vega,"Santiago De Surco, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Santiago De Surco
 2022-02-01 03:34,Saul Mejia,"Lima, Lima, Lima, Peru",3,Peru,Lima,Lima,Lima
 2022-02-01 01:56,Christopher Hans Kobashigawa Arakaki,"Av. Manuel Cipriano Dulanto 1829, Pueblo Libre, Lima, Peru",3,Peru,Lima,Pueblo Libre,Av. Manuel Cipriano Dulanto 1829
-2022-02-01 01:52,Jesus Uriarte,"Vallejo 241, Villa Maria Del Triunfo, Lima, Peru",3,Peru,Lima,Villa Maria Del Triunfo,Vallejo 241
 2022-02-01 01:52,Guzman Slee Colquis Davila,"Avenida Universitaria 6740, Lima, Lima, Peru",3,Peru,Lima,Lima,Avenida Universitaria 6740
+2022-02-01 01:52,Jesus Uriarte,"Vallejo 241, Villa Maria Del Triunfo, Lima, Peru",3,Peru,Lima,Villa Maria Del Triunfo,Vallejo 241
 2022-01-31 22:34,John Mervin Tizamo,"Urb. Santa Monica, Calle Paul Harris 162, San Isidro, Lima, Peru",4,Peru,Lima,San Isidro,"Urb. Santa Monica, Calle Paul Harris 162"
 2022-01-31 20:49,Luis Apaza,"Marbella 299, Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Lima,Marbella 299
 2022-01-31 19:55,Sandra Elizabeth Sernaque Huaranga,"Calle Alicante, Lima, Lima, Peru",3,Peru,Lima,Lima,Calle Alicante
@@ -5281,8 +5281,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2021-09-02 19:33,Jhostein Edward Aguado Condezo,"Canto Grande , San Juan De Lurigancho., Lima, Peru",3,Peru,Lima,San Juan De Lurigancho.,Canto Grande 
 2021-09-02 19:00,Gustavo Rodrigo Luna Victoria Vereau,"Avenida Guardia Civil, San Isidro, Lima, Peru",3,Peru,Lima,San Isidro,Avenida Guardia Civil
 2021-09-02 18:48,Estefany Ivon Orellano Martinez,"Mz J Lt 5, Carabayllo, Lima, Peru",3,Peru,Lima,Carabayllo,Mz J Lt 5
-2021-09-02 18:15,Junior Alin Atoche Bravo,"San Felipe, Comas, Lima, Peru",3,Peru,Lima,Comas,San Felipe
 2021-09-02 18:15,Maisie Alviar Suarez,"Gaviotas 125, Distrito De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Distrito De Lima,Gaviotas 125
+2021-09-02 18:15,Junior Alin Atoche Bravo,"San Felipe, Comas, Lima, Peru",3,Peru,Lima,Comas,San Felipe
 2021-09-02 17:54,Sofia Del Pilar Rios Linares,"Avenida Tupac Amaru, Comas, Gobierno Regional De Lima, Peru",3,Peru,Gobierno Regional De Lima,Comas,Avenida Tupac Amaru
 2021-09-02 17:33,Susan Jennifer Tomas Colqui,"Jr. La Florida Mz.G Lte 3, San Martin De Porres, Lima, Peru",3,Peru,Lima,San Martin De Porres,Jr. La Florida Mz.G Lte 3
 2021-09-02 17:31,Giacomo Andre Casado Trelles,"Carlos Salaverry 135, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Carlos Salaverry 135
@@ -5329,8 +5329,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2021-09-01 21:14,Ada Evelyn Roque Quispe,"Las Azucenas, Santa Anita, Lima, Peru",3,Peru,Lima,Santa Anita,Las Azucenas
 2021-09-01 19:59,Edgar Guerrero Flores,"Ramon Zavala 227, Los Olivos, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Los Olivos,Ramon Zavala 227
 2021-09-01 19:11,Michael Velasquez,"Calle 4, Los Olivos, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Los Olivos,Calle 4
-2021-09-01 18:57,Andrea Etchika Zuniga Ruiz,"Pasaje Santiago 2356, Jesus Maria, Lima, Peru",3,Peru,Lima,Jesus Maria,Pasaje Santiago 2356
 2021-09-01 18:57,Ashley Huerta,"Urb.Alameda Del Pinar, Comas, Lima, Peru",3,Peru,Lima,Comas,Urb.Alameda Del Pinar
+2021-09-01 18:57,Andrea Etchika Zuniga Ruiz,"Pasaje Santiago 2356, Jesus Maria, Lima, Peru",3,Peru,Lima,Jesus Maria,Pasaje Santiago 2356
 2021-09-01 18:29,Yessica Isabel Fatima Maguina Leon,"Mz. D Lote 10, Los Olivos, Lima, Peru",3,Peru,Lima,Los Olivos,Mz. D Lote 10
 2021-09-01 18:28,Florentino Pacheco Echavarria,"Avenida Metropolitana, Santa Anita, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Santa Anita,Avenida Metropolitana
 2021-09-01 18:22,Lorelein Marysienka Roel Noriega,"Rousseau 231, San Borja, Lima, Peru",3,Peru,Lima,San Borja,Rousseau 231
@@ -5355,8 +5355,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2021-09-01 13:52,Jennifer Ramirez Huaman,"Calle Los Negocios 165, Surquillo, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Surquillo,Calle Los Negocios 165
 2021-09-01 13:29,Mercedes Del Rosario Pineda Gamonal,"Las Palmeras, Distrito De Lima, Peru",2,Peru,,Distrito De Lima,Las Palmeras
 2021-09-01 13:10,Kelly Olinda Alvarado Rojas,"Ventanilla - Callao, Callao, Lima, Peru",3,Peru,Lima,Callao,Ventanilla - Callao
-2021-09-01 13:09,Kelly Olinda Alvarado Rojas,"Ventanilla - Callao, Callao, Lima, Peru",3,Peru,Lima,Callao,Ventanilla - Callao
 2021-09-01 13:09,Maria Jose Requena Romero,"1,26, Piura La Vieja, Piura, Peru",4,Peru,Piura,Piura La Vieja,"1,26"
+2021-09-01 13:09,Kelly Olinda Alvarado Rojas,"Ventanilla - Callao, Callao, Lima, Peru",3,Peru,Lima,Callao,Ventanilla - Callao
 2021-09-01 12:47,Denny Flor Maihuire Vega,"Psj. San Ambrosio Mz B Lt 11, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Psj. San Ambrosio Mz B Lt 11
 2021-09-01 12:39,Brigette Kristel Angeles Corzo,"Jiron Turin 219, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Jiron Turin 219
 2021-09-01 12:35,Arlett Abanto Moreno,"San Felipe, Lima, Lima, Peru",3,Peru,Lima,Lima,San Felipe
@@ -5365,8 +5365,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2021-09-01 11:56,Esthefani Capcha Huamali,"12,11, Ate., Lima, Peru",4,Peru,Lima,Ate.,"12,11"
 2021-09-01 11:55,Fiorella Anali Aguilar Benites,"Mz.C.Lt. 3, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Mz.C.Lt. 3
 2021-09-01 11:49,Alessandra Hinostroza,"Jr. Carlos Raygada 280, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Jr. Carlos Raygada 280
-2021-09-01 11:41,Angela Andrea Livia Sotelo,"Jr. Rimac 455, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Jr. Rimac 455
 2021-09-01 11:41,Camila Garcia,"Avenida General Cordova 831, Miraflores, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Miraflores,Avenida General Cordova 831
+2021-09-01 11:41,Angela Andrea Livia Sotelo,"Jr. Rimac 455, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Jr. Rimac 455
 2021-09-01 11:30,Flor Jaco Callanaupa,"Avenida San Juan, Lima, Lima, Peru",3,Peru,Lima,Lima,Avenida San Juan
 2021-09-01 11:29,Omar Alonso Tello Collantes,"Avenida Micaela Bastidas 1146, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Avenida Micaela Bastidas 1146
 2021-09-01 11:23,Jean Pierre Carrion Posada,,0,,,,
@@ -5640,8 +5640,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2021-08-28 22:35,Yolanda Rouse Farfan,"Urb.Pedro Ruiz Gallo Block K-2, Bellavista, Lima, Peru",3,Peru,Lima,Bellavista,Urb.Pedro Ruiz Gallo Block K-2
 2021-08-28 22:26,Janice Flores Peralta,"Calle Rio Pativilca Mz L Lote 12, Ate Vitarte, Lima, Peru",3,Peru,Lima,Ate Vitarte,Calle Rio Pativilca Mz L Lote 12
 2021-08-28 22:19,Lourdes Grecia Yumiko Meza Ochoa,"Lizardo Montero 555, Surquillo, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Surquillo,Lizardo Montero 555
-2021-08-28 21:56,Milagritos Stefany Vasquez Davila,"La Molina, Lima, Lima, Peru",3,Peru,Lima,Lima,La Molina
 2021-08-28 21:56,Yovana Celeste Quiliche Aguilar,"Avenida Fernando Wiesse, San Juan De Lurigancho, Lima, Peru",3,Peru,Lima,San Juan De Lurigancho,Avenida Fernando Wiesse
+2021-08-28 21:56,Milagritos Stefany Vasquez Davila,"La Molina, Lima, Lima, Peru",3,Peru,Lima,Lima,La Molina
 2021-08-28 21:41,Alexandra Thalia Herrera Asca,"Los Geofisicos, La Molina, Lima, Peru",3,Peru,Lima,La Molina,Los Geofisicos
 2021-08-28 21:37,Geraldine Lizbeth Orellana Palacios,"Manco Capac # 251, Chaclacayo, Lima, Peru",3,Peru,Lima,Chaclacayo,Manco Capac # 251
 2021-08-28 21:33,Anggela Patricia Zavaleta Pena,"Alayza Y Roel 2392 Int. 301 Lince, Lima, Lima, Peru",3,Peru,Lima,Lima,Alayza Y Roel 2392 Int. 301 Lince
@@ -5691,8 +5691,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2021-08-28 14:06,Alicia Rojas Vilcapoma,"Calle Ernesto Guevara 311, Santa Anita, Lima, Peru",3,Peru,Lima,Santa Anita,Calle Ernesto Guevara 311
 2021-08-28 13:57,Danna Ayala Alhuay,"Avenida Tupac Amaru, Chorrillos, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Chorrillos,Avenida Tupac Amaru
 2021-08-28 13:54,Alessandra Cabrera Diaz,"Calle Las Madreselvas 156, San Juan De Lurigancho, Lima, Peru",3,Peru,Lima,San Juan De Lurigancho,Calle Las Madreselvas 156
-2021-08-28 13:48,Betsy Villanueva Kachahuallpa,"Av Manco Capac 340, Villa Maria Del Triunfo, Lima, Peru",3,Peru,Lima,Villa Maria Del Triunfo,Av Manco Capac 340
 2021-08-28 13:48,Andrea Samantha Alcalde Cespedes,"Pedro Ruiz Gallo, Pueblo Libre, Lima, Peru",3,Peru,Lima,Pueblo Libre,Pedro Ruiz Gallo
+2021-08-28 13:48,Betsy Villanueva Kachahuallpa,"Av Manco Capac 340, Villa Maria Del Triunfo, Lima, Peru",3,Peru,Lima,Villa Maria Del Triunfo,Av Manco Capac 340
 2021-08-28 13:41,Nathaly Diaz,"San Miguel, Lima, Lima, Peru",3,Peru,Lima,Lima,San Miguel
 2021-08-28 13:31,Elvy Sanca Eusebio,"Asent. Hum. Victor Raul Haya De La Torre Mz. R Lote 2, Callao, Lima, Peru",3,Peru,Lima,Callao,Asent. Hum. Victor Raul Haya De La Torre Mz. R Lote 2
 2021-08-28 13:15,Alexandra Beatriz Obregon Osorio,,0,,,,
@@ -5701,9 +5701,9 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2021-08-28 13:04,Angely Torres,"Urbanizacion Santa Elvira, Ate., Lima, Peru",3,Peru,Lima,Ate.,Urbanizacion Santa Elvira
 2021-08-28 13:03,Karina Alexandra Guerrero Peralta,"Jr. Jose Gabriel Aguilar Segura Edif.8 Dpto. 303, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Jr. Jose Gabriel Aguilar Segura Edif.8 Dpto. 303
 2021-08-28 12:41,Renzo Jose Garmendia Castaneda,"Cabo Gutarra 685, Pueblo Libre, Lima, Peru",3,Peru,Lima,Pueblo Libre,Cabo Gutarra 685
+2021-08-28 12:32,Maitee Martha Manco Diaz,"Pasaje Antonio Bazo 190, El Agustino, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,El Agustino,Pasaje Antonio Bazo 190
 2021-08-28 12:32,Gian Carlo Arroyo Cubas,,0,,,,
 2021-08-28 12:32,Miguel Angel Arias Pacheco,"Av. Alto Cocharcas, Chorrillos, Lima, Peru",3,Peru,Lima,Chorrillos,Av. Alto Cocharcas
-2021-08-28 12:32,Maitee Martha Manco Diaz,"Pasaje Antonio Bazo 190, El Agustino, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,El Agustino,Pasaje Antonio Bazo 190
 2021-08-28 11:56,Luz Ramirez Alva,"Jr Jorge Chavez 1747, Brena, Lima, Peru",3,Peru,Lima,Brena,Jr Jorge Chavez 1747
 2021-08-28 11:53,Alex Ricardo Delgado Antonio,"Villa Alejandro, Lurin, Lima, Peru",3,Peru,Lima,Lurin,Villa Alejandro
 2021-08-28 11:42,Alejandra Diaz,"Prosperidad 429, Los Olivos, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Los Olivos,Prosperidad 429
@@ -5717,8 +5717,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2021-08-28 10:59,Norma Kelly Rios Hurtado,"Calle Las Gaviotas 299, El Agustino, Lima, Peru",3,Peru,Lima,El Agustino,Calle Las Gaviotas 299
 2021-08-28 10:47,Rocio Bonifacio,"Psj Simon Bolivar, Lima, Lima, Peru",3,Peru,Lima,Lima,Psj Simon Bolivar
 2021-08-28 10:44,Leslie Estefany Ramos Machuca,"3,10,12, Villa El Salvador, Lima, Peru",5,Peru,Lima,Villa El Salvador,"3,10,12"
-2021-08-28 10:40,Trezzia Fiorella Mateo Pena,"Jose Maria Zorritos 1399, Cercado De Lima, Lima, Peru",3,Peru,Lima,Cercado De Lima,Jose Maria Zorritos 1399
 2021-08-28 10:40,Cielo Valeria Gonzales Rodriguez,"Residencial Santa Rita Block R 201, Lima, Lima, Peru",3,Peru,Lima,Lima,Residencial Santa Rita Block R 201
+2021-08-28 10:40,Trezzia Fiorella Mateo Pena,"Jose Maria Zorritos 1399, Cercado De Lima, Lima, Peru",3,Peru,Lima,Cercado De Lima,Jose Maria Zorritos 1399
 2021-08-28 10:37,David Anchayhua Pablo,"7,1, Callao, Lima, Peru",4,Peru,Lima,Callao,"7,1"
 2021-08-28 10:31,Lucero Katherine Ochante Ballena,"Jiron Santa Rosa 198, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Jiron Santa Rosa 198
 2021-08-28 10:30,Elizabeth Karla Valerio Pariona,"San Juan De Lurigancho, San Juan De Lurigancho., Lima, Peru",3,Peru,Lima,San Juan De Lurigancho.,San Juan De Lurigancho
@@ -5737,8 +5737,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2021-08-28 09:28,Ana Lucia Iparraguirre Valenzuela,"Jiron Los Ficus 140, , Gobierno Regional Del Callao, Peru",3,Peru,Gobierno Regional Del Callao,,Jiron Los Ficus 140
 2021-08-28 09:21,Roberto Moran Chunga,"Calle Manuel Bonnemaison 174, Callao, Callao, Peru",3,Peru,Callao,Callao,Calle Manuel Bonnemaison 174
 2021-08-28 09:12,Max Oliver Jara Ramos,"Hualmay District, Peru, Lima Cercado, Lima, Peru",4,Peru,Lima,Lima Cercado,"Hualmay District, Peru"
-2021-08-28 09:01,Jose Ricardo Gomez,"Jiron Ica, Callao, Callao, Peru",3,Peru,Callao,Callao,Jiron Ica
 2021-08-28 09:01,Luis Fernando Pebe Pando,"Avenida Las Gaviotas 266, Chorrillos, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Chorrillos,Avenida Las Gaviotas 266
+2021-08-28 09:01,Jose Ricardo Gomez,"Jiron Ica, Callao, Callao, Peru",3,Peru,Callao,Callao,Jiron Ica
 2021-08-28 08:48,Karla Nicole Condor Martinez,"Jr. Bello Horizonte 1852, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Jr. Bello Horizonte 1852
 2021-08-28 08:46,Sylvana Jesus Moya Quispe,"Avenida Cesar Vallejo 1403, Lima, Lima, Peru",3,Peru,Lima,Lima,Avenida Cesar Vallejo 1403
 2021-08-28 08:37,Malena Isabel Pena Guevara,"Calle Atahualpa 875, Villa Maria Del Triunfo, Lima, Peru",3,Peru,Lima,Villa Maria Del Triunfo,Calle Atahualpa 875
@@ -5791,9 +5791,9 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2021-08-27 22:43,Mylinda Candy Castillo Millones,,0,,,,
 2021-08-27 22:41,Marliz Esthefany Vallejos Mendez,"258,2, San Borja, Lima, Peru",4,Peru,Lima,San Borja,"258,2"
 2021-08-27 22:40,Maria Gracia Nieva Urizar,"Jiron Salaverry 410, Lima, Lima, Peru",3,Peru,Lima,Lima,Jiron Salaverry 410
-2021-08-27 22:33,Angel Josue Arrisueno Sicche,"Calle Elvira Garcia Y Garcia 125, Los Olivos, Lima, Peru",3,Peru,Lima,Los Olivos,Calle Elvira Garcia Y Garcia 125
-2021-08-27 22:33,Rolando Flores Salvador,"Mz B, Santiago De Surco, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Santiago De Surco,Mz B
 2021-08-27 22:33,Luis Diaz,"Av Manuel Olguin 745, Surco, Lima, Peru",3,Peru,Lima,Surco,Av Manuel Olguin 745
+2021-08-27 22:33,Rolando Flores Salvador,"Mz B, Santiago De Surco, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Santiago De Surco,Mz B
+2021-08-27 22:33,Angel Josue Arrisueno Sicche,"Calle Elvira Garcia Y Garcia 125, Los Olivos, Lima, Peru",3,Peru,Lima,Los Olivos,Calle Elvira Garcia Y Garcia 125
 2021-08-27 22:29,Johan Jesus Julca Lescano,"Las Vinas, Lima, Lima, Peru",3,Peru,Lima,Lima,Las Vinas
 2021-08-27 22:29,Fiorella Cano,"Avenida Carlos Izaguirre 203, Los Olivos, Lima, Peru",3,Peru,Lima,Los Olivos,Avenida Carlos Izaguirre 203
 2021-08-27 22:28,Gerardo Manuel Valencia Dextre,"Cuadra 11, San Juan De Miraflores, Lima, Peru",3,Peru,Lima,San Juan De Miraflores,Cuadra 11
@@ -5812,8 +5812,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2021-08-27 21:41,Cristina Huayllacayan Carrillo,"Plaza De Acho, Rimac, Lima, Peru",3,Peru,Lima,Rimac,Plaza De Acho
 2021-08-27 21:40,Jorge Jair Sebastian Saravia,"Jiron Junin 938, Lima Cercado, Lima, Peru",3,Peru,Lima,Lima Cercado,Jiron Junin 938
 2021-08-27 21:34,Milagros Del Rosario Alva Calderon,"Hermanos Catari 535, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Hermanos Catari 535
-2021-08-27 21:33,Cinthya Johanna Aranda Vallejos,"Noruega 2414, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Noruega 2414
 2021-08-27 21:33,Francis Alexander Maya Velarde,"Jiron Napo 998, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Jiron Napo 998
+2021-08-27 21:33,Cinthya Johanna Aranda Vallejos,"Noruega 2414, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Noruega 2414
 2021-08-27 21:31,Diego Armando Bernaola Viru,"Avenida Retablo 707, Comas, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Comas,Avenida Retablo 707
 2021-08-27 21:26,Llerson Homero Macedo Tenorio,"Edif. A Piso 8 Dpto. 803, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Edif. A Piso 8 Dpto. 803
 2021-08-27 21:10,Isaias Gregorio Ortiz Paico,"Avenida Tomas Valle 112, Callao, Callao, Peru",3,Peru,Callao,Callao,Avenida Tomas Valle 112
@@ -5831,12 +5831,12 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2021-08-27 20:48,Luis Felipe Gil Chumacero,"Municipalidad De Los Olivos, Lima, Lima, Peru",3,Peru,Lima,Lima,Municipalidad De Los Olivos
 2021-08-27 20:42,Daleshka Cuba Acuna,"Avenida Los Dominicos 273A, Callao, Callao, Peru",3,Peru,Callao,Callao,Avenida Los Dominicos 273A
 2021-08-27 20:39,John Piero Sulca Bartolo,"Avenida Los Dominicos 702, Callao, Lima, Peru",3,Peru,Lima,Callao,Avenida Los Dominicos 702
-2021-08-27 20:37,Ricardo Arellano Barrantes,"Iquique 115, Lima, Lima, Peru",3,Peru,Lima,Lima,Iquique 115
 2021-08-27 20:37,Angela Lucia Manco Guerrero,"Ignacio Mariategui 285, Barranco, Lima, Peru",3,Peru,Lima,Barranco,Ignacio Mariategui 285
+2021-08-27 20:37,Ricardo Arellano Barrantes,"Iquique 115, Lima, Lima, Peru",3,Peru,Lima,Lima,Iquique 115
 2021-08-27 20:25,Jaime George Alarcon Cardenas,,0,,,,
 2021-08-27 20:22,Eduardo Jose David Arenas Garcia,"Avenida Mariano H. Cornejo 1145, Pueblo Libre, Lima, Peru",3,Peru,Lima,Pueblo Libre,Avenida Mariano H. Cornejo 1145
-2021-08-27 20:03,Gianfranco Quesada,"Av. Maximo Abril 504, Jesus Maria, Lima, Peru",3,Peru,Lima,Jesus Maria,Av. Maximo Abril 504
 2021-08-27 20:03,Gloria Estefani Patino Gomez,"Ps Los Olivos U- 03, Independencia, Lima, Peru",3,Peru,Lima,Independencia,Ps Los Olivos U- 03
+2021-08-27 20:03,Gianfranco Quesada,"Av. Maximo Abril 504, Jesus Maria, Lima, Peru",3,Peru,Lima,Jesus Maria,Av. Maximo Abril 504
 2021-08-27 20:01,Wendy Llanto Seminario,"Avenida Proceres De La Independencia, San Juan De Lurigancho, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,San Juan De Lurigancho,Avenida Proceres De La Independencia
 2021-08-27 19:59,Cintia Caucha Roman,"Av Separadora Industrial Villa El Salvador , Villa El Salvador, Lima, Peru",3,Peru,Lima,Villa El Salvador,Av Separadora Industrial Villa El Salvador 
 2021-08-27 19:56,Kevin Axel Diaz Montalvo,"Lima, Lima, Lima, Peru",3,Peru,Lima,Lima,Lima
@@ -5846,11 +5846,11 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2021-08-27 19:47,Hada Rodriguez Rosas,"Coronel Zegarra, Jesus Maria, Lima, Peru",3,Peru,Lima,Jesus Maria,Coronel Zegarra
 2021-08-27 19:43,Moises Alejandro Joaquin Sifuentes Barrantes,"Tacaymano 1676, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Tacaymano 1676
 2021-08-27 19:38,Sadit Rocio Damasio Jara,"Avenida Santa Victoria, Lima, Lima, Peru",3,Peru,Lima,Lima,Avenida Santa Victoria
-2021-08-27 19:35,Ronald Adrian Barrera Chilingano,"Av. Argentina A La Altura De La Cuadra 19, Callao, Lima, Peru",3,Peru,Lima,Callao,Av. Argentina A La Altura De La Cuadra 19
 2021-08-27 19:35,Jesus Manuel Sillo Cure,"Villa El Salvador, Lima, Lima, Peru",3,Peru,Lima,Lima,Villa El Salvador
-2021-08-27 19:32,Marisela Berrospi Elguera,,0,,,,
+2021-08-27 19:35,Ronald Adrian Barrera Chilingano,"Av. Argentina A La Altura De La Cuadra 19, Callao, Lima, Peru",3,Peru,Lima,Callao,Av. Argentina A La Altura De La Cuadra 19
 2021-08-27 19:32,Karen Burga Araujo,"Avenida Paseo De La Republica 3905, Surquillo, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Surquillo,Avenida Paseo De La Republica 3905
 2021-08-27 19:32,Isabel Lucero Evaristo Cavero,,0,,,,
+2021-08-27 19:32,Marisela Berrospi Elguera,,0,,,,
 2021-08-27 19:29,Allison Celida Veronica Hernandez Palacios,"17 De Noviembre, Independencia, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Independencia,17 De Noviembre
 2021-08-27 19:23,Eduardo Alfredo Ballon Nunez,"Avenida Ricardo Palma 971, Miraflores, Lima, Peru",3,Peru,Lima,Miraflores,Avenida Ricardo Palma 971
 2021-08-27 15:11,Jonathan Miguel Saona Herrera,"Cercado De Lima, Cercado De Lima, Lima, Peru",3,Peru,Lima,Cercado De Lima,Cercado De Lima
@@ -6427,8 +6427,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2020-12-15 17:02,Andy Olortegui Espiritu,"Avenida Cesar Vallejo 1403, Lince, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Lince,Avenida Cesar Vallejo 1403
 2020-12-15 16:29,Edwin Trejo Ponte,"San Amadeo De Garagay - San Martin De Porres, Lima, Lima, Peru",3,Peru,Lima,Lima,San Amadeo De Garagay - San Martin De Porres
 2020-12-15 16:06,Peter Jonathan Rivera Del Carpio Baca,"Av. Venezuela 5197, Lima, Lima, Peru",3,Peru,Lima,Lima,Av. Venezuela 5197
-2020-12-15 15:14,Ismael Ruiz,"Avenida 28 De Julio, Miraflores, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Miraflores,Avenida 28 De Julio
 2020-12-15 15:14,Luis Francisco Urteaga Galecio,"Yanacoto 161 San Miguel, Lima, Lima, Peru",3,Peru,Lima,Lima,Yanacoto 161 San Miguel
+2020-12-15 15:14,Ismael Ruiz,"Avenida 28 De Julio, Miraflores, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Miraflores,Avenida 28 De Julio
 2020-12-15 14:42,Erik Paul Castro Salazar,"Atahualpa 548, Los Olivos, Lima, Peru",3,Peru,Lima,Los Olivos,Atahualpa 548
 2020-12-15 14:14,Carlos Godoy,"Calle Las Palmeras 331, San Isidro, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,San Isidro,Calle Las Palmeras 331
 2020-12-15 14:11,Javier Galarza,"Estados Unidos 141, Jesus Maria, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Jesus Maria,Estados Unidos 141
@@ -6929,8 +6929,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2020-10-05 21:30,Walter Freddy Felices Cucho,"Avenida Arequipa 2544, Lince, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Lince,Avenida Arequipa 2544
 2020-10-05 20:46,Gustavo Villaran,"Calle H, Surquillo, Lima, Peru",3,Peru,Lima,Surquillo,Calle H
 2020-10-05 19:47,Wilber Pajuelo Pacheco,"Calle Toulon 155, La Molina, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,La Molina,Calle Toulon 155
-2020-10-05 18:23,Jarryns Anthony Cabezas Zacarias,"Surquillo, Surquillo, Lima, Peru",3,Peru,Lima,Surquillo,Surquillo
 2020-10-05 18:23,Edgardo Gutierrez,"Jr. Jorge Chavez 1490, Brena, Lima, Peru",3,Peru,Lima,Brena,Jr. Jorge Chavez 1490
+2020-10-05 18:23,Jarryns Anthony Cabezas Zacarias,"Surquillo, Surquillo, Lima, Peru",3,Peru,Lima,Surquillo,Surquillo
 2020-10-05 18:10,Robert Edward Sanchez Ascencio,"Lima, Lima, Lima, Peru",3,Peru,Lima,Lima,Lima
 2020-10-05 13:50,Jack Lopez Villa,"Rio Caplina Mz D Lt 3, Lima, Lima, Peru",3,Peru,Lima,Lima,Rio Caplina Mz D Lt 3
 2020-10-05 13:46,Klaus Neil Enrique Salazar Aguero,"Jr. Atahualpa 280, Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Lima,Jr. Atahualpa 280
@@ -6949,8 +6949,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2020-10-05 00:31,Fabiola Alejandra Flores Marino,"Av. Lomas De La Molina Vieja, La Molina, Lima, Peru",3,Peru,Lima,La Molina,Av. Lomas De La Molina Vieja
 2020-10-05 00:02,Laly Lizbeth Jimenez Coronado,"Jr. Junin 435, Magdalena, Lima, Peru",3,Peru,Lima,Magdalena,Jr. Junin 435
 2020-10-05 00:00,Marcela Pierina Gutierrez Rodriguez,"Calle Santo Oficio 144, Lima, Lima, Peru",3,Peru,Lima,Lima,Calle Santo Oficio 144
-2020-10-04 23:04,Betsabe Nelly Jara Gutierrez,"Av. 28, Chorrillos, Lima, Peru",3,Peru,Lima,Chorrillos,Av. 28
 2020-10-04 23:04,Florentino Panta Guerra,"Surco - Sjm, Lima, Lima, Peru",3,Peru,Lima,Lima,Surco - Sjm
+2020-10-04 23:04,Betsabe Nelly Jara Gutierrez,"Av. 28, Chorrillos, Lima, Peru",3,Peru,Lima,Chorrillos,Av. 28
 2020-10-04 22:54,Miguel Aguirre Reyes,"-, La Molina, Lima, Peru",3,Peru,Lima,La Molina,-
 2020-10-04 22:32,Silvina Ruth Becerra Valenzuela,"Ate, Lima, Lima, Peru",3,Peru,Lima,Lima,Ate
 2020-10-04 21:41,Diego Yordano Alegre Saenz,"Calle Las Bellisimas 137, Callao, Callao, Peru",3,Peru,Callao,Callao,Calle Las Bellisimas 137
@@ -7031,8 +7031,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2020-10-01 09:47,Melber Vasquez Oblitas,"Jr. El Progreso Mz. A Lt. 9, San Juan De Miraflores, Lima, Peru",3,Peru,Lima,San Juan De Miraflores,Jr. El Progreso Mz. A Lt. 9
 2020-10-01 08:48,Christian Josue Romero Leon,"San Juan De Lurigancho, San Juan De Lurigancho, Lima, Peru",3,Peru,Lima,San Juan De Lurigancho,San Juan De Lurigancho
 2020-10-01 08:37,Kelvin Waldir Lopez Cancino,"San Juan De Lurigancho, Lima, Lima, Peru",3,Peru,Lima,Lima,San Juan De Lurigancho
-2020-10-01 01:44,Jorge Roger Salas Escobar,"Jr. Limoncillos Mz. B Lote 12, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Limoncillos Mz. B Lote 12
 2020-10-01 01:44,Gustavo Gavancho Leon,"Psje. Limatambo 121, Tarapoto, San Martin, Peru",3,Peru,San Martin,Tarapoto,Psje. Limatambo 121
+2020-10-01 01:44,Jorge Roger Salas Escobar,"Jr. Limoncillos Mz. B Lote 12, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Limoncillos Mz. B Lote 12
 2020-10-01 00:16,Antonio Miranda Cuadros,"Calle Valladolid # 128 Urbanizacion Mayorazgo - Ate, Ate, Lima, Peru",3,Peru,Lima,Ate,Calle Valladolid # 128 Urbanizacion Mayorazgo - Ate
 2020-09-30 23:39,Joseth David Acosta Loayza,"Mz. D Lote 5, Puente Piedra, Lima, Peru",3,Peru,Lima,Puente Piedra,Mz. D Lote 5
 2020-09-30 22:40,Jeanluigui Pierre Plasencia Arriaga,"22 De Febrero 683, La Esperanza, La Libertad, Peru",3,Peru,La Libertad,La Esperanza,22 De Febrero 683
@@ -7256,10 +7256,10 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2020-08-31 16:04,Luis Alonso Ordinola Diaz,"Jesus Maria, Jesus Maria, Lima, Peru",3,Peru,Lima,Jesus Maria,Jesus Maria
 2020-08-31 15:48,Karen Azucena Abarca Maita,"Calle Santa Rosa 21, Lima, Lima, Peru",3,Peru,Lima,Lima,Calle Santa Rosa 21
 2020-08-31 15:46,Ronald Castro Davila,"Lima, Lima, Lima, Peru",3,Peru,Lima,Lima,Lima
-2020-08-31 14:55,Francisco Jose Reyes Tapia,"Ciudad Real 161, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Ciudad Real 161
 2020-08-31 14:55,Jesus Alejandro Eca Avila,"Calle 22, Lima, Lima, Peru",3,Peru,Lima,Lima,Calle 22
-2020-08-31 14:51,Renato Santiago Sifuentes Chavez,"Calle Torre Molinos 104, Surco, Lima, Peru",3,Peru,Lima,Surco,Calle Torre Molinos 104
+2020-08-31 14:55,Francisco Jose Reyes Tapia,"Ciudad Real 161, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Ciudad Real 161
 2020-08-31 14:51,Harold Spencer Flores Chapilliquen,"Av Del Pacifico 180 Rpdh San Migel, Lima, Lima, Peru",3,Peru,Lima,Lima,Av Del Pacifico 180 Rpdh San Migel
+2020-08-31 14:51,Renato Santiago Sifuentes Chavez,"Calle Torre Molinos 104, Surco, Lima, Peru",3,Peru,Lima,Surco,Calle Torre Molinos 104
 2020-08-31 14:44,Jean Pierre Medrano Sanchez,"Calle Matier 401, San Borja, Lima, Peru",3,Peru,Lima,San Borja,Calle Matier 401
 2020-08-31 14:40,Fernando Marcio Sotomayor Castro,"Enrique Barron 330, Barranco, Lima, Peru",3,Peru,Lima,Barranco,Enrique Barron 330
 2020-08-31 14:32,Giancarlo Aparcana Castillo,"Calle Luxemburgo, Ate, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Ate,Calle Luxemburgo
@@ -7273,16 +7273,16 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2020-08-31 13:14,Freddy Rafael Abanto Pacheco,"Av. El Triunfo 1680, Lima, Lima, Peru",3,Peru,Lima,Lima,Av. El Triunfo 1680
 2020-08-31 13:14,Oswaldo Castillo Jaime,"Luiz Alvarez Tobar, Chorrillos, Lima, Peru",3,Peru,Lima,Chorrillos,Luiz Alvarez Tobar
 2020-08-31 13:09,Marco Antonio Quispe Galindo,"Eolo 141, La Victoria, Lima, Peru",3,Peru,Lima,La Victoria,Eolo 141
-2020-08-31 13:01,Luis Antonio Pisfil Orrego,"Los Pinos Mz C Lote 03, Lima, Lima, Peru",3,Peru,Lima,Lima,Los Pinos Mz C Lote 03
 2020-08-31 13:01,Bianca Joanna Poma Salvador,"Daniel Alcides Carrion, Lima, Lima, Peru",3,Peru,Lima,Lima,Daniel Alcides Carrion
+2020-08-31 13:01,Luis Antonio Pisfil Orrego,"Los Pinos Mz C Lote 03, Lima, Lima, Peru",3,Peru,Lima,Lima,Los Pinos Mz C Lote 03
 2020-08-31 12:49,Luis Jordano Quinte Tudela,"Avenida Paso De Los Andes, Pueblo Libre, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Pueblo Libre,Avenida Paso De Los Andes
 2020-08-31 12:43,Fiorella De Los Santos,"Flor De Amancaes 15, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Flor De Amancaes 15
 2020-08-31 12:36,Silvio Rolando Monge Miranda,"Av. Ariosto Matellini, Chorrillos, Lima, Peru",3,Peru,Lima,Chorrillos,Av. Ariosto Matellini
-2020-08-31 12:31,Luis Atoche,"Jiron Andahuaylas 1464, La Victoria, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,La Victoria,Jiron Andahuaylas 1464
 2020-08-31 12:31,Leonard Paul Yap Ruiz,"Jiron Elias Aguirre 324, Lima, Lima, Peru",3,Peru,Lima,Lima,Jiron Elias Aguirre 324
+2020-08-31 12:31,Luis Atoche,"Jiron Andahuaylas 1464, La Victoria, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,La Victoria,Jiron Andahuaylas 1464
 2020-08-31 12:25,Rosa Elena Rosales Gonzales,"Jr. Ariadna Ndeg180 - Parque De Surco Ii - Sagitario, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Ariadna Ndeg180 - Parque De Surco Ii - Sagitario
-2020-08-31 12:23,Franco Alfieri Maringota Alvarado,"Avenida Gerardo Unger 6478, Comas, Gobierno Regional De Lima, Peru",3,Peru,Gobierno Regional De Lima,Comas,Avenida Gerardo Unger 6478
 2020-08-31 12:23,Frank Edinson Quispe Medina,"Calle Ignacio Seminario 171, San Juan De Miraflores, Lima, Peru",3,Peru,Lima,San Juan De Miraflores,Calle Ignacio Seminario 171
+2020-08-31 12:23,Franco Alfieri Maringota Alvarado,"Avenida Gerardo Unger 6478, Comas, Gobierno Regional De Lima, Peru",3,Peru,Gobierno Regional De Lima,Comas,Avenida Gerardo Unger 6478
 2020-08-31 12:21,Rodrigo Vicente Candela,"Avenida General Salaverry 1230, Jesus Maria, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Jesus Maria,Avenida General Salaverry 1230
 2020-08-30 23:04,Dircelene Mory Cornejo,"Surco, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Surco
 2020-08-28 13:48,Gerard Romel Prentice Ganoza,"Cincunvalacion Con Canada, San Luis, Lima, Peru",3,Peru,Lima,San Luis,Cincunvalacion Con Canada
@@ -7360,8 +7360,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2020-08-10 21:18,Walter Sandoval,"Emilio Garcia Rosell 1111, Pueblo Libre, Provincia De Lima, Municipalidad Metropolitana De Lima",3,Municipalidad Metropolitana De Lima,Provincia De Lima,Pueblo Libre,Emilio Garcia Rosell 1111
 2020-08-10 21:01,Shirley Venancy Chavez Branez,"Av. Cristobal De Peralta Sur 383, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Av. Cristobal De Peralta Sur 383
 2020-08-10 20:33,Orlando Cabrera,"Euler, San Borja , Lima, Lima, Peru",4,Peru,Lima,Lima,"Euler, San Borja "
-2020-08-10 19:35,Sofia Milagros Delgado Huaynate,"Misionero Plaza, Callao, Callao, Peru",3,Peru,Callao,Callao,Misionero Plaza
 2020-08-10 19:35,Nahidu Zulema Becerra Castaneda,"Avenida Rivera Navarrete 2535, Lince, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Lince,Avenida Rivera Navarrete 2535
+2020-08-10 19:35,Sofia Milagros Delgado Huaynate,"Misionero Plaza, Callao, Callao, Peru",3,Peru,Callao,Callao,Misionero Plaza
 2020-08-10 19:13,Gustavo Geanfranco Limas Lopez,"La Molina, Lima, Lima, Peru",3,Peru,Lima,Lima,La Molina
 2020-08-10 18:51,Erick Jonhatan Riguera Gomez,"Avenida De Los Patriotas 155, San Miguel, Peru",2,Peru,,San Miguel,Avenida De Los Patriotas 155
 2020-08-10 18:46,Victor Manuel Tipian Soriano,"San German, Lima, Lima, Peru",3,Peru,Lima,Lima,San German
@@ -7701,8 +7701,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2020-05-05 17:38,Julio Cesar Torres Cama,"Avenida Imperial 477, Santa Anita, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Santa Anita,Avenida Imperial 477
 2020-05-05 17:35,Ivan Raul Mesco Benavente,,0,,,,
 2020-05-05 17:25,Carlos Darwin Bocanegra Ocampo,"Calle Chinchaysuyo 176, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Calle Chinchaysuyo 176
-2020-05-05 17:17,Brigitte Valentina Cordova Matias,"Avenida Bocanegra 36, Callao, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Callao,Avenida Bocanegra 36
 2020-05-05 17:17,Luis Segundo Mendoza Alvarado,"Avenida Alberto Del Campo 468, San Isidro, Peru",2,Peru,,San Isidro,Avenida Alberto Del Campo 468
+2020-05-05 17:17,Brigitte Valentina Cordova Matias,"Avenida Bocanegra 36, Callao, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Callao,Avenida Bocanegra 36
 2020-05-05 17:16,Erika Marcano,"Los Rosales 870, Santa Anita, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Santa Anita,Los Rosales 870
 2020-05-05 17:06,Fabiola Martha Barthe Paredes,"Calle Dulio Poggi , La Perla, Lima, Peru",3,Peru,Lima,La Perla,Calle Dulio Poggi 
 2020-05-05 16:58,Hersson Quipuzco Melgar,"Av. Tingo Maria # 410 Urb. Jose Carlos Mareategui, Lima, Lima, Peru",3,Peru,Lima,Lima,Av. Tingo Maria # 410 Urb. Jose Carlos Mareategui
@@ -8227,8 +8227,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2020-01-28 16:04,Liza Barrios Susana Marisol,"Mariano Cornejo 2194, Lima, Lima, Peru",3,Peru,Lima,Lima,Mariano Cornejo 2194
 2020-01-28 15:30,Eduardo Rodriguez,"Urb. Albino Herrera, Callao, Lima, Peru",3,Peru,Lima,Callao,Urb. Albino Herrera
 2020-01-28 14:09,Edwin Jhon Chunga Vasquez,"1,2, Callao, Lima, Peru",4,Peru,Lima,Callao,"1,2"
-2020-01-28 13:51,Sheila Helen Barreto Benavides,"Avenida Talara 285, Distrito De Lima, Departamento De Lima, Peru",3,Peru,Departamento De Lima,Distrito De Lima,Avenida Talara 285
 2020-01-28 13:51,Carlos Alberto Paz Urcia,"Proyectos Especiales, San Juan De Lurigancho, Lima, Lima, Peru",4,Peru,Lima,Lima,"Proyectos Especiales, San Juan De Lurigancho"
+2020-01-28 13:51,Sheila Helen Barreto Benavides,"Avenida Talara 285, Distrito De Lima, Departamento De Lima, Peru",3,Peru,Departamento De Lima,Distrito De Lima,Avenida Talara 285
 2020-01-28 13:37,Juan Carlos Sotelo Canales,"Jiron Ica 441A, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Jiron Ica 441A
 2020-01-28 13:14,Martin Enrique Maldonado Mendoza,"La Mar 283, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,La Mar 283
 2020-01-28 13:05,David Reyes Loza,"Jr Luis Miroquesada 171, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Jr Luis Miroquesada 171
@@ -8236,8 +8236,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2020-01-28 12:17,Martin Enrique Maldonado Mendoza,"La Mar 283, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,La Mar 283
 2020-01-28 12:08,Yonal Alejandro Campian Ortiz,"El Condor 404, Callao, Lima, Peru",3,Peru,Lima,Callao,El Condor 404
 2020-01-28 11:50,William Erazo Collantes,"Saenz Pena 161, Callao, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Callao,Saenz Pena 161
-2020-01-28 11:36,Sonia Lizeth Garces Saenz,"Calle Jose Diaz 976, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Calle Jose Diaz 976
 2020-01-28 11:36,Martin Ivan Sanchez Motta,"Jr Junin # 435 - Magdalena Del Mar, Peru",1,Peru,,,Jr Junin # 435 - Magdalena Del Mar
+2020-01-28 11:36,Sonia Lizeth Garces Saenz,"Calle Jose Diaz 976, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Calle Jose Diaz 976
 2020-01-28 11:05,Sergio Enrique Atencio Guzman,"1,19,24, Villa El Salvador, Lima, Peru",5,Peru,Lima,Villa El Salvador,"1,19,24"
 2020-01-28 10:59,Pedro Williams Solano Francia,"Canelos 101, Lima, Lima, Peru",3,Peru,Lima,Lima,Canelos 101
 2020-01-27 18:18,Rogelio Hoyos Carbajal,"Manuel Arevalo, Trujillo, La Libertad, Peru",3,Peru,La Libertad,Trujillo,Manuel Arevalo
@@ -8353,8 +8353,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2020-01-13 22:01,Randy Silva Salazar,"Pedro De Candia 693, Lima, Lima, Peru",3,Peru,Lima,Lima,Pedro De Candia 693
 2020-01-13 21:29,Giancarlo Tomas Medina Orosco,"Las Flores De Primavera Alt. Paradero 17, San Juan De Lurigancho., Lima, Peru",3,Peru,Lima,San Juan De Lurigancho.,Las Flores De Primavera Alt. Paradero 17
 2020-01-13 21:00,Magaly Janet Garcia Cordova,"Jr. Ollantaytambo 257 Tahuantinsuyo, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Ollantaytambo 257 Tahuantinsuyo
-2020-01-13 20:33,Oscar Adrian Huaman Ugarte,,0,,,,
 2020-01-13 20:33,Victor Manuel Garcia Caycho,"Calle 6, Distrito De Lima, Departamento De Lima, Peru",3,Peru,Departamento De Lima,Distrito De Lima,Calle 6
+2020-01-13 20:33,Oscar Adrian Huaman Ugarte,,0,,,,
 2020-01-13 19:47,Alexander Alvites Vargas,"Jose Granda 3256, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Jose Granda 3256
 2020-01-13 18:55,Carlos Liza,"Jiron Julio Bellido 609, Lima, Gobierno Regional De Lima, Peru",3,Peru,Gobierno Regional De Lima,Lima,Jiron Julio Bellido 609
 2020-01-13 18:16,Luis Antonio Alvarado Chinguel,"Mz. E. Lt. 19, San Juan De Lurigancho, Lima, Peru",3,Peru,Lima,San Juan De Lurigancho,Mz. E. Lt. 19
@@ -8377,8 +8377,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2020-01-13 11:44,Brandon Avila Tarrillo,"Cajatambo 125, Huancayo, Junin, Peru",3,Peru,Junin,Huancayo,Cajatambo 125
 2020-01-13 11:22,Denis Christopher Lizarzaburu Li,"Avenida German Aguirre 1080, San Martin De Porres, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,San Martin De Porres,Avenida German Aguirre 1080
 2020-01-13 10:52,Daniel Alonso Gutierrez Rivera,"Avenida El Sol 112, Barranco, Lima, Peru",3,Peru,Lima,Barranco,Avenida El Sol 112
-2020-01-13 10:48,Manuel Angel Vera Caceres,"Victoria Navarro 606, Callao, Lima, Peru",3,Peru,Lima,Callao,Victoria Navarro 606
 2020-01-13 10:48,Raul Daniel Cerna Vera,,0,,,,
+2020-01-13 10:48,Manuel Angel Vera Caceres,"Victoria Navarro 606, Callao, Lima, Peru",3,Peru,Lima,Callao,Victoria Navarro 606
 2020-01-13 10:40,Jair Jean Michael La Serna,"Avenida Venezuela, Peru",1,Peru,,,Avenida Venezuela
 2020-01-13 10:26,Frank Ramos,"Mz=A Lote=25 Programa De Vivienda Villa Rica-Chuquitanta San Martin De Porres, Lima, Lima, Peru",3,Peru,Lima,Lima,Mz=A Lote=25 Programa De Vivienda Villa Rica-Chuquitanta San Martin De Porres
 2020-01-13 10:14,Saul Huaman Ludena,"Avenida Carlos Izaguirre 1999, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Avenida Carlos Izaguirre 1999
@@ -8961,8 +8961,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2019-11-29 11:25,Val Alan Ramirez Uchuya,"Calle Cusco, Ate Vitarte, Lima, Peru",3,Peru,Lima,Ate Vitarte,Calle Cusco
 2019-11-29 11:08,Carlos Guillermo Zamorano Carrera,"Juan Pablo Vizcardo Y Guzman, La Molina, Lima, Peru",3,Peru,Lima,La Molina,Juan Pablo Vizcardo Y Guzman
 2019-11-29 10:58,Joaquin Alatrista Lam,"6,2,5,101, La Molina, Lima, Peru",6,Peru,Lima,La Molina,"6,2,5,101"
-2019-11-29 10:54,Gustavo Adolfo Hilario Yarihuaman,"Jr Montero Rosas 1366, Lima Cercado, Lima, Peru",3,Peru,Lima,Lima Cercado,Jr Montero Rosas 1366
 2019-11-29 10:54,Luis Quinto Rivera,"Mz E Lt 03, Puente Piedra, Lima, Peru",3,Peru,Lima,Puente Piedra,Mz E Lt 03
+2019-11-29 10:54,Gustavo Adolfo Hilario Yarihuaman,"Jr Montero Rosas 1366, Lima Cercado, Lima, Peru",3,Peru,Lima,Lima Cercado,Jr Montero Rosas 1366
 2019-11-29 10:50,Franco Mauricio Flores Mallqui,"Jardines De Shangrila, Lima, Lima, Peru",3,Peru,Lima,Lima,Jardines De Shangrila
 2019-11-29 09:38,Lenin Martin Carrasco Tavara,"Jr. Canete Mz. N Lote 20, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Canete Mz. N Lote 20
 2019-11-29 09:37,Jesus Holguin Vicente,"Arqueologia, San Luis, Lima, Peru",3,Peru,Lima,San Luis,Arqueologia
@@ -9024,8 +9024,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2019-11-28 17:45,Erika Flores,"Inclan, Magdalena, Lima, Peru",3,Peru,Lima,Magdalena,Inclan
 2019-11-28 17:43,Martin Chaupis Armas,"Cajacay , Los Olivos, Lima, Peru",3,Peru,Lima,Los Olivos,Cajacay 
 2019-11-28 17:31,Yerson Cesar De La Cruz Almeyda,"1,19, Pueblo Nuevo, Ica, Peru",4,Peru,Ica,Pueblo Nuevo,"1,19"
-2019-11-28 17:23,Renato Andree,"Rio Pastaza 143, Comas, Lima, Peru",3,Peru,Lima,Comas,Rio Pastaza 143
 2019-11-28 17:23,Eduardo Cesar Guerra Acuache,"Avenida Brigida Silva De Ochoa 138, San Miguel, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,San Miguel,Avenida Brigida Silva De Ochoa 138
+2019-11-28 17:23,Renato Andree,"Rio Pastaza 143, Comas, Lima, Peru",3,Peru,Lima,Comas,Rio Pastaza 143
 2019-11-28 17:19,Cesar Fajardo Castro,"Alhelies 291, Bellavista, Callao, Peru",3,Peru,Callao,Bellavista,Alhelies 291
 2019-11-28 16:56,Daniel Alonso Huamani Ochoa,"Avenida Confraternidad 402, Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Lima,Avenida Confraternidad 402
 2019-11-28 16:51,Luis Manuel Julian Llosa,"Tupac Amaru 188, Lima, Lima, Peru",3,Peru,Lima,Lima,Tupac Amaru 188
@@ -9056,16 +9056,16 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2019-11-28 14:11,Daniel Martin Nizama Manrique,"Colon, Lima, Lima, Peru",3,Peru,Lima,Lima,Colon
 2019-11-28 14:06,Amner Junior Condezo Santana,"Calle General Recavarren 356, Miraflores, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Miraflores,Calle General Recavarren 356
 2019-11-28 14:04,Henry Villanueva,"San Gregorio, Comas, Lima, Peru",3,Peru,Lima,Comas,San Gregorio
-2019-11-28 14:03,Carlos Andree Salinas Morales,"Calle Venecia 186, Dpto. 201, Miraflores, Lima, Peru",4,Peru,Lima,Miraflores,"Calle Venecia 186, Dpto. 201"
 2019-11-28 14:03,Jose Eduardo Casusol Huavil,"Calle Los Mirables 935, San Juan De Lurigancho, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,San Juan De Lurigancho,Calle Los Mirables 935
+2019-11-28 14:03,Carlos Andree Salinas Morales,"Calle Venecia 186, Dpto. 201, Miraflores, Lima, Peru",4,Peru,Lima,Miraflores,"Calle Venecia 186, Dpto. 201"
 2019-11-28 13:58,Carlos Huarcaya,"Proceres De La Independencia, Lima, Lima, Peru",3,Peru,Lima,Lima,Proceres De La Independencia
 2019-11-28 13:41,Luis Alfredo Vergara Trejo,"Gran Pajaten, Lima, Lima, Peru",3,Peru,Lima,Lima,Gran Pajaten
 2019-11-28 13:38,Alejandro Ramirez Palomino,"Calle El Olivar Mz. K Lote 34, , Gobierno Regional Del Callao, Peru",3,Peru,Gobierno Regional Del Callao,,Calle El Olivar Mz. K Lote 34
-2019-11-28 13:33,John Antohny Panana Chumpitaz,"Calle 2 M 23 Coopip, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Calle 2 M 23 Coopip
 2019-11-28 13:33,Jorge Arturo Sanguess Agurto,"Salamanca, Lima, Lima, Peru",3,Peru,Lima,Lima,Salamanca
+2019-11-28 13:33,John Antohny Panana Chumpitaz,"Calle 2 M 23 Coopip, Santiago De Surco, Lima, Peru",3,Peru,Lima,Santiago De Surco,Calle 2 M 23 Coopip
 2019-11-28 13:30,Diego Alonso Guadiamos Barriga,"Jiron Alfonso Ugarte 614, Trujillo, La Libertad, Peru",3,Peru,La Libertad,Trujillo,Jiron Alfonso Ugarte 614
-2019-11-28 13:22,Magdaly Georgina Venero Vasquez,"Urb. Meliton Carbajal Mz A Lt 30, Lima, Lima, Peru",3,Peru,Lima,Lima,Urb. Meliton Carbajal Mz A Lt 30
 2019-11-28 13:22,Oscar Alexander Carquin Nicho,"Domingo Elias 839, Surquillo, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Surquillo,Domingo Elias 839
+2019-11-28 13:22,Magdaly Georgina Venero Vasquez,"Urb. Meliton Carbajal Mz A Lt 30, Lima, Lima, Peru",3,Peru,Lima,Lima,Urb. Meliton Carbajal Mz A Lt 30
 2019-11-28 13:04,Jose Felix,"Julio Garcia 230, San Borja, Departamento De Lima, Peru",3,Peru,Departamento De Lima,San Borja,Julio Garcia 230
 2019-11-28 13:01,Enrique Arturo Benavente Rios,"Calle Pablo Usandizaga 579, San Borja, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,San Borja,Calle Pablo Usandizaga 579
 2019-11-28 12:55,Jose Luis Pintado Sanchez,"Avenida Las Flores De Primavera, San Juan De Lurigancho., Lima, Peru",3,Peru,Lima,San Juan De Lurigancho.,Avenida Las Flores De Primavera
@@ -9086,8 +9086,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2019-11-28 12:11,Rogghert Dickerson Aleman Rosillo,"5,06, Surquillo, Lima, Peru",4,Peru,Lima,Surquillo,"5,06"
 2019-11-28 12:07,Yamir Adolfo Medrano Flores,"Villa El Salvador, Lima, Lima, Peru",3,Peru,Lima,Lima,Villa El Salvador
 2019-11-28 12:04,Victor William Gomez Barbaran,"Jr. Benigno Cornejo 430, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Benigno Cornejo 430
-2019-11-28 11:58,Omar Mejia,"Avenida Los Quechuas, Ate., Lima, Peru",3,Peru,Lima,Ate.,Avenida Los Quechuas
 2019-11-28 11:58,Jean Pool Avalos Cueva,"Avenida Mello Franco 103, Jesus Maria, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Jesus Maria,Avenida Mello Franco 103
+2019-11-28 11:58,Omar Mejia,"Avenida Los Quechuas, Ate., Lima, Peru",3,Peru,Lima,Ate.,Avenida Los Quechuas
 2019-11-28 11:57,Edwin Bautista,"Jiron Aracena 139, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Jiron Aracena 139
 2019-11-28 11:51,Miguel Angel Melgar Seas,"Juan Velasco Alvarado, Lima, Lima, Peru",3,Peru,Lima,Lima,Juan Velasco Alvarado
 2019-11-28 11:51,Javier Esteban Bedia Romero,"Av.Jose Granda Cdra. 21, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Av.Jose Granda Cdra. 21
@@ -9096,8 +9096,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2019-11-28 11:36,Daniel Gonzalez,"Piura 134, Miraflores, Lima, Peru",3,Peru,Lima,Miraflores,Piura 134
 2019-11-28 11:36,Juan Meza,"Halcones, Surquillo, Lima, Peru",3,Peru,Lima,Surquillo,Halcones
 2019-11-28 11:32,Jose Luis Clausen Cueto,"Jr Lima 309, La Perla, Lima, Peru",3,Peru,Lima,La Perla,Jr Lima 309
-2019-11-28 11:31,Andy Olortegui Espiritu,"Avenida Cesar Vallejo 1403, Lince, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Lince,Avenida Cesar Vallejo 1403
 2019-11-28 11:31,Jimmy Lino Rojas Marcavillaca,"Javier Heraud Mz &Quot;S&Quot; Lt 20, Ate., Lima, Peru",3,Peru,Lima,Ate.,Javier Heraud Mz &Quot;S&Quot; Lt 20
+2019-11-28 11:31,Andy Olortegui Espiritu,"Avenida Cesar Vallejo 1403, Lince, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Lince,Avenida Cesar Vallejo 1403
 2019-11-28 11:30,Juan Carlos Fernandez Sanchez,"Avenida Javier Prado Oeste 970, San Isidro, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,San Isidro,Avenida Javier Prado Oeste 970
 2019-11-28 11:06,Jose Luis Diaz Gutierrez,,0,,,,
 2019-11-28 10:45,Jack Azrael Caceres Watanabe,"Avenida Paseo De La Republica 3937, Lima, Lima, Peru",3,Peru,Lima,Lima,Avenida Paseo De La Republica 3937
@@ -9190,8 +9190,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2019-11-08 22:35,Andrea Huachani Coripuna,"101,01,02, San Juan De Lurigancho., Lima, Peru",5,Peru,Lima,San Juan De Lurigancho.,"101,01,02"
 2019-11-08 13:36,Julia Elizabeth Villa Morales,"-, San Juan De Lurigancho, Lima, Peru",3,Peru,Lima,San Juan De Lurigancho,-
 2019-11-08 13:15,Jorge Armando Flores Flores,"Veracruz, Lima, Lima, Peru",3,Peru,Lima,Lima,Veracruz
-2019-11-08 12:09,Thalia Heinson Heinson,"La Merced, Comas, Peru",2,Peru,,Comas,La Merced
 2019-11-08 12:09,Erik Guerrero,"Jr Issac Recabarren 123, San Juan De Miraflores, Lima, Peru",3,Peru,Lima,San Juan De Miraflores,Jr Issac Recabarren 123
+2019-11-08 12:09,Thalia Heinson Heinson,"La Merced, Comas, Peru",2,Peru,,Comas,La Merced
 2019-11-08 11:18,Julia Elizabeth Villa Morales,"-, San Juan De Lurigancho, Lima, Peru",3,Peru,Lima,San Juan De Lurigancho,-
 2019-11-08 11:02,Carlos Alberto Bulnes Perez,"Avenida Defensores Del Morro 153, Lima, Lima, Peru",3,Peru,Lima,Lima,Avenida Defensores Del Morro 153
 2019-11-08 10:06,Julia Elizabeth Villa Morales,"-, San Juan De Lurigancho, Lima, Peru",3,Peru,Lima,San Juan De Lurigancho,-
@@ -9272,18 +9272,18 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2019-11-05 12:21,Henry Fernando Terrones Cortez,"Jr Ica 950, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr Ica 950
 2019-11-05 12:20,Jeremy Novoa Tello,"Avenida Alcidez Vigo Hurtado Mz H, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Avenida Alcidez Vigo Hurtado Mz H
 2019-11-05 12:20,Jimmy Pedro Bravo Vargas,"29, Lima, Lima, Peru",3,Peru,Lima,Lima,29
-2019-11-05 12:10,Jose Carlos Landa Guadamur,"Av. Chancas, Lima, Lima, Peru",3,Peru,Lima,Lima,Av. Chancas
 2019-11-05 12:10,Hanskz Yakzshin Hernandez Diaz,"Pasaje Los Duraznos 146, Los Olivos, Lima, Peru",3,Peru,Lima,Los Olivos,Pasaje Los Duraznos 146
+2019-11-05 12:10,Jose Carlos Landa Guadamur,"Av. Chancas, Lima, Lima, Peru",3,Peru,Lima,Lima,Av. Chancas
 2019-11-05 11:22,Erick Chambi,"Urb. San Ignacio Mzlt 8, San Juan De Lurigancho., Lima, Peru",3,Peru,Lima,San Juan De Lurigancho.,Urb. San Ignacio Mzlt 8
 2019-11-05 11:20,Juan Luis Reyes Elguera,"Av. Alejandro Velasco Astete 1941 Urb. Las Gardenias Dpto. 302, Lima, Lima, Peru",3,Peru,Lima,Lima,Av. Alejandro Velasco Astete 1941 Urb. Las Gardenias Dpto. 302
-2019-11-05 11:18,Richard Valero,"28,3, La Victoria, Lima, Peru",4,Peru,Lima,La Victoria,"28,3"
 2019-11-05 11:18,Elias Obeso Valverde,"Avenida Buenos Aires, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Avenida Buenos Aires
+2019-11-05 11:18,Richard Valero,"28,3, La Victoria, Lima, Peru",4,Peru,Lima,La Victoria,"28,3"
 2019-11-05 10:56,Bryan Vargas Chavez,"Manet 294, Distrito De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Distrito De Lima,Manet 294
 2019-11-05 10:41,Linda Belleza Cauti,"Avenida Republica De Venezuela, , Peru",2,Peru,,,Avenida Republica De Venezuela
 2019-11-05 10:40,Jose Luis Contreras Cangre,"Avenida Canada 1030, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Avenida Canada 1030
 2019-11-05 10:15,Pedro Jose Enrique Salazar Aguero,"Atahualpa 280, Barranco, Lima, Peru",3,Peru,Lima,Barranco,Atahualpa 280
-2019-11-05 10:07,Miguel Angel Roman Minaya,"Prol Cesar Vallejo, Lima, Lima, Peru",3,Peru,Lima,Lima,Prol Cesar Vallejo
 2019-11-05 10:07,Carlos Alfredo Caycho Morales,"Nicolini, Lima, Lima, Peru",3,Peru,Lima,Lima,Nicolini
+2019-11-05 10:07,Miguel Angel Roman Minaya,"Prol Cesar Vallejo, Lima, Lima, Peru",3,Peru,Lima,Lima,Prol Cesar Vallejo
 2019-11-05 09:46,Daniel Chacaltana Nunez,"Managua, La Molina, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,La Molina,Managua
 2019-11-05 09:43,Eduardo Cesar Guerra Acuache,"Avenida Brigida Silva De Ochoa 138, San Miguel, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,San Miguel,Avenida Brigida Silva De Ochoa 138
 2019-11-05 09:22,Roxana Johana Chero Riveros,,0,,,,
@@ -9296,8 +9296,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2019-11-04 23:06,Walter Gutierrez Camacho,"Torres, Lima, Peru",2,Peru,,Lima,Torres
 2019-11-04 22:39,Reyser Urbano Milla,"Cll Yahuar Huaca 139 - Independencia, Lima, Lima, Peru",3,Peru,Lima,Lima,Cll Yahuar Huaca 139 - Independencia
 2019-11-04 22:31,Nestor Alarcon,"Jose Balta, Carabayllo, Lima, Peru",3,Peru,Lima,Carabayllo,Jose Balta
-2019-11-04 22:25,Wiliam Pacco Hanccoccallo,"Los Ruisenores 160, Santa Anita, Peru",2,Peru,,Santa Anita,Los Ruisenores 160
 2019-11-04 22:25,Fernando Manuel Zavaleta Gonzales,"Mz A Lote 29, Ate., Lima, Peru",3,Peru,Lima,Ate.,Mz A Lote 29
+2019-11-04 22:25,Wiliam Pacco Hanccoccallo,"Los Ruisenores 160, Santa Anita, Peru",2,Peru,,Santa Anita,Los Ruisenores 160
 2019-11-04 22:23,Adrian Nicolas Ojeda Hernandez,"A.H Villa Mercedes, Lurigancho, Lima, Peru",3,Peru,Lima,Lurigancho,A.H Villa Mercedes
 2019-11-04 21:51,Martin Andre Polo Olivares,"Jiron Jorge Chavez 1456, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Jiron Jorge Chavez 1456
 2019-11-04 21:47,Jeremy Edward Ruiz Pallin,"Jr. Ciro Alegria 743, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Ciro Alegria 743
@@ -9310,16 +9310,16 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2019-11-04 20:08,Wilmer Abdel Ponce De Leon Florindez,"Av. Prolong. Javier Prado Ndeg 8746, Lima, Lima, Peru",3,Peru,Lima,Lima,Av. Prolong. Javier Prado Ndeg 8746
 2019-11-04 19:57,Sandra Flores Garcia,"Los Cepreses, Lima, Lima, Peru",3,Peru,Lima,Lima,Los Cepreses
 2019-11-04 19:37,Marco Antonio Pascual Nieto,"Av Canada, Lima, Lima, Peru",3,Peru,Lima,Lima,Av Canada
-2019-11-04 19:01,Jose Luis Pintado Sanchez,"Av. Flores De Primavera, Lima, Lima, Peru",3,Peru,Lima,Lima,Av. Flores De Primavera
 2019-11-04 19:01,Juan Anthony Navarro Roman,"Jiron Orbegoso 240, Trujillo, La Libertad, Peru",3,Peru,La Libertad,Trujillo,Jiron Orbegoso 240
+2019-11-04 19:01,Jose Luis Pintado Sanchez,"Av. Flores De Primavera, Lima, Lima, Peru",3,Peru,Lima,Lima,Av. Flores De Primavera
 2019-11-04 18:56,Yonel Pinedo Barboza,"Villavicencio 169, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Villavicencio 169
 2019-11-04 18:52,Enrique Fernando Leon Atencio,"Jiron Huaraz, Lima, Lima, Peru",3,Peru,Lima,Lima,Jiron Huaraz
 2019-11-04 18:51,Carlos Ericson Rodriguez Castro,"2110,5,102, Santiago De Surco, Lima, Peru",5,Peru,Lima,Santiago De Surco,"2110,5,102"
 2019-11-04 18:46,Roger Alex Gutierrez Leon,"Abubillas 221, Santa Anita, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Santa Anita,Abubillas 221
 2019-11-04 18:40,Jose Eduardo Casusol Huavil,"Calle Los Mirables 935, San Juan De Lurigancho, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,San Juan De Lurigancho,Calle Los Mirables 935
 2019-11-04 18:15,Alain Guillermo Sanchez Ego-Aguirre,"55,1, Lurigancho, Lima, Peru",4,Peru,Lima,Lurigancho,"55,1"
-2019-11-04 18:12,Frank Adolfo Sandoval Rivera,"Villarreal 155, Comas, Departamento De Lima, Peru",3,Peru,Departamento De Lima,Comas,Villarreal 155
 2019-11-04 18:12,Daniel Martin Nizama Manrique,"Colon, Lima, Lima, Peru",3,Peru,Lima,Lima,Colon
+2019-11-04 18:12,Frank Adolfo Sandoval Rivera,"Villarreal 155, Comas, Departamento De Lima, Peru",3,Peru,Departamento De Lima,Comas,Villarreal 155
 2019-11-04 18:03,Cristian Irrazabal Bellido,"Lima, Lima, Lima, Peru",3,Peru,Lima,Lima,Lima
 2019-11-04 17:55,Jose Rogger Huaytan Paucar,"Calle Las Alondras, El Agustino, Lima, Peru",3,Peru,Lima,El Agustino,Calle Las Alondras
 2019-11-04 17:55,Alexander Michell Limache Gavelan,"1 De Mayo, Lima, Lima, Peru",3,Peru,Lima,Lima,1 De Mayo
@@ -9422,8 +9422,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2019-10-28 17:07,Kelly Diaz,"Calle Berlin 880, Miraflores, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Miraflores,Calle Berlin 880
 2019-10-28 16:56,Antony Oncoy Torres,"Guardia Republicana, Lima, Lima, Peru",3,Peru,Lima,Lima,Guardia Republicana
 2019-10-28 16:45,Daniel Yi,"Francisco Grana 375, Lima, Lima, Peru",3,Peru,Lima,Lima,Francisco Grana 375
-2019-10-28 16:25,Amilkar Oliver Orihuela Puente,"Asoc. Villa Santa Anita Mz F Lt 5, Lima, Lima, Peru",3,Peru,Lima,Lima,Asoc. Villa Santa Anita Mz F Lt 5
 2019-10-28 16:25,Carlos Alberto Torres Vega,"Calle Ocharan, Miraflores, Peru",2,Peru,,Miraflores,Calle Ocharan
+2019-10-28 16:25,Amilkar Oliver Orihuela Puente,"Asoc. Villa Santa Anita Mz F Lt 5, Lima, Lima, Peru",3,Peru,Lima,Lima,Asoc. Villa Santa Anita Mz F Lt 5
 2019-10-28 16:23,Arnold Ruben Peralta Casariego,"Avenida San German, San Martin De Porres - Lima, Lima, Peru",3,Peru,Lima,San Martin De Porres - Lima,Avenida San German
 2019-10-28 16:19,Luis Augusto Barrientos Condori,"Av. Guardia Peruana Mz. P Lt. 1, Chorrillos, Lima, Peru",3,Peru,Lima,Chorrillos,Av. Guardia Peruana Mz. P Lt. 1
 2019-10-28 16:15,Franco Omar Garcia Cirilo,"Av. Los Ingenieros, Urb. Sta. Patricia, Lima, Lima, Peru",4,Peru,Lima,Lima,"Av. Los Ingenieros, Urb. Sta. Patricia"
@@ -9745,8 +9745,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2019-08-28 13:40,Juan Jose Cajachagua Quispe,"Av. Principal 441-Dpto 703 Urb. La Calera - Surquillo, Lima, Lima, Peru",3,Peru,Lima,Lima,Av. Principal 441-Dpto 703 Urb. La Calera - Surquillo
 2019-08-28 13:10,Sergio Paulo Jaramillo Saavedra,"139,305, Lima, Lima, Peru",4,Peru,Lima,Lima,"139,305"
 2019-08-28 11:55,Roger Marcelo Carahuanco Luna,"Grau 380, Lima, Lima, Peru",3,Peru,Lima,Lima,Grau 380
-2019-08-28 11:34,Jesus Manuel Lopez Sotomayor,"Jr. Las Violetas 1071, Frente Del Centro Del Adulto Mayor De La Municipalidad De San Martin De Porres, Lima, Lima, Peru",4,Peru,Lima,Lima,"Jr. Las Violetas 1071, Frente Del Centro Del Adulto Mayor De La Municipalidad De San Martin De Porres"
 2019-08-28 11:34,"Ing. Israel Yus Angulo C. Pmp,Psm,Eac,Smc,Itil","Av Principal, Chaclacayo, Lima, Peru",3,Peru,Lima,Chaclacayo,Av Principal
+2019-08-28 11:34,Jesus Manuel Lopez Sotomayor,"Jr. Las Violetas 1071, Frente Del Centro Del Adulto Mayor De La Municipalidad De San Martin De Porres, Lima, Lima, Peru",4,Peru,Lima,Lima,"Jr. Las Violetas 1071, Frente Del Centro Del Adulto Mayor De La Municipalidad De San Martin De Porres"
 2019-08-28 10:15,Antonio Miranda Cuadros,"Calle Valladolid 128 Urb. Mayorazgo - Ate, Lima, Lima, Peru",3,Peru,Lima,Lima,Calle Valladolid 128 Urb. Mayorazgo - Ate
 2019-08-28 10:13,Henry Villanueva,"San Gregorio, Comas, Lima, Peru",3,Peru,Lima,Comas,San Gregorio
 2019-08-28 10:08,Gloria Fuchs,"Puquina 100, San Miguel, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,San Miguel,Puquina 100
@@ -9832,8 +9832,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2019-08-16 10:39,Elias Obeso Valverde,"Avenida Buenos Aires, Cercado De Lima, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Cercado De Lima,Avenida Buenos Aires
 2019-08-16 09:48,Jesus Orlando Zabaleta Espinoza,"Jiron Inca Ripac, Jesus Maria, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Jesus Maria,Jiron Inca Ripac
 2019-08-16 09:26,Luis Alberto Andre Yslao Andrade,"Mariscal Las Heras 529, Lince, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Lince,Mariscal Las Heras 529
-2019-08-16 08:25,Jaime Crisostomo Huaccha,"Jr. Ciro Alegria 570, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Ciro Alegria 570
 2019-08-16 08:25,Antonio Miranda Cuadros,"Calle Valladolid 128 Urb. Mayorazgo - Ate, Lima, Lima, Peru",3,Peru,Lima,Lima,Calle Valladolid 128 Urb. Mayorazgo - Ate
+2019-08-16 08:25,Jaime Crisostomo Huaccha,"Jr. Ciro Alegria 570, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Ciro Alegria 570
 2019-08-16 07:00,Juan Angel Fabian Alvarez,"Jr. Maria Parado De Bellido Ndeg191 Collique Comas, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Maria Parado De Bellido Ndeg191 Collique Comas
 2019-08-15 23:29,Santos Reynaldo Yovera More,"Jr. Juno 152, Lima, Lima, Peru",3,Peru,Lima,Lima,Jr. Juno 152
 2019-08-15 23:14,Victor Eliezer Rodas Alanya,"Calle Los Pinos - Vitarte., Lima, Lima, Peru",3,Peru,Lima,Lima,Calle Los Pinos - Vitarte.
@@ -10025,8 +10025,8 @@ candidatePostulationDate,candidateFullName,candidateAddress,len,addressCountry,a
 2019-07-22 16:26,Juan Carlos Diaz Nunez,"Jr. Los Calamos 1473, San Juan De Lurigancho., Lima, Peru",3,Peru,Lima,San Juan De Lurigancho.,Jr. Los Calamos 1473
 2019-07-22 16:03,Alfredo Oquendo Noriega,"Villa Maria Del Triunfo, Lima, Lima, Peru",3,Peru,Lima,Lima,Villa Maria Del Triunfo
 2019-07-22 15:56,Maritza Lizbeth Porras Uchofen,"Unidad Vecinal De Mirones, Lima, Lima, Peru",3,Peru,Lima,Lima,Unidad Vecinal De Mirones
-2019-07-22 15:54,Javier Naupari Pizango,"Las Tapadas 182, Lima, Lima, Peru",3,Peru,Lima,Lima,Las Tapadas 182
 2019-07-22 15:54,Laly Lizbeth Jimenez Coronado,"Jr. Junin 435, Magdalena, Lima, Peru",3,Peru,Lima,Magdalena,Jr. Junin 435
+2019-07-22 15:54,Javier Naupari Pizango,"Las Tapadas 182, Lima, Lima, Peru",3,Peru,Lima,Lima,Las Tapadas 182
 2019-07-22 15:44,Gustavo Roberth Lopez Lopez,"Ca.Albizia 297, Surco, Lima, Peru",3,Peru,Lima,Surco,Ca.Albizia 297
 2019-07-22 15:34,Adrian Lincol Huamani Bonilla,"Jr. Jose Rufino Echenique 120, San Miguel, Lima, Peru",3,Peru,Lima,San Miguel,Jr. Jose Rufino Echenique 120
 2019-07-22 15:07,Freddy Chicoma Rosales,"Avenida El Carmen, Santiago De Surco, Municipalidad Metropolitana De Lima, Peru",3,Peru,Municipalidad Metropolitana De Lima,Santiago De Surco,Avenida El Carmen
