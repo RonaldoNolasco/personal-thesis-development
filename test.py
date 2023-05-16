@@ -1,5 +1,5 @@
-txt = "565543"
+import re
 
-x = txt.isnumeric()
+test = re.sub("[^0-9]", "", "Republica Dominicana, Casado/A Rd3951262")
 
-print(x)
+print(test)
