@@ -1,2 +1,1 @@
-if {}:
-    print("Ga")
+print(int("5"))
