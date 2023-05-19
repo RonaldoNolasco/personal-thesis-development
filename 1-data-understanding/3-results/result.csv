@@ -1,2 +1,968 @@
-candidatePostulationDate,candidateFullName
-2019-11-28 20:05,Jhonny Fernandez
+candidatePostulationDate,candidateFullName,lastWorkDays,lastWorkName,lastWorkCountry,lastWorkArea
+2021-10-27 22:42,Argenis Coromoto Junior Carvajal Perez,696,Wayni Tech &Amp; People,Peru,Programacion
+2021-10-30 14:06,Percy Camala,302,Katal,Peru,Tecnologia / Sistemas
+2021-11-03 23:37,Marco Antonio Neciosup Panibra,1251,Manufacturas San Isidro S.A.C,Peru,Tecnologias De La Informacion
+2021-11-03 09:44,Oiver Tarrillo Vasquez,183,Abc Movil Peru,Peru,Programacion
+2021-11-01 16:51,Jorge Luis Martinez Cardenas,1614,Diversas Empresas,Peru,Liderazgo De Proyecto
+2021-10-30 23:16,Miguel Angel Villanueva Rengifo,1155,Proyecto Personal,Peru,Otras Ingenierias
+2021-11-05 11:31,Jeroboan Angel Garcia Llontop,949,Sigcomt,Peru,Programacion
+2021-10-28 15:51,Jorge Manay Arevalo,1000,Qsystem - Inteligo Group (Intercorp),Peru,Tecnologias De La Informacion
+2021-11-17 20:02,Manuel Leoncio Espinoza Catachunga,686,Procesos De Medios De Pago S.A. - Izipay,Peru,Tecnologia / Sistemas
+2021-11-13 19:15,Robert Silva Campos,285,Aegis,Peru,Data Warehousing
+2021-11-10 17:22,Julio Cesar Medina Pazos,344,Peru Apps,Peru,Tecnologia / Sistemas
+2021-11-08 00:03,Daniel Carrion,646,Independiente,Peru,Business Intelligence
+2021-11-06 12:58,Roy Anderson Payano Monzon,1405,Mibanco,Peru,Liderazgo De Proyecto
+2021-11-11 19:36,Nathaly Johana Acevedo Mandujano,436,Everis Peru,Peru,Liderazgo De Proyecto
+2021-11-12 15:20,Rocio Pamela Benito Misaray,284,B. Braun Medical Peru S.A.,Peru,Liderazgo De Proyecto
+2021-11-08 07:47,Edwin Cesar Ramos Rodriguez,160,Itg Solutions,Peru,Liderazgo De Proyecto
+2021-11-05 15:58,Rosali Nicoly Huaman Arellano,1918,Itg Solutions,Peru,Liderazgo De Proyecto
+2021-11-05 14:43,Joel Alexis Bautista Rojas,308,Cibertec,Peru,Liderazgo De Proyecto
+2021-11-05 11:38,Alexander Martin Chacon Cobenas,61,Stefanini Group,Peru,Analisis Funcional
+2021-11-04 10:28,Juan Alex Rivera Acero,1464,Atento,Peru,Liderazgo De Proyecto
+2021-11-12 21:23,Luis Enrique Aguirre Carrasco,1595,Seratic Sac - Partner Telefonica,Peru,Liderazgo De Proyecto
+2023-04-03 19:40,Estrella Gamarra,122,Nuevas Tic,Colombia,Programacion
+2023-04-03 19:23,Samir Enrique Barreto Jara,31,Corporacion Academica San Fernando - Elite,Peru,Administracion De Base De Datos
+2023-03-24 00:13,Juan Jose Gonzales Girio,242,Avla S.A.,Peru,Programacion
+2022-12-23 21:53,Allison Yadira Ramirez Alama,212,It Team,Peru,Analisis Funcional
+2021-01-04 20:18,Cesar Augusto Orrego Murrieta,641,Trilce,Peru,Tecnologia / Sistemas
+2021-01-22 10:38,Juan Carlos Sotelo Canales,0,Informatica Delta Sac,Peru,Tecnologias De La Informacion
+2021-01-26 08:53,Henry Fernando Terrones Cortez,425,Sapimsa Peru,Peru,Sistemas
+2020-12-30 21:41,Max Oliver Flores Gose,548,Software Enterprice System,Peru,Programacion
+2021-11-09 18:39,Kelly Giadira Rosales Cangana,183,Terminales Del Peru: Tyd Grana Y Montero Petrolera,Peru,Comercial
+2021-09-04 22:47,Alberto Chavez Pumatay,552,Mdp Consulting Sac,Peru,Tecnologias De La Informacion
+2021-11-05 00:46,Josven Huaman Santos,181,Hospital Rezola - Canete,Peru,Almacen / Deposito / Expedicion
+2021-08-27 15:11,Jonathan Miguel Saona Herrera,89,Pension 65,Peru,Tecnologia / Sistemas
+2021-09-20 13:20,Cristhian Luis Villasante Moreno,354,Avances Tecnologicos,Peru,Analisis De Datos
+2021-09-06 13:18,Danilo Baumann Yllescas,1344,Manpower,Peru,Ventas
+2021-09-01 21:53,Ghyllman Vidal Brissolese,92,Invitro Agencia De Marketing,Peru,Comercial
+2021-09-01 11:23,Jean Pierre Carrion Posada,578,Universidad Peruana De Ciencias Aplicadas,Peru,Ventas
+2021-08-30 22:04,Karen Lizeth Principe Fierro,92,Jamming S.A.C,Peru,Comercial
+2021-08-30 10:32,Miguel Angel Ampuero Bartolo,241,It Service Sac,Peru,Tecnologias De La Informacion
+2021-09-20 15:29,Evelyn Margot Larios Vera,608,Nexus Technology,Peru,Comercial
+2021-09-16 16:27,Anthony Munoz Quispe,609,Inqa Technologies E.I.R.L,Peru,Infraestructura
+2021-09-02 22:59,Jonathan Carlos Cubas Jimenez,305,Laureate International Universities,Peru,Liderazgo De Proyecto
+2021-06-09 22:03,Jackie Leon Calle,494,Globokas,Peru,Testing / Qa / Qc
+2022-10-04 12:37,Karen Danae Soto Mejia,1617,Practia Global,Argentina,Testing / Qa / Qc
+2022-09-01 18:08,Ana Cecilia Gutierrez Zubieta,1765,Azteca Comunicaciones,Peru,Soporte Tecnico
+2022-09-01 14:13,Barbara Melissa Rosales Flores,973,Banco Pichincha,Peru,Internet
+2022-09-01 09:27,Sheyla Megumi Pereyra Menzuala,215,Nttdata,Peru,Operaciones
+2022-08-31 22:44,Clara Belen Rivas Camposano,273,Independiente,Peru,Consultoria
+2022-08-31 16:12,Brayan Salvatierra Enriquez,120,Manpowergroup - Experis,Peru,Testing / Qa / Qc
+2022-08-31 15:48,Ing. Sergio Castillon Zapata Istqb(R) Certified Tester,181,Rpa Latam,Peru,Testing / Qa / Qc
+2022-08-31 09:30,Carolina Lucero Rivas Ayala,211,Blum Saf,Peru,Operaciones
+2022-08-30 19:54,Milton Roger Zelada Llanos,243,Movistar/ Diamire,Peru,Ventas
+2022-08-30 08:55,Derly Yelitza Contreras Capacho,425,Enviame,Chile,Testing / Qa / Qc
+2022-08-29 22:14,Matthew Walas Zapata,177,Faposac- Portuaria -Arequipa,Peru,Logistica
+2022-10-03 22:14,Mayra Vanessa Alvarez Hinostroza,185,Canvia,Peru,Tecnologia / Sistemas
+2022-08-29 18:46,Sonia Pena Palomino,1336,Mi Banco,Peru,Call Center
+2022-08-24 21:37,Claudia Amelia Mundaca Casanova,753,Nttdata,Peru,Testing / Qa / Qc
+2022-08-24 11:21,Yesica Salvatierra,4102,Banco De Credito Bcp,Peru,Comercial
+2022-08-18 15:59,Greys Vargas Panduro,1369,Panificadora Bimbo Del Peru,Peru,Calidad
+2022-08-16 10:24,Carlos Armando Mejia Paredes,1902,Aquarius Consulting Sac,Peru,Sistemas
+2022-08-13 17:56,Luis Danilo Mateo Ricra,1139,Mibanco,Peru,Otras Ingenierias
+2022-08-09 03:04,Josei Santiago Garcia O'Diana,365,Grupo Tawa,Peru,Tecnologias De La Informacion
+2022-08-04 11:27,Paola Villena Cortez,1556,Inversiones La Cruz,Peru,Otras Ingenierias
+2022-08-03 19:05,Rogger Telles,1129,Globalhitss,Peru,Tecnologias De La Informacion
+2022-08-03 09:34,Harold Jesus Alberto Palacios Castro,1098,China Internacional Water And Electric Corp Peru,Peru,Construccion
+2022-10-01 20:12,Bruno Alberto Espinoza Miranda,1645,Industrias Dq,Peru,Produccion
+2022-07-28 20:53,Jose Anthony Garay Rios,818,Tsoft,Peru,Testing / Qa / Qc
+2022-07-20 10:56,Daniela Nuve,200,Tata Consultancy Services,Peru,Sistemas
+2022-07-19 12:43,Diego Anick Marcelo Chavez,352,Banco Interamericano De Finanza Banbif,Peru,Sistemas
+2022-07-19 10:33,Katherine Liseth Neira Zacarias,199,Baufest,Peru,Ingenieria Oficina Tecnica / Proyecto
+2022-07-19 10:27,Sandra Lisseth Condor Castillo,120,Neoris Peru S.A.C.,Peru,Testing / Qa / Qc
+2022-07-18 14:32,Catherine Nathalie Alegria Juscamaita,89,Iq Project,Peru,Testing / Qa / Qc
+2022-07-17 19:23,Raul Malcolm Steve Mogollon Quispe,197,Procesos De Medios De Pago S.A.C - Izipay,Peru,Analisis De Riesgos
+2022-07-17 12:18,Daniel Carhuay Zarzosa,1933,Dakota Soluciones,Peru,Atencion Al Cliente
+2022-07-15 20:20,Walter Antonio Telles La Serna,3848,Interbank,Peru,Tecnologia / Sistemas
+2022-07-15 19:46,Carlos Alberto Mauricio Montes,866,Tismart,Peru,Testing / Qa / Qc
+2022-09-22 19:39,Isabel Farro,1188,Mincetur,Peru,Testing / Qa / Qc
+2022-07-15 12:02,Yesenia Paz,409,Canvia,Peru,Testing / Qa / Qc
+2022-07-14 18:53,Luis Puerta,1200,Tismart,Peru,Testing / Qa / Qc
+2022-07-13 15:42,Judith Svr,1258,Vector Software Factory,Peru,Analisis Funcional
+2022-07-13 10:40,Arturo Arias,3360,Ibm Del Peru,Peru,Liderazgo De Proyecto
+2022-07-12 19:31,Charles Albuquerque,284,Gab Dental,Peru,Administracion
+2022-07-12 18:50,Raphael Huamani Cupe,120,Practia,Peru,Testing / Qa / Qc
+2022-07-12 17:04,Alexander Alberto Diaz Maldonado,498,Telefonica,Peru,Analisis De Datos
+2022-07-12 17:04,Ivan Augusto Diaz Maldonado,59,Prodimin,Peru,Instrumentacion Minera
+2022-04-20 15:03,Luis Puerta,1115,Tismart,Peru,Testing / Qa / Qc
+2022-04-08 15:27,Rudy Merwin Guerra Grijalva,97,Arca Continental Lindley,Peru,Calidad
+2022-09-19 11:56,Gianfranco Gonzales Galarza,506,Scotiabank Peru,Peru,Administracion
+2022-03-30 12:14,Lilibeth Valeria Morales Padilla,352,Tsoft,Peru,Sistemas
+2022-03-28 10:39,Milagros Nancy Astupina Canari,151,Anwe Corporacion Internacional,Peru,Consultoria
+2022-09-10 22:32,Alex Cardoso Contreras (Cv Link En Objetivo Laboral),770,Ntt Data Peru S.A.C.,Peru,Testing / Qa / Qc
+2022-09-06 19:13,Brenda Lucia Garay Leon,1313,Agencias Ransa S.A,Peru,Consultorias Comercio Exterior
+2022-09-03 15:19,Josseline Ivonne Barrera Zornosa,1402,Financiera Oh Sa,Peru,Creditos Y Cobranzas
+2022-09-02 15:49,Valeria Del Pilar Rosillo Escapa,426,Consorcio Saneamiento Huarmey S.A.,Peru,Ingenieria Industrial
+2022-10-06 18:41,Angelica Tarazona Hermoza,612,Inetum,Peru,Tecnologia / Sistemas
+2022-06-22 09:02,Marcos Waldo Duenas Vargas,365,Municipalidad Provincial De Huarmey,Peru,Gerencia / Direccion General
+2022-06-12 22:44,Claudia Yamalith Orbegoso Chuquispuma,527,Optical Network (Win),Peru,Tecnologias De La Informacion
+2022-06-07 21:38,Francisco Abel Enriquez Vergara,577,Aceros Faem &Amp; Ingenieros Sac,Peru,Ingenieria Mecanica
+2022-05-30 19:02,Tadeo Tavara,365,Caja Metropolitana De Lima,Peru,Comercial
+2022-05-26 15:33,Anthony Brayan Orellana Albornoz,359,Banco Bbva Peru,Peru,Liderazgo De Proyecto
+2022-07-06 23:21,July Pereda Leyva,186,Banco De Credito Del Peru,Peru,Comercial
+2022-04-29 07:14,Nicole Alexandra Calixto Chacon,61,Atento,Peru,Soporte Tecnico
+2022-03-22 21:22,Gibsy Zune Mendoza,700,Universidad Catolica Santo Toribio De Mogrovejo,Peru,Ingenieria Industrial
+2022-04-25 09:30,Luis Danilo Mateo Ricra,1029,Mibanco,Peru,Otras Ingenierias
+2022-04-20 14:43,Deisy Janet Velarde Ortiz,1583,Cuidados En Casa,Argentina,Otros
+2022-04-11 18:00,Gianella Yanire Alvarado Ramos,465,Tecnologica De Alimentos S.A,Peru,Ingenieria Industrial
+2022-03-29 13:38,Priscilla Milagros Lecca Laguna,697,Indra,Peru,Liderazgo De Proyecto
+2022-03-28 11:41,Doris Yolanda Arraiza Sixto,512,Mdp Consulting,Peru,Testing / Qa / Qc
+2022-03-25 16:47,Dany Mendoza Reyes,205,Manpower,Peru,Analisis Funcional
+2022-03-24 13:42,Blisy Rocio Navarro Valenzuela,1006,Tismart,Peru,Testing / Qa / Qc
+2022-03-24 10:30,Paula Monica Tolentino Machuca,813,Tata Consultancy Services,Peru,Testing / Qa / Qc
+2023-03-24 20:25,Enrique Jesus Mendoza Guevara,327,Tsoft,Peru,Ingenieria Oficina Tecnica / Proyecto
+2022-09-21 07:56,Jorge Diaz Bohorquez,61,Dayr Inversiones Multiples S.A.C.,Peru,Calidad
+2022-09-20 13:51,Jose David Torres,1085,Gategourmet Peru,Peru,Produccion
+2022-09-20 07:39,Diana Atachagua Aquije,668,Alicorp,Peru,Sistemas
+2022-09-19 23:24,Alexandra Hurtado,1602,Tale Constructora,Peru,Ingenieria Civil
+2022-09-19 22:06,Alyssa Simone Leon Vasquez,261,Gestion Estrategica De Negocio,Peru,Administracion
+2022-09-19 16:42,Alicia Guadalupe,1127,Scotiabank,Peru,Auditoria
+2022-09-19 16:14,Luzmila Beatriz Moreno Chinchay,791,Caja Metropolitana De Lima,Peru,Analisis De Riesgos
+2022-09-19 16:08,Josseline Ivonne Barrera Zornosa,1418,Financiera Oh Sa,Peru,Creditos Y Cobranzas
+2022-09-19 15:56,Victor Gomez,261,Municipalidad Provincial De Cajamarca,Peru,Gerencia / Direccion General
+2022-09-19 15:14,Juliana Loaiza Abreu,184,Globalfreezing,Colombia,Capacitacion
+2023-03-22 23:30,Jean Pierre Mendoza Pillaca,92,Entelgy,Peru,Testing / Qa / Qc
+2022-09-19 15:00,Patricia Joyo Mendez,1510,Tata Consulting Service,Peru,Analisis Funcional
+2022-05-30 10:53,Edwin Contreras Mendoza,149,Globant Peru,Peru,Testing / Qa / Qc
+2022-05-27 15:50,Erinsson Yzaguirre,92,Sun Chemical,Peru,Ingenieria Industrial
+2022-05-19 10:16,Brenda Lizzeth Mejia Perez,821,Heap Leanching Consulting Sac,Peru,Otras Ingenierias
+2022-05-18 13:28,Carol Marilyn Mejia Sarmiento,4689,Banco De La Nacion,Peru,Liderazgo De Proyecto
+2022-05-16 22:53,Jonhatan Isaac Pachao Taipe,927,Delaware - Telefonica Del Peru,Peru,Testing / Qa / Qc
+2022-05-06 19:20,Rosa Camila Fidelia Torres Huamani,305,Sima Peru,Peru,Logistica
+2022-05-06 19:19,Cynthia Danissa Nunez Velarde,1555,Everis Peru Sac,Peru,Testing / Qa / Qc
+2022-05-03 12:15,Lorena Medalit Bringas Chaupijulca,153,Encora,Peru,Analisis Funcional
+2022-04-29 18:50,Omar Diego Parra Avila,214,Tecnologica De Alimentos S.A.,Peru,Calidad
+2023-03-22 21:40,Jorge Urquia Malaver,2452,Freelance (Clientes),Peru,Seguridad Informatica
+2022-04-23 23:32,Milagros Nancy Astupina Canari,151,Anwe Corporacion Internacional,Peru,Consultoria
+2022-04-21 13:25,Raul Ochoa Luyo,355,Tata Consultancy Services,Peru,Testing / Qa / Qc
+2022-04-20 10:15,Diego Villanueva Rojas,1115,Gps Asset Management,Peru,Creditos Y Cobranzas
+2022-04-19 22:57,Brayan Salvatierra Enriquez,120,Manpowergroup - Experis,Peru,Testing / Qa / Qc
+2022-04-19 22:48,Daniela Vera,120,Clinica San Pablo,Peru,Atencion Al Cliente
+2022-04-19 20:29,Angelo Vittorio Scarpati Noguera,261,Union De Cervecerias Peruanas Backus Y Johnston Sociedad Anonima Abier,Peru,Compras
+2022-04-19 17:08,Alberto Mario Puma Hurtado,183,Grupo San Pablo - Servicios Servial,Peru,Administracion
+2022-04-19 16:43,Daniela Nuve,108,Tata Consultancy Services,Peru,Sistemas
+2022-04-19 12:44,Gibsy Zune Mendoza,823,Universidad Catolica Santo Toribio De Mogrovejo,Peru,Ingenieria Industrial
+2023-03-22 13:22,Alejandra Lourdes Vargas Cumpa,202,Faber Castell,Peru,Comercio Exterior
+2022-04-19 11:01,Marco Antonio Romero Davila,884,Tismart,Peru,Testing / Qa / Qc
+2022-04-18 17:35,Johela Clarisa Ramirez Yacolca,2452,Certus,Peru,Administracion
+2022-04-18 16:04,Fernando Jesus Castillo Toledo,457,Cooperativa De Ahorro Y Credito 15 De Setiembre,Peru,Creditos Y Cobranzas
+2022-04-18 15:29,Hugo Humberto Paredes Garcia,395,Hatch,Peru,Consultoria
+2022-03-22 18:23,Jamil Olortegui,1068,Adesy.Net,Peru,Farmaceutica
+2023-03-21 22:09,Andres Michilot Shimazu,962,Mitsui,Peru,Administracion
+2023-03-21 17:54,Edson Steven Pereyra Garayar,304,Zoluxiones,Peru,Testing / Qa / Qc
+2023-03-21 13:15,Jesus Esquivel,365,Enel Distribucion,Peru,Ingenieria Industrial
+2023-03-21 10:48,Cesar Alexander Chivilches Espino,120,Jet Cargo Service,Peru,Call Center
+2023-03-20 20:37,Ricardo Edison Ibanez Fajardo,610,Rimac Seguros,Peru,Tecnologia / Sistemas
+2023-03-20 15:40,Thalia Hernandez Saldivar,200,Zoluxiones Sac,Peru,Testing / Qa / Qc
+2023-04-01 17:53,Jorge Mario Kraenau Espinal,1400,Ministry Of Foreign Trade And Tourism,Peru,Sistemas
+2023-03-17 19:54,Luis Llanos,75,Upwork ( Freelance ),Peru,Analisis Funcional
+2023-03-17 12:12,Edith Sanchez Ruiz,1689,Tcs- Proyecto Banco Pichincha,Peru,Testing / Qa / Qc
+2023-03-17 11:49,Wendy German Rosales,1232,Tsoft Latam,Peru,Testing / Qa / Qc
+2023-03-17 10:48,Gaston Ibanez Perez,851,Autoridad Nacional Del Agua,Peru,Sistemas
+2023-03-16 19:37,Jackie Leon Calle,623,Atlantic City,Peru,Testing / Qa / Qc
+2023-03-16 10:52,Jonhatan Isaac Pachao Taipe,1231,Delaware - Telefonica Del Peru,Peru,Testing / Qa / Qc
+2023-03-16 04:25,Milagros Violeta Rosales Soto,1218,Universidad Nacional De Ingenieria,Peru,Educacion/Docencia
+2023-03-16 02:35,Robert Williams Iparraguirre Alanya,466,Deister Software Peru,Peru,Analisis Funcional
+2023-03-15 23:27,Rusbel Esquivel Castro,1642,Canvia,Peru,Sistemas
+2023-03-15 14:59,Katherine Edith Sandoval Serpa,61,Osinergmin,Peru,Testing / Qa / Qc
+2023-03-31 23:11,Mijael Antony Leon Victorio,244,Canvia,Peru,Testing / Qa / Qc
+2022-12-13 16:19,Perseo Sanchez Valverde,365,Global Tpa,Peru,Administracion De Seguros
+2022-12-12 17:31,Christopher Armando Torres Palomino,334,Entel,Peru,Tecnologia / Sistemas
+2022-12-12 11:40,Maria Laura Collana Milla,559,Inetum,Peru,Testing / Qa / Qc
+2022-12-11 20:21,Monica Angelica Verastegui Llerena,71,Oelo Informatic Solutions E.I.R.L,Peru,Tecnologias De La Informacion
+2022-12-06 14:23,Alejandra Lourdes Vargas Cumpa,31,Banco Ripley,Peru,Tecnologia / Sistemas
+2022-11-28 02:11,Silvana Da Costa Saravia,300,Adecco Peru,Peru,Otras Ingenierias
+2022-11-25 17:34,Linder Jhosmell Espinola Caceres,603,Euroflex Peru,Peru,Ingenieria Oficina Tecnica / Proyecto
+2022-11-24 20:35,Olga Tena Lorenzo,243,Zgroup Sac,Peru,Otros
+2022-11-24 10:21,Gilda Fiorella Herrera Parino,906,Medika Peru,Peru,Ingenieria Industrial
+2023-03-31 10:14,Luis Jesus Figueroa Vera,638,Vooxell,Peru,Tecnologia / Sistemas
+2022-11-23 19:35,Diego Fernando Loloy Huaringa,448,Le Requien Rush S.A.C.S.,Peru,Gerencia / Direccion General
+2022-11-18 12:41,Jonhatan Isaac Pachao Taipe,1113,Delaware - Telefonica Del Peru,Peru,Testing / Qa / Qc
+2022-11-15 17:08,Angel Contreras,652,Bcp,Peru,Analisis De Datos
+2022-11-10 13:05,Yordi Aguilar,181,Foox.La,Peru,Educacion/Docencia
+2022-11-08 15:21,Cynthia Danissa Nunez Velarde,1741,Everis Peru Sac,Peru,Testing / Qa / Qc
+2022-11-08 15:00,Jose Enrique Loayza Solis,120,Sunedu,Peru,Ingenieria Oficina Tecnica / Proyecto
+2022-11-07 21:40,Leslie Samanta Urbano Urbano,911,Isaf Consultores S.A.,Peru,Independientes
+2022-11-07 09:34,Jacqueline Graciela Mendoza Medina (Cip No193409),828,Visualsat Sac,Peru,Direccion
+2022-11-06 22:28,Wilder Angel Ramirez,278,Consorcio Tecnove Onp,Peru,Calidad
+2023-03-29 14:36,Paulo Sergio Juan Carlos Aching Avalos,1219,Efitec,Peru,Tecnologia / Sistemas
+2022-11-01 21:52,Maricielo Rosali Esteban Rodriguez,304,Woden Del Peru,Peru,Telecomunicaciones
+2022-10-30 08:13,Jerson Smith Martinez Benites,396,Tallanes Packers Sac,Peru,Calidad
+2022-10-30 07:54,Negrita Gonzales,8825,Bbva Peru,Peru,Liderazgo De Proyecto
+2022-10-28 12:11,Luis Alberto Sotelo Cordero,2553,Coorporacion Sapia,Peru,Soporte Tecnico
+2022-10-27 22:34,Katherine Isabel Vega Lisencio,1395,Juan Leng Delgado S.A.C.,Peru,Control De Gestion
+2022-10-26 22:24,Greys Vargas Panduro,1369,Panificadora Bimbo Del Peru,Peru,Calidad
+2022-10-26 10:57,John Jairo Medina Cavero,539,Molitalia,Peru,Producto
+2022-10-25 21:03,Patrick Zavaleta Carabelli,792,Indra,Peru,Business Intelligence
+2022-10-25 20:07,Jesus Omar Vallejos Giraldo,2064,Sky Logistics Sac,Estados Unidos,Testing / Qa / Qc
+2022-10-24 10:01,Jeffer Carlos Aparicio Farfan,967,Bolsa De Valores De Lima S.A.,Peru,Finanzas
+2023-03-28 17:47,Juan Manuel Torres Ramirez,117,Pti Ingenieria Y Seguridad E.I.R.L.,Peru,Analisis Funcional
+2022-10-24 08:41,Ivette Cano,61,Corporacion Pesquera Inca S.A.C - Copeinca,Peru,Otros
+2022-10-24 08:03,Chiara Elizabeth Esparza Cardenas,150,Serenazgo De San Martin De Porres,Peru,Almacen / Deposito / Expedicion
+2022-10-24 07:46,Alfredo Samuel Norena Luna,184,Evol Peru,Peru,Analisis Funcional
+2022-10-22 16:42,Wilder Fernandez,143,Consorcio Minero Horizonte .S.A,Peru,Mineria/Petroleo/Gas
+2022-10-21 19:17,Luis Puerta,1299,Tismart,Peru,Testing / Qa / Qc
+2022-10-21 08:06,Javier Alonso Pacheco Sevillano,354,Inversiones Excambiare,Peru,Comercial
+2022-10-20 21:37,Patricia Mercedes Huaman Quispe,2332,Maria Almenara S.A.C,Peru,Ingenieria En Alimentos
+2022-10-20 15:17,Guillermo Yaicate,1510,Grupo Fibrafil,Peru,Programacion De Produccion
+2022-10-20 11:55,Miguel Angel Aire Cardenas,2087,Compartamos Financiera,Peru,Desarrollo De Negocios
+2022-10-20 11:08,Micaela Espinosa,1480,Mapsalud Sac,Peru,Operaciones
+2023-03-28 11:18,Nestor Ishuiza Salas,208,Mdp Consulting,Peru,Tecnologia / Sistemas
+2022-10-19 19:13,Luz Clara Ticona Acero,700,Consorcio San Miguel,Peru,Liderazgo De Proyecto
+2022-10-19 17:20,Weizmann Gutierrez Berrocal,991,Tsoft Peru,Peru,Sistemas
+2022-10-19 13:25,Andrea Giovana Reyes Navarro,352,Iqproject,Peru,Planeamiento Comercial
+2022-10-19 11:40,Maria Margarita Gonzales De La Cruz,547,Tecnologica De Alimentos S.A.(Tasa ),Peru,Ingenieria Industrial
+2022-10-18 22:00,Nedith Alexandra Baron Hassinger,548,Texcope S.A.C.,Peru,Ingenieria Industrial
+2022-10-18 16:51,Carlos Kevin Atoche Reyes,892,Banco De Credito Del Peru,Peru,Creditos Y Cobranzas
+2022-10-18 13:49,Joyce Burgos Carrera,2208,Mi Banco Banco De La Microempresa,Peru,Finanzas
+2022-10-18 13:14,Roger Flemming,2696,Merrill Internacional Sac,Peru,Planeamiento Comercial
+2022-10-17 22:00,Claudia Lisbeth Llacsahuanga Aguilar,138,Hospital Carlos Lanfranco La Hoz,Peru,Ingenieria Industrial
+2022-10-17 21:10,Karen Vanessa Celis Vallejos,184,Quimex,Peru,Produccion
+2023-03-27 10:17,Segundo Octavio Munoz Rojas,488,Practia Consulting S.A.C,Peru,Investigacion Y Desarrollo
+2022-10-17 19:54,Elvis Vargas Cerna,1338,Konecta Bpo,Peru,Planeamiento Economico-Financiero
+2022-10-17 15:53,Aldo Jeanpierre Pachas Lopez,1020,Delaware,Peru,Tecnologia / Sistemas
+2022-10-17 15:04,Raymond Suppo Mori,1750,It Green Solutions (Para Financiera Oh! - Promart,Peru,Tecnologias De La Informacion
+2022-10-17 13:34,Carlos Alejandro Atoche Marquez,230,Control Union Sac,Peru,Auditoria
+2022-10-17 12:02,Melissa Yaniria Rodriguez Carrasco,1204,Universidad San Ignacio De Loyola,Peru,Ingenieria Industrial
+2022-10-10 13:02,Keyla Estefany Perez Nizama,181,Nestle,Peru,Produccion
+2022-10-09 17:45,Alex Cardoso Contreras (Cv Link En Objetivo Laboral),799,Ntt Data Peru S.A.C.,Peru,Testing / Qa / Qc
+2022-10-03 22:12,Mayra Vanessa Alvarez Hinostroza,185,Canvia,Peru,Tecnologia / Sistemas
+2022-09-30 22:56,Rogger Alfonso Madueno Veliz,456,Soluciones M4G,Peru,Consultoria
+2022-09-30 13:43,Gianella Yanire Alvarado Ramos,60,Ir.Sanchez Srl,Peru,Ingenieria Mecanica
+2023-03-25 20:04,Annie Jane Cahuana Rodriguez,214,Sapia - Proyecto Interbank,Peru,Soporte Tecnico
+2022-09-29 23:44,Bruno Alberto Espinoza Miranda,1643,Industrias Dq,Peru,Produccion
+2022-09-29 20:58,Sharon Abigail Runco Osorio,912,Santa Verena S.A.C.,Peru,Calidad
+2022-09-28 16:45,Victor Garcia,820,Aerolinea American Airles,Peru,Comunicaciones Internas
+2022-09-27 16:20,Brayan Salvatierra Enriquez,120,Manpowergroup - Experis,Peru,Testing / Qa / Qc
+2022-09-24 23:47,Nilton Gonzano Rojas,1303,Proyectos Ti - Personales,Peru,Programacion
+2022-09-23 13:50,Jennyfher Nickol Diaz Gonzales,306,Municipalidad San Martin De Porres,Peru,Compensacion Y Planilla
+2022-09-23 09:29,Fernando Peter Chamber Hurtado,1027,Beramar Group,Peru,Tecnologia / Sistemas
+2022-09-22 17:29,Alexander Jaenpierre Guia Palomino,113,Sigcomt,Peru,Sistemas
+2022-09-22 09:56,Luis Danilo Mateo Ricra,144,Canvia(Cliente Sunat),Peru,Testing / Qa / Qc
+2023-04-08 22:46,Jenniffer Mirella Eche Vallejos,884,"Direccion Ejecutiva De Medicamentos, Insumos Y Drogas - Direccion De",Peru,Liderazgo De Proyecto
+2022-12-05 16:44,Fabiola Sofia Cervantes Valdivia,764,Asociacion Cultural Educativa Mendel,Peru,Tecnologias De La Informacion
+2022-12-04 19:12,Edwin Severo Bautista Quispe,791,Inetum Sac,Peru,Analisis Funcional
+2022-12-12 18:12,Priscilla Milagros Lecca Laguna,225,Stefanini,Peru,Ingenieria Oficina Tecnica / Proyecto
+2023-02-12 22:55,Alex Lopez,1078,Gesnext,Peru,Tecnologia / Sistemas
+2023-02-06 12:13,Ricardo Humberto Sojo Cruz,97,Caja Sullana,Peru,Tecnologias De La Informacion
+2023-02-05 01:43,Javier Mariano Romero Hernandez,184,Integrator S.A.C.,Peru,Administracion De Base De Datos
+2023-02-04 22:06,Wilmer Aynor Agurto Carrillo,275,Colegio Privado Heroes Del Cenepa,Peru,Tecnologias De La Informacion
+2023-02-04 13:46,Jesus Junior Guevara Cossio,151,Ministerio Produccion,Peru,Otras Ingenierias
+2023-02-02 15:53,Raphael Huamani Cupe,120,Practia,Peru,Testing / Qa / Qc
+2023-02-01 11:17,Robert Williams Iparraguirre Alanya,423,Deister Software Peru,Peru,Analisis Funcional
+2023-01-31 14:55,Jayr Jhoseph Camones Zaravia,640,Banco De La Nacion,Peru,Tecnologia / Sistemas
+2023-01-30 19:28,Karen Maritza Cruz Gutierrez,197,Soa Professional,Peru,Testing / Qa / Qc
+2023-01-30 16:21,Jose Roger Vilchez Masquez,394,Upex,Peru,Testing / Qa / Qc
+2023-02-12 20:27,Daniels Furicks,153,Ancora Business,Colombia,Analisis Funcional
+2023-01-27 15:52,Ana Cecilia Martinez Verona,791,Onpe,Peru,Testing / Qa / Qc
+2023-01-26 17:26,Derek Josue Espinoza Barrera,214,Canvia,Peru,Testing / Qa / Qc
+2023-01-24 15:16,Nayelli Steysi Illescas Huacho,268,Chazki,Peru,Testing / Qa / Qc
+2023-01-20 19:42,Angel Contreras,638,Tata Consulting Services / Bcp,Peru,Analisis De Datos
+2023-01-19 09:24,Jose Enrique Loayza Solis,120,Sunedu,Peru,Ingenieria Oficina Tecnica / Proyecto
+2023-01-18 13:39,Aldo Jeanpierre Pachas Lopez,1113,Delaware,Peru,Tecnologia / Sistemas
+2023-01-18 08:21,Daniel Alejandro Aguilar Espinoza,153,Hiper S.A.,Peru,Testing / Qa / Qc
+2023-01-17 16:41,Rosa Sarita Mallma Cristobal,1599,Mdp Consulting,Peru,Sistemas
+2023-01-16 22:10,Jose Ramirez Ludena,153,Nttdata,Peru,Testing / Qa / Qc
+2023-02-12 17:52,Javier Loredo Luna Victoria,31,Cementos Pacasmayo S.A.A.,Peru,Calidad
+2023-01-15 17:17,Olger Ivan Castro Palacios,1475,Hospital Nacional Sergio E. Bernales,Peru,Programacion
+2023-01-15 14:12,Luis Harold Andre Zegarra Cabrera,259,Laureate - Peru,Peru,Testing / Qa / Qc
+2023-01-14 19:16,Joseph Edwin Olivera Retamozo,2114,Ministerio De Salud,Peru,Testing / Qa / Qc
+2023-01-14 11:18,Freddy Fernando Rospigliosi Cohaila,91,Canvia,Peru,Testing / Qa / Qc
+2023-01-13 18:47,Jose Alfonso Cachay Guzman,377,Csti Corp.,Peru,Otras Ingenierias
+2023-01-13 16:00,Lizeth Arostegui,1077,Tsoft Peru,Peru,Testing / Qa / Qc
+2023-01-13 12:57,Josei Santiago Garcia O'Diana,134,Tadcon,Peru,Tecnologias De La Informacion
+2023-01-12 23:04,Dante Paolo Vargas Bellido,1291,Varias,Peru,Liderazgo De Proyecto
+2023-01-12 20:43,Samuel Tamariz Basurto,248,Evol,Peru,Testing / Qa / Qc
+2023-01-12 18:11,Alejandra Lourdes Vargas Cumpa,133,Faber Castell,Peru,Comercio Exterior
+2023-02-10 17:45,Luis Alfredo Torre Alvarez,285,Wayperu,Peru,Testing / Qa / Qc
+2023-01-12 14:41,Cesar Alexander Chivilches Espino,376,Tismart,Peru,Otras Ingenierias
+2023-01-12 14:14,Maria Laura Collana Milla,590,Inetum,Peru,Testing / Qa / Qc
+2023-01-12 11:41,Monica Del Pilar Baquedano Romero,741,Consultoria,Peru,Seguros
+2023-01-12 10:48,Jonhatan Isaac Pachao Taipe,1168,Delaware - Telefonica Del Peru,Peru,Testing / Qa / Qc
+2023-01-11 20:17,Luis Puerta,975,Tismart,Peru,Testing / Qa / Qc
+2023-01-11 19:04,David Andree Lujan Javier,426,Globant,Peru,Ingenieria Oficina Tecnica / Proyecto
+2023-01-11 18:16,Kevin Arnold Huamani,639,Grupo Paracas,Peru,Sistemas
+2023-01-11 16:25,Pier Luigi Palomino Zarate,132,Tsoft,Peru,Testing / Qa / Qc
+2023-01-11 11:56,Freysi Espinoza Sirlupu,192,Neoris,Peru,Otros
+2022-12-30 15:42,Monica Del Pilar Baquedano Romero,728,Consultoria,Peru,Seguros
+2023-02-09 12:31,Mayra Vanessa Alvarez Hinostroza,314,Canvia,Peru,Tecnologia / Sistemas
+2022-12-30 13:52,Maria Laura Collana Milla,577,Inetum,Peru,Testing / Qa / Qc
+2022-12-30 12:32,Angel Contreras,697,Bcp,Peru,Analisis De Datos
+2022-12-28 19:33,Fabiola Milagros Rodriguez Vasquez,667,Everis Peru Sac,Peru,Otras Ingenierias
+2022-12-28 10:22,Cesar Alexander Chivilches Espino,361,Tismart,Peru,Otras Ingenierias
+2022-12-27 20:09,Jonhatan Isaac Pachao Taipe,1152,Delaware - Telefonica Del Peru,Peru,Testing / Qa / Qc
+2022-12-27 17:06,Miguel Eduardo Martinez Martinez,267,Tismart,Peru,Tecnologias De La Informacion
+2022-12-27 16:33,Kenny Bryan Mendo Ruiz,209,Evol,Peru,Testing / Qa / Qc
+2022-12-27 10:55,Perseo Sanchez Valverde,365,Global Tpa,Peru,Administracion De Seguros
+2023-02-08 22:00,Ruth Isabel Alarcon Garro,1287,Pontificia Universidad Catolica Del Peru,Peru,Educacion/Docencia
+2022-12-26 16:33,Freddy Fernando Rospigliosi Cohaila,91,Canvia,Peru,Testing / Qa / Qc
+2022-12-26 15:26,Ronal Manuel Inga Aranguri,328,Alignet S.A.C.,Peru,Tecnologia / Sistemas
+2022-12-26 14:28,David Urbano Osorio,1734,Visualsoft S.A.C.,Peru,Testing / Qa / Qc
+2022-12-26 11:54,Allison Yadira Ramirez Alama,212,It Team,Peru,Analisis Funcional
+2022-12-26 11:54,Jose Alfonso Cachay Guzman,359,Global Hitss,Peru,Otras Ingenierias
+2022-12-26 11:44,Diana Atachagua Aquije,730,Alicorp,Peru,Sistemas
+2022-12-26 10:59,Aron Luis Hurtado Guerra,420,Eco Clean,Peru,Ingenieria Industrial
+2022-12-26 10:45,Jesus Cordova Quispe,116,Certus,Peru,Investigacion Y Desarrollo
+2023-02-08 18:02,Oscar Enrique Uceda Gonzales,183,Ai Inversiones Palo Alto Ii S.A.C.,Peru,Testing / Qa / Qc
+2023-02-06 20:10,Jandir Eleazar Ramirez Sanchez,61,Tsoft Peru,Peru,Testing / Qa / Qc
+2023-02-13 08:15,Jannett Espejo,1504,Kallpa Generacion S.A,Peru,Tesoreria
+2022-05-12 10:35,Pedro Gil Ramos Moran,2556,Auna ( Gsp Servicios Generales Sac ),Peru,Analisis Funcional
+2022-04-25 01:02,Jose Ernesto Llontop Matsumoto,1029,Sapimsa Peru,Peru,Analisis Funcional
+2022-04-22 11:37,Martin Vladimir Chunga Sanchez,111,Tata Consultancy,Peru,Analisis Funcional
+2022-04-20 23:49,Maydeline Chanchari Yumbato,1754,It Skill Peru,Peru,Tecnologias De La Informacion
+2022-05-11 00:30,Mayra Garcia Pinedo,1987,Gmd,Peru,Liderazgo De Proyecto
+2022-05-09 19:10,Jesus Holguin Vicente,828,Canvia,Peru,Tecnologias De La Informacion
+2022-05-08 13:30,Allan Victor Ayala Mendivil,1223,Ransa Comercial S.A.,Peru,Liderazgo De Proyecto
+2022-05-06 11:32,Jonathan Silva Perich,1795,El Grupo El Comercio,Peru,Liderazgo De Proyecto
+2022-05-05 21:08,Luis Javier Nohara Higaonna,3930,Asociacion Peruano Japonesa,Peru,Liderazgo De Proyecto
+2022-04-27 09:54,Marlon David Araujo Castaneda,1761,Asociacion Peruano Japonesa,Peru,Liderazgo De Proyecto
+2022-04-25 12:39,Martin Miguel Beas Vela,571,Itteam,Peru,Liderazgo De Proyecto
+2022-04-25 10:20,Brolin Isaac Marin Garcia,243,Banbif,Peru,Seguridad Informatica
+2022-05-12 12:49,Alfredo Heredia Falcon,151,Tata Consultancy Services Sucursal Peru,Peru,Analisis Funcional
+2023-05-04 14:47,Jessica Ivon Chiroque Rosales,245,Indra,Peru,Analisis Funcional
+2023-05-04 14:24,Mario Orlando Vasquez Monteblanco,911,Global Hitss S.A.C,Peru,Ingenieria De Procesos
+2023-05-04 14:17,Miguel Angelo Parco Estrada,368,Canvia,Peru,Sistemas
+2023-05-04 14:13,Jose Alexander Oyola Gomez,429,Zeit,Peru,Tecnologia / Sistemas
+2023-05-04 14:03,Jhonatan Pacifico Chirinos Escalante,120,Zoluxiones,Peru,Analisis Funcional
+2023-05-04 13:41,Daniel Alonso Suarez Lopez,398,Pontificia Universidad Catolica Del Peru,Peru,Tecnologias De La Informacion
+2023-05-04 13:20,Gustavo Rolando Santos Huayanca,244,Inetum Peru,Peru,Tecnologia / Sistemas
+2023-05-04 13:04,Natalia Reinoso Loyola,3287,Scotiabank,Peru,Liderazgo De Proyecto
+2023-05-04 12:35,Diana Atachagua Aquije,911,Alicorp,Peru,Sistemas
+2023-05-15 10:17,Mary Cielo Cuzcano Mendoza,226,Peru Apps Sac,Peru,Sistemas
+2023-04-19 12:01,Nathali Sara Espiritu Villar,838,Ministerio De Salud. (Minsa),Peru,Ingenieria De Procesos
+2023-02-08 21:38,Cristhian Daniel Uceda Renteria,2048,Mdp Consulting S.A.C,Peru,Tecnologia / Sistemas
+2023-01-04 09:13,Luz Magali Mora Piscoya,337,Contasiscorp,Peru,Tecnologias De La Informacion
+2023-01-03 12:29,Ruben Eduardo Gutierrez Ramirez,396,Ministerio De Trabajo - Mtpe,Peru,Analisis Funcional
+2023-01-03 09:27,Fernando Siancas Fernandez,1404,Cidelsa,Peru,Analisis Funcional
+2023-01-02 15:37,Juan Carlos Raymundo Nizama,61,Canvia,Peru,Analisis Funcional
+2023-01-02 11:44,Jesus Omar Huamanchahua Palomino,1311,Southtech,Peru,Tecnologias De La Informacion
+2023-01-02 08:59,Luis Antonio Bustillos Lopez,154,Suministros Fermar S.A.C.,Peru,Direccion
+2023-01-02 07:58,Allan Victor Ayala Mendivil,1462,Ransa Comercial S.A.,Peru,Liderazgo De Proyecto
+2023-01-02 02:05,Jose Efrain Rabanal Odar,211,Qsi Peru,Peru,Produccion
+2023-01-01 22:54,Yoana Jaqueline Gomez Cantuarias,92,Indra Peru S.A.,Peru,Liderazgo De Proyecto
+2022-12-30 21:14,Carlos Alberto Infantas Mota,243,Grupo Ebim S.A.C.,Peru,Analisis Funcional
+2023-02-08 17:40,Gerson Alejo,403,Evol Tsnet,Peru,Ingenieria Oficina Tecnica / Proyecto
+2022-12-29 15:56,Solange Alexis Meza Chavez,31,Pacific Credit Rating S.A.C,Guatemala,Planeamiento Comercial
+2022-12-28 12:17,Jarlinton Alexis Jara Hidalgo,361,Open Codev,Peru,Tecnologia / Sistemas
+2022-12-27 21:59,Francis Tricy Morales Vidal,270,Rsm Peru,Peru,Ingenieria De Procesos
+2022-12-27 17:10,Jose Ernesto Llontop Matsumoto,1275,Sapimsa Peru,Peru,Analisis Funcional
+2022-12-27 11:13,Christy Bonny Aliaga Venegas,295,Colegio Privado Alfredo Rebaza Acosta,Peru,Educacion/Docencia
+2022-12-27 09:00,Mirian Martinez Chavez,550,Tcs Consultancy Services,Peru,Analisis Funcional
+2022-12-27 07:22,Suyang Elizabeth Vela Diaz,1152,Ricoh,Peru,Tecnologia / Sistemas
+2022-12-26 16:34,Freddy Fernando Rospigliosi Cohaila,91,Canvia,Peru,Testing / Qa / Qc
+2022-12-26 16:25,Carlos Diaz,1035,Banco Falabella,Peru,Gerencia / Direccion General
+2022-12-26 06:49,Belther Leonardo Lecca Revilla,184,Synlab,Peru,Seguridad Informatica
+2023-02-08 12:54,Ulises Chipana Choque,921,Independiente,Peru,Consultoria
+2022-12-25 09:32,Luis Felipe Gomez Fernandez,115,Ingemin Service -Spcc,Peru,Produccion
+2022-12-22 19:49,Cesar Luis Llanto Espinoza,275,Mowa Consultora,Peru,Liderazgo De Proyecto
+2022-12-22 17:47,Jhunior Villagomez Leon,245,Canvia,Peru,Sistemas
+2022-12-21 20:20,Jordan David Barrientos Sarmiento,323,Argenper,Peru,Sistemas
+2022-12-20 21:34,Luisdiego Junior Campos Crispin,92,Falabella.Com,Peru,Transporte
+2022-12-20 13:26,Anthony Paulo Huaman Mosquera,718,Bluetab Solutions,Peru,Ingenieria Oficina Tecnica / Proyecto
+2022-12-20 13:01,Jesus Holguin Vicente,1053,Canvia,Peru,Tecnologias De La Informacion
+2022-12-19 19:54,Lisetti Zuleite Macedo Valderrama,232,Banco Banbif,Peru,Liderazgo De Proyecto
+2022-12-18 21:54,Luis Casas Rodriguez,1005,Coopac Kori,Peru,Ingenieria De Procesos
+2022-12-18 19:32,Carmen Miriam Arcos Alarcon,2404,Banco De Credito Bcp,Peru,Tecnologias De La Informacion
+2023-02-08 10:06,Paul Martin Duenas Calderon,283,Stefanini,Peru,Sistemas
+2022-12-16 19:10,Greace Carrillo,3805,Banco De Credito Del Peru,Peru,Comercial
+2022-12-16 16:55,Jenifer Bustamante Gonzales,181,Imfundo Kahle,Peru,Sistemas
+2022-12-16 11:15,Edwin Severo Bautista Quispe,791,Inetum Sac,Peru,Analisis Funcional
+2022-12-16 08:56,Gustavo Alejandro Hurtado Benancio,365,"Superintendencia De Banca, Seguros Y Afp",Peru,Tecnologias De La Informacion
+2022-12-15 04:41,Melissa Benites Pillaca,820,Cooperativa De Ahorro Y Credito Pacifico,Peru,Liderazgo De Proyecto
+2022-12-15 03:36,Santos Felipe Cuba Quispe,289,Compartamos Financiera,Peru,Tecnologias De La Informacion
+2022-12-14 18:31,Mercedes Osorio Vidal,518,Optima Medical Sac,Peru,Finanzas
+2022-12-14 14:06,Elena Milagros Munayco Abanto,183,Mqa Americas,Panama,Tecnologia / Sistemas
+2022-12-14 09:59,Luis Gerardo Solari Rojas,681,Likewize (Brightstar Corp),Peru,Tecnologias De La Informacion
+2022-12-14 00:47,Mayra Nilda Cruzado Mascco,365,Interamerican Service Co Sac,Peru,Ingenieria De Procesos
+2023-02-08 00:18,Angelica Arias,151,"Estudio Contable Tributario ""Dias De La Cruz""",Peru,Administracion
+2022-12-13 23:40,Luis Javier Nohara Higaonna,4152,Asociacion Peruano Japonesa,Peru,Otras Ingenierias
+2022-12-13 21:36,Jose Lenin Estrada Meza,243,Ays Consultores,Peru,Liderazgo De Proyecto
+2022-12-13 20:28,Erika Vasquez Ramirez,1947,Ministerio De Educacion,Peru,Testing / Qa / Qc
+2022-12-13 20:05,Ricardo Paul Hinojosa Pure,407,Mml,Peru,Tecnologia / Sistemas
+2022-12-13 18:46,Hector Enrique Rivera Jimenez,165,Whiz Sac,Peru,Tecnologia / Sistemas
+2022-12-13 16:28,Maritza Lizbeth Porras Uchofen,346,Analista Ti,Peru,Ingenieria De Procesos
+2022-12-13 00:13,Jeannie Brenda Uyhua Gomez,304,Partido Accion Popular,Peru,Otros
+2022-12-12 23:18,Yeison Steve Perez Galarza,456,Dwconsulware Del Peru,Peru,Tecnologia / Sistemas
+2022-12-12 21:14,Herry Anthony Soto Montalvo,1533,Rsm Peru S.A.C.,Peru,Tecnologia / Sistemas
+2022-12-12 19:00,Priscilla Milagros Lecca Laguna,225,Stefanini,Peru,Ingenieria Oficina Tecnica / Proyecto
+2023-02-07 17:02,Joaquin Bernardo Mosqueira Alcantara,1225,Reniec - (Hp),Peru,Analisis Funcional
+2022-12-12 13:37,Marilyn Ysabel Valverde Campos,102,Alignet Sac,Peru,Liderazgo De Proyecto
+2022-12-12 12:52,Jonhatan Isaac Pachao Taipe,1137,Delaware - Telefonica Del Peru,Peru,Testing / Qa / Qc
+2022-12-12 11:36,Rosa Sarita Mallma Cristobal,1563,Mdp Consulting,Peru,Sistemas
+2022-12-12 10:51,Edinson Cajusol Falen,894,Esdinamico,Peru,Tecnologias De La Informacion
+2022-12-11 20:21,Monica Angelica Verastegui Llerena,71,Oelo Informatic Solutions E.I.R.L,Peru,Tecnologias De La Informacion
+2022-12-11 19:26,Hugo Santa Maria Podesta,466,Perubar S.A.,Peru,Almacen / Deposito / Expedicion
+2022-12-10 23:00,William Ortiz,182,Servicios De Call Center Del Peru Scc,Peru,Call Center
+2022-12-10 21:48,Cristhian Hildebrando Rodriguez Ruiz,588,Global Hitss,Peru,Analisis De Datos
+2022-12-10 01:14,Allison Yadira Ramirez Alama,335,Delaware,Peru,Testing / Qa / Qc
+2022-12-09 22:24,Carlos Alejandro Vega Gallegos,244,Teleavance,Peru,Tecnologias De La Informacion
+2023-02-07 11:14,Jose Ernesto Llontop Matsumoto,1317,Sapimsa Peru,Peru,Analisis Funcional
+2022-12-09 03:23,Cristian Luis Pashanasi Medina,283,Global Hitss,Peru,Analisis Funcional
+2022-12-08 22:43,Ana Cecilia Gutierrez Zubieta,1863,Azteca Comunicaciones,Peru,Soporte Tecnico
+2022-12-08 18:05,Joe Sahua,488,Indra/Minsait,Peru,Ingenieria De Procesos
+2022-12-08 16:29,Stephanny Merino Palomino,1651,Symmetry Corporation,Peru,Liderazgo De Proyecto
+2022-12-08 11:52,Elizabet Beatriz Ascona Alvarado,212,Deal Brands Sac,Peru,Consultoria
+2022-12-08 09:16,Tyrone Alberto Cespedes Falcon,1919,Tata Consultancy Services,Peru,Liderazgo De Proyecto
+2022-12-07 20:07,Ana Maria Orbegozo Morales,304,Aldeas Infantiles Sos Peru,Peru,Gerencia / Direccion General
+2022-12-07 19:39,Jennifer Yanira Aguilar Ramirez,272,Ng Logistic E.I.R.L,Peru,Administracion
+2022-12-07 16:16,Percy Alberto Macuri Valenzuela,493,Conxultiva Digital S.A.C,Peru,Tecnologia / Sistemas
+2022-12-07 12:39,Janet Johanna Cirineo Huamani,1102,Everis Peru,Peru,Tecnologia / Sistemas
+2023-02-07 10:01,Carlos Enrique Soto Condori,334,Onpe,Peru,Liderazgo De Proyecto
+2022-12-07 11:50,Melvin Humberto Miquilena Gonzalez,1436,Lucky Sac,Peru,Liderazgo De Proyecto
+2022-12-07 08:27,Diana Rocio Chunqui Vela,549,Manpower Peru,Peru,Tecnologias De La Informacion
+2022-12-07 08:12,Sergio Manuel Atoche Meca,67,Consultor De Sistemas Ti,Peru,Tecnologias De La Informacion
+2022-12-07 02:19,Diego Enrique Suarez Ramirez,250,Mercado Tierra Prometida,Peru,Finanzas
+2022-12-07 00:39,Diego Alonso Delgado Recuenco,365,Unicon,Peru,Ingenieria Industrial
+2022-12-07 00:39,Alexis Navarrete Manrique,250,Transligra,Peru,Ingenieria De Procesos
+2022-12-06 23:59,Nestor Hugo Huanca Gutierrez,1376,Consultora Retail 360,Peru,Ingenieria De Procesos
+2022-12-06 21:17,Juan Carlos Diaz Nunez,122,Mdp Consulting,Peru,Analisis Funcional
+2022-12-06 21:13,Lorena Sanchez Rojas,89,Global Hitss,Peru,Analisis Funcional
+2022-12-06 17:52,Ruth Alina Damian Durand,1101,Consejeros Y Corredores De Seguros,Peru,Seguros
+2023-02-07 09:57,Elvis Hernan Solari Ortiz,792,Canvia (Antes Gmd),Peru,Tecnologias De La Informacion
+2022-12-06 17:17,Gaby Villavicencio Villegas,431,Pex- Medio De Pago Electronico(Ti),Peru,Tecnologia / Sistemas
+2022-12-06 15:06,Betsy Culquicondor Martinez,2405,Fuxion Biotech S.A.C.,Peru,Analisis Funcional
+2022-12-06 14:23,Victor Hugo Marticorena Yanez,431,Global Hitss,Peru,Analisis Funcional
+2022-12-06 13:41,Jose Alfonso Cachay Guzman,339,Global Hitss,Peru,Otras Ingenierias
+2022-12-06 11:43,Gaston Ibanez Perez,851,Autoridad Nacional Del Agua,Peru,Sistemas
+2022-12-06 11:43,Diego Alonso Yupanqui Vidal,1496,Atento,Peru,Soporte Tecnico
+2022-12-06 11:03,Gianfranco Herrera Mostacero,302,Fesepsa S.A,Peru,Tecnologia / Sistemas
+2022-12-06 09:28,Jose Ignacio Lombardi Benavides,242,Samyl,Espana,Liderazgo De Proyecto
+2022-12-06 09:11,Sharon Clara Gallardo Susano,61,Ibr Peru,Peru,Call Center
+2022-12-05 23:26,Kathya Jamille Salas Odar,699,Suizalab,Peru,Desarrollo De Negocios
+2023-02-07 09:37,Belther Leonardo Lecca Revilla,184,Synlab,Peru,Seguridad Informatica
+2022-12-05 23:16,Luis Eduardo Chambi Furo,446,Clinica Ricardo Palma (Consulting Km2),Peru,Sistemas
+2022-12-05 22:40,Dorcas Huarcaya. Ceras,1375,Clbs,Peru,Analisis De Datos
+2022-12-05 21:30,Robert Williams Iparraguirre Alanya,365,Deister Software Peru,Peru,Analisis Funcional
+2022-12-05 21:30,Victor Raul Auccalla Centeno,883,Onergy S.A.C (Proyecto Personal),Peru,Ingenieria De Procesos
+2022-12-05 21:30,Aron Luis Hurtado Guerra,399,Eco Clean,Peru,Ingenieria Industrial
+2022-12-05 20:37,Alejandra Lourdes Vargas Cumpa,31,Banco Ripley,Peru,Tecnologia / Sistemas
+2022-12-05 19:51,Cynthia Victoria Ramon Vargas,703,Ieduca,Peru,Tecnologias De La Informacion
+2022-12-05 19:19,Frank David Merino Vasquez,406,Auna Salud,Peru,Venta De Seguros
+2022-12-05 19:07,Jahnsen Ricardo Guardamino Barrueta,123,Rpa Latam,Peru,Analisis Funcional
+2022-12-05 19:07,Luis Puerta,975,Tismart,Peru,Testing / Qa / Qc
+2023-02-13 11:28,Jose Mauricio Lozano Evangelista,153,Clinica San Pedro,Peru,Sistemas
+2023-02-07 08:03,Ana Cecilia Martinez Verona,791,Onpe,Peru,Testing / Qa / Qc
+2022-12-05 18:48,Jeffer Rojas Escalante,699,Asociacion Peruana De Empresas De Seguro,Peru,Control De Gestion
+2022-12-05 18:31,Fabiola Sofia Cervantes Valdivia,763,Asociacion Cultural Educativa Mendel,Peru,Tecnologias De La Informacion
+2022-12-05 16:30,Fabiola Sofia Cervantes Valdivia,764,Asociacion Cultural Educativa Mendel,Peru,Tecnologias De La Informacion
+2022-12-04 18:48,Giancarlo Gomez Hormaza,1313,Grupo Electrodata,Peru,Otras Ingenierias
+2022-12-04 12:44,Carlos Eduardo Ramirez Ruiz,1036,Clbs Sac,Peru,Sistemas
+2022-12-03 23:19,Heinz Heiner Eilers Romero,489,Tata Consultancy Services,Peru,Liderazgo De Proyecto
+2022-11-30 23:13,Yeison Steve Perez Galarza,456,Dwconsulware Del Peru,Peru,Tecnologia / Sistemas
+2022-11-30 15:27,Pilar Mamani Chavez,394,Global Hitss,Peru,Analisis Funcional
+2022-11-30 10:54,Jhunior Villagomez Leon,153,Canvia,Peru,Sistemas
+2022-11-27 10:30,Martin Amado Navarro Espinoza,452,Telefonica,Peru,Tecnologia / Sistemas
+2023-02-07 00:11,Jose Carlos Munoz Sanchez,214,Canvia,Peru,Analisis Funcional
+2022-11-26 22:05,Robert Williams Iparraguirre Alanya,356,Deister Software Peru,Peru,Analisis Funcional
+2022-11-24 00:24,Edwin Severo Bautista Quispe,791,Inetum Sac,Peru,Analisis Funcional
+2022-11-23 22:16,Manuel Jesus Vega Ucharima,905,Inetum Peru,Peru,Analisis Funcional
+2022-11-23 20:43,Eugenio Tocto Chinchay,1422,Consultance It,Peru,Tecnologias De La Informacion
+2022-11-23 11:31,Leslie Carol Mundaca Retuerto,150,Jurado Nacional De Elecciones (Jne),Peru,Sistemas
+2022-11-23 03:53,David William Romero Rodriguez,310,Izipay,Peru,Organizacion Y Metodos
+2022-11-21 21:39,Gaby Villavicencio Villegas,416,Pex- Medio De Pago Electronico(Ti),Peru,Tecnologia / Sistemas
+2022-11-21 17:25,Cynthia Victoria Ramon Vargas,689,Ieduca,Peru,Tecnologias De La Informacion
+2022-11-21 16:55,Tyrone Alberto Cespedes Falcon,1919,Tata Consultancy Services,Peru,Liderazgo De Proyecto
+2022-11-21 16:37,Julio Alejandro Olavarria Balarezo,293,Rimac Seguros,Peru,Ventas
+2023-02-06 21:00,Yessenia Tello Carhuavilca,432,Canvia,Peru,Tecnologia / Sistemas
+2022-11-21 15:43,Priscilla Milagros Lecca Laguna,934,Indra,Peru,Liderazgo De Proyecto
+2022-11-20 08:21,Stefani Yuliana Rojas Zuniga,487,Sigcomt,Peru,Liderazgo De Proyecto
+2022-11-19 14:24,Jesus Lisset Vigo Terrones,1359,Sat Cajamarca,Peru,Tecnologias De La Informacion
+2022-11-18 12:41,Rosa Elena Gonzales Condori,153,Canvia,Peru,Ingenieria Oficina Tecnica / Proyecto
+2022-11-18 11:51,Fiorella Salas,290,Celepsa,Peru,Liderazgo De Proyecto
+2022-11-17 23:52,Paul Ernesto Marquina Carhuamaca,148,Caja Huancayo,Peru,Analisis Funcional
+2022-11-17 22:35,Carlos Alejandro Vega Gallegos,244,Teleavance,Peru,Tecnologias De La Informacion
+2022-11-17 08:35,Denis Ayala Tangoa,1416,Adecco Consulting,Peru,Tecnologia / Sistemas
+2022-11-16 18:13,Sandra Gabriela Salazar Segama,1111,Evol - Cliente Oncosalud,Peru,Seguros
+2022-11-16 16:20,Solange Karime Lobato Arias,929,Algi International Inc.,Peru,Recursos Humanos
+2023-02-06 14:39,Rosa Sarita Mallma Cristobal,1619,Mdp Consulting,Peru,Sistemas
+2022-11-16 10:14,Percy Alberto Macuri Valenzuela,472,Conxultiva Digital S.A.C,Peru,Tecnologia / Sistemas
+2022-11-16 09:32,Americo Pun Lay,959,Job Fit Consultoria,Peru,Operaciones
+2022-11-16 08:29,Sergio Manuel Atoche Meca,46,Consultor De Sistemas Ti,Peru,Tecnologias De La Informacion
+2022-11-15 17:10,Angel Contreras,652,Bcp,Peru,Analisis De Datos
+2022-11-15 13:17,Jose Pachas Torres,683,Bigbyte,Peru,Tecnologia / Sistemas
+2022-11-15 12:40,Gaston Ibanez Perez,851,Autoridad Nacional Del Agua,Peru,Sistemas
+2022-11-15 11:32,Isaac Daniel Palpan Curisinche,184,Dhl Supply Chain,Peru,Logistica
+2022-11-15 11:14,Jesus Martin Zuniga Silva,318,Aiesec Peru,Peru,Atencion Al Cliente
+2022-11-15 09:41,Hector Enrique Rivera Jimenez,137,Whiz Sac,Peru,Tecnologia / Sistemas
+2022-11-15 01:11,Jean Willian Hinostroza Cueva,137,Delfosti,Peru,Liderazgo De Proyecto
+2023-02-06 12:39,Luis Alberto Quispe Sanchez,6610,Exagon Peru S.A.C.,Peru,Liderazgo De Proyecto
+2022-11-14 22:52,Enrique Chiroque,2662,Consultoria,Peru,Oficios Y Profesiones
+2022-11-14 18:32,Mirian Martinez Chavez,507,Tcs Consultancy Services,Peru,Analisis Funcional
+2022-11-14 17:00,Joe Sahua,488,Indra/Minsait,Peru,Ingenieria De Procesos
+2022-11-14 15:41,Mayra Nilda Cruzado Mascco,378,Interamerican Service Co Sac,Peru,Ingenieria De Procesos
+2022-11-14 11:58,Ana Cecilia Reynoso Moreno,1795,Rsm Peru,Peru,Analisis De Datos
+2022-11-14 10:31,Jonathan Silva Perich,1795,El Grupo El Comercio,Peru,Liderazgo De Proyecto
+2022-11-14 10:30,Luis Javier Nohara Higaonna,4123,Asociacion Peruano Japonesa,Peru,Otras Ingenierias
+2022-11-14 10:00,Marilyn Ysabel Valverde Campos,74,Alignet Sac,Peru,Liderazgo De Proyecto
+2022-11-13 23:53,Ruth Isabel Alarcon Garro,1200,Pontificia Universidad Catolica Del Peru,Peru,Educacion/Docencia
+2022-11-13 23:26,Aquiles Garcia Guerrero,377,Ntt Data,Peru,Analisis De Datos
+2023-02-05 23:51,Marco Antonio Dirceu Garcia Moscoso,341,Materia Gris,Peru,Analisis Funcional
+2022-11-13 22:42,William Huauya Rios,1016,Canvia,Peru,Tecnologia / Sistemas
+2022-11-12 11:25,Ernesto Llanos,374,Freelance,Peru,Analisis Funcional
+2022-11-12 08:41,Edwind Omar Pineda Mory,72,Agencia Slinky S.Ac.,Peru,Desarrollo De Negocios
+2022-11-11 23:18,Carlos Alberto Infantas Mota,1775,Hundred S.A.C. | Gfi Peru S.A.C. | Inetum Peru S.A.C.,Peru,Tecnologia / Sistemas
+2022-11-11 22:08,Piero Fabrizio Sotero Nanez,345,Servicio Nacional De Capacitacion Para La Industria De La Construccion,Peru,Tecnologia / Sistemas
+2022-11-11 18:36,Betsy Culquicondor Martinez,2405,Fuxion Biotech S.A.C.,Peru,Analisis Funcional
+2022-11-11 16:37,Jennifer Mejia Meliton,1492,Falabella Corporativo Peru S.A.,Peru,Contabilidad
+2022-11-11 16:02,Aron Luis Hurtado Guerra,375,Eco Clean,Peru,Ingenieria Industrial
+2022-11-11 15:51,Luis Gerardo Solari Rojas,648,Likewize (Brightstar Corp),Peru,Tecnologias De La Informacion
+2022-11-11 14:37,Veronica Alva Salabarriga,1198,Mapfre Peru,Peru,Liderazgo De Proyecto
+2023-02-05 19:44,Maycol Kevin Guevara Hurtado,826,Mdp Consulting S.A.C,Peru,Analisis Funcional
+2022-11-11 13:22,Sarita Vigo Quiroz,559,Camposol Sa,Peru,Liderazgo De Proyecto
+2022-11-11 12:21,Guevara Zavaleta Noheli Elizabeth,893,Consorcio De Sistemas Previsionales,Peru,Analisis Funcional
+2022-11-11 11:43,Victor Hugo Marticorena Yanez,406,Global Hitss,Peru,Analisis Funcional
+2022-11-11 11:19,Melissa Rivas,1155,Ingevap Sac,Peru,Contabilidad
+2022-11-11 10:32,Jose Ignacio Lombardi Benavides,242,Samyl,Espana,Liderazgo De Proyecto
+2022-11-11 10:17,Juan Hector Burgos Ramos,119,Indra,Peru,Analisis De Datos
+2022-11-11 07:50,Fabian Miranda Sucapuca,365,Cofide,Peru,Administracion
+2022-11-10 21:10,Ana Maria Orbegozo Morales,304,Aldeas Infantiles Sos Peru,Peru,Gerencia / Direccion General
+2022-11-10 20:32,Cristhian Hildebrando Rodriguez Ruiz,558,Global Hitss,Peru,Analisis De Datos
+2022-11-10 19:58,Sandra Carolina Arirama Pacaya,429,Miubel Maquinarias,Peru,Secretaria
+2023-02-05 09:24,Pilar Mamani Chavez,461,Global Hitss,Peru,Analisis Funcional
+2022-11-10 19:21,Diana Alejandra Ramirez Arredondo,374,Sanipes,Peru,Analisis Funcional
+2022-11-10 19:21,Alexander Martin Chacon Cobenas,61,Stefanini Group,Peru,Analisis Funcional
+2022-11-10 19:10,Christian Alexander Velez Garcia,254,Hub Technology,Peru,Analisis Funcional
+2022-09-01 15:23,Maydeline Chanchari Yumbato,1004,Textil Selva,Peru,Analisis Funcional
+2022-09-01 08:41,Tyrone Alberto Cespedes Falcon,1919,Tata Consultancy Services,Peru,Liderazgo De Proyecto
+2022-08-30 22:48,Edwin Severo Bautista Quispe,730,Inetum Sac,Peru,Analisis Funcional
+2022-08-29 22:02,Diego Junior Crisostomo Aylas,1428,Hipermercados Tottus,Peru,Liderazgo De Proyecto
+2022-08-27 21:53,Luis Puerta,1244,Tismart,Peru,Testing / Qa / Qc
+2022-08-25 08:59,Jean Carlos Ayasta Cornejo,334,Metrica Andina,Peru,Ingenieria Industrial
+2022-08-22 22:50,Jonhatan Isaac Pachao Taipe,1025,Delaware - Telefonica Del Peru,Peru,Testing / Qa / Qc
+2023-02-04 22:05,Wilmer Aynor Agurto Carrillo,275,Colegio Privado Heroes Del Cenepa,Peru,Tecnologias De La Informacion
+2022-08-22 22:01,Jhunior Villagomez Leon,304,Sapia,Peru,Tecnologias De La Informacion
+2022-08-22 19:21,Jesus Marin,964,Itb Consulting,Peru,Liderazgo De Proyecto
+2022-08-22 18:27,Irwinn Danilo Jesus Legua Zelada,143,Indra Peru S.A.,Peru,Analisis Funcional
+2022-08-22 15:26,Lisetti Zuleite Macedo Valderrama,113,Banco Banbif,Peru,Liderazgo De Proyecto
+2022-08-18 22:00,Jose Diaz,563,Indra,Peru,Otras Ingenierias
+2022-08-17 15:44,Cyntia Caterine Huaytan Suazo,365,Innova Digital Solutions,Peru,Analisis Funcional
+2022-08-17 11:16,Suyang Elizabeth Vela Diaz,1020,Ricoh,Peru,Tecnologia / Sistemas
+2022-08-17 11:05,Guillermo Israel Garcia Mansilla,365,Global Hitss,Peru,Analisis Funcional
+2022-08-16 23:45,Jessica Alicia Sierra Rojas,1688,Jrm S.A,Peru,Gerencia / Direccion General
+2022-08-16 20:30,Jordan David Barrientos Sarmiento,196,Argenper,Peru,Sistemas
+2023-02-04 20:27,Luis Enrique Merino Sulca,182,Atento,Peru,Redes
+2022-08-16 17:49,Andres Randolf Mendoza Martinez,2497,Gm Tramas Sa,Peru,Tecnologia / Sistemas
+2022-08-16 13:48,Jose Lenin Estrada Meza,3835,Sagone Eirl,Peru,Otros
+2022-08-16 10:36,Mirian Martinez Chavez,417,Tcs Consultancy Services,Peru,Analisis Funcional
+2022-08-15 22:31,Raul Ruiz Toledo,591,Hunt Services Company S.A.C.,Peru,Tecnologias De La Informacion
+2022-08-15 11:50,Anthony Stefano Manrique Castro,1171,Tawa Cosulting S.A.C.,Peru,Ingenieria Industrial
+2022-08-14 19:46,Jaime Haro,426,Sierras Y Herramientas Del Peru,Peru,Sistemas
+2022-08-14 14:05,Ronald David Sampertegui Concha,651,Soltrak Sa,Peru,Ingenieria En Minas
+2022-08-14 03:14,"Juan Jose Sanchez Chiva, Iso/Iec, Itil(R), Scrum Master",712,Likewize Peru Sac,Peru,Tecnologias De La Informacion
+2022-08-11 10:57,Carmen Leydi Gonzales Sulca,603,Softtek,Peru,Tecnologia / Sistemas
+2022-08-10 22:48,Nancy Garcia Fernadez,1804,Dms Peru Sac,Peru,Sistemas
+2023-02-13 10:59,Edgar Gerardo Huapaya Ormeno,349,Ntt Data Peru S.A.C,Peru,Tecnologia / Sistemas
+2023-02-04 14:56,Sergio Manuel Atoche Meca,126,Consultor De Sistemas Ti,Peru,Tecnologias De La Informacion
+2022-08-10 10:59,Paul Martin Duenas Calderon,101,Stefanini,Peru,Sistemas
+2022-08-10 04:33,Victor Carlos Heredia Segura,30,Global Hitss,Peru,Organizacion Y Metodos
+2022-08-08 15:09,Luz Sanchez Alvarado,1734,Global Hitss,Peru,Analisis Funcional
+2022-08-08 01:11,Janet Johanna Cirineo Huamani,981,Everis Peru,Peru,Tecnologia / Sistemas
+2022-08-05 10:12,Rodmi Daniel Mendoza Romero,581,Ministerio Publico,Peru,Sistemas
+2022-08-04 23:51,Hubert Oscar Caycho Gonzalez,3137,Global Tpa,Peru,Liderazgo De Proyecto
+2022-08-03 23:24,Diana Aylas Villanueva,428,Southern Textile Network,Peru,Ingenieria Industrial
+2022-08-03 22:27,Daniel Carrion Naveros,245,Soluxiones S.A.C,Peru,Infraestructura
+2022-08-03 14:58,Rogger Telles,1129,Globalhitss,Peru,Tecnologias De La Informacion
+2022-08-02 17:33,Mary Cielo Cuzcano Mendoza,578,Transligra,Peru,Otras Ingenierias
+2023-02-04 10:46,Dora Lizbeth Herrera Cajusol,1982,Universidad San Martin De Porres,Peru,Analisis De Datos
+2022-08-02 14:28,Ivan Agusto Diaz Barrantes,92,Infhotel Sac,Peru,Programacion
+2022-08-02 11:53,Hans Aranguri Callupe,122,Global Hitss,Peru,Tecnologias De La Informacion
+2022-08-01 09:59,Jose Mauricio Lozano Evangelista,334,Synopsis,Peru,Data Warehousing
+2022-07-31 10:43,Luis Javier Nohara Higaonna,4017,Asociacion Peruano Japonesa,Peru,Otras Ingenierias
+2022-07-31 10:13,Elvis Hernan Solari Ortiz,792,Canvia (Antes Gmd),Peru,Tecnologias De La Informacion
+2022-07-31 07:18,Jorge Urquia Malaver,2218,Freelance (Clientes),Peru,Seguridad Informatica
+2022-07-30 16:26,Jonathan Silva Perich,1795,El Grupo El Comercio,Peru,Liderazgo De Proyecto
+2022-07-29 20:12,Luis Alberto Sanchez Toledo,1001,Indra,Peru,Tecnologia / Sistemas
+2022-07-28 09:36,Hector Enrique Rivera Jimenez,31,Sapia,Peru,Comunicacion
+2022-07-27 06:38,Janet Merino Natorce,329,Tsoft,Peru,Ingenieria Oficina Tecnica / Proyecto
+2023-02-04 10:24,Luis Casas Rodriguez,1005,Coopac Kori,Peru,Ingenieria De Procesos
+2022-07-26 08:35,Anthony Luigui Vilchez Trujillo,123,Staff Representaciones,Peru,Tecnologias De La Informacion
+2022-07-25 18:24,Stephanny Merino Palomino,1515,Symmetry Corporation,Peru,Liderazgo De Proyecto
+2022-07-25 11:40,Luis Quispe,1332,Limcompany,Peru,Otras Ingenierias
+2022-07-25 08:14,Mario Diaz,1332,Cibertec,Peru,Tecnologia / Sistemas
+2022-07-24 11:03,Enrique Eduardo Elias Pantoja,114,Rcsoft Consulting S.A.C.,Peru,Tecnologia / Sistemas
+2022-07-23 11:54,Angel Christian Campean Cabrera,976,Everis,Peru,Sistemas
+2022-07-22 13:09,Rosa Elena Gonzales Condori,153,Canvia,Peru,Ingenieria Oficina Tecnica / Proyecto
+2022-07-21 23:52,Hugo Bryam Norman Delgado Chamorro,1146,Tata Consultancy Services,Peru,Tecnologias De La Informacion
+2022-07-21 23:30,Frami Suhey Flores Herrera,1603,Hermes Transportes Blindados S.,Peru,Liderazgo De Proyecto
+2023-02-04 08:43,Luis Javier Nohara Higaonna,4205,Asociacion Peruano Japonesa,Peru,Otras Ingenierias
+2022-07-21 17:57,Alfredo Samuel Norena Luna,61,Global Hitss,Peru,Analisis Funcional
+2022-07-21 16:19,Walter Antonio Telles La Serna,3854,Interbank,Peru,Tecnologia / Sistemas
+2022-07-21 15:22,Jose Ernesto Llontop Matsumoto,1116,Sapimsa Peru,Peru,Analisis Funcional
+2022-07-21 14:38,Krysthell Reyes,1765,Upn,Peru,Tecnologia / Sistemas
+2022-07-21 10:30,Yoana Jaqueline Gomez Cantuarias,120,Scharff Logistica Integrada S.A.,Peru,Analisis Funcional
+2022-07-21 00:35,Allison Yadira Ramirez Alama,335,Delaware,Peru,Testing / Qa / Qc
+2022-07-20 18:34,Carlos Bruno Sandoval,261,Hitss,Peru,Tecnologias De La Informacion
+2022-07-20 13:40,Ebher Erik Manta Choque,384,Ntt Data,Peru,Analisis Funcional
+2022-07-20 12:22,Gaston Ibanez Perez,851,Autoridad Nacional Del Agua,Peru,Sistemas
+2022-07-20 09:54,Gabriela Bruzual,1296,Samsung Medical Peru,Peru,Compras Internacionales/Importacion
+2023-02-04 07:30,Cyntia Caterine Huaytan Suazo,365,Innova Digital Solutions,Peru,Analisis Funcional
+2022-07-19 20:30,Joselyne Patricia Chafloque Huaman,168,Informatica Delta Sac,Peru,Ingenieria De Procesos
+2022-07-19 18:37,Marilyn Ysabel Valverde Campos,505,Avatar Global,Peru,Sistemas
+2022-07-19 18:05,Robert Williams Iparraguirre Alanya,458,Everis Peru,Peru,Tecnologia / Sistemas
+2022-07-19 17:30,Enzo Maynert Calle Gutierrez,413,Instituto Nacional Del Nino - Brena,Peru,Liderazgo De Proyecto
+2022-07-19 14:42,Miguel Enrrique Mendoza Santamaria,564,Unidad Oncologica Molecular Peruana,Peru,Desarrollo De Negocios
+2022-07-19 12:50,Jorge Luis Cortez Alvarez,291,"Ntt Data Peru, S.A.C.",Peru,Tecnologias De La Informacion
+2022-07-19 12:08,Alex Cruces,899,Netafim,Peru,Sistemas
+2022-07-19 11:57,Lucero Alvarado Benites,656,Global Hitss,Peru,Analisis Funcional
+2022-07-19 11:05,Yohan Toribio De La Cruz Leguia,59,La Protectora,Peru,Analisis Funcional
+2022-07-19 11:02,Danmert Jonelly Costilla Claros,1217,Ramales S.A.C,Peru,Tecnologia / Sistemas
+2023-02-03 21:02,Jose Luis Perea Grandez,916,Megayuntas S.A.C.,Peru,Soporte Tecnico
+2022-07-19 10:12,Juan Carlos Diaz Nunez,122,Mdp Consulting,Peru,Analisis Funcional
+2022-07-19 09:17,Arturo Arias,3366,Ibm Del Peru,Peru,Liderazgo De Proyecto
+2022-07-18 23:56,Debora Teran Rebaza,1508,Hitss Peru Sac,Peru,Analisis Funcional
+2022-07-18 23:21,Christian Alexander Velez Garcia,139,Hub Technology,Peru,Analisis Funcional
+2022-07-18 22:35,Cesar Alberto Miano Aguirre,229,Miano Asesores Y Consultores En Rr. Hh. E.I.R.L.,Peru,Compensacion Y Planilla
+2022-07-18 22:30,Eric Raul Guerrero Chauca,150,Hermes Transportes Blindados S.A.C.,Peru,Auditoria
+2022-07-18 21:58,Andy Sam Nunez Herrera,4079,Clinica San Pablo S.A.C.,Peru,Tecnologia / Sistemas
+2022-07-18 21:05,Luis Leon,973,Parque Arauco,Peru,Tecnologias De La Informacion
+2022-07-18 19:50,Elleryn Jose Nunez Gonzales,151,Brainbox,Peru,Tecnologia / Sistemas
+2022-07-18 19:15,Geraldine Leslie Quispe Chero,290,Global Hitss Sa,Peru,Analisis Funcional
+2023-02-03 20:45,Wilmer Abdel Ponce De Leon Florindez,520,Grupo Bolsa De Valores De Lima,Peru,Analisis De Datos
+2022-07-18 19:01,Jessica Ivon Chiroque Rosales,396,Intercorp Retail - Supermercados Peruanos,Peru,Back Office
+2022-07-18 18:39,Rolex Cerna Ocas,122,Ministerio De Salud,Peru,Tecnologias De La Informacion
+2022-07-18 18:09,Alexander Martin Chacon Cobenas,61,Stefanini Group,Peru,Analisis Funcional
+2022-07-18 18:02,Ivan Augusto Diaz Maldonado,59,Prodimin,Peru,Instrumentacion Minera
+2022-07-18 18:03,Jorginhio Luciano,716,Metalurgia Omega S.R.L.,Peru,Produccion
+2022-04-29 22:07,Martin Miguel Beas Vela,575,Itteam,Peru,Liderazgo De Proyecto
+2022-04-28 16:54,Leonardo Zico Depaz Reyes,1488,Adexus Peru S.A,Peru,Programacion
+2022-04-27 21:32,Yohan Toribio De La Cruz Leguia,59,La Protectora,Peru,Analisis Funcional
+2022-04-25 10:25,Robert Williams Iparraguirre Alanya,458,Everis Peru,Peru,Tecnologia / Sistemas
+2022-04-24 21:28,Jose Ernesto Llontop Matsumoto,1028,Sapimsa Peru,Peru,Analisis Funcional
+2023-02-03 12:45,Aldo Jose Aguilar Balcazar,704,Etl Global Audit Assurance,Peru,Auditoria
+2022-04-23 00:14,Armando Lara,184,Ministerio De Trabajo,Peru,Capacitacion
+2022-04-20 23:47,Maydeline Chanchari Yumbato,1754,It Skill Peru,Peru,Tecnologias De La Informacion
+2022-04-20 10:11,Diego Villanueva Rojas,1115,Gps Asset Management,Peru,Creditos Y Cobranzas
+2023-02-03 11:05,Melissa Katherin Corimanya Memenza,94,Inictel,Peru,Telecomunicaciones
+2023-02-03 10:46,Heinz Heiner Eilers Romero,551,Tata Consultancy Services,Peru,Liderazgo De Proyecto
+2023-02-12 17:37,Rosmery Rodriguez,92,Onpe Odpe Huanuco,Peru,Ingenieria De Procesos
+2023-02-03 09:54,Miguel Angelo Parco Estrada,278,Canvia,Peru,Sistemas
+2023-02-03 09:44,Jonathan Enrique Pacheco Chapellin,885,Acepta Peru,Peru,Liderazgo De Proyecto
+2023-02-03 09:13,Steven Max Navarrete Quincho,2896,Estacion De Servicios Daniela S.A.,Peru,Tecnologia / Sistemas
+2023-02-02 12:12,Angelo Guillermo Minaya Montes,730,Telefonica / Stefanini,Peru,Desarrollo De Negocios
+2023-01-31 21:25,Alexander Martin Chacon Cobenas,61,Stefanini Group,Peru,Analisis Funcional
+2023-01-31 21:07,Francis Barrera Arce,243,Bpo Group,Peru,Comercial
+2023-01-31 20:32,Angel Sony Obregon Colon,122,Corporacion Withmory,Peru,Analisis Funcional
+2023-01-31 20:31,Rosa Elena Gonzales Condori,214,Canvia - Ex Gmd,Peru,Sistemas
+2023-01-31 20:27,Cesar Arturo Correa Panduro,456,Lima Airport Partners,Peru,Tecnologia / Sistemas
+2023-01-31 20:21,Deshire Nunez Rivas,183,Revista Stakeholders,Peru,Programacion
+2023-02-12 02:20,Cristian Luis Pashanasi Medina,348,Global Hitss,Peru,Analisis Funcional
+2023-01-31 18:08,Ysabel Raquel Mori Roque,275,Canvia,Peru,Tecnologia / Sistemas
+2023-01-31 17:22,Karina Elizabeth Limaylla Lujan,365,Kushki,Peru,Ingenieria De Producto
+2023-01-31 17:20,Cynthia Victoria Ramon Vargas,760,Ieduca,Peru,Tecnologias De La Informacion
+2023-01-31 17:03,Omar Chacon Leon,517,Entelgy,Peru,Testing / Qa / Qc
+2023-01-31 16:59,Freddy Fartolino Guerrero,260,Laboratorios Ac Farma S.A.,Peru,Tecnologias De La Informacion
+2023-01-31 16:53,Sandy Carranza Correa,275,Intercorp Retail,Peru,Liderazgo De Proyecto
+2023-01-31 16:52,Rodmi Daniel Mendoza Romero,760,Ministerio Publico,Peru,Sistemas
+2023-01-31 16:14,Diana Magaly Asto Ruiz,214,Soluciones Digitales,Peru,Analisis Funcional
+2023-01-31 15:28,Jorge Morales De La Cruz,153,Kyndryl,Peru,Administracion De Base De Datos
+2023-02-11 09:42,Carlos Alberto Palomino Ruiz,1471,Bbva,Peru,Sistemas
+2023-01-31 15:27,Myriam Talavera,610,Electrocentro S.A.,Peru,Compras
+2023-01-31 15:25,Jose Alfonso Cachay Guzman,395,Csti Corp.,Peru,Otras Ingenierias
+2023-01-31 15:19,Aron Luis Hurtado Guerra,456,Eco Clean,Peru,Ingenieria Industrial
+2023-01-31 14:55,Sheila Antonella Herencia Aquije,463,Nttdata,Peru,Tecnologias De La Informacion
+2023-01-31 14:54,Jayr Jhoseph Camones Zaravia,640,Banco De La Nacion,Peru,Tecnologia / Sistemas
+2023-01-31 14:47,Diana Atachagua Aquije,821,Alicorp,Peru,Sistemas
+2023-01-31 14:13,Miguel Angel Arana Huillca,334,Celerity Sociedad Anonima Cerrada,Peru,Soporte Tecnico
+2023-01-31 13:42,Michel Stiven Evaristo Munoz,242,Inetum Peru Sac,Peru,Planeamiento
+2023-01-31 13:41,Daniel Alonso Suarez Lopez,305,Pontificia Universidad Catolica Del Peru,Peru,Tecnologias De La Informacion
+2023-01-31 13:16,Rolex Cerna Ocas,122,Ministerio De Salud,Peru,Tecnologias De La Informacion
+2023-02-09 01:07,Luis Alberto Sanchez Toledo,1196,Indra,Peru,Tecnologia / Sistemas
+2023-01-31 13:09,Cynthia Rosa Palomino Zevallos,305,Superdigital/Banco Santander,Peru,Analisis De Riesgos
+2023-01-31 13:04,Jorge Porras,579,Banco Pichincha,Peru,Tecnologias De La Informacion
+2023-01-31 12:57,Jean Willian Hinostroza Cueva,214,Delfosti,Peru,Liderazgo De Proyecto
+2023-01-31 12:47,Manfred Enrique Zoeger Sanguesa,122,Titan Sign Company | Hana Design,Estados Unidos,Planeamiento Comercial
+2023-01-31 12:35,Janet Johanna Cirineo Huamani,1157,Everis Peru,Peru,Tecnologia / Sistemas
+2023-01-19 15:40,Omar Lezama Paredes,263,Camposol S.A.,Peru,Tecnologias De La Informacion
+2023-01-18 18:54,Ronaldo Velez Villanueva,504,Global Hitss,Peru,Tecnologia / Sistemas
+2023-01-18 18:38,Jose Carlos Munoz Sanchez,181,Hitts,Peru,Analisis Funcional
+2023-01-18 13:59,Junior David Torrejon Zacarias,443,Tecmadi,Peru,Analisis Funcional
+2023-01-18 11:23,Heinz Heiner Eilers Romero,535,Tata Consultancy Services,Peru,Liderazgo De Proyecto
+2023-02-09 00:31,Anselmo Vergaray,334,Global Tpa Solutions,Peru,Tecnologia / Sistemas
+2023-01-16 22:05,Giancarlo Andres Ronceros Torres,245,Corporacion Sapia S.A,Peru,Analisis Funcional
+2023-01-16 12:49,Janira Aracelly Lima Santillana,153,Southern Peru Copper Corporation,Peru,Ingenieria Industrial
+2023-01-15 14:57,Damaris Milagritos Paiva Evangelista,624,A3 Consultores,Peru,Contabilidad
+2023-01-13 17:02,Tanya Melissa Luna Moran,134,One To One,Peru,Analisis Funcional
+2023-01-13 12:32,Gerson Josue Ocrospoma Cuadros,561,Bureau Veritas Del Peru,Peru,Liderazgo De Proyecto
+2023-01-13 11:58,Sergio Motta,183,Seidor Technologies Peru Sac,Peru,Tecnologia / Sistemas
+2023-01-12 23:47,Franco Cabanillas Gomez,133,Digiflow,Peru,Sistemas
+2023-01-12 11:13,Martin Amado Navarro Espinoza,498,Telefonica,Peru,Tecnologia / Sistemas
+2023-01-11 12:01,Pilar Mamani Chavez,436,Global Hitss,Peru,Analisis Funcional
+2023-02-08 22:01,Ruth Isabel Alarcon Garro,1287,Pontificia Universidad Catolica Del Peru,Peru,Educacion/Docencia
+2023-01-09 16:48,Lady Geraldine Zevallos,526,Latamready,Peru,Testing / Qa / Qc
+2023-01-08 14:21,Stefanny Benites Franco,706,America Movil-Claro,Peru,Desarrollo De Negocios
+2023-01-07 08:07,Jesus Lisset Vigo Terrones,1408,Sat Cajamarca,Peru,Tecnologias De La Informacion
+2023-01-06 16:38,Gustavo Franklin Estela Estela Bejarano,2161,Productos Tissue Del Peru Sac,Peru,Logistica
+2023-01-06 11:50,Rennatto Giovanni Carcheri Cordero,2291,Sanna - Clinica &Quot;El Golf&Quot;,Peru,Otras Ingenierias
+2023-01-05 21:43,Mary Cielo Cuzcano Mendoza,96,Peru Apps Sac,Peru,Tecnologia / Sistemas
+2023-01-04 23:03,Cesar Felix Rivera Chacon,669,Consultor Independiente,Peru,Ingenieria Industrial
+2023-01-04 19:12,Miguel Angel Avellaneda Vasquez,1099,Posada Peru Sac,Peru,Administracion De Personal
+2023-01-04 12:47,Karina Elizabeth Limaylla Lujan,365,Kushki,Peru,Ingenieria De Producto
+2023-01-04 11:04,Sergio Fernando Rodriguez Macedo,730,La Positiva Seguros,Peru,Tecnico De Seguros
+2023-04-24 22:45,Guillermo Israel Garcia Mansilla,153,Indra Peru S.A,Peru,Analisis Funcional
+2022-12-29 12:36,Sandra Samaira Stefani Pazo Giron,1458,Walac,Peru,Diseno
+2022-11-25 22:53,Luis Alejandro Basilio Lima,297,Factor It,Peru,Analisis De Datos
+2022-11-22 16:34,Lucas Alfonso Alvarado Aguado,1635,Seguros Mapfre,Peru,Tecnologias De La Informacion
+2022-11-22 15:07,Cesar Alfonso Chavez Concha,2609,Accenture Peru,Peru,Infraestructura
+2022-11-21 04:26,Gaston Ibanez Perez,851,Autoridad Nacional Del Agua,Peru,Sistemas
+2022-11-20 17:05,Ali Pavel Cuba Pariamachi,1238,Banco Bbva,Peru,Tecnologias De La Informacion
+2022-11-17 16:52,Jorge Urquia Malaver,2327,Freelance (Clientes),Peru,Seguridad Informatica
+2022-11-17 15:30,Arturo Arias Azanedo,3348,Ibm Del Peru,Peru,Liderazgo De Proyecto
+2022-11-16 16:11,Renato Meza Cribilleros,1629,Ferreyros S.A.,Peru,Tecnologias De La Informacion
+2022-12-25 09:32,Luis Felipe Gomez Fernandez,115,Ingemin Service -Spcc,Peru,Produccion
+2022-12-22 17:20,Joseph Paz,204,Fluyez,Peru,Infraestructura
+2022-12-13 15:23,Luigi Gary Guardamino Barrueta,1442,Gubarq Studio,Peru,Arquitectura
+2022-12-06 15:49,Alejandra Lourdes Vargas Cumpa,31,Banco Ripley,Peru,Tecnologia / Sistemas
+2022-12-06 09:48,Danilo Jose Sandoval Huaman,302,Interbank,Peru,Tecnologias De La Informacion
+2022-12-01 20:53,Jean Antony Julio Miranda Cruz,731,Matices Tours Tarma,Peru,Turismo
+2022-12-29 22:07,Marina Fernandez Bolanos,609,Urbanica,Peru,Construccion
+2023-04-28 09:14,Richard Valero,761,Golden Road Technology Sac,Peru,Liderazgo De Proyecto
+2023-04-12 21:37,Cecili Jaenneth Rojas Samaniego,487,The Palladium Group - Proyecto Catalyze Peru,Peru,Tecnologias De La Informacion
+2023-04-12 20:21,Levit Jefferson Leandro Pasache,407,Gys Gestion Y Sistemas - Mincetur,Peru,Liderazgo De Proyecto
+2023-04-12 13:00,Lucero Carmen Pacheco Munoz,153,Ing. Erick Varillas Trujillo,Peru,Diseno Web
+2023-04-11 21:32,Miguel Omar Zamora Huarcaya,61,Canvia S.A.C,Peru,Tecnologia / Sistemas
+2023-04-11 19:07,Cesar Enrique Delzo Esteban,253,Universidad De Ciencias Aplicadas,Peru,Educacion/Docencia
+2023-04-11 18:16,Jesus Ronald Ochoa Ludena,679,Gerencia Sub Region Chanka,Peru,Administracion De Base De Datos
+2023-04-11 15:19,Jhon Miguel Mallcco Atunca,151,Saekom,Peru,Control De Gestion
+2023-04-11 12:15,Ingrid Katherine Sanchez Sanchez,1075,!Oh My Kids!,Peru,Marketing
+2023-04-11 11:00,Fernando Alfredo Vilca Garcia,334,Embotelladora San Miguel Del Sur,Peru,Abastecimiento
+2023-04-11 03:09,Jhon Aranguren Alen,822,Experis,Peru,Tecnologias De La Informacion
+2023-04-28 03:53,Victor Hugo Valencia Ramos,0,Prominco Real Sac,Peru,Analisis Funcional
+2023-04-10 15:15,Ricardo Linares Livia,274,Consultor Externo - Banco Cencosud,Peru,Tecnologia / Sistemas
+2023-04-09 17:07,Gustavo Alejandro Hurtado Benancio,365,"Superintendencia De Banca, Seguros Y Afp",Peru,Tecnologias De La Informacion
+2023-04-09 14:22,Carlos Joel Cordova Chira,122,Integrator Sac,Peru,Testing / Qa / Qc
+2023-04-08 19:48,Jhon Mansilla Blanco,153,Bisa Ingenieria De Proyectos,Peru,Ingenieria Industrial
+2023-04-08 16:47,John Anthony Amachi Choqque,403,Peruvian Goods & Services S.A.C.,Peru,Liderazgo De Proyecto
+2023-04-08 12:35,Michel Stefano Obregon Gonzales,403,Serpost,Peru,Tecnologia / Sistemas
+2023-04-08 10:34,Fiorella Lilia Pasquel Melendez,584,Ogreen,Peru,Planeamiento Comercial
+2023-04-07 20:37,Manuel Arturo Rojas Brena,639,Comsatel S.A.C,Peru,Analisis Funcional
+2023-04-07 00:31,Candy Samaniego Salvatierra,1010,Incimmet,Peru,Liderazgo De Proyecto
+2023-04-06 21:30,Silvana Claudia Mitma Aliaga,275,Imperia Soluciones Tecnologicas,Peru,Tecnologia / Sistemas
+2023-04-27 23:34,Walter Fredy Chipana Choque,422,Freelance,Peru,Tecnologias De La Informacion
+2023-04-06 18:17,Joseph Smith Salvador Vasquez,1402,J & R Fasor S.A.C.,Peru,Tecnologia / Sistemas
+2023-04-05 00:12,Ivan Agusto Diaz Barrantes,273,Global Hitss,Peru,Servicios
+2023-04-04 14:57,Anthony Manuel Zarate Zelada,34,Gobierno Regional De Loreto,Peru,Inversiones / Proyectos De Inversion
+2023-04-04 12:53,Carlos Paredes Gonzales,457,Everis Peru S.A.C.,Peru,Consultoria
+2023-04-03 19:39,Adalberto Daniel Marquez Chuquinaupa,366,Ingemmet,Peru,Auditoria
+2023-04-03 17:11,Llerena Benites Jose Salvador,944,Real Systems S.A.,Peru,Liderazgo De Proyecto
+2023-04-03 12:41,Ricardo Armando Ramirez Angeles,398,Italtel,Peru,Liderazgo De Proyecto
+2023-04-03 10:45,Sandro Joseph Malca Neyra,184,Syr Agencia Digital,Peru,Programacion
+2023-04-02 15:17,Kevin Eris Rojas Rios,365,Zegel Ipae,Peru,Tecnologia / Sistemas
+2023-04-27 20:56,Cynthia Gonzales Horna,1735,Stracon S.A.,Peru,Salud
+2023-04-01 21:33,Arani Davila,59,Bmp Consulting Sac,Peru,Liderazgo De Proyecto
+2023-03-31 16:04,Bryan David Aguilar Chuquino,242,Celer,Peru,Tecnologia / Sistemas
+2023-03-31 14:39,Oscar Javier Camacho Ortega,183,Centrum Pupc,Peru,Administracion De Base De Datos
+2023-03-31 12:26,Valeria Llerena,87,Sunat,Peru,Testing / Qa / Qc
+2023-03-31 09:41,Annie Lethy Julca Mejia,181,Tannder,Peru,Administracion
+2023-03-31 09:34,Manuel Adrian Injoque Guerra,244,Democame,Peru,Ingenieria Civil
+2023-03-30 16:53,Jannet Angelica Palma Huaman,575,Municipalidad Provincial De Huaraz,Peru,Otros
+2023-03-30 11:21,Luis Andres Yllanes Meza,787,Mediapro,Peru,Tecnologia / Sistemas
+2023-03-30 09:51,Jonathan Enrique Pacheco Chapellin,940,Acepta Peru,Peru,Liderazgo De Proyecto
+2023-03-29 21:22,Sandra Karen Mamani Callata,332,Tata Consultancy Services,Peru,Tecnologias De La Informacion
+2023-04-27 19:40,Bryan Vargas Chavez,1334,Xerox Del Peru,Peru,Tecnologias De La Informacion
+2023-03-29 20:18,Carlos Eduardo Martinez Lozano,426,Jci Ingenieria & Servicios Ambientales S.A.C,Peru,Ingenieria De Procesos
+2023-03-29 19:55,Vanessa Laura Alvarado Mendoza,605,Ibm,Peru,Tecnologia / Sistemas
+2023-03-29 18:33,Mayumi Alexandra Jimenez Capunay,395,Caja Metropolitana De Lima,Peru,Creditos Y Cobranzas
+2023-03-29 17:43,Frank Jefferson Ricardo Berrocal Mallqui,1430,Inelcom,Peru,Operaciones
+2023-03-29 15:20,Juan Martin Maguina Goicochea,209,Canvia,Peru,Tecnologia / Sistemas
+2023-03-29 14:52,Alex Gino Mendoza Flores,605,Compipro,Peru,Comercial
+2023-03-29 07:56,Milagros Lisette Huertas Soria,697,Osce,Peru,Gerencia / Direccion General
+2023-03-29 01:08,Victor Zamudio,276,National Facilities,Peru,Ingenieria Industrial
+2023-03-28 22:25,Luis Alejandro Sierralta Kishaba,2679,Grupo Chacarilla Sur,Peru,Liderazgo De Proyecto
+2023-03-28 21:21,Graciela Aguilar Diaz,331,4X Coffee Sac,Peru,Logistica
+2023-04-27 15:56,Jose Manuel Portocarrero Rivera,3038,Cescorp Sac,Peru,Liderazgo De Proyecto
+2023-03-28 19:26,Angel Heredia,153,Predictiva Corp,Peru,Soporte Tecnico
+2023-03-28 12:19,Grecia Stefany Vizcarra Alvarez,1274,Acurio Restaurantes,Peru,Ingenieria De Procesos
+2023-03-28 11:28,Alexandra Florez Caballero,92,Consigue Ventas,Peru,Administracion
+2023-03-28 11:10,Antony Quispe Palacios,365,Sofware Enterprise Services,Peru,Tecnologia / Sistemas
+2023-03-28 10:42,Gerson Alejo,451,Evol Tsnet,Peru,Ingenieria Oficina Tecnica / Proyecto
+2023-03-28 09:54,Jordan Jesus Pauca Laos,2977,Faride Algodon Del Peru Srl,Peru,Soporte Tecnico
+2023-03-28 07:59,Ricardo Paz Soldan Araujo,969,Universidad Peruana De Ciencias Aplicadas (Upc),Peru,Educacion/Docencia
+2023-03-28 07:23,Sandra Acosta Sanchez,270,Sempiterno Group,Peru,Tecnologias De La Informacion
+2023-03-28 01:39,Jean Willian Hinostroza Cueva,270,Delfosti,Peru,Liderazgo De Proyecto
+2023-03-27 23:42,Anderson Jaime Garcia Vela,334,Industrias Alimentarias,Peru,Analisis Funcional
+2023-04-27 00:18,Raul Balvin Vela,962,Gobierno Regional De Ayacucho,Peru,Infraestructura
+2023-03-27 21:57,Martin Gabriel Calla Cardenas,212,Esan Graduate School Of Business,Peru,Direccion
+2023-03-27 21:12,Erick Huaman,238,Pontificia Universidad Catolica Del Peru,Peru,Investigacion Y Desarrollo
+2023-03-27 20:20,Guiosep Bream Tunqui Cutipa,299,Unmsm Sum,Peru,Tecnologia / Sistemas
+2023-03-27 19:34,Luis Anthony Francia Francia,122,Universidad Privada Del Norte,Peru,Soporte Tecnico
+2023-03-27 19:19,Mario Michelet Diaz Bendezu,343,B Y V Iesemin Sac,Peru,Calidad
+2023-03-27 18:18,Sergio Alexander Condori Salazar,450,Laboratorios Biomont,Peru,Ingenieria Industrial
+2023-03-27 17:54,Alexander Martin Chacon Cobenas,61,Stefanini Group,Peru,Analisis Funcional
+2023-03-27 16:51,Cesar Villalobos,427,Corporacion Don Shalo,Peru,Comercial
+2023-03-27 16:19,Daniel Salazar,184,Dezo S.A.C,Peru,Ingenieria De Procesos
+2023-03-27 16:19,Angelica Rosario Yauris Cucho,151,Ferreyros,Peru,Ingenieria Oficina Tecnica / Proyecto
+2023-04-26 13:13,Ricardo Linares Livia,274,Consultor Externo - Banco Cencosud,Peru,Tecnologia / Sistemas
+2023-03-27 16:04,Giancarlo Jose Mejia Flores,668,Universidad Alas Peruanas,Peru,Tecnologias De La Informacion
+2023-03-27 16:01,Christopher Armando Torres Palomino,457,Entel,Peru,Tecnologia / Sistemas
+2023-03-27 14:22,Rafael Jehovani Campoblanco Carhuachin,151,Globant,Peru,Ingenieria Industrial
+2023-03-27 13:34,Rosa Elena Rosales Gonzales,365,Entelgy,Peru,Liderazgo De Proyecto
+2023-03-27 13:04,Julia Alexandra Chuquillanqui Anci,1202,Cia Minera Plata Dorada S.A.,Peru,Auditoria
+2023-03-27 12:30,Renzo Martinez,214,Dca Publicidad,Peru,Operaciones
+2023-03-27 11:46,Jorge Luis Flores Gonzales,92,It Data Consulting,Peru,Tecnologias De La Informacion
+2023-03-27 11:25,Julio Diaz Diaz,299,Optimiza Construccion Y Servicios Sac,Peru,Ingenieria De Procesos
+2023-03-27 11:22,Alexander Perez Cieza,30,Oficina Nacional De Procesos Electorales,Peru,Otras Ingenierias
+2023-03-27 10:49,Luis Diego Sarmiento Astonitos,151,Grupo Silvestre,Peru,Compras
+2023-04-25 17:29,Karoll Racchumi Cornejo,540,Global Hitss,Peru,Liderazgo De Proyecto
+2023-03-27 10:44,Vanessa Quispe,275,Fabrica De Ideas,Peru,Legal
+2023-03-27 10:22,Wilder Andres Alcantara Diaz,298,Vooxell,Peru,Tecnologias De La Informacion
+2023-03-27 10:05,Greysi Carol Cerda Melgarejo,97,Procesadora Torreblanca S.A,Peru,Calidad
+2023-03-27 09:57,Daniel Antonio Gavidia Quispe,214,Minedu,Peru,Tecnologia / Sistemas
+2023-03-27 09:46,David Eduardo Rojas Cavassa,59,Konecta Peru,Peru,Call Center
+2023-03-27 09:43,Manfred Enrique Zoeger Sanguesa,122,Titan Sign Company | Hana Design,Estados Unidos,Planeamiento Comercial
+2021-12-17 09:10,Jorge Urquia Malaver,1992,Freelance (Clientes),Peru,Seguridad Informatica
+2021-12-08 15:25,Javier Huaman Poma,463,Gilat Networks Peru,Peru,Telecomunicaciones
+2021-12-06 19:39,Victoria Aymara Jimenez,96,Gilat Networking Peru,Peru,Analisis De Datos
+2023-04-25 12:41,Nahil Nuria Solis Fernandez,420,Niubiz,Peru,Otros
+2021-12-01 23:32,Karem Giovana Fernandez Fernandez,731,Avalora America S.A.C,Peru,Tecnologias De La Informacion
+2021-11-30 18:20,Nerida Cristina Guillermo Gutierrez,457,Corporation Peter The Great,Peru,Administracion
+2021-11-25 18:00,William Munoz,359,Canvia,Peru,Analisis De Datos
+2021-11-24 10:03,Gianella Arevalo Huaman,633,Interbank,Peru,Practicas Profesionales
+2021-11-22 20:15,Gipsi Carolina Tavara Chinga,144,Oficina Nacional De Procesos Electorales,Peru,Sistemas
+2021-11-18 22:34,Natali Milagros Huaringa Chumpitaz,181,F1 Services &Amp; Solution,Peru,Administracion De Base De Datos
+2021-11-18 13:06,Johana Mayra Leon Munive,396,Supermercados Peruanos,Peru,Planeamiento Comercial
+2021-11-18 12:20,John Mervin Tizamo,214,Nexa Reosurces Peru,Peru,Liderazgo De Proyecto
+2021-11-17 15:57,Rosa Maria Torres Taipe,243,Engie Services Peru S.A.C,Peru,Ingenieria Industrial
+2021-11-16 20:02,Alexis Martita Morales Villa,229,America Movil S.A.C (Claro Peru),Peru,Comercial
+2023-05-03 14:28,Abdon Ludena Huamani,153,4 Torres Arquitectura Ingenieria Y Construccion S.A.C,Peru,Ingenieria Civil
+2023-04-25 12:10,Juan Martin Maguina Goicochea,236,Canvia,Peru,Tecnologia / Sistemas
+2021-11-16 18:55,Lorena Del Pilar Galarza Espinoza,153,Invermet,Peru,Operaciones
+2021-11-16 13:14,Jesus Jeffrey Vilchez Machare,246,Los Portales,Peru,Auditoria
+2021-11-16 10:53,Katiuska Diaz Obregon,685,Universidad Peruana Cayetano Heredia,Peru,Gerencia / Direccion General
+2021-11-15 10:31,Emerson Arias,440,Pmi Lima Peru Chapter (Voluntariado),Peru,Otras Ingenierias
+2021-11-15 10:24,Raul Razuri,608,G&Amp;S Cubicacion Y Metrologia S.A.C.,Peru,Administracion
+2021-11-12 13:49,Miguel Angel Matos Quispe,306,Acomemo,Peru,Control De Gestion
+2021-11-12 11:25,Alonso Pedro Miranda Garcia,407,Fosforera Peruana S.A.,Peru,Abastecimiento
+2021-11-11 16:21,Marianny Kingston Pino,1198,Protiviti Member Firme Peru Sac,Peru,Administracion
+2021-11-11 12:56,Keiko Gabriela Quispe Eulogio,163,China Yang Zu,Peru,Tecnologia / Sistemas
+2021-11-11 11:19,Kenyi Geancarlos Contreras Levano,116,Accuaproduct Sac,Peru,Ingenieria Industrial
+2023-04-25 11:53,Lidia Mercedes De La Cruz Terrones,113,Dykem S.C.R.L,Peru,Abastecimiento
+2021-11-10 12:26,Yajaira Guevara,2109,Serolperu Scrl,Peru,Administracion
+2021-11-10 11:05,Carlos Augusto Vite Inca,547,Alvisoft Peru S.A.C,Peru,Soporte Tecnico
+2021-11-09 19:50,Carmen Yesenia Franco Huaman,434,Bdo Consulting,Peru,Tecnologias De La Informacion
+2021-11-09 15:42,Gianfranco Herrera Mostacero,557,Fractalia,Peru,Telecomunicaciones
+2021-11-09 12:06,Sergio Huamani,92,Fonafe,Peru,Tecnologias De La Informacion
+2021-11-08 22:32,Doris Sullon Navarro,456,Noovus Technology Business Unit,Peru,Liderazgo De Proyecto
+2021-11-08 14:07,Maritza Lizbeth Porras Uchofen,799,Alicorp S.A.,Peru,Tecnologia / Sistemas
+2021-11-08 13:19,Diego Gerardo Puchoc Barzola,242,Dp World,Peru,Gerencia / Direccion General
+2021-11-08 11:55,Gloria Maria De Los Milagros Alama Visitacion,311,Kpmg,Peru,Liderazgo De Proyecto
+2021-11-08 09:54,Caroline Ranilla Gonzales,30,Majorel,Peru,Consultoria
+2023-04-24 16:56,Luis Espezua,1887,Constructora 27 De Abril,Peru,Planeamiento Comercial
+2021-11-08 09:48,Jhamir Alexander Saenz Ponce,403,Scharff International Courier And Cargo Sa,Peru,Tecnologia / Sistemas
+2021-11-08 05:44,Evelyn Cuenca Neyra,396,Farmacias Peruanas,Peru,Liderazgo De Proyecto
+2021-11-07 20:18,Neiver Flores Tello,129,Konecta Bto S.L.Sucursal En Peru,Peru,Seguridad Informatica
+2021-11-07 20:00,Pedro Palomino Martel,341,Colegio La Divina Misericordia,Peru,Creditos Y Cobranzas
+2021-11-07 15:17,Katherine Eliana Perez Coronel,371,Software Enterprise Services,Peru,Ingenieria De Procesos
+2021-11-07 12:58,Wilder Andres Alcantara Diaz,92,Securesoft-Contrato Temporal Por Reemplazo 3 Meses,Peru,Ingenieria Oficina Tecnica / Proyecto
+2021-11-07 09:26,Luis Carlos Maurate Paiba,1375,Consultor De Proyectos E Ingenieria,Peru,Mineria/Petroleo/Gas
+2021-11-06 15:45,Liliana Arroyo Marin,184,Tawa Consulting,Peru,Tecnologias De La Informacion
+2021-11-06 15:27,Alexis Gianpier Mimbela Nunez,425,La Tinka S.A,Peru,Tecnologia / Sistemas
+2021-11-06 01:56,Andres Carlos Cumpa Roca,151,Universidad Privada Norbert Wiener S.A.,Peru,Otros
+2023-04-24 10:15,Nicole Sebastiani,327,Canvia,Peru,Soporte Tecnico
+2021-11-06 00:29,Jasen Wilmer Vargas Benavides,366,It Servicios Y Consultoria Sac,Peru,Tecnologias De La Informacion
+2021-11-05 23:19,Ruben Jorge Contreras,549,A &Amp; T Pumps Technology Peru S.A.C,Peru,Sistemas
+2021-11-05 21:32,Nataly Gonzales Ayala,92,Iestp De Cabanillas,Peru,Control De Gestion
+2021-11-05 20:28,Romario Silva Quinones,522,Inventory Group Sac,Peru,Almacen / Deposito / Expedicion
+2021-11-05 19:06,Jean Carlos Mejia Upayacu,614,Gilat,Peru,Telecomunicaciones
+2021-11-05 18:23,Victor Manuel Torres Godoy,369,Keep It Simple,Peru,Tecnologia / Sistemas
+2021-11-05 18:00,Daniel Basurto Salazar,705,Claro Peru,Peru,Telecomunicaciones
+2021-11-05 16:24,Angel Javier Goicochea Celis,127,Pontificia Universidad Catolica Del Peru,Peru,Administracion
+2023-04-23 20:20,Segundo Ruiz Gomez,418,Universidad San Ignacio De Loyola Sac,Peru,Analisis De Datos
+2021-11-05 16:13,Javier Cristhian Leon Cruz,249,Agp Group,Peru,Abastecimiento
+2021-11-05 15:38,Willy Flores,96,Grupo Rokys,Peru,Ingenieria Industrial
+2023-04-23 19:14,Susana Soca Morales,31,Banco Santander Peru S.A,Peru,Tecnologia / Sistemas
+2023-04-23 10:27,Luis Alberto Quispe Sanchez,6686,Exagon Peru S.A.C.,Peru,Liderazgo De Proyecto
+2023-04-22 22:11,Miguel Omar Zamora Huarcaya,111,Ahead Solutions S.A.C,Peru,Tecnologia / Sistemas
+2023-04-21 14:57,Garry Anthonny Francis Juarez Scaccabarrozzi,123,Tagumedica S.A.,Peru,Analisis De Datos
+2023-04-21 14:56,Garry Anthonny Francis Juarez Scaccabarrozzi,123,Tagumedica S.A.,Peru,Analisis De Datos
+2023-05-03 08:09,Daiki Amaya Salvatierra,90,China Peak Montain Resort,Estados Unidos,Hoteleria
+2023-04-21 14:35,Carmen Susana Luque Huaccha,1310,Canvia,Peru,Soporte Tecnico
+2023-04-20 21:35,Cesar Alexis Giraldo Garcia,2422,Huawei Del Peru,Peru,Otras Ingenierias
+2023-04-20 17:16,Alexander Lucano,90,Freelance,Peru,Tecnologia / Sistemas
+2023-04-20 15:49,Luis Andres Yllanes Meza,808,Mediapro,Peru,Tecnologia / Sistemas
+2023-04-19 23:46,Jorge Luis Cortez Alvarez,184,Intercorp Retail,Peru,Recursos Humanos
+2023-04-19 23:30,Ezer Hildebrand Leon Melgarejo,383,Jchcomercial,Peru,Comercial
+2023-04-19 22:41,Luzmery Sosaya Gomez,779,Utec,Peru,Tecnologias De La Informacion
+2023-04-19 21:47,Ivan Agusto Diaz Barrantes,273,Global Hitss,Peru,Servicios
+2023-04-19 14:50,Lilian Aurora Delgado Chapa,383,Pmi Lima Peru Chapter,Peru,Business Intelligence
+2023-05-02 14:23,Alex Ivan Arevalo Iman,1370,Optical Networks,Peru,Telecomunicaciones
+2023-04-19 12:52,Jose Ernesto Llontop Matsumoto,1388,Sapimsa Peru,Peru,Analisis Funcional
+2023-04-19 12:51,Jose Ernesto Llontop Matsumoto,1388,Sapimsa Peru,Peru,Analisis Funcional
+2023-04-19 11:24,William Edward Rojas Godoy,200,Ae Online Solutions,Peru,Direccion
+2023-04-19 09:14,Nelson Criollo Mendoza,854,Clinica Internacional,Peru,Facturacion
+2023-04-18 19:19,Ana Belen Cuya Alejos,183,Molitalia,Peru,Produccion
+2023-04-17 21:44,Santiago Sebastian Heredia Orejuela,228,Interseguros,Peru,Otras Ingenierias
+2023-04-17 17:00,Eduardo Medrano,471,Carga.Pe,Peru,Direccion
+2023-04-17 16:54,Lourdes Esther Roca Bellido,532,Monark,Peru,Calidad
+2023-04-17 15:42,Alfredo Alan Martinez Pilar,1043,Globokas,Peru,Liderazgo De Proyecto
+2023-05-02 13:58,Carla Gonzalez Callalli,851,Jnr Consultores,Peru,Ingenieria Civil
+2023-04-17 13:06,Lizbeth Gomez Samaniego,380,Indra,Peru,Ingenieria Industrial
+2023-04-17 12:15,Angelica Rosario Yauris Cucho,151,Ferreyros,Peru,Ingenieria Oficina Tecnica / Proyecto
+2023-04-17 12:03,Ernesto Risi,259,Independiente,Peru,Gerencia / Direccion General
+2023-04-17 11:11,Sergio Enrique Diestra Villavicencio,1142,Italtel Peru,Peru,Facturacion
+2023-04-17 11:10,Sergio Enrique Diestra Villavicencio,1142,Italtel Peru,Peru,Facturacion
+2023-04-16 21:04,Wilberth Alejandro Rosales Huerta,426,Independiente,Peru,Liderazgo De Proyecto
+2023-04-16 19:49,Jean Willian Hinostroza Cueva,289,Delfosti,Peru,Liderazgo De Proyecto
+2023-04-16 18:15,Giovani Curo,531,Ace Partners,Peru,Tecnologias De La Informacion
+2023-04-16 13:08,Edwin Filamir Yaipen Flores,654,Clinica Sanna - Lima,Peru,Tecnologias De La Informacion
+2023-04-30 19:59,Andre Azanero,181,Fesepsa S.A.,Peru,Sistemas
+2023-04-15 23:33,Edy Yuliza Chuta Huayapa,31,Municipalidad Distrital De Saylla,Peru,Relaciones Institucionales/Publicas
+2023-04-15 22:41,Fernando Cesar Rodriguez Lara,181,Discitur,Peru,Gerencia / Direccion General
+2023-04-15 21:14,Fiorella Lilia Pasquel Melendez,591,Ogreen,Peru,Planeamiento Comercial
+2023-04-15 20:34,Manuel Alexis Quispe Flores,1169,Trabajo Independiente,Peru,Tecnologia / Sistemas
+2023-04-15 14:46,Kleyber Pillaca Ochoa,500,Niubiz,Peru,Logistica
+2023-04-15 12:20,Carlos Jesus De Montreuil Macalupu,318,Siemens Energy,Peru,Direccion
+2023-04-15 09:36,Rocio Andrea Mamani Cruz,275,Minedu,Peru,Programacion
+2023-04-14 23:14,Clayre Eliana Quispe Navarro,181,Tecoad Sac,Peru,Mineria/Petroleo/Gas
+2023-04-14 22:16,Carlos Joel Cordova Chira,122,Integrator Sac,Peru,Testing / Qa / Qc
+2023-04-28 12:57,Miguel Angel Lavado Yaranga,1127,Isp Consulting,Peru,Analisis Funcional
+2023-04-14 18:41,Llerena Benites Jose Salvador,944,Real Systems S.A.,Peru,Liderazgo De Proyecto
+2023-04-14 18:09,Victor Hugo Marticorena Yanez,560,Global Hitss,Peru,Analisis Funcional
+2023-04-14 16:45,Carlos Eduardo Martinez Lozano,426,Jci Ingenieria & Servicios Ambientales S.A.C,Peru,Ingenieria De Procesos
+2023-04-14 16:39,Daniel Antonio Gavidia Quispe,214,Minedu,Peru,Tecnologia / Sistemas
+2023-04-14 15:03,Bryan William Torres Jurado,225,Indpack,Peru,Programacion De Produccion
+2023-04-14 12:43,Gustavo Alejandro Hurtado Benancio,365,"Superintendencia De Banca, Seguros Y Afp",Peru,Tecnologias De La Informacion
+2023-04-13 23:54,Luis Alberto Timana Ayala,212,Feruhuja Sac.,Peru,Direccion De Obra
+2023-04-13 23:53,Sergio Alexander Condori Salazar,467,Laboratorios Biomont,Peru,Ingenieria Industrial
+2023-04-13 21:08,Tania Yuliana Tarazona Bedon,456,Corporacion Solivan,Peru,Ingenieria Industrial
+2023-04-28 11:05,Luis Diego Sarmiento Astonitos,151,Grupo Silvestre,Peru,Compras
+2023-04-13 20:16,Geana Elena Lisbeth Tavara Salazar,487,"Transportes 77 S.A,",Peru,Ingenieria Industrial
+2023-04-13 20:13,Manfred Enrique Zoeger Sanguesa,184,Titan Sign Company | Hana Design,Estados Unidos,Planeamiento Comercial
+2023-04-13 18:19,Miguel Alberto Carreno Leyton,224,Pricewaterhousecoopers,Peru,Auditoria
+2023-04-13 17:14,Vanessa Monroy Suarez,123,Valtx,Peru,Otras Ingenierias
+2023-04-13 17:10,William Edward Rojas Godoy,194,Ae Online Solutions,Peru,Direccion
+2023-04-13 17:09,Augusto Benza,640,Pure Alpaca Sa,Peru,E-Commerce
+2023-04-13 16:38,Alonso Guillermo Suarez Nicho Itil4 Pmi,316,Stefanini,Peru,Sistemas
+2023-04-13 15:26,Sandra Acosta Sanchez,286,Sempiterno Group,Peru,Tecnologias De La Informacion
+2023-04-13 14:39,Alvaro Antonio Jose Rivera Deza,347,Entelgy,Peru,Tecnologias De La Informacion
+2023-04-13 13:53,Moises Ricardo Jimenez Baldeon,96,Compania Hard Discount Sac,Peru,Comercial
+2023-04-28 10:20,Yuri Rojas,579,Caja Municipal Cusco,Peru,Liderazgo De Proyecto
+2023-04-13 13:33,Enrique Toribio Rosas,365,Intercorpretail,Peru,Infraestructura
+2023-04-13 12:49,David Munive Damian,275,Tair Renting,Peru,Ingenieria Industrial
+2023-04-13 12:12,Renee Del Pilar Maldonado Farfan,194,Mdp Consulting S.A.C,Peru,Liderazgo De Proyecto
+2023-04-13 12:06,Wilder Andres Alcantara Diaz,298,Vooxell,Peru,Tecnologias De La Informacion
+2023-04-13 11:59,Carlos Ponce,61,Entersolutions,Peru,Ingenieria Oficina Tecnica / Proyecto
+2023-04-13 11:57,Sonia Lizeth Garces Saenz,286,Tata Consultancy Services,Peru,Testing / Qa / Qc
+2023-04-13 11:57,Jorge Luis Ugarte Cruz,212,Laboratorios La Cooper,Peru,Comercial
+2023-04-13 11:46,Jhon Cotos,712,Pc Speed,Peru,Programacion
+2023-04-13 05:17,Sergio Alvarado Pino,1369,Everis,Peru,Analisis Funcional
+2023-05-04 03:57,Fernando Valero Laguado,151,Italtel Peru,Peru,Ingenieria Oficina Tecnica / Proyecto
+2019-08-26 10:06,Valeria Estefany Huamani Choque,122,Metrica Andina,Peru,Sistemas
+2019-08-15 10:27,Luis Junco Larrea,2021,Cinco Millas Sac.,Peru,Tecnologias De La Informacion
+2019-08-14 18:25,Jhon Roque Apon,1839,Aditiva Sac,Peru,Tecnologia / Sistemas
+2019-08-14 16:36,Alfred Josue Raul Aylas Lara,531,Accenture,Peru,Tecnologia / Sistemas
+2019-08-22 09:14,Randy Silva Salazar,1786,Safed Sac,Peru,Tecnologias De La Informacion
+2019-08-21 21:34,Peter Jonathan Rivera Del Carpio Baca,142,Sapimsa Peru S.A.C.,Peru,Liderazgo De Proyecto
+2019-08-21 21:32,Max Jordan Chumbes Baltierrez,324,Mediabyte S.A.C,Peru,Tecnologia / Sistemas
+2019-08-20 17:45,Patrick Wilder Gamboa Gamarra,445,Concytec,Peru,Tecnologias De La Informacion
+2019-08-19 09:51,Giancarlo Samir Campomanes Porras,140,Hundred Sac,Peru,Programacion
+2019-08-16 11:36,Pedro Emilio Axel Zevallos Garcia,1415,Plop! Studios,Peru,Sistemas
+2019-08-15 13:08,Henry Fernando Terrones Cortez,153,Mdp Consulting S.A.C,Peru,Sistemas
+2019-08-15 10:56,Percy Dubic Silva Paredes,1140,Corporacion Sapia S.A.,Peru,Liderazgo De Proyecto
+2019-09-09 16:59,Jose Luis Marcelo Romero Zacarias,70,Experis,Peru,Programacion
+2019-08-12 06:26,Julia Elizabeth Villa Morales,59,Panacea Consultores S.A.,Peru,Sistemas
+2019-07-22 10:22,Alexander Emilio Casias Bendezu,294,Optical Network,Peru,Tecnologia / Sistemas
+2019-07-22 09:28,Martin Calvo,900,Sapia,Peru,Tecnologias De La Informacion
+2019-07-19 11:49,Henry Fernando Terrones Cortez,153,Mdp Consulting S.A.C,Peru,Sistemas
+2019-07-18 23:11,Santos Reynaldo Yovera More,198,Binsa Software Peru,Peru,Programacion
+2019-07-18 19:46,Rosa Luz Huirse Torres,184,Clinica San Pablo S.A.C.,Peru,Sistemas
+2019-07-18 19:04,Elias Obeso Valverde,473,La Positiva,Peru,Programacion
