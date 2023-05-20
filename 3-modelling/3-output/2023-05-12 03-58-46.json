@@ -1,0 +1,86 @@
+[
+    {
+        "algoritmo": "DT",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 4972,
+        "registrosPrueba": 1244,
+        "tiempoEjecucion": "18900ms",
+        "matrizConfusion": "[[1159, 9], [46, 30]]",
+        "exactitud": "95.58%",
+        "precision": "76.92%",
+        "valorF": "52.17%",
+        "sensibilidad": "39.47%"
+    },
+    {
+        "algoritmo": "GB",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 4972,
+        "registrosPrueba": 1244,
+        "tiempoEjecucion": "26381ms",
+        "matrizConfusion": "[[1168, 0], [69, 7]]",
+        "exactitud": "94.45%",
+        "precision": "100.00%",
+        "valorF": "16.87%",
+        "sensibilidad": "9.21%"
+    },
+    {
+        "algoritmo": "GNB",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 4972,
+        "registrosPrueba": 1244,
+        "tiempoEjecucion": "776ms",
+        "matrizConfusion": "[[872, 296], [23, 53]]",
+        "exactitud": "74.36%",
+        "precision": "15.19%",
+        "valorF": "24.94%",
+        "sensibilidad": "69.74%"
+    },
+    {
+        "algoritmo": "KNN",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 4972,
+        "registrosPrueba": 1244,
+        "tiempoEjecucion": "810ms",
+        "matrizConfusion": "[[1155, 13], [62, 14]]",
+        "exactitud": "93.97%",
+        "precision": "51.85%",
+        "valorF": "27.18%",
+        "sensibilidad": "18.42%"
+    },
+    {
+        "algoritmo": "LR",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 4972,
+        "registrosPrueba": 1244,
+        "tiempoEjecucion": "2675ms",
+        "matrizConfusion": "[[1168, 0], [65, 11]]",
+        "exactitud": "94.77%",
+        "precision": "100.00%",
+        "valorF": "25.29%",
+        "sensibilidad": "14.47%"
+    },
+    {
+        "algoritmo": "RF",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 4972,
+        "registrosPrueba": 1244,
+        "tiempoEjecucion": "6777ms",
+        "matrizConfusion": "[[1168, 0], [58, 18]]",
+        "exactitud": "95.34%",
+        "precision": "100.00%",
+        "valorF": "38.30%",
+        "sensibilidad": "23.68%"
+    },
+    {
+        "algoritmo": "SVM",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 4972,
+        "registrosPrueba": 1244,
+        "tiempoEjecucion": "51901ms",
+        "matrizConfusion": "[[1168, 0], [70, 6]]",
+        "exactitud": "94.37%",
+        "precision": "100.00%",
+        "valorF": "14.63%",
+        "sensibilidad": "7.89%"
+    }
+]
