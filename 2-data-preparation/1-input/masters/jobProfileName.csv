@@ -1,0 +1,171 @@
+jobProfileName,equivalence,count,equals
+Administrador De Soporte Tecnico,Administrador De Soporte Tecnico,116,TRUE
+Analista De Base De Datos,Analista De Base De Datos,64,TRUE
+Analista De Calidad,Analista De Calidad,177,TRUE
+Analista De Calidad Senior,Analista De Calidad,60,FALSE
+Analista De Calidad Sr. (Test Lead),Analista De Calidad,8,FALSE
+Analista De Calidad.P,Analista De Calidad,17,FALSE
+Analista De Calidad.V,Analista De Calidad,15,FALSE
+Analista De Ciberseguridad,Analista De Ciberseguridad,25,TRUE
+Analista De Procesos Sig,Analista De Procesos Sig,51,TRUE
+Analista De Sistemas,Analista De Sistemas,98,TRUE
+Analista De Sistemas Senior,Analista De Sistemas,27,FALSE
+Analista De Sistemas Sr.,Analista De Sistemas,90,FALSE
+Analista De Soluciones Ti,Analista De Soluciones Ti,58,TRUE
+Analista Desarrollador Php,Analista Desarrollador Php,22,TRUE
+Analista Funcional,Analista Funcional,374,TRUE
+Analista Funcional Qa Bilingue,Analista Funcional,11,FALSE
+Analista Funcional Senior,Analista Funcional,14,FALSE
+Analista Funcional Ti - Sector Banca,Analista Funcional,10,FALSE
+Analista Programador,Analista Programador,255,TRUE
+Analista Programador - Mvc,Analista Programador - Mvc,14,TRUE
+Analista Programador - Pwa,Analista Programador - Pwa,9,TRUE
+Analista Programador - Xamarin,Analista Programador - Xamarin,30,TRUE
+Analista Programador . Net,Analista Programador .Net,9,FALSE
+Analista Programador . Net - Sharepoint,Analista Programador .Net,8,FALSE
+Analista Programador .Net,Analista Programador .Net,127,TRUE
+Analista Programador Android,Analista Programador Android,12,TRUE
+Analista Programador Java,Analista Programador Java,3,TRUE
+Analista Programador Java Jr,Analista Programador Java,4,FALSE
+Analista Programador Net Core,Analista Programador .Net,16,FALSE
+Analista Programador Oracle Forms,Analista Programador Oracle Forms,12,TRUE
+Analista Programador Php,Analista Programador Php,19,TRUE
+Analista Programador Senior/Full Stack,Analista Programador Senior/Full Stack,6,TRUE
+Analista Programados Pwa,Analista Programador - Pwa,3,FALSE
+Analista Qa,Analista De Calidad,68,FALSE
+Arquitecto Aws,Arquitecto Aws,19,TRUE
+Arquitecto De Desarrollo,Arquitecto De Desarrollo,11,TRUE
+Arquitecto De Software,Arquitecto De Software,35,TRUE
+Arquitecto De Soluciones,Arquitecto De Soluciones,11,TRUE
+Arquitecto De Soluciones Cloud (Ms Azure),Arquitecto De Soluciones,11,FALSE
+Arquitecto Preventa De Soluciones Cloud (Ms Azure),Arquitecto Preventa De Soluciones Cloud (Ms Azure),2,TRUE
+Arquitecto Preventa De Soluciones Cloud (Ms Azurre),Arquitecto Preventa De Soluciones Cloud (Ms Azure),1,FALSE
+Arquitecto(A) Analytics,Arquitecto(A) Analytics,4,TRUE
+Asistente Comercial Jr,Asistente Comercial Jr,96,TRUE
+Asistente De Pmo,Asistente De Pmo,243,TRUE
+Asistente De Procesos,Asistente De Procesos,68,TRUE
+Asistente De Recursos Humanos,Asistente De Recursos Humanos,354,TRUE
+Asistente De Servicios Ti,Asistente De Servicios Ti,48,TRUE
+Asistente De Servicios Ti Jr,Asistente De Servicios Ti,74,FALSE
+Asistente Social,Asistente Social,288,TRUE
+Automatizador De Procesos,Automatizador De Procesos,26,TRUE
+Bootcamp G&S | Desarrollo E Innovacion,Bootcamp G&S | Desarrollo E Innovacion,82,TRUE
+Bootcamp G&S | Infrastructure & Cloud,Bootcamp G&S | Infrastructure & Cloud,56,TRUE
+Cloud Devops,Cloud Devops,20,TRUE
+Cloud Devops - Azure,Cloud Devops,7,FALSE
+Cloud Specialist,Cloud Specialist,135,TRUE
+Cloud Specialist - Ms Azure,Cloud Specialist,73,FALSE
+Cloud Specialist Jr. - Ms Azure,Cloud Specialist,27,FALSE
+Cloud Specialist Semisenior - Ms Azure,Cloud Specialist,23,FALSE
+Community Manger,Community Manger,187,TRUE
+Consultor Cloud,Consultor Cloud,23,TRUE
+Consultor Cloud Senior,Consultor Cloud,5,FALSE
+Consultor Devops,Consultor Devops,17,TRUE
+Consultor Preventa / Arquitecto Azure,Consultor Preventa / Arquitecto Azure,6,TRUE
+Consultor Pre-Venta/Arquitecto Infra,Consultor Preventa / Arquitecto Azure,1,FALSE
+Consultor(A) Infrastructure & Cloud Services,Consultor(A) Infrastructure & Cloud Services,14,TRUE
+Data Analyst Senior,Data Analyst Senior,7,TRUE
+Data Architect,Data Architect,50,TRUE
+Data Engineer,Data Engineer,18,TRUE
+Data Engineer Sr.,Data Engineer,20,FALSE
+Desarrollador,Desarrollador,21,TRUE
+Desarrollador . Net,Desarrollador .Net,28,FALSE
+Desarrollador .Net,Desarrollador .Net,181,TRUE
+Desarrollador .Net - Crm,Desarrollador .Net,15,FALSE
+Desarrollador Big Data,Desarrollador Big Data,7,TRUE
+Desarrollador De Software,Desarrollador De Software,30,TRUE
+Desarrollador Full Stack,Desarrollador Full Stack,32,TRUE
+Desarrollador Fullstack,Desarrollador Full Stack,11,FALSE
+Desarrollador Fullstack Java,Desarrollador Full Stack,3,FALSE
+Desarrollador Java,Desarrollador Java,80,TRUE
+Desarrollador Php,Desarrollador Php,26,TRUE
+Desarrollador Python (Temporal),Desarrollador Python (Temporal),8,TRUE
+Desarrollador Sap,Desarrollador Sap,16,TRUE
+Desarrollador Sharepoint,Desarrollador Sharepoint,7,TRUE
+Desarrollador Xamarin,Desarrollador Xamarin,2,TRUE
+Desarrollador. Net,Desarrollador .Net,34,FALSE
+Desarrollador.Net,Desarrollador .Net,35,FALSE
+Developer Java Agil,Desarrollador Java,2,FALSE
+Disenador Ux,Disenador Ux,61,TRUE
+Disenador Ux/Ui,Disenador Ux,61,FALSE
+Dynamics Gp - Business Central,Dynamics Gp - Business Central,4,TRUE
+Ejecutivo Comercial,Ejecutivo Comercial,444,TRUE
+Ejecutivo Comercial - Licitaciones,Ejecutivo Comercial,97,FALSE
+Ejecutivo Comercial - Sector Ti,Ejecutivo Comercial,14,FALSE
+Ejecutivo Comercial Jr,Ejecutivo Comercial,44,FALSE
+Ejecutivo Comercial Jr.,Ejecutivo Comercial,122,FALSE
+Ejecutivo Comercial Jr. Licitaciones,Ejecutivo Comercial,104,FALSE
+Ejecutivo Comercial Ti,Ejecutivo Comercial,102,FALSE
+Ejecutivo(A) Comercial,Ejecutivo Comercial,38,FALSE
+Ejecutivo(A) Comercial Jr - Ti,Ejecutivo Comercial,35,FALSE
+Ejecutivo(A) Comercial Ti,Ejecutivo Comercial,160,FALSE
+Ejecutivo/A Comercial Ti,Ejecutivo Comercial,53,FALSE
+Especialista .Net - Crm,Especialista .Net Jr.,13,FALSE
+Especialista .Net - Sharepoint,Especialista .Net Jr.,28,FALSE
+Especialista .Net Jr.,Especialista .Net Jr.,4,TRUE
+Especialista Bi,Especialista Bi,121,TRUE
+Especialista Cloud,Especialista Cloud,61,TRUE
+Especialista Cloud Jr.,Especialista Cloud,49,FALSE
+Especialista Cloud Junior,Especialista Cloud,7,FALSE
+Especialista Cyberseguridad,Especialista Cyberseguridad,22,TRUE
+Especialista De Seguridad De Aplicaciones,Especialista De Seguridad De Aplicaciones,16,TRUE
+Especialista Desarrollador De Software,Especialista Desarrollador De Software,15,TRUE
+Especialista Devops,Especialista Devops,38,TRUE
+Especialista Devops Sr,Especialista Devops,3,FALSE
+Especialista Dynamics 365,Especialista Dynamics 365,5,TRUE
+Especialista Dynamics 365 Business Central,Especialista Dynamics 365,5,FALSE
+Especialista Dynamics Crm 365,Especialista Dynamics 365,3,FALSE
+Especialista Dynamics Gp - Business Central,Especialista Dynamics 365,2,FALSE
+Especialista Electronico Iot,Especialista Electronico Iot,25,TRUE
+Especialista En Analitica,Especialista En Analitica,65,TRUE
+Especialista En Analitica - Ingeniero De Datos,Especialista En Analitica,85,FALSE
+Especialista En Analitica Jr,Especialista En Analitica,59,FALSE
+Especialista En Inteligencia Artificial,Especialista En Inteligencia Artificial,18,TRUE
+Especialista En Office 365,Especialista En Office 365,16,TRUE
+Especialista En Power Platform,Especialista En Power Platform,4,TRUE
+Especialista En Project Server Y Project Online,Especialista En Project Server Y Project Online,28,TRUE
+Especialista Office 365,Especialista En Office 365,87,FALSE
+Especialista Office 365 - Sharepoint,Especialista En Office 365,13,FALSE
+Especialista Power Bi,Especialista Power Bi,6,TRUE
+Especialista Power Platform,Especialista En Power Platform,13,FALSE
+Especialista Project Online,Especialista En Project Server Y Project Online,42,FALSE
+Especialista Senior En Datos,Especialista Senior En Datos,6,TRUE
+Especialista Sharepoint,Especialista Sharepoint,14,TRUE
+Especialista Sharepoint Framework,Especialista Sharepoint,4,FALSE
+Gerente De Linea - Modern Workplace,Gerente De Linea - Modern Workplace,14,TRUE
+Gestor De Licenciamiento,Gestor De Licenciamiento,8,TRUE
+Gestor De Servicios Cloud,Gestor De Servicios Cloud,15,TRUE
+Gestor De Servicios Cloud (Junior),Gestor De Servicios Cloud,7,FALSE
+Gestor De Servicios Cloud Jr.,Gestor De Servicios Cloud,25,FALSE
+Gestor De Servicios De Ti,Gestor De Servicios De Ti,359,TRUE
+Jefe De Proyecto - Analytics & Ai,Jefe De Proyecto - Analytics & Ai,294,TRUE
+Jefe De Proyecto - Modern Workplace,Jefe De Proyecto - Modern Workplace,38,TRUE
+Jefe De Proyecto Para El Area De Analytics & Ai,Jefe De Proyecto - Analytics & Ai,140,FALSE
+Jefe De Proyecto Ti,Jefe De Proyecto - Modern Workplace,106,FALSE
+Jefe De Proyectos - Analytics & Ai,Jefe De Proyecto - Analytics & Ai,152,FALSE
+Jefe De Proyectos - Modern Workplace,Jefe De Proyecto - Modern Workplace,36,FALSE
+Jefe De Proyectos Ti - Modern Workplace,Jefe De Proyecto - Modern Workplace,68,FALSE
+Lider Tecnico,Lider Tecnico,148,TRUE
+Lider Tecnico / Arquitecto Mobile,Lider Tecnico,13,FALSE
+Lider Tecnico De Big Data,Lider Tecnico,10,FALSE
+Operador De Sistemas,Operador De Sistemas,89,TRUE
+Practicante De Infrastructure & Cloud,Practicante De Infrastructure & Cloud,279,TRUE
+Practicante De Procesos,Practicante De Procesos,107,TRUE
+Practicante De Recursos Humanos,Practicante De Recursos Humanos,962,TRUE
+Practicante De Servicios Ti,Practicante De Servicios Ti,7,TRUE
+Practicante Desarrollador .Net / Sharepoint,Practicante Desarrollador .Net / Sharepoint,19,TRUE
+Practicante Iot/Ia,Practicante Iot/Ia,97,TRUE
+Pre-Venta - Cloud Computing,Pre-Venta - Cloud Computing,30,TRUE
+Programador .Net,Programador .Net,275,TRUE
+Programador .Net Senior,Programador .Net,9,FALSE
+Programador Frontend,Programador Frontend,30,TRUE
+Programador Frontend Java,Programador Frontend,2,FALSE
+Programador Java,Programador Java,31,TRUE
+Programador Mobile,Programador Mobile,1,TRUE
+Programador Oracle,Programador Oracle,18,TRUE
+Qa Funcional - Aseguramiento De Calidad,Analista De Calidad,17,FALSE
+Scrum Master,Scrum Master,78,TRUE
+Senior Data Engineer,Data Engineer,4,FALSE
+Software Engineer,Software Engineer,5,TRUE
+Sql Server Consultant,Sql Server Consultant,71,TRUE
+Technical Architect,Technical Architect,13,TRUE
