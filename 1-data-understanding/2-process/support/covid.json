@@ -1,10 +1,10 @@
 [
     {
         "Nro": "1",
-        "nombreParaMostrar": "Abanto Llanos José Misael",
+        "nombreParaMostrar": "Abanto Llanos Jose Misael",
         "apellidoPaterno": "Abanto",
         "apellidoMaterno": "Llanos",
-        "primerNombre": "José",
+        "primerNombre": "Jose",
         "segundoNombre": "Misael"
     },
     {
@@ -33,9 +33,9 @@
     },
     {
         "Nro": "5",
-        "nombreParaMostrar": "Arguedas Quiñones Julio",
+        "nombreParaMostrar": "Arguedas Quinones Julio",
         "apellidoPaterno": "Arguedas",
-        "apellidoMaterno": "Quiñones",
+        "apellidoMaterno": "Quinones",
         "primerNombre": "Julio",
         "segundoNombre": ""
     },
@@ -49,9 +49,9 @@
     },
     {
         "Nro": "7",
-        "nombreParaMostrar": "Bautista Morán John Paul",
+        "nombreParaMostrar": "Bautista Moran John Paul",
         "apellidoPaterno": "Bautista",
-        "apellidoMaterno": "Morán",
+        "apellidoMaterno": "Moran",
         "primerNombre": "John",
         "segundoNombre": "Paul"
     },
@@ -121,10 +121,10 @@
     },
     {
         "Nro": "16",
-        "nombreParaMostrar": "Ccopa Mamani Andrés Junior",
+        "nombreParaMostrar": "Ccopa Mamani Andres Junior",
         "apellidoPaterno": "Ccopa",
         "apellidoMaterno": "Mamani",
-        "primerNombre": "Andrés",
+        "primerNombre": "Andres",
         "segundoNombre": "Junior"
     },
     {
@@ -137,11 +137,11 @@
     },
     {
         "Nro": "18",
-        "nombreParaMostrar": "Córdova De La Cruz Erick José",
-        "apellidoPaterno": "Córdova",
+        "nombreParaMostrar": "Cordova De La Cruz Erick Jose",
+        "apellidoPaterno": "Cordova",
         "apellidoMaterno": "De La Cruz",
         "primerNombre": "Erick",
-        "segundoNombre": "José"
+        "segundoNombre": "Jose"
     },
     {
         "Nro": "19",
@@ -209,17 +209,17 @@
     },
     {
         "Nro": "27",
-        "nombreParaMostrar": "Gamarra López Jannette Johana",
+        "nombreParaMostrar": "Gamarra Lopez Jannette Johana",
         "apellidoPaterno": "Gamarra",
-        "apellidoMaterno": "López",
+        "apellidoMaterno": "Lopez",
         "primerNombre": "Jannette",
         "segundoNombre": "Johana"
     },
     {
         "Nro": "28",
-        "nombreParaMostrar": "Gómez García Richard Robinson",
-        "apellidoPaterno": "Gómez",
-        "apellidoMaterno": "García",
+        "nombreParaMostrar": "Gomez Garcia Richard Robinson",
+        "apellidoPaterno": "Gomez",
+        "apellidoMaterno": "Garcia",
         "primerNombre": "Richard",
         "segundoNombre": "Robinson"
     },
@@ -233,10 +233,10 @@
     },
     {
         "Nro": "30",
-        "nombreParaMostrar": "Gonzales Sandoval José Federico",
+        "nombreParaMostrar": "Gonzales Sandoval Jose Federico",
         "apellidoPaterno": "Gonzales",
         "apellidoMaterno": "Sandoval",
-        "primerNombre": "José",
+        "primerNombre": "Jose",
         "segundoNombre": "Federico"
     },
     {
@@ -249,11 +249,11 @@
     },
     {
         "Nro": "32",
-        "nombreParaMostrar": "Guillén Huarcaya Diego Joaquín",
-        "apellidoPaterno": "Guillén",
+        "nombreParaMostrar": "Guillen Huarcaya Diego Joaquin",
+        "apellidoPaterno": "Guillen",
         "apellidoMaterno": "Huarcaya",
         "primerNombre": "Diego",
-        "segundoNombre": "Joaquín"
+        "segundoNombre": "Joaquin"
     },
     {
         "Nro": "33",
@@ -313,16 +313,16 @@
     },
     {
         "Nro": "40",
-        "nombreParaMostrar": "León Orué Marco Orlando",
-        "apellidoPaterno": "León",
-        "apellidoMaterno": "Orué",
+        "nombreParaMostrar": "Leon Orue Marco Orlando",
+        "apellidoPaterno": "Leon",
+        "apellidoMaterno": "Orue",
         "primerNombre": "Marco",
         "segundoNombre": "Orlando"
     },
     {
         "Nro": "41",
-        "nombreParaMostrar": "López Figueroa Stephanie Almendra",
-        "apellidoPaterno": "López",
+        "nombreParaMostrar": "Lopez Figueroa Stephanie Almendra",
+        "apellidoPaterno": "Lopez",
         "apellidoMaterno": "Figueroa",
         "primerNombre": "Stephanie",
         "segundoNombre": "Almendra"
@@ -353,11 +353,11 @@
     },
     {
         "Nro": "45",
-        "nombreParaMostrar": "Mejía Alfaro Aarón Yamír",
-        "apellidoPaterno": "Mejía",
+        "nombreParaMostrar": "Mejia Alfaro Aaron Yamir",
+        "apellidoPaterno": "Mejia",
         "apellidoMaterno": "Alfaro",
-        "primerNombre": "Aarón",
-        "segundoNombre": "Yamír"
+        "primerNombre": "Aaron",
+        "segundoNombre": "Yamir"
     },
     {
         "Nro": "46",
@@ -409,8 +409,8 @@
     },
     {
         "Nro": "52",
-        "nombreParaMostrar": "Niño Pazos Jason Joel",
-        "apellidoPaterno": "Niño",
+        "nombreParaMostrar": "Nino Pazos Jason Joel",
+        "apellidoPaterno": "Nino",
         "apellidoMaterno": "Pazos",
         "primerNombre": "Jason",
         "segundoNombre": "Joel"
@@ -441,8 +441,8 @@
     },
     {
         "Nro": "56",
-        "nombreParaMostrar": "Ormeño Vera Wilber Javier",
-        "apellidoPaterno": "Ormeño",
+        "nombreParaMostrar": "Ormeno Vera Wilber Javier",
+        "apellidoPaterno": "Ormeno",
         "apellidoMaterno": "Vera",
         "primerNombre": "Wilber",
         "segundoNombre": "Javier"
@@ -513,9 +513,9 @@
     },
     {
         "Nro": "65",
-        "nombreParaMostrar": "Remigio Romàn Milagros Andrea",
+        "nombreParaMostrar": "Remigio Roman Milagros Andrea",
         "apellidoPaterno": "Remigio",
-        "apellidoMaterno": "Romàn",
+        "apellidoMaterno": "Roman",
         "primerNombre": "Milagros",
         "segundoNombre": "Andrea"
     },
@@ -545,9 +545,9 @@
     },
     {
         "Nro": "69",
-        "nombreParaMostrar": "Rodriguez Alomías Jose Luis",
+        "nombreParaMostrar": "Rodriguez Alomias Jose Luis",
         "apellidoPaterno": "Rodriguez",
-        "apellidoMaterno": "Alomías",
+        "apellidoMaterno": "Alomias",
         "primerNombre": "Jose",
         "segundoNombre": "Luis"
     },
@@ -561,7 +561,7 @@
     },
     {
         "Nro": "71",
-        "nombreParaMostrar": "Rojas Cuadros Víctor Jean Franz",
+        "nombreParaMostrar": "Rojas Cuadros Victor Jean Franz",
         "apellidoPaterno": "Rojas",
         "apellidoMaterno": "Cuadros",
         "primerNombre": "Victor",
@@ -601,10 +601,10 @@
     },
     {
         "Nro": "76",
-        "nombreParaMostrar": "Rosales Siche Héctor Junior",
+        "nombreParaMostrar": "Rosales Siche Hector Junior",
         "apellidoPaterno": "Rosales",
         "apellidoMaterno": "Siche",
-        "primerNombre": "Héctor",
+        "primerNombre": "Hector",
         "segundoNombre": "Junior"
     },
     {
@@ -665,17 +665,17 @@
     },
     {
         "Nro": "84",
-        "nombreParaMostrar": "Soto Gutiérrez Sthephany Jemina",
+        "nombreParaMostrar": "Soto Gutierrez Sthephany Jemina",
         "apellidoPaterno": "Soto",
-        "apellidoMaterno": "Gutiérrez",
+        "apellidoMaterno": "Gutierrez",
         "primerNombre": "Sthephany",
         "segundoNombre": "Jemina"
     },
     {
         "Nro": "85",
-        "nombreParaMostrar": "Suarez Huamán Marlon Jheral",
+        "nombreParaMostrar": "Suarez Huaman Marlon Jheral",
         "apellidoPaterno": "Suarez",
-        "apellidoMaterno": "Huamán",
+        "apellidoMaterno": "Huaman",
         "primerNombre": "Marlon",
         "segundoNombre": "Jheral"
     },
@@ -721,9 +721,9 @@
     },
     {
         "Nro": "91",
-        "nombreParaMostrar": "Torres Solórzano Gean Carlos",
+        "nombreParaMostrar": "Torres Solorzano Gean Carlos",
         "apellidoPaterno": "Torres",
-        "apellidoMaterno": "Solórzano",
+        "apellidoMaterno": "Solorzano",
         "primerNombre": "Gean",
         "segundoNombre": "Carlos"
     },
@@ -785,17 +785,17 @@
     },
     {
         "Nro": "99",
-        "nombreParaMostrar": "Wong Sato José Luis",
+        "nombreParaMostrar": "Wong Sato Jose Luis",
         "apellidoPaterno": "Wong",
         "apellidoMaterno": "Sato",
-        "primerNombre": "José",
+        "primerNombre": "Jose",
         "segundoNombre": "Luis"
     },
     {
         "Nro": "100",
-        "nombreParaMostrar": "Zamora Noreña Luis Fernando",
+        "nombreParaMostrar": "Zamora Norena Luis Fernando",
         "apellidoPaterno": "Zamora",
-        "apellidoMaterno": "Noreña",
+        "apellidoMaterno": "Norena",
         "primerNombre": "Luis",
         "segundoNombre": "Fernando"
     },
