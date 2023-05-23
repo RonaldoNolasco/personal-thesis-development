@@ -30,6 +30,12 @@
         "apellidoMaterno": "Pesantes"
     },
     {
+        "primerNombre": "Yeniffer",
+        "segundoNombre": "Josefina",
+        "apellidoPaterno": "Rada",
+        "apellidoMaterno": "Morillo"
+    },
+    {
         "primerNombre": "Juan",
         "segundoNombre": "Jose",
         "apellidoPaterno": "Gonzales",
@@ -390,6 +396,12 @@
         "apellidoMaterno": "Castillo"
     },
     {
+        "primerNombre": "Julio",
+        "segundoNombre": "Victor",
+        "apellidoPaterno": "Huamancama",
+        "apellidoMaterno": "Ramos"
+    },
+    {
         "primerNombre": "Jose",
         "segundoNombre": "Luis",
         "apellidoPaterno": "Bedon",
@@ -444,6 +456,12 @@
         "apellidoMaterno": "Timana"
     },
     {
+        "primerNombre": "Jery",
+        "segundoNombre": "William",
+        "apellidoPaterno": "Rojas",
+        "apellidoMaterno": "Osnayo"
+    },
+    {
         "primerNombre": "Sussan",
         "segundoNombre": "Paola",
         "apellidoPaterno": "Minaya",
@@ -484,6 +502,12 @@
         "segundoNombre": "Daniel",
         "apellidoPaterno": "Vargas",
         "apellidoMaterno": "Yalico"
+    },
+    {
+        "primerNombre": "Evelyn",
+        "segundoNombre": "",
+        "apellidoPaterno": "Bernuy",
+        "apellidoMaterno": ""
     },
     {
         "primerNombre": "",
