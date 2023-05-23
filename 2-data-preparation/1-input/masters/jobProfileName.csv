@@ -2,6 +2,7 @@ jobProfileName,equivalence,count,equals
 Administrador De Soporte Tecnico,Administrador De Soporte Tecnico,116,TRUE
 Analista De Base De Datos,Analista De Base De Datos,64,TRUE
 Analista De Calidad,Analista De Calidad,177,TRUE
+Analista De Calidad Qa,Analista De Calidad,10,FALSE
 Analista De Calidad Senior,Analista De Calidad,60,FALSE
 Analista De Calidad Sr. (Test Lead),Analista De Calidad,8,FALSE
 Analista De Calidad.P,Analista De Calidad,17,FALSE
@@ -13,10 +14,10 @@ Analista De Sistemas Senior,Analista De Sistemas,27,FALSE
 Analista De Sistemas Sr.,Analista De Sistemas,90,FALSE
 Analista De Soluciones Ti,Analista De Soluciones Ti,58,TRUE
 Analista Desarrollador Php,Analista Desarrollador Php,22,TRUE
-Analista Funcional,Analista Funcional,374,TRUE
+Analista Funcional,Analista Funcional,599,TRUE
 Analista Funcional Qa Bilingue,Analista Funcional,11,FALSE
-Analista Funcional Senior,Analista Funcional,14,FALSE
-Analista Funcional Ti - Sector Banca,Analista Funcional,10,FALSE
+Analista Funcional Senior,Analista Funcional,49,FALSE
+Analista Funcional Ti - Sector Banca,Analista Funcional,69,FALSE
 Analista Programador,Analista Programador,255,TRUE
 Analista Programador - Mvc,Analista Programador - Mvc,14,TRUE
 Analista Programador - Pwa,Analista Programador - Pwa,9,TRUE
@@ -47,7 +48,7 @@ Asistente De Procesos,Asistente De Procesos,68,TRUE
 Asistente De Recursos Humanos,Asistente De Recursos Humanos,354,TRUE
 Asistente De Servicios Ti,Asistente De Servicios Ti,48,TRUE
 Asistente De Servicios Ti Jr,Asistente De Servicios Ti,74,FALSE
-Asistente Social,Asistente Social,288,TRUE
+Asistente Social,Asistente Social,315,TRUE
 Automatizador De Procesos,Automatizador De Procesos,26,TRUE
 Bootcamp G&S | Desarrollo E Innovacion,Bootcamp G&S | Desarrollo E Innovacion,82,TRUE
 Bootcamp G&S | Infrastructure & Cloud,Bootcamp G&S | Infrastructure & Cloud,56,TRUE
@@ -86,6 +87,7 @@ Desarrollador Xamarin,Desarrollador Xamarin,2,TRUE
 Desarrollador. Net,Desarrollador .Net,34,FALSE
 Desarrollador.Net,Desarrollador .Net,35,FALSE
 Developer Java Agil,Desarrollador Java,2,FALSE
+Disenador Electronico Jr.,Disenador Electronico Jr.,12,TRUE
 Disenador Ux,Disenador Ux,61,TRUE
 Disenador Ux/Ui,Disenador Ux,61,FALSE
 Dynamics Gp - Business Central,Dynamics Gp - Business Central,4,TRUE
@@ -95,7 +97,7 @@ Ejecutivo Comercial - Sector Ti,Ejecutivo Comercial,14,FALSE
 Ejecutivo Comercial Jr,Ejecutivo Comercial,44,FALSE
 Ejecutivo Comercial Jr.,Ejecutivo Comercial,122,FALSE
 Ejecutivo Comercial Jr. Licitaciones,Ejecutivo Comercial,104,FALSE
-Ejecutivo Comercial Ti,Ejecutivo Comercial,102,FALSE
+Ejecutivo Comercial Ti,Ejecutivo Comercial,104,FALSE
 Ejecutivo(A) Comercial,Ejecutivo Comercial,38,FALSE
 Ejecutivo(A) Comercial Jr - Ti,Ejecutivo Comercial,35,FALSE
 Ejecutivo(A) Comercial Ti,Ejecutivo Comercial,160,FALSE
@@ -110,7 +112,7 @@ Especialista Cloud Junior,Especialista Cloud,7,FALSE
 Especialista Cyberseguridad,Especialista Cyberseguridad,22,TRUE
 Especialista De Seguridad De Aplicaciones,Especialista De Seguridad De Aplicaciones,16,TRUE
 Especialista Desarrollador De Software,Especialista Desarrollador De Software,15,TRUE
-Especialista Devops,Especialista Devops,38,TRUE
+Especialista Devops,Especialista Devops,40,TRUE
 Especialista Devops Sr,Especialista Devops,3,FALSE
 Especialista Dynamics 365,Especialista Dynamics 365,5,TRUE
 Especialista Dynamics 365 Business Central,Especialista Dynamics 365,5,FALSE

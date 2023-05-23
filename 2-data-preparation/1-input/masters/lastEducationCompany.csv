@@ -1,13 +1,13 @@
 lastEducationCompany,equivalence,count,equals
-,,183,TRUE
+,,191,TRUE
 """Instituto Sise""",Instituto Superior Sise,1,FALSE
 * Instituto Superior Tecnologico Privado Cepea,"Instituto Superior Tecnologico ""Cepea""",1,FALSE
-.,.,3,TRUE
+.,,3,FALSE
 1To1,1To1,2,TRUE
 3 Dev,3 Dev,2,TRUE
 3Dev Business Consulting Sac(Scrum.Org),3Dev Business Consulting Sac(Scrum.Org),1,TRUE
-6Sigma Study,6Sigma Study,3,TRUE
-6Sigmastudy,6Sigma Study,1,FALSE
+6Sigma Study,6Sigma Study,4,TRUE
+6Sigmastudy,6Sigma Study,2,FALSE
 Abaccus,Abaccus,1,TRUE
 Abaco,Instituto De Educacion Superior Abaco,3,FALSE
 Ac Enginering/Electronets C.A,Ac Enginering/Electronets C.A,6,TRUE
@@ -29,6 +29,7 @@ Adph Consultores,Adph Consultores,1,TRUE
 Aduanec,Aduanec,1,TRUE
 Aenor,Aenor Peru,1,FALSE
 Aenor Peru,Aenor Peru,1,TRUE
+Agile Wise,Agile Wise Corp.,1,FALSE
 Agile Wise Corp.,Agile Wise Corp.,1,TRUE
 Ajys,Ajys,1,TRUE
 Alejandro Internacional\Replica Vicente Rocafuerte,Alejandro Internacional\Replica Vicente Rocafuerte,1,TRUE
@@ -89,8 +90,8 @@ Brother Escuela De Creativos,Brother Escuela De Creativos,1,TRUE
 Bs Group,Bs Group,1,TRUE
 Bs Grupo,Bs Group,10,FALSE
 Bsg Instiitute,Bsg Institute,1,FALSE
-Bsg Institude,Bsg Institute,1,FALSE
-Bsg Institute,Bsg Institute,10,TRUE
+Bsg Institude,Bsg Institute,2,FALSE
+Bsg Institute,Bsg Institute,12,TRUE
 Bsgroup,Bs Group,1,FALSE
 Bsgrupo,Bs Group,3,FALSE
 Bsp,Bsp,1,TRUE
@@ -111,7 +112,8 @@ Camara De Negocios Del Peru,Camara De Negocios Del Peru,1,TRUE
 Camara Del Comercio Del Peru,Camara Del Comercio Del Peru,1,TRUE
 Camara Latimoamericana De Comercio,Camara Latimoamericana De Comercio,1,TRUE
 Camara Nacional De Comercio Del Peru,Camara Nacional De Comercio Del Peru,4,TRUE
-Camara Nacional Del Comercio Del Peru,Camara Nacional Del Comercio Del Peru,1,TRUE
+Camara Nacional Del Comercio,Camara Nacional De Comercio Del Peru,1,FALSE
+Camara Nacional Del Comercio Del Peru,Camara Nacional De Comercio Del Peru,1,FALSE
 Camara Peruana De Comercio Exterior,Camara Peruana De Comercio Exterior,2,TRUE
 Camara Peruana De Las Industrias,Camara Peruana De Las Industrias,1,TRUE
 Camara Peruana De Sst,Camara Peruana De Sst,2,TRUE
@@ -126,6 +128,7 @@ Campusmvp,Campusmvp,2,TRUE
 Canvia,Canvia,1,TRUE
 Capacity,Capacity Academy Mx,1,FALSE
 Capacity Academy Mx,Capacity Academy Mx,5,TRUE
+Cape Breton University,Cape Breton University,1,TRUE
 Capedu,Capedu,1,TRUE
 Carbono 14,Carbono 14,1,TRUE
 Carnegie Mellon University (Pa),Carnegie Mellon University (Pa),1,TRUE
@@ -139,7 +142,7 @@ Ceadem,Ceadem,2,TRUE
 Ceam,Ceam,1,TRUE
 Cecitel - Especialistas En Capacitacion Telefonica,Cecitel - Especialistas En Capacitacion Telefonica,2,TRUE
 Cedhinfo,Cedhinfo,5,TRUE
-Ceglo,Ceglo,2,TRUE
+Ceglo,Ceglo,3,TRUE
 Celeritech,Celeritech,3,TRUE
 Cenap - Centro Nacional De Administracion Publica,Cenap - Centro Nacional De Administracion Publica,1,TRUE
 Cenap - Peru,Cenap - Centro Nacional De Administracion Publica,1,FALSE
@@ -148,11 +151,12 @@ Centre For Development In Advanced Computing,Centre For Development In Advanced 
 Centro,Centro,1,TRUE
 Centro Cultural De La Lengua Portuguesa,Centro Cultural De La Lengua Portuguesa,1,TRUE
 Centro Cultural De La Pontificia Universidad Catolica,Centro Cultural De La Pontificia Universidad Catolica,5,TRUE
-Centro De Capacitacion - Gruporppsac,Centro De Capacitacion - Gruporppsac,5,TRUE
+Centro De Capacitacion - Gruporppsac,Centro De Capacitacion - Gruporppsac,6,TRUE
 Centro De Capacitacion Empresarial - Ccl,Centro De Capacitacion Empresarial - Ccl,1,TRUE
 Centro De Capacitacion Y Educacion Continua Fide,Centro De Capacitacion Y Educacion Continua Fide,1,TRUE
 Centro De Educacion Continua Pucp,Centro De Educacion Continua Pucp,1,TRUE
 Centro De Entrenamiento Tecnico De Logistica - Cetlog,Centro De Entrenamiento Tecnico De Logistica - Cetlog,1,TRUE
+Centro De Estudios Cgi - Gestion E Innovacion,Cgi Gestion E Innovacion,1,FALSE
 Centro De Estudios Empresariales,Centro De Estudios Empresariales,1,TRUE
 Centro De Estudios Profesionales,Centro De Estudios Profesionales,1,TRUE
 Centro De Extension Fiis Unmsm,Centro De Extension Fiis Unmsm,8,TRUE
@@ -167,11 +171,11 @@ Centro De Instruccion Fotografica,Centro De Instruccion Fotografica,1,TRUE
 Centro De Investigacion De Recursos Humanos (Cirh),Centro De Investigacion De Recursos Humanos (Cirh),1,TRUE
 Centro De Sistemas Y Negocios,Centro De Sistemas Y Negocios,1,TRUE
 Centro Gold Sap Partner,Centro Gold Sap Partner,3,TRUE
-Centro Iberamericano De Capacitacion Profesional,Centro Iberamericano De Capacitacion Profesional,1,TRUE
+Centro Iberamericano De Capacitacion Profesional,Centro Iberamericano De Capacitacion Profesional,2,TRUE
 Centro Peruano De Estudios Gubernamentales,Centro Peruano De Estudios Gubernamentales,1,TRUE
 Centro Pre Universitario - Uni,Centro Pre Universitario - Uni,1,TRUE
 Centro Sap,Centro Sap,1,TRUE
-Centro Tecnologico Minero,Centro Tecnologico Minero,1,TRUE
+Centro Tecnologico Minero,Centro Tecnologico Minero,2,TRUE
 Centro Universitario De Ciencias Economico Administrativas,Centro Universitario De Ciencias Economico Administrativas,1,TRUE
 Centro-Partner Oficial De Sap En Peru,Centro-Partner Oficial De Sap En Peru,1,TRUE
 Centrum,Centrum Pucp,21,FALSE
@@ -199,9 +203,9 @@ Certero,Certero Peru,8,FALSE
 Certero Peru,Certero Peru,2,TRUE
 Certi,Certi,2,TRUE
 Certiport,Certiport,1,TRUE
-Certiprof,Certiprof,41,TRUE
+Certiprof,Certiprof,45,TRUE
 "Certiprof, Llc",Certiprof,1,FALSE
-Certus,Instituto De Educacion Superior Privado Certus,7,FALSE
+Certus,Instituto De Educacion Superior Privado Certus,8,FALSE
 Cesap Altos Estudios,Cesap Altos Estudios,4,TRUE
 Cesar Vallejo,Universidad Cesar Vallejo,1,FALSE
 Cesca,Instituto De Educacion Superior Tecnologico Cesca,15,FALSE
@@ -220,11 +224,11 @@ Cgi Gestion E Innovacion,Cgi Gestion E Innovacion,2,TRUE
 Cgi Peru,Cgi Gestion E Innovacion,1,FALSE
 Chamonix Consultoria Y Proyectos Sac,Chamonix Consultoria Y Proyectos Sac,1,TRUE
 Chio Lecca Instituto De Diseno De Moda,Chio Lecca Instituto De Diseno De Moda,1,TRUE
-Cibertec,Instituto Cibertec,216,FALSE
+Cibertec,Instituto Cibertec,222,FALSE
 Cicex,Cicex,1,TRUE
-Ciesam-Uni,Ciesam-Uni,1,TRUE
+Ciesam-Uni,Ciesam-Uni,2,TRUE
 Cimas,Instituto Superior Tecnologico Cimas,4,FALSE
-Cip,Colegio De Ingenieros Del Peru,1,FALSE
+Cip,Colegio De Ingenieros Del Peru,2,FALSE
 "Cipsa, Centro De Estudios Informatica, Barcelona","Cipsa, Centro De Estudios Informatica, Barcelona",3,TRUE
 Circulo Sistemico Emocional,Circulo Sistemico Emocional,1,TRUE
 Cis - Sap Partner,Cis - Sap Partner,1,TRUE
@@ -284,7 +288,7 @@ Cosapi Data,Cosapi Data,4,TRUE
 Coursea: Pontifica Universidad Catolica De Chile,Coursera,1,FALSE
 Coursera,Coursera,4,TRUE
 Coursera-Amazon,Coursera,4,FALSE
-Crehana,Crehana,8,TRUE
+Crehana,Crehana,9,TRUE
 Crehana - Utec,Crehana,1,FALSE
 Creser Latinoamerica,Creser Latinoamerica,1,TRUE
 Ct Brasil,Ct Brasil,1,TRUE
@@ -300,7 +304,7 @@ Cursos Udemy,Udemy,4,FALSE
 Data Consulting Sac,Data Consulting Sac,4,TRUE
 Data Mining Consulting,Dmc - Data Mining Consulting,9,FALSE
 Data Mining Consulting Peru,Dmc - Data Mining Consulting,1,FALSE
-Datacamp,Datacamp,1,TRUE
+Datacamp,Datacamp,2,TRUE
 Datux,Datux,3,TRUE
 Db Learner,Db Learner,1,TRUE
 Deeplearning.Ai,Deeplearning.Ai,2,TRUE
@@ -341,7 +345,7 @@ Edutin Academy,Edutin Academy,1,TRUE
 Edutronic,Edutronic Global Service,2,FALSE
 Edutronic Global Service,Edutronic Global Service,1,TRUE
 Ehsq Group,Ehsq Group,1,TRUE
-Elearning &Amp; Certificaciones Itc,Elearning &Amp; Certificaciones Itc,1,TRUE
+Elearning &Amp; Certificaciones Itc,Elearning &Amp; Certificaciones Itc,2,TRUE
 Electrotec,Electrotec,2,TRUE
 Emprendedores Usil,Emprendedores Usil,1,TRUE
 Enace,Enace,1,TRUE
@@ -359,10 +363,11 @@ Entrenamiento Certero Institute,Entrenamiento Certero Institute,1,TRUE
 Eobs - Universidad Rey Juan Carlos De Espana,Eobs - Universidad Rey Juan Carlos De Espana,2,TRUE
 Eoi - Escuela De Negocios - Espana,Eoi - Escuela De Negocios - Espana,1,TRUE
 Eoi | Escuela De Organizacion Industrial,Eoi | Escuela De Organizacion Industrial,1,TRUE
+Ep Neumann: Escuela De Postgrado,Ep Neumann: Escuela De Postgrado,1,TRUE
 Epe - Upc (Universidad De Ciencias Aplicadas),Epe - Upc (Universidad De Ciencias Aplicadas),1,TRUE
 Equilibrium Financiero,Equilibrium Financiero,1,TRUE
 Ericsson,Ericsson,1,TRUE
-Esan,Universidad Esan,42,FALSE
+Esan,Universidad Esan,45,FALSE
 Esan / Carlos Iii Espana,Universidad Esan,1,FALSE
 Esan Graduate School Of Business,Universidad Esan,2,FALSE
 Esan-La Salle Universidad Ramon Llull,Universidad Esan,1,FALSE
@@ -385,7 +390,7 @@ Escuela De Negocios Eoi,Escuela De Negocios Eoi,5,TRUE
 Escuela De Negocios Gesap,Escuela De Negocios Gesap,1,TRUE
 Escuela De Negocios Zegel Ipae,Instituto Peruano De Accion Empresarial - Ipae,1,FALSE
 Escuela De Periodismo Jaime Bauzate Y Meza,Universidad Jaime Bausate Y Meza,2,FALSE
-Escuela De Posgrado Newman,Escuela De Posgrado Newman,1,TRUE
+Escuela De Posgrado Newman,Escuela De Posgrado Newman,2,TRUE
 Escuela De Post Grado - Universidad San Ignacio De Loyola,Escuela De Post Grado - Universidad San Ignacio De Loyola,15,TRUE
 Escuela De Post Grado - Universidad Tecnologica Del Peru,Escuela De Post Grado - Universidad Tecnologica Del Peru,4,TRUE
 Escuela De Post Grado Utp,Escuela De Post Grado - Universidad Tecnologica Del Peru,1,FALSE
@@ -400,7 +405,7 @@ Escuela De Talento Humano,Escuela De Talento Humano,1,TRUE
 Escuela Empresarial Del Peru,Escuela Empresarial Del Peru - Esep,6,FALSE
 Escuela Empresarial Del Peru - Esep,Escuela Empresarial Del Peru - Esep,1,TRUE
 Escuela Internacional De Aduanas Y Logistica,Escuela Internacional De Aduanas Y Logistica,1,TRUE
-Escuela Internacional De Gerencia Eiger,Escuela Internacional De Gerencia Eiger,4,TRUE
+Escuela Internacional De Gerencia Eiger,Escuela Internacional De Gerencia Eiger,5,TRUE
 Escuela Internacional De Gestion De Proyectos,Escuela Internacional De Gestion De Proyectos,1,TRUE
 Escuela Internacional En Tecnologia Profesional Geg Corporation.,Escuela Internacional En Tecnologia Profesional Geg Corporation.,1,TRUE
 Escuela John Hopkins,Escuela John Hopkins,1,TRUE
@@ -425,7 +430,7 @@ Evangelische Hochschule Ludwigsburg,Evangelische Hochschule Ludwigsburg,2,TRUE
 Everis,Everis,1,TRUE
 Excelencia Humana,Excelencia Humana,1,TRUE
 Exes,Exes,2,TRUE
-Exin,Exin,7,TRUE
+Exin,Exin,8,TRUE
 Experto Luis Duenas,Experto Luis Duenas,1,TRUE
 Extranjero,Extranjero,1,TRUE
 F&Amp;M Consulting,F&Amp;M Consulting,1,TRUE
@@ -445,27 +450,27 @@ Fundacion Carlos Slim,Fundacion Carlos Slim,6,TRUE
 Fundacion Movistar,Fundacion Movistar,2,TRUE
 Fundacion Proem,Fundacion Proem,1,TRUE
 Fundacion Romero,Fundacion Romero,3,TRUE
-Fundacion San Marcos,Fundacion San Marcos,8,TRUE
+Fundacion San Marcos,Fundacion San Marcos,11,TRUE
 Fundacion Telefonica,Fundacion Telefonica,4,TRUE
 Fundacion Universitaria Claretiana,Fundacion Universitaria Claretiana,1,TRUE
 Fundacion Universitaria Los Libertadores,Fundacion Universitaria Los Libertadores,1,TRUE
 Fundet,Fundet,1,TRUE
 Gaceta Laboral,Gaceta Laboral,2,TRUE
-Galaxy Training,Galaxy Training,12,TRUE
+Galaxy Training,Galaxy Training,13,TRUE
 Galaxy Training - Peru,Galaxy Training,1,FALSE
 Gamor,Gamor,2,TRUE
 General Assembly,General Assembly,1,TRUE
-Gesap,Gesap,5,TRUE
+Gesap,Gesap,6,TRUE
 Gescam - Consultores Asociados Sac,Gescam - Consultores Asociados Sac,1,TRUE
 Global Hitss,Global Hitss,1,TRUE
 Global Institute,Global Institute,1,TRUE
 Global Lynx,Global Lynx,1,TRUE
-Global Project Management,Global Project Management,5,TRUE
+Global Project Management,Global Project Management,7,TRUE
 Global Project Manager,Global Project Manager,1,TRUE
 Global Trust Association,Global Trust Association,1,TRUE
 Gmd,Gmd,2,TRUE
 Gmd S.A.,Gmd,1,FALSE
-Google,Google,26,TRUE
+Google,Google,27,TRUE
 Google - Iab Spain (Interactive Advertising Bureau),Google,1,FALSE
 Google Activate,Google,5,FALSE
 Google Active,Google,1,FALSE
@@ -479,7 +484,7 @@ Grupo Emprender,Grupo Emprender,2,TRUE
 Grupo Idat,Instituto Superior Tecnologico Idat,1,FALSE
 Grupo Lider World,Grupo Lider World,1,TRUE
 Grupo Proyecta,Grupo Proyecta,1,TRUE
-Grupo Romero,Grupo Romero,2,TRUE
+Grupo Romero,Grupo Romero,3,TRUE
 Grupo San Ignacio De Loyola,Grupo San Ignacio De Loyola,1,TRUE
 Grupo Sba,Grupo Sba,1,TRUE
 Harvard Business School,Harvard Business School,1,TRUE
@@ -518,7 +523,7 @@ Ici-Uni,Ici-Uni,1,TRUE
 Icj,Icj,2,TRUE
 Icpna,Instituto Cultural Peruano Norteamericano,13,FALSE
 Icpna - Instituto Peruano Norteamericano,Instituto Cultural Peruano Norteamericano,1,FALSE
-Idat,Instituto Superior Tecnologico Idat,109,FALSE
+Idat,Instituto Superior Tecnologico Idat,111,FALSE
 Iddea,Iddea,1,TRUE
 Idec Vial,Idec Vial,1,TRUE
 Ideou,Ideou,1,TRUE
@@ -533,7 +538,9 @@ Iestp &Quot;Julio Cesar Tello&Quot;,Instituto Superior Tecnologico Julio Cesar T
 Iestpffaa,Iestpffaa,1,TRUE
 Iestpj Julio C. Tello,Instituto Superior Tecnologico Julio Cesar Tello,1,FALSE
 Ifb,Instituto De Formacion Bancaria Ifb,1,FALSE
+Ifb Certus,Instituto De Formacion Bancaria Ifb,1,FALSE
 Ilen,Ilen,2,TRUE
+Ilen &Amp; Mentors International Inc.,Ilen,1,FALSE
 Ilustre Colegio De Abogados De Lima - Cal,Ilustre Colegio De Abogados De Lima - Cal,1,TRUE
 Impechi,Impechi,1,TRUE
 Inagep,Inagep,1,TRUE
@@ -555,27 +562,30 @@ Inst Peruano De Computacion E Informatica Ipci,Inst Peruano De Computacion E Inf
 Inst. De Ensenanza Sup. Del Ejercito Www.Iese.Edu.Ar,Inst. De Ensenanza Sup. Del Ejercito Www.Iese.Edu.Ar,1,TRUE
 Inst. Desarrollo Humano,Inst. Desarrollo Humano,1,TRUE
 Inst. Especializado En Gestion Agil De Proyectos,Inst. Especializado En Gestion Agil De Proyectos,1,TRUE
-Inst. Latinoamericano De Cc.Ss.,Inst. Latinoamericano De Cc.Ss.,2,TRUE
+Inst. Latinoamericano De Cc.Ss.,Inst. Latinoamericano De Cc.Ss.,3,TRUE
 Inst. San Ignacio De Monterrico Sidem,Inst. San Ignacio De Monterrico Sidem,1,TRUE
 Institucion Privada Americano,Institucion Privada Americano,1,TRUE
+Instituo Superior Tecnologico Cibertec,Instituto Cibertec,1,FALSE
 Institut Superieur De La Logistique Et Du Transp,Institut Superieur De La Logistique Et Du Transp,2,TRUE
 "Instituto ""Cimas""",Instituto Superior Tecnologico Cimas,1,FALSE
-Instituto Adex,Instituto Adex,20,TRUE
+Instituto Adex,Instituto Adex,21,TRUE
 Instituto Avansys - Grupo El Comercio,Instituto Cibertec,5,FALSE
 Instituto Avanza De Formacion Y Desarrollo,Instituto Avanza De Formacion Y Desarrollo,1,TRUE
 Instituto Centro Americano De Administracion De...,Instituto Centro Americano De Administracion De...,1,TRUE
 Instituto Certus,Instituto De Educacion Superior Privado Certus,1,FALSE
 Instituto Chaminade Marianistas,Instituto Chaminade Marianistas,1,TRUE
-Instituto Cibertec,Instituto Cibertec,202,TRUE
+Instituto Cibertec,Instituto Cibertec,205,TRUE
 Instituto Computrom,Instituto Superior Tecnologico Computrom,1,FALSE
-Instituto Cultural Peruano Norteamericano,Instituto Cultural Peruano Norteamericano,29,TRUE
-Instituto Cultural Peruano Norteamericano (A-09),Instituto Cultural Peruano Norteamericano,3,FALSE
+Instituto Cultural Peruano Norteamericano,Instituto Cultural Peruano Norteamericano,33,TRUE
+Instituto Cultural Peruano Norteamericano (A-09),Instituto Cultural Peruano Norteamericano,5,FALSE
 Instituto Cultural Peruano Norteamericano (Ipcna),Instituto Cultural Peruano Norteamericano,1,FALSE
 Instituto De Alta Tecnologia (Idat),Instituto Superior Tecnologico Idat,1,FALSE
 Instituto De Alta Tecnologia Cibertec,Instituto Cibertec,2,FALSE
+Instituto De Certificacion Sissertel,Instituto De Certificacion Sissertel,1,TRUE
 Instituto De Ciencias Y Tecnologias,Instituto De Ciencias Y Tecnologias,2,TRUE
 Instituto De Contadores Del Peru,Instituto De Contadores Del Peru,1,TRUE
 Instituto De Direccion De Proyectos,Instituto De Direccion De Proyectos,1,TRUE
+Instituto De Directivos De Empresa (Ide-Cesem),Instituto De Directivos De Empresa (Ide-Cesem),1,TRUE
 Instituto De Educacion Superior Abaco,Instituto De Educacion Superior Abaco,1,TRUE
 Instituto De Educacion Superior John Von Neumann,Instituto De Educacion Superior John Von Neumann,3,TRUE
 Instituto De Educacion Superior Leonardo Da Vinci - Trujillo,Instituto De Educacion Superior Leonardo Da Vinci - Trujillo,1,TRUE
@@ -583,14 +593,15 @@ Instituto De Educacion Superior Privado Certus,Instituto De Educacion Superior P
 Instituto De Educacion Superior Privado Nuestra Senora Del Carmen,Instituto De Educacion Superior Privado Nuestra Senora Del Carmen,1,TRUE
 Instituto De Educacion Superior Tecnologica Y Pedagogica Cima,Instituto De Educacion Superior Tecnologica Y Pedagogica Cima,3,TRUE
 Instituto De Educacion Superior Tecnologico Cesca,Instituto De Educacion Superior Tecnologico Cesca,1,TRUE
+Instituto De Educacion Superior Tecnologico Pub...,Instituto De Educacion Superior Tecnologico Pub...,1,TRUE
 Instituto De Educacion Superior Tecnologico Simon Bolivar,Instituto De Educacion Superior Tecnologico Simon Bolivar,1,TRUE
 Instituto De Emprendedores - Usil,Instituto De Emprendedores - Usil,1,TRUE
 Instituto De Empresa,Instituto De Empresa,2,TRUE
 Instituto De Estudios Bursatiles De Madrid,Instituto De Estudios Bursatiles De Madrid,1,TRUE
 Instituto De Estudios Europeos,Instituto De Estudios Europeos,1,TRUE
-Instituto De Formacion Bancaria Ifb,Instituto De Formacion Bancaria Ifb,27,TRUE
+Instituto De Formacion Bancaria Ifb,Instituto De Formacion Bancaria Ifb,28,TRUE
 Instituto De Formacion Empresarial - Ife,Instituto De Formacion Empresarial - Ife,1,TRUE
-Instituto De Idiomas De La Universidad Catolica,Instituto De Idiomas De La Universidad Catolica,10,TRUE
+Instituto De Idiomas De La Universidad Catolica,Instituto De Idiomas De La Universidad Catolica,11,TRUE
 Instituto De Idiomas Peruano - Britanico,Asociacion Cultural Peruano Britanica,1,FALSE
 Instituto De La Calidad Pucp,Instituto Para La Calidad - Pucp,1,FALSE
 Instituto De Secretariado Ela,Instituto De Secretariado Ela,1,TRUE
@@ -605,14 +616,15 @@ Instituto Euroidiomas,Instituto Euroidiomas,1,TRUE
 Instituto Europeo De Posgrado,Instituto Europeo De Posgrado,9,TRUE
 Instituto Europeo De Posgrado Iep,Instituto Europeo De Posgrado,1,FALSE
 Instituto Europeo De Posgrado-Online,Instituto Europeo De Posgrado,1,FALSE
-Instituto Europeo De Postgrado,Instituto Europeo De Posgrado,3,FALSE
+Instituto Europeo De Postgrado,Instituto Europeo De Posgrado,4,FALSE
 Instituto Excelencia Humana,Instituto Excelencia Humana,1,TRUE
 Instituto Excelente Humana,Instituto Excelencia Humana,1,FALSE
 Instituto Gamor,Instituto Gamor,1,TRUE
 Instituto Genova,Instituto Genova,1,TRUE
-Instituto Gesap,Instituto Gesap,8,TRUE
+Instituto Gesap,Instituto Gesap,11,TRUE
 Instituto Hegel,Instituto Hegel,1,TRUE
 "Instituto Ingles ""Icpna",Instituto Cultural Peruano Norteamericano,1,FALSE
+Instituto Interamericano De Alta Asesoria Empresarial,Instituto Interamericano De Alta Asesoria Empresarial,1,TRUE
 Instituto Interamericano Para El Desarrollo,Instituto Interamericano Para El Desarrollo,1,TRUE
 Instituto Latinoamericano De Empresas Y Negocios,Instituto Latinoamericano De Empresas Y Negocios,2,TRUE
 Instituto Leo Design,Instituto Leo Design,5,TRUE
@@ -627,7 +639,7 @@ Instituto Para La Calidad Pucp,Instituto Para La Calidad - Pucp,2,FALSE
 Instituto Particular Britanico,Asociacion Cultural Peruano Britanica,1,FALSE
 Instituto Paul Muller,Instituto Superior Paul Muller,2,FALSE
 Instituto Peruano De Accion Empresarial - Ipae,Instituto Peruano De Accion Empresarial - Ipae,1,TRUE
-Instituto Peruano De Administracion De Empresas - Ipae,Instituto Peruano De Accion Empresarial - Ipae,12,FALSE
+Instituto Peruano De Administracion De Empresas - Ipae,Instituto Peruano De Accion Empresarial - Ipae,13,FALSE
 Instituto Peruano De Gobierno - Ipeg,Instituto Peruano De Gobierno - Ipeg,1,TRUE
 Instituto Peruano De Negocios,Instituto Peruano De Negocios,1,TRUE
 Instituto Peruano De Publicidad - Ipp,Instituto Peruano De Publicidad - Ipp,4,TRUE
@@ -651,7 +663,7 @@ Instituto Superior Paul Muller,Instituto Superior Paul Muller,1,TRUE
 Instituto Superior Pedagogico Publico Nuestra Senora De Lourdes,Instituto Superior Pedagogico Publico Nuestra Senora De Lourdes,1,TRUE
 Instituto Superior Peruano Aleman - Ipal,Instituto Superior Peruano Aleman - Ipal,2,TRUE
 Instituto Superior Privado Cibertec,Instituto Cibertec,1,FALSE
-Instituto Superior Sise,Instituto Superior Sise,66,TRUE
+Instituto Superior Sise,Instituto Superior Sise,68,TRUE
 "Instituto Superior Tecnologico ""Cepea""","Instituto Superior Tecnologico ""Cepea""",1,TRUE
 "Instituto Superior Tecnologico ""Sise""",Instituto Superior Sise,1,FALSE
 Instituto Superior Tecnologico Almirante Miguel Grau,Instituto Superior Tecnologico Almirante Miguel Grau,1,TRUE
@@ -672,12 +684,14 @@ Instituto Superior Tecnologico Metropolitano,Instituto Superior Tecnologico Metr
 Instituto Superior Tecnologico Privado Cibertec,Instituto Cibertec,1,FALSE
 Instituto Superior Tecnologico Privado Khipu,Instituto Superior Tecnologico Privado Khipu,1,TRUE
 Instituto Superior Tecnologico Publico Argentina,Instituto Superior Tecnologico Publico Argentina,1,TRUE
+Instituto Superior Tecnologico Publico Jose Pardo,Instituto Superior Tecnologico Publico Jose Pardo,1,TRUE
 Instituto Superior Tecnologico Wernher Von Braun,Instituto Superior Tecnologico Wernher Von Braun,1,TRUE
 Instituto Superios Tecnologico Abaco,Instituto De Educacion Superior Abaco,3,FALSE
 Instituto Superiro Tecnologico Chincha,Instituto Superiro Tecnologico Chincha,1,TRUE
 Instituto Tecnologico Del Norte,Instituto Tecnologico Del Norte,7,TRUE
+Instituto Tecnologico Idat,Instituto Superior Tecnologico Idat,2,FALSE
 "Instituto Tecnologico Lourtec, C.A.","Instituto Tecnologico Lourtec, C.A.",1,TRUE
-Instituto Tecnologico Y De Estudios Superiores De Monterrey,Instituto Tecnologico Y De Estudios Superiores De Monterrey,16,TRUE
+Instituto Tecnologico Y De Estudios Superiores De Monterrey,Instituto Tecnologico Y De Estudios Superiores De Monterrey,17,TRUE
 Instituto Telesup,Instituto Telesup,1,TRUE
 Instituto Universitario Carlos Soublette,Instituto Universitario Carlos Soublette,1,TRUE
 Instituto Universitario De Gerencia Y Tecnologia,Instituto Universitario De Gerencia Y Tecnologia,2,TRUE
@@ -698,12 +712,13 @@ Interaction Design Foudation,Interaction Design Foudation,2,TRUE
 Interactive Advertising Bureau,Interactive Advertising Bureau,1,TRUE
 Interactive Advertising Bureau (Iab Espana),Interactive Advertising Bureau,1,FALSE
 International Business School,International Business School,1,TRUE
-International Scrum Instituted,International Scrum Instituted,2,TRUE
+International Scrum Institute,International Scrum Institute,1,TRUE
+International Scrum Instituted,International Scrum Institute,2,FALSE
 International Software Testing Qualifications Board,International Software Testing Qualifications Board,1,TRUE
 Inttelmex It,Inttelmex It,5,TRUE
 Ipad - Instituto Peruano De Arte Y Diseno,Ipad - Instituto Peruano De Arte Y Diseno,5,TRUE
 Ipae,Instituto Peruano De Accion Empresarial - Ipae,23,FALSE
-Ipae -Instituto Peruano De Accion Empresarial,Instituto Peruano De Accion Empresarial - Ipae,47,FALSE
+Ipae -Instituto Peruano De Accion Empresarial,Instituto Peruano De Accion Empresarial - Ipae,48,FALSE
 Ipal,Instituto Superior Peruano Aleman - Ipal,2,FALSE
 Ipappg,Ipappg,2,TRUE
 Ipm - Instituto Peruano De Marketing,Ipm - Instituto Peruano De Marketing,20,TRUE
@@ -721,18 +736,19 @@ Ist Sise,Instituto Superior Sise,1,FALSE
 Istituto Europeo Di Design,Istituto Europeo Di Design,1,TRUE
 Istp Julio Cesar Tello,Instituto Superior Tecnologico Julio Cesar Tello,1,FALSE
 Istp Maria Rosario Araoz Pinto,Istp Maria Rosario Araoz Pinto,1,TRUE
-Istp Modern Systems,Istp Modern Systems,1,TRUE
+Istp Modern Systems,Istp Modern Systems,2,TRUE
 Istp Paul Muller,Instituto Superior Paul Muller,1,FALSE
 Istp-Julio Cesar Tello,Instituto Superior Tecnologico Julio Cesar Tello,2,FALSE
 Istqb,Istqb(R) - International Software Testing Qualifications Board,8,FALSE
 Istqb (R),Istqb(R) - International Software Testing Qualifications Board,1,FALSE
 Istqb(R) - International Software Testing Qualifications Board,Istqb(R) - International Software Testing Qualifications Board,2,TRUE
+It Systems,It Systems,1,TRUE
 Itae,Itae Business School,1,FALSE
 Itae Business School,Itae Business School,1,TRUE
 Itera Business It&Amp;Process,Itera Business It&Amp;Process,2,TRUE
 Itsk,Itsk,1,TRUE
-Itsystems,Itsystems,2,TRUE
-Itsystems Systems,Itsystems,1,FALSE
+Itsystems,It Systems,2,FALSE
+Itsystems Systems,It Systems,1,FALSE
 Iup Santiago Marino.,Instituto Universitario Politecnico Santiago Marino,1,FALSE
 J &Amp; J Data Mining Consulting,J &Amp; J Data Mining Consulting,1,TRUE
 Jaime Figari ( Capitan De Aduanas- Sunat),Jaime Figari ( Capitan De Aduanas- Sunat),2,TRUE
@@ -740,7 +756,7 @@ Jamming,Jamming,1,TRUE
 Jb Enteprise Group,Jb Enterprise Group,1,FALSE
 Jb Enterprice Group,Jb Enterprise Group,1,FALSE
 Jb Enterprise,Jb Enterprise Group,1,FALSE
-Jb Enterprise Group,Jb Enterprise Group,13,TRUE
+Jb Enterprise Group,Jb Enterprise Group,16,TRUE
 Jb Group,Jb Enterprise Group,1,FALSE
 Jb Group Enterprise,Jb Enterprise Group,1,FALSE
 Jhons Hopkins University | Coursera,Jhons Hopkins University | Coursera,1,TRUE
@@ -763,6 +779,7 @@ Laboratoria,Laboratoria,5,TRUE
 Las Vegas Usa,Las Vegas Usa,1,TRUE
 Latfar,Latfar,1,TRUE
 Laureate International Universities,Laureate International Universities,2,TRUE
+Ld Grupo,Ld Grupo,1,TRUE
 Le Cordon Bleu Peru,Universidad Le Cordon Bleu,1,FALSE
 Leaders Training Group,Leaders Training Group,1,TRUE
 Lean Six Sigma Institute,Lean Six Sigma Institute,1,TRUE
@@ -827,6 +844,7 @@ Mott,Mott Centro De Especializacion Digital,5,FALSE
 Mott - Escuela Creativa Digital,Mott Centro De Especializacion Digital,1,FALSE
 Mott Centro De Especializacion,Mott Centro De Especializacion Digital,1,FALSE
 Mott Centro De Especializacion Digital,Mott Centro De Especializacion Digital,3,TRUE
+Municipalidad De Lima,Municipalidad De Lima,1,TRUE
 Neetwork Business School,Neetwork Business School,1,TRUE
 Negocios Internacionales,Negocios Internacionales,1,TRUE
 Negzy,Negzy,2,TRUE
@@ -836,8 +854,8 @@ Netxpress,Netxpress,1,TRUE
 Netzun,Netzun,9,TRUE
 Neumann Business School,Neumann Business School,2,TRUE
 New Horihorizons,New Horizons,1,FALSE
-New Horizon,New Horizons,7,FALSE
-New Horizons,New Horizons,61,TRUE
+New Horizon,New Horizons,9,FALSE
+New Horizons,New Horizons,65,TRUE
 "New Horizons Computer Learning Centers, Inc.",New Horizons,1,FALSE
 New Horizons Del Peru.,New Horizons,2,FALSE
 New Horizons Institut,New Horizons,1,FALSE
@@ -847,7 +865,7 @@ New Horizont,New Horizons,2,FALSE
 New Horizonts,New Horizons,4,FALSE
 Next U,Next University,1,FALSE
 Next University,Next University,1,TRUE
-Nextech,Nextech,11,TRUE
+Nextech,Nextech,15,TRUE
 Nextech Education Center,Nextech,5,FALSE
 Nextu,Next University,1,FALSE
 Nits,Nits,1,TRUE
@@ -873,7 +891,7 @@ Osce,Osce,1,TRUE
 Osenterprise,Osenterprise,1,TRUE
 Oshacademy Latam,Oshacademy Latam,1,TRUE
 Otra,Otros,3,FALSE
-Otro,Otros,10,FALSE
+Otro,Otros,14,FALSE
 Otros,Otros,35,TRUE
 Owasp Foundation,Owasp Foundation,2,TRUE
 Pacifico Business School,Pacifico Business School - Univ. Del Pacifico,3,FALSE
@@ -885,30 +903,32 @@ Pcleticia,Pcleticia,1,TRUE
 Pebc,Pebc,1,TRUE
 Pecb,Pecb - Canada,2,FALSE
 Pecb - Canada,Pecb - Canada,1,TRUE
-Peoplecert,Peoplecert,2,TRUE
+People Cert,People Cert,1,TRUE
+Peoplecert,People Cert,2,FALSE
 Peru Linux,Peru Linux,1,TRUE
 Pink Elephant,Pink Elephant,1,TRUE
 Plataforma Udemy,Udemy,1,FALSE
-Platzi,Platzi,25,TRUE
+Platzi,Platzi,26,TRUE
 Pluralsight,Pluralsight,2,TRUE
-Pm Certifica,Pm Certifica,14,TRUE
+Pm Certifica,Pm Certifica,17,TRUE
 Pm Certifica - Pmi Registered Education Provider,Pm Certifica,1,FALSE
 Pm Certifica - Scrumstudy 97864,Pm Certifica,1,FALSE
 Pm Consultant Latam,Pm Certifica,1,FALSE
 Pmc,Pmc Latam,7,FALSE
 Pmc Grupo,Pmc Latam,2,FALSE
-Pmc Latam,Pmc Latam,5,TRUE
-Pmcertifica,Pm Certifica,7,FALSE
+Pmc Latam,Pmc Latam,6,TRUE
+Pmcertifica,Pm Certifica,8,FALSE
 Pmconsultant Latam S.A.C.,Pmconsultant Latam S.A.C.,2,TRUE
 Pmg Academy,Pmg Academy,1,TRUE
-Pmi,Pmi,9,TRUE
+Pmi,Pmi,10,TRUE
 Pmo Global Alliance,Pmo Global Alliance,1,TRUE
 Politecnico Colombiano Jaime Isaza Cadavid,Politecnico Colombiano Jaime Isaza Cadavid,1,TRUE
 Politecnico De Colombia,Politecnico De Colombia,1,TRUE
 Politecnico Grancolombiano,Politecnico Grancolombiano,1,TRUE
 Ponificia Universidad Catolica Del Peru,Pontificia Universidad Catolica Del Peru,2,FALSE
+Pontificia Univerdidad Catolica Del Peru,Pontificia Universidad Catolica Del Peru,1,FALSE
 Pontificia Universidad Catolica De Chile,Pontificia Universidad Catolica De Chile,1,TRUE
-Pontificia Universidad Catolica Del Peru,Pontificia Universidad Catolica Del Peru,330,TRUE
+Pontificia Universidad Catolica Del Peru,Pontificia Universidad Catolica Del Peru,342,TRUE
 Pontificia Universidad Catolica Del Peru - Pucp,Pontificia Universidad Catolica Del Peru,4,FALSE
 Postgrado Universidad Peruana De Ciencias Aplicadas - Upc,Postgrado Universidad Peruana De Ciencias Aplicadas - Upc,1,TRUE
 Power Bi Peru,Power Bi Peru,1,TRUE
@@ -921,7 +941,7 @@ Programa Thepowermba,Programa Thepowermba,1,TRUE
 Proinversion,Proinversion,1,TRUE
 Project Control,Project Control,1,TRUE
 Project Management Certifica,Pm Certifica,1,FALSE
-Project Management Institute,Project Management Institute (Pmi),8,FALSE
+Project Management Institute,Project Management Institute (Pmi),9,FALSE
 Project Management Institute (Pmi),Project Management Institute (Pmi),2,TRUE
 Project Management Instituto (Pmi),Project Management Institute (Pmi),2,FALSE
 Project Managment Institute,Project Management Institute (Pmi),1,FALSE
@@ -959,21 +979,21 @@ Sap,Sap,2,TRUE
 Sapia,Corporacion Sapia,1,FALSE
 School Of Technology And Computer Science,School Of Technology And Computer Science,1,TRUE
 Scrum,Scrum,1,TRUE
-Scrum Alliance,Scrum Alliance,8,TRUE
+Scrum Alliance,Scrum Alliance,9,TRUE
 Scrum Manager,Scrum Manager,1,TRUE
 Scrum Org,Scrum Study,1,FALSE
 Scrum Org.,Scrum Study,1,FALSE
-Scrum Study,Scrum Study,13,TRUE
+Scrum Study,Scrum Study,14,TRUE
 Scrum Study Certification,Scrum Study,2,FALSE
 Scrum Study Org,Scrum Study,1,FALSE
 Scrum.Org,Scrum Study,4,FALSE
-Scrumstudy,Scrum Study,32,FALSE
+Scrumstudy,Scrum Study,33,FALSE
 Scrumstudy - Accreditation Body For Scrum And Agile,Scrum Study,1,FALSE
 Scum Study,Scrum Study,3,FALSE
 Sebrae Brasil,Sebrae Brasil,1,TRUE
 Semcocad,Semcocad,1,TRUE
 Seminarios Top,Seminarios Top,1,TRUE
-Senati,Senati,36,TRUE
+Senati,Senati,37,TRUE
 Senati - Chiclayo,Senati,2,FALSE
 Senati - Cusco,Senati,1,FALSE
 Senati - Programa Nacional De Informatica,Senati,26,FALSE
@@ -984,17 +1004,17 @@ Sencico,Instituto Sencico,2,FALSE
 Sencico Escuela Superior Tecnica,Instituto Sencico,3,FALSE
 Servir-Peru,Servir-Peru,1,TRUE
 Sgs,Sgs Academy,1,FALSE
-Sgs Academy,Sgs Academy,3,TRUE
+Sgs Academy,Sgs Academy,4,TRUE
 Sidem,Sidem,1,TRUE
 Siemens Training Center,Siemens Training Center,1,TRUE
 Sinergia,Sinergia,1,TRUE
 Sise,Instituto Superior Sise,2,FALSE
-Sissertel-Certmind,Sissertel-Certmind,1,TRUE
+Sissertel-Certmind,Instituto De Certificacion Sissertel,1,FALSE
 Sistemas Informaticos Del Valle,Sistemas Informaticos Del Valle,1,TRUE
-Sistemas Uni,Sistemas Uni,30,TRUE
+Sistemas Uni,Sistemas Uni,31,TRUE
 Sistemas Uni_Excel Avanzado,Sistemas Uni,1,FALSE
 Sistemasuni,Sistemas Uni,4,FALSE
-Sj Agile Consulting,Sj Agile Consulting,3,TRUE
+Sj Agile Consulting,Sj Agile Consulting,4,TRUE
 Skill - Centro De Capacitacion,Skill - Centro De Capacitacion,3,TRUE
 Skill Centro De Capacitacion,Skill - Centro De Capacitacion,1,FALSE
 Smart Data Consulting,Smart Data Consulting,3,TRUE
@@ -1003,6 +1023,7 @@ Sociedad Nacional De Industrias,Sociedad Nacional De Industrias,1,TRUE
 Sociedad Peruana De Desarrollo En Bienes Raices,Sociedad Peruana De Desarrollo En Bienes Raices,1,TRUE
 Sollearn,Sollearn,1,TRUE
 Sololearn,Sololearn,1,TRUE
+Ssma Peru,Ssma Peru,1,TRUE
 Stanford University (Ca),Stanford University (Ca),1,TRUE
 Starley Sac,Starley Sac,1,TRUE
 Step To Business,Step To Business,1,TRUE
@@ -1023,7 +1044,7 @@ Tec Management,Tec Management,1,TRUE
 Tech,Tech,1,TRUE
 Tecnologico De Monterrey,Tecnologico De Monterrey,2,TRUE
 Tecsel,Tecsel,1,TRUE
-Tecsup,Tecsup,120,TRUE
+Tecsup,Tecsup,124,TRUE
 Tecsup - Arequipa,Tecsup,3,FALSE
 Telepsup,Universidad Privada Telesup,1,FALSE
 Telesup,Universidad Privada Telesup,16,FALSE
@@ -1033,12 +1054,13 @@ The Powermba,The Powermba,1,TRUE
 The Sustainable Design School,The Sustainable Design School,1,TRUE
 "The University Of Sydney, Australia","The University Of Sydney, Australia",1,TRUE
 Thepowermba,Thepowermba,3,TRUE
+Tismart,Tismart,1,TRUE
 Titulado,Titulado,1,TRUE
 Tkapacito,Tkapacito,1,TRUE
 Todotic,Todotic,1,TRUE
 Total Reward,Total Reward,1,TRUE
 Toulose,Instituto Superior De Comunicacion Y Diseno Toulouse Lautrec,1,FALSE
-Toulouse Lautrec,Instituto Superior De Comunicacion Y Diseno Toulouse Lautrec,1,FALSE
+Toulouse Lautrec,Instituto Superior De Comunicacion Y Diseno Toulouse Lautrec,2,FALSE
 Trabajo Social,Trabajo Social,1,TRUE
 Tsoft,Tsoft,1,TRUE
 Tubartender Bar Academy,Tubartender Bar Academy,1,TRUE
@@ -1064,7 +1086,7 @@ Ucss,Universidad Catolica Sedes Sapientiae,1,FALSE
 Ucv,Universidad Cesar Vallejo,4,FALSE
 Ucv-Lima Norte,Universidad Cesar Vallejo,10,FALSE
 Udacity,Udacity,1,TRUE
-Udemy,Udemy,42,TRUE
+Udemy,Udemy,43,TRUE
 Udemy (Videotutoriales Via Internet),Udemy,2,FALSE
 Udemy (Virtual),Udemy,1,FALSE
 Udemy Academy,Udemy,1,FALSE
@@ -1072,7 +1094,7 @@ Udemy E-Learning,Udemy,1,FALSE
 Udemy For Business,Udemy,1,FALSE
 Udep,Universidad De Piura,3,FALSE
 Uedmi,Uedmi,1,TRUE
-Uigv,Universidad Inca Garcilaso De La Vega,5,FALSE
+Uigv,Universidad Inca Garcilaso De La Vega,6,FALSE
 Uiniversidad Inca Garcilaso De La Vega,Universidad Inca Garcilaso De La Vega,1,FALSE
 Uiversidad Peruana Union,Uiversidad Peruana Union,1,TRUE
 Uladech,Universidad Catolica Los Angeles De Chimbote,9,FALSE
@@ -1081,42 +1103,43 @@ Umsm,Universidad Nacional Mayor De San Marcos,1,FALSE
 Un. Jose Faustino Sanchez Carrion,Universidad Nacional Jose Faustino Sanchez Carrion,2,FALSE
 Unas,Universidad Nacional Agraria De La Selva,2,FALSE
 Uncp,Universidad Nacional Del Centro Del Peru,1,FALSE
-Undac,Undac,2,TRUE
+Undac,Undac,3,TRUE
 Undemy,Udemy,1,FALSE
 Une Enrique Guzman Y Valle,Universidad Nacional De Educacion Enrique Guzman Y Valle - La Cantuta,7,FALSE
 Unefa,Unefa,1,TRUE
 Unfv,Universidad Nacional Federico Villarreal,1,FALSE
 Unfv Y Idat,Universidad Nacional Federico Villarreal,1,FALSE
 Unfv6,Universidad Nacional Federico Villarreal,1,FALSE
-Uni,Universidad Nacional De Ingenieria,9,FALSE
+Uni,Universidad Nacional De Ingenieria,12,FALSE
 Uni. Nacional Autonoma De Mexico - Coursera,Uni. Nacional Autonoma De Mexico - Coursera,3,TRUE
 Uni.Nac. Mayor De San Marcos,Universidad Nacional Mayor De San Marcos,2,FALSE
 Unicad,Unicad,2,TRUE
-Unife,Universidad Femenina Del Sagrado Corazon,7,FALSE
+Unife,Universidad Femenina Del Sagrado Corazon,9,FALSE
 Unila,Unila,3,TRUE
 Unir,Universidad Internacional De La Rioja,3,FALSE
+Unir - Universidad Internacional La Rioja,Universidad Internacional De La Rioja,1,FALSE
 Unir (Espana),Universidad Internacional De La Rioja,1,FALSE
 Unir (Uni. De Rioja),Universidad Internacional De La Rioja,1,FALSE
-Univ. Gran Mariscal De Ayacucho,Universidad Nororiental Gran Mariscal De Ayacucho,2,FALSE
+Univ. Gran Mariscal De Ayacucho,Universidad Nororiental Gran Mariscal De Ayacucho,3,FALSE
 Univ. Ramon Llul La Salle Sede Barcelona,Universidad La Salle De Barcelona,1,FALSE
 Univ. Telesup,Universidad Privada Telesup,2,FALSE
 Univ.Tecnologica Del Peru,Universidad Tecnologica Del Peru,1,FALSE
-Univeridad Autonoma Del Peru,Universidad Autonoma Del Peru,25,FALSE
+Univeridad Autonoma Del Peru,Universidad Autonoma Del Peru,26,FALSE
 Univeridad De Lima,Universidad De Lima,22,FALSE
 Univeridad Privada Del Norte,Universidad Privada Del Norte,40,FALSE
 Universidad Adolfo Ibanez,Universidad Adolfo Ibanez,1,TRUE
 Universidad Agraria La Molina,Universidad Nacional Agraria La Molina,5,FALSE
-Universidad Alas Peruanas,Universidad Alas Peruanas,100,TRUE
-Universidad Alejandro De Humboldt,Universidad Privada Alejandro De Humboldt,13,FALSE
+Universidad Alas Peruanas,Universidad Alas Peruanas,102,TRUE
+Universidad Alejandro De Humboldt,Universidad Privada Alejandro De Humboldt,14,FALSE
 Universidad Andina Del Cusco,Universidad Andina Del Cusco,5,TRUE
 Universidad Andina Nestor Caceres Velasquez,Universidad Andina Nestor Caceres Velasquez,1,TRUE
 Universidad Anhembi Morumbi,Universidad Anhembi Morumbi,1,TRUE
-Universidad Antonio Ruiz De Montoya,Universidad Antonio Ruiz De Montoya,5,TRUE
+Universidad Antonio Ruiz De Montoya,Universidad Antonio Ruiz De Montoya,6,TRUE
 Universidad Austral,Universidad Austral,1,TRUE
 Universidad Autonoma,Universidad Autonoma Del Peru,2,FALSE
 Universidad Autonoma De Colombia,Universidad Autonoma De Colombia,1,TRUE
 Universidad Autonoma De Ica,Universidad Autonoma De Ica,1,TRUE
-Universidad Autonoma Del Peru,Universidad Autonoma Del Peru,38,TRUE
+Universidad Autonoma Del Peru,Universidad Autonoma Del Peru,39,TRUE
 Universidad Autonoma Del Peru - Lima,Universidad Autonoma Del Peru,1,FALSE
 Universidad Autonoma San Francisco,Universidad Autonoma San Francisco,1,TRUE
 Universidad Bicentenaria De Aragua,Universidad Bicentenaria De Aragua,4,TRUE
@@ -1129,9 +1152,9 @@ Universidad Catolica Andres Bello,Universidad Catolica Andres Bello,1,TRUE
 Universidad Catolica Boliviana De La Paz,Universidad Catolica Boliviana De La Paz,1,TRUE
 Universidad Catolica De Chile,Universidad Catolica De Chile,4,TRUE
 Universidad Catolica De Santa Maria - Arequipa,Universidad Catolica De Santa Maria - Arequipa,2,TRUE
-Universidad Catolica De Trujillo,Universidad Catolica De Trujillo Benedicto Xvi,1,FALSE
+Universidad Catolica De Trujillo,Universidad Catolica De Trujillo Benedicto Xvi,3,FALSE
 Universidad Catolica De Trujillo Benedicto Xvi,Universidad Catolica De Trujillo Benedicto Xvi,1,TRUE
-Universidad Catolica Del Peru,Pontificia Universidad Catolica Del Peru,3,FALSE
+Universidad Catolica Del Peru,Pontificia Universidad Catolica Del Peru,5,FALSE
 Universidad Catolica Los Angeles De Chimbote,Universidad Catolica Los Angeles De Chimbote,4,TRUE
 Universidad Catolica Portuguesa,Universidad Catolica Portuguesa,1,TRUE
 Universidad Catolica San Antonio De Murcia,Universidad Catolica San Antonio De Murcia,4,TRUE
@@ -1139,13 +1162,13 @@ Universidad Catolica San Pablo,Universidad Catolica San Pablo,18,TRUE
 Universidad Catolica San Pablo.,Universidad Catolica San Pablo,2,FALSE
 Universidad Catolica Santa Maria,Universidad Catolica Santa Maria,14,TRUE
 Universidad Catolica Santa Rosa,Universidad Catolica Santa Rosa,1,TRUE
-Universidad Catolica Santo Toribio De Mogrovejo,Universidad Catolica Santo Toribio De Mogrovejo,18,TRUE
+Universidad Catolica Santo Toribio De Mogrovejo,Universidad Catolica Santo Toribio De Mogrovejo,23,TRUE
 Universidad Catolica Sede Sapientiae,Universidad Catolica Sedes Sapientiae,2,FALSE
 Universidad Catolica Sedes Sapientae,Universidad Catolica Sedes Sapientiae,1,FALSE
 Universidad Catolica Sedes Sapientiae,Universidad Catolica Sedes Sapientiae,17,TRUE
-Universidad Central De Venezuela,Universidad Central De Venezuela,5,TRUE
+Universidad Central De Venezuela,Universidad Central De Venezuela,6,TRUE
 Universidad Centroccidental Lisandro Alvarado Ucla,Universidad Centroccidental Lisandro Alvarado Ucla,1,TRUE
-Universidad Cesar Vallejo,Universidad Cesar Vallejo,221,TRUE
+Universidad Cesar Vallejo,Universidad Cesar Vallejo,232,TRUE
 Universidad Cesar Vallejo - Chimbote,Universidad Cesar Vallejo,4,FALSE
 Universidad Cesar Vallejo - Lima,Universidad Cesar Vallejo,5,FALSE
 Universidad Cesar Vallejo - Lima Norte,Universidad Cesar Vallejo,4,FALSE
@@ -1156,9 +1179,9 @@ Universidad Cesar Vallejo Lima - Norte,Universidad Cesar Vallejo,1,FALSE
 Universidad Cesar Vallejo Lima Este 7Ciclo,Universidad Cesar Vallejo,2,FALSE
 Universidad Cesar Vallejo Lima Norte,Universidad Cesar Vallejo,3,FALSE
 Universidad Cientifica Del Peru,Universidad Cientifica Del Sur,3,FALSE
-Universidad Cientifica Del Sur,Universidad Cientifica Del Sur,85,TRUE
+Universidad Cientifica Del Sur,Universidad Cientifica Del Sur,86,TRUE
 Universidad Cientifica Del Sur (Ucsur) - Lima.,Universidad Cientifica Del Sur,1,FALSE
-Universidad Complutense De Madrid,Universidad Complutense De Madrid,1,TRUE
+Universidad Complutense De Madrid,Universidad Complutense De Madrid,2,TRUE
 Universidad Continenral,Universidad Continental De Ciencias E Ingenieria,1,FALSE
 Universidad Continental,Universidad Continental De Ciencias E Ingenieria,8,FALSE
 Universidad Continental - Huancayo,Universidad Continental De Ciencias E Ingenieria,1,FALSE
@@ -1188,7 +1211,7 @@ Universidad De La Rioja,Universidad De La Rioja,7,TRUE
 Universidad De Lambayeque,Universidad De Lambayeque,3,TRUE
 Universidad De Las Americas,Universidad De Las Americas,4,TRUE
 Universidad De Leon,Universidad De Leon,1,TRUE
-Universidad De Lima,Universidad De Lima,221,TRUE
+Universidad De Lima,Universidad De Lima,227,TRUE
 Universidad De Los Andes,Universidad De Los Andes,2,TRUE
 Universidad De Margarita,Universidad De Margarita,2,TRUE
 Universidad De Medellin,Universidad De Medellin,2,TRUE
@@ -1200,11 +1223,11 @@ Universidad De Piura - Campus Lima,Universidad De Piura,1,FALSE
 Universidad De Piura (Lima),Universidad De Piura,1,FALSE
 Universidad De Piura (Udep),Universidad De Piura,1,FALSE
 Universidad De Piura Campus Lima,Universidad De Piura,1,FALSE
-Universidad De Piura(Udep),Universidad De Piura,3,FALSE
+Universidad De Piura(Udep),Universidad De Piura,4,FALSE
 Universidad De Piura. Campus - Lima,Universidad De Piura,1,FALSE
 Universidad De Quebec,Universidad De Quebec,2,TRUE
 Universidad De Salamanca,Universidad De Salamanca,1,TRUE
-Universidad De San Martin De Porres,Universidad De San Martin De Porres,191,TRUE
+Universidad De San Martin De Porres,Universidad De San Martin De Porres,198,TRUE
 Universidad De San Pedro,Universidad De San Pedro,1,TRUE
 Universidad De Santander,Universidad De Santander,1,TRUE
 Universidad De Tarapaca,Universidad De Tarapaca,1,TRUE
@@ -1212,18 +1235,19 @@ Universidad De Valladolid,Universidad De Valladolid,1,TRUE
 Universidad De Virginia,Universidad De Virginia,2,TRUE
 Universidad Del Azuay,Universidad Del Azuay,1,TRUE
 Universidad Del Desarrollo,Universidad Del Desarrollo,1,TRUE
-Universidad Del Pacifico,Universidad Del Pacifico,106,TRUE
+Universidad Del Pacifico,Universidad Del Pacifico,114,TRUE
 Universidad Del Valle,Universidad Del Valle,1,TRUE
 Universidad Del Zulia,Universidad Del Zulia,1,TRUE
 Universidad Eafit,Universidad Eafit,1,TRUE
-Universidad Esan,Universidad Esan,236,TRUE
-Universidad Europea De Madrid,Universidad Europea De Madrid,13,TRUE
+Universidad Esan,Universidad Esan,245,TRUE
+Universidad Europea De Madrid,Universidad Europea De Madrid,14,TRUE
 Universidad Europea Del Atlantico,Universidad Europea Del Atlantico,4,TRUE
 Universidad Experimental De Las Fuerzas Armadas,Universidad Experimental De Las Fuerzas Armadas,1,TRUE
-Universidad Femenina Del Sagrado Corazon,Universidad Femenina Del Sagrado Corazon,9,TRUE
+Universidad Femenina Del Sagrado Corazon,Universidad Femenina Del Sagrado Corazon,10,TRUE
 Universidad Femenina Del Sagrado Corazon - Unife,Universidad Femenina Del Sagrado Corazon,1,FALSE
 Universidad Fermin Toro,Universidad Fermin Toro,1,TRUE
-Universidad Inca Garcilaso De La Vega,Universidad Inca Garcilaso De La Vega,169,TRUE
+Universidad Inca Garcilaso De La Vega,Universidad Inca Garcilaso De La Vega,173,TRUE
+Universidad Inca Garcilazo De La Vega,Universidad Inca Garcilaso De La Vega,1,FALSE
 Universidad Industrial De Santander,Universidad Industrial De Santander,2,TRUE
 Universidad Internacional De La Rioja,Universidad Internacional De La Rioja,3,TRUE
 Universidad Internacional De La Rioja - Unir,Universidad Internacional De La Rioja,1,FALSE
@@ -1243,9 +1267,9 @@ Universidad Latinoamericana De Ciencia Y Tecnologia,Universidad Latinoamericana 
 Universidad Le Cordon Bleu,Universidad Le Cordon Bleu,1,TRUE
 Universidad Los Angeles De Chimbote,Universidad Los Angeles De Chimbote,3,TRUE
 Universidad Marcelino Champagnat,Universidad Marcelino Champagnat,8,TRUE
-Universidad Mayor De San Marcos,Universidad Mayor De San Marcos,23,TRUE
+Universidad Mayor De San Marcos,Universidad Mayor De San Marcos,24,TRUE
 Universidad Metropolitana,Universidad Metropolitana,4,TRUE
-Universidad N. Wiener,Universidad Norbert Wiener,10,FALSE
+Universidad N. Wiener,Universidad Norbert Wiener,11,FALSE
 Universidad Nac. Jose Faustino Sanchez Carrion,Universidad Nacional Jose Faustino Sanchez Carrion,1,FALSE
 Universidad Naciona Del Callao,Universidad Nacional De Callao,1,FALSE
 Universidad Nacional &Quot;Jose Faustino Sanchez Carrion&Quot;,Universidad Nacional Jose Faustino Sanchez Carrion,1,FALSE
@@ -1254,29 +1278,29 @@ Universidad Nacional Agraria De La Selva,Universidad Nacional Agraria De La Selv
 Universidad Nacional Agraria La Molina,Universidad Nacional Agraria La Molina,34,TRUE
 Universidad Nacional Daniel Alcides Carrion,Universidad Nacional Daniel Alcides Carrion,3,TRUE
 Universidad Nacional De Cajamarca,Universidad Nacional De Cajamarca,12,TRUE
-Universidad Nacional De Callao,Universidad Nacional De Callao,8,TRUE
+Universidad Nacional De Callao,Universidad Nacional De Callao,9,TRUE
 Universidad Nacional De Educacion Enrique Guzman Y Valle - La Cantuta,Universidad Nacional De Educacion Enrique Guzman Y Valle - La Cantuta,12,TRUE
-Universidad Nacional De Ingenieria,Universidad Nacional De Ingenieria,198,TRUE
+Universidad Nacional De Ingenieria,Universidad Nacional De Ingenieria,206,TRUE
 Universidad Nacional De Ingenieria - Ceps,Universidad Nacional De Ingenieria,2,FALSE
 Universidad Nacional De Ingenieria - Infouni,Universidad Nacional De Ingenieria,1,FALSE
-Universidad Nacional De La Amazonia Peruana,Universidad Nacional De La Amazonia Peruana,1,TRUE
+Universidad Nacional De La Amazonia Peruana,Universidad Nacional De La Amazonia Peruana,2,TRUE
 Universidad Nacional De Moquegua,Universidad Nacional De Moquegua,3,TRUE
-Universidad Nacional De Piura,Universidad Nacional De Piura,24,TRUE
+Universidad Nacional De Piura,Universidad Nacional De Piura,26,TRUE
 Universidad Nacional De San Agustin,Universidad Nacional San Agustin De Arequipa,1,FALSE
 Universidad Nacional De San Agustin De Arequipa,Universidad Nacional San Agustin De Arequipa,1,FALSE
 Universidad Nacional De San Antonio Abad Del Cusco,Universidad Nacional De San Antonio Abad Del Cusco,2,TRUE
 Universidad Nacional De San Aug,Universidad Nacional De San Aug,1,TRUE
 Universidad Nacional De San Cristobal De Huamanga,Universidad Nacional De San Cristobal De Huamanga,4,TRUE
-Universidad Nacional De San Martin,Universidad Nacional De San Martin,8,TRUE
-Universidad Nacional De Trujillo,Universidad Nacional De Trujillo,44,TRUE
+Universidad Nacional De San Martin,Universidad Nacional De San Martin,10,TRUE
+Universidad Nacional De Trujillo,Universidad Nacional De Trujillo,45,TRUE
 Universidad Nacional De Trujillo - Unt,Universidad Nacional De Trujillo,1,FALSE
 Universidad Nacional De Trujilo,Universidad Nacional De Trujillo,3,FALSE
 Universidad Nacional De Tumbes,Universidad Nacional De Tumbes,4,TRUE
 Universidad Nacional De Ucayali,Universidad Nacional De Ucayali,1,TRUE
 Universidad Nacional Del Altiplano - Puno,Universidad Nacional Del Altiplano - Puno,8,TRUE
-Universidad Nacional Del Callao,Universidad Nacional Del Callao,102,TRUE
-Universidad Nacional Del Centro Del Peru,Universidad Nacional Del Centro Del Peru,20,TRUE
-Universidad Nacional Del Santa,Universidad Nacional Del Santa,13,TRUE
+Universidad Nacional Del Callao,Universidad Nacional Del Callao,103,TRUE
+Universidad Nacional Del Centro Del Peru,Universidad Nacional Del Centro Del Peru,21,TRUE
+Universidad Nacional Del Santa,Universidad Nacional Del Santa,15,TRUE
 Universidad Nacional Exp De Guayana,Universidad Nacional Exp De Guayana,2,TRUE
 Universidad Nacional Exp De Los Llanos Centrales Romulo Gallegos,Universidad Nacional Exp De Los Llanos Centrales Romulo Gallegos,1,TRUE
 Universidad Nacional Exp Politecnica De La Fuerza Armada Nacional,Universidad Nacional Experimental Politecnica De La Fuerza Armada Nacional,3,FALSE
@@ -1290,7 +1314,7 @@ Universidad Nacional Experimental Romulo Gallegos,Universidad Nacional Experimen
 Universidad Nacional Experimental Simon Bolivar,Universidad Nacional Experimental Simon Bolivar,2,TRUE
 Universidad Nacional Expl Simon Rodriguez,Universidad Nacional Expl Simon Rodriguez,1,TRUE
 Universidad Nacional Federico Villareal,Universidad Nacional Federico Villarreal,2,FALSE
-Universidad Nacional Federico Villarreal,Universidad Nacional Federico Villarreal,180,TRUE
+Universidad Nacional Federico Villarreal,Universidad Nacional Federico Villarreal,189,TRUE
 Universidad Nacional Hermilio Valdizan Huanuco,Universidad Nacional Hermilio Valdizan Huanuco,2,TRUE
 Universidad Nacional Jorge Basadre Grohmann,Universidad Nacional Jorge Basadre Grohmann,3,TRUE
 Universidad Nacional Jose F Sanchez Carrion,Universidad Nacional Jose Faustino Sanchez Carrion,1,FALSE
@@ -1298,20 +1322,21 @@ Universidad Nacional Jose Faustino,Universidad Nacional Jose Faustino Sanchez Ca
 Universidad Nacional Jose Faustino Sanchez Carrion,Universidad Nacional Jose Faustino Sanchez Carrion,9,TRUE
 Universidad Nacional Jose Maria Arguedas,Universidad Nacional Jose Maria Arguedas,2,TRUE
 Universidad Nacional Mayor De San,Universidad Nacional Mayor De San Marcos,1,FALSE
-Universidad Nacional Mayor De San Marcos,Universidad Nacional Mayor De San Marcos,301,TRUE
+Universidad Nacional Mayor De San Marcos,Universidad Nacional Mayor De San Marcos,308,TRUE
 Universidad Nacional Mayor De San Marcos - Unmsm,Universidad Nacional Mayor De San Marcos,4,FALSE
 Universidad Nacional Mayor De San Marcos (Unmsm),Universidad Nacional Mayor De San Marcos,1,FALSE
 Universidad Nacional Micaela Bastidas De Apurimac,Universidad Nacional Micaela Bastidas De Apurimac,7,TRUE
 Universidad Nacional Pedro Ruiz Gallo,Universidad Nacional Pedro Ruiz Gallo,39,TRUE
-Universidad Nacional Pedro Ruiz Gallo - Lambayeque,Universidad Nacional Pedro Ruiz Gallo,15,FALSE
-Universidad Nacional San Agustin De Arequipa,Universidad Nacional San Agustin De Arequipa,25,TRUE
+Universidad Nacional Pedro Ruiz Gallo - Lambayeque,Universidad Nacional Pedro Ruiz Gallo,17,FALSE
+Universidad Nacional San Agustin De Arequipa,Universidad Nacional San Agustin De Arequipa,27,TRUE
 Universidad Nacional San Antonio Abad De Cusco,Universidad Nacional De San Antonio Abad Del Cusco,4,FALSE
-Universidad Nacional San Luis Gonzaga - Ica,Universidad Nacional San Luis Gonzaga De Ica,44,FALSE
-Universidad Nacional San Luis Gonzaga De Ica,Universidad Nacional San Luis Gonzaga De Ica,6,TRUE
-Universidad Nacional Santiago Antunez De Mayolo,Universidad Nacional Santiago Antunez De Mayolo,2,TRUE
-Universidad Nacional Tecnologica De Lima Sur,Universidad Nacional Tecnologica De Lima Sur,8,TRUE
+Universidad Nacional San Luis Gonzaga - Ica,Universidad Nacional San Luis Gonzaga De Ica,45,FALSE
+Universidad Nacional San Luis Gonzaga De Ica,Universidad Nacional San Luis Gonzaga De Ica,7,TRUE
+Universidad Nacional Santiago Antunez De Mayolo,Universidad Nacional Santiago Antunez De Mayolo,3,TRUE
+Universidad Nacional Tecnologica De Lima Sur,Universidad Nacional Tecnologica De Lima Sur,9,TRUE
+Universidad Nacional Tecnologica De Lima Sur (U...,Universidad Nacional Tecnologica De Lima Sur,1,FALSE
 Universidad Nacional Tecnologica Del Cono Sur De Lima (Untecs),Universidad Nacional Tecnologica De Lima Sur,1,FALSE
-Universidad Norbert Wiener,Universidad Norbert Wiener,22,TRUE
+Universidad Norbert Wiener,Universidad Norbert Wiener,23,TRUE
 Universidad Nororiental Gran Mariscal De Ayacucho,Universidad Nororiental Gran Mariscal De Ayacucho,1,TRUE
 Universidad Nueva Esparta,Universidad Nueva Esparta,1,TRUE
 Universidad Particular Cesar Vallejo,Universidad Cesar Vallejo,2,FALSE
@@ -1319,43 +1344,44 @@ Universidad Particular De Chiclayo,Universidad Particular De Chiclayo,1,TRUE
 Universidad Particular Ricardo Palma,Universidad Ricardo Palma,4,FALSE
 Universidad Pedro Ruiz Gallo - Lambayeque,Universidad Nacional Pedro Ruiz Gallo,1,FALSE
 Universidad Peruana Cayetano Heredia,Universidad Peruana Cayetano Heredia,18,TRUE
-Universidad Peruana De Ciencias Aplicadas,Universidad Peruana De Ciencias Aplicadas,569,TRUE
+Universidad Peruana De Ciencias Aplicadas,Universidad Peruana De Ciencias Aplicadas,585,TRUE
 Universidad Peruana De Ciencias Aplicadas - Upc,Universidad Peruana De Ciencias Aplicadas,2,FALSE
 Universidad Peruana De Ciencias Aplicadas (Upc),Universidad Peruana De Ciencias Aplicadas,4,FALSE
 Universidad Peruana De Ciencias Aplicadas Upc,Universidad Peruana De Ciencias Aplicadas,1,FALSE
-Universidad Peruana De Ciencias E Informatica,Universidad Peruana De Ciencias E Informatica,11,TRUE
+Universidad Peruana De Ciencias E Informatica,Universidad Peruana De Ciencias E Informatica,12,TRUE
 Universidad Peruana De Ciencias Informatica,Universidad Peruana De Ciencias E Informatica,1,FALSE
 Universidad Peruana De Integracion Global,Universidad Peruana De Integracion Global,2,TRUE
 Universidad Peruana De Investigacion Y Negocios,Universidad Peruana De Investigacion Y Negocios,6,TRUE
-Universidad Peruana De Las Americas,Universidad Peruana De Las Americas,35,TRUE
-Universidad Peruana Del Norte,Universidad Peruana Del Norte,2,TRUE
+Universidad Peruana De Las Americas,Universidad Peruana De Las Americas,36,TRUE
+Universidad Peruana Del Norte,Universidad Peruana Del Norte,3,TRUE
 Universidad Peruana Del Oriente,Universidad Peruana Del Oriente,5,TRUE
 Universidad Peruana Los Andes - Upla,Universidad Peruana Los Andes - Upla,20,TRUE
 Universidad Peruana Simon Bolibar,Universidad Peruana Simon Bolivar,1,FALSE
 Universidad Peruana Simon Bolivar,Universidad Peruana Simon Bolivar,1,TRUE
 Universidad Peruana Union,Universidad Peruana Union,11,TRUE
 Universidad Peruana Union - Upeu,Universidad Peruana Union - Upeu,4,TRUE
-Universidad Politecnica De Cataluna,Universidad Politecnica De Cataluna,8,TRUE
+Universidad Politecnica De Cataluna,Universidad Politecnica De Cataluna,9,TRUE
 Universidad Politecnica De Catalunya - Espana,Universidad Politecnica De Catalunya - Espana,1,TRUE
 Universidad Politecnica De Madrid,Universidad Politecnica De Madrid,4,TRUE
 Universidad Politecnica De Valencia,Universidad Politecnica De Valencia,4,TRUE
 Universidad Pontificia Bolivariana,Universidad Pontificia Bolivariana,2,TRUE
 Universidad Pontificia Comillas (Icai-Icade),Universidad Pontificia Comillas (Icai-Icade),1,TRUE
-Universidad Privada Ada A. Byron,Universidad Privada Ada A. Byron,5,TRUE
+Universidad Privada Ada A. Byron,Universidad Privada Ada A. Byron,6,TRUE
 Universidad Privada Alejandro De Humboldt,Universidad Privada Alejandro De Humboldt,1,TRUE
 Universidad Privada Antenor Orrego,Universidad Privada Antenor Orrego,5,TRUE
-Universidad Privada Antenor Orrego - Trujillo,Universidad Privada Antenor Orrego,34,FALSE
+Universidad Privada Antenor Orrego - Trujillo,Universidad Privada Antenor Orrego,36,FALSE
 Universidad Privada Antenor Orrego - Upao,Universidad Privada Antenor Orrego,1,FALSE
 Universidad Privada Antonio Guillermo Urrelo,Universidad Privada Antonio Guillermo Urrelo,1,TRUE
 Universidad Privada Autonoma Del Peru,Universidad Autonoma Del Peru,1,FALSE
 Universidad Privada Cesar Vallejo,Universidad Cesar Vallejo,2,FALSE
+Universidad Privada Cesar Vallejo - Trujillo,Universidad Cesar Vallejo,4,FALSE
 Universidad Privada De Cienascias Aplicadas,Universidad Peruana De Ciencias Aplicadas,15,FALSE
 Universidad Privada De Ciencias Aplicadas,Universidad Peruana De Ciencias Aplicadas,2,FALSE
 Universidad Privada De Margarita,Universidad Privada De Margarita,1,TRUE
 Universidad Privada De Piura,Universidad De Piura,35,FALSE
 Universidad Privada De Pucallpa,Universidad Privada De Pucallpa,1,TRUE
-Universidad Privada De Tacna,Universidad Privada De Tacna,7,TRUE
-Universidad Privada Del Norte,Universidad Privada Del Norte,293,TRUE
+Universidad Privada De Tacna,Universidad Privada De Tacna,8,TRUE
+Universidad Privada Del Norte,Universidad Privada Del Norte,304,TRUE
 Universidad Privada Del Norte - Upn,Universidad Privada Del Norte,2,FALSE
 Universidad Privada Dr. Rafael Belloso Chacin,Universidad Privada Dr. Rafael Belloso Chacin,1,TRUE
 Universidad Privada Franz Tamayo,Universidad Privada Franz Tamayo,1,TRUE
@@ -1366,22 +1392,22 @@ Universidad Privada Nolbert Wiener,Universidad Norbert Wiener,1,FALSE
 Universidad Privada Norbert Wiener,Universidad Norbert Wiener,2,FALSE
 Universidad Privada Peruano Alemana,Universidad Privada Peruano Alemana,1,TRUE
 Universidad Privada San Ignacio De Loyola,Universidad San Ignacio Del Loyola,1,FALSE
-Universidad Privada San Juan Bautista,Universidad Privada San Juan Bautista,55,TRUE
+Universidad Privada San Juan Bautista,Universidad Privada San Juan Bautista,56,TRUE
 Universidad Privada San Juan Bautista - Upsjb,Universidad Privada San Juan Bautista,1,FALSE
 Universidad Privada San Pedro,Universidad Privada San Pedro,10,TRUE
 Universidad Privada Sergio Bernales,Universidad Privada Sergio Bernales,1,TRUE
-Universidad Privada Telesup,Universidad Privada Telesup,34,TRUE
+Universidad Privada Telesup,Universidad Privada Telesup,36,TRUE
 Universidad Prosegur,Universidad Prosegur,1,TRUE
 Universidad Rafael Belloso Chacin,Universidad Rafael Belloso Chacin,2,TRUE
 "Universidad Ramon Llul La Salle - Espana, Barcelona",Universidad La Salle De Barcelona,1,FALSE
 "Universidad Ramon Llull - La Salle, Barcelona",Universidad La Salle De Barcelona,1,FALSE
 Universidad Rey Juan Carlos,Universidad Rey Juan Carlos,8,TRUE
 Universidad Rey Juan Carlos - Iebs,Universidad Rey Juan Carlos,1,FALSE
-Universidad Ricardo Palma,Universidad Ricardo Palma,180,TRUE
+Universidad Ricardo Palma,Universidad Ricardo Palma,191,TRUE
 Universidad Ricardo Palma - Urp,Universidad Ricardo Palma,1,FALSE
-Universidad San Ignacio De Loyola,Universidad San Ignacio Del Loyola,137,FALSE
-Universidad San Ignacio De Loyola - Usil,Universidad San Ignacio Del Loyola,5,FALSE
-Universidad San Ignacio Del Loyola,Universidad San Ignacio Del Loyola,106,TRUE
+Universidad San Ignacio De Loyola,Universidad San Ignacio Del Loyola,141,FALSE
+Universidad San Ignacio De Loyola - Usil,Universidad San Ignacio Del Loyola,6,FALSE
+Universidad San Ignacio Del Loyola,Universidad San Ignacio Del Loyola,110,TRUE
 Universidad San Juan Bautista,Universidad San Juan Bautista,1,TRUE
 Universidad San Luis Gonzaga De Ica,Universidad Nacional San Luis Gonzaga De Ica,1,FALSE
 Universidad San Marcos,Universidad Nacional Mayor De San Marcos,1,FALSE
@@ -1391,18 +1417,18 @@ Universidad San Pedro,Universidad San Pedro,4,TRUE
 Universidad San Pedro De Chimbote,Universidad San Pedro,1,FALSE
 Universidad Santa Maria,Universidad Santa Maria,4,TRUE
 Universidad Santo Domingo De Guzman,Universidad Santo Domingo De Guzman,2,TRUE
-Universidad Senor De Sipan,Universidad Senor De Sipan,22,TRUE
+Universidad Senor De Sipan,Universidad Senor De Sipan,24,TRUE
 Universidad Simon Bolivar,Universidad Peruana Simon Bolivar,2,FALSE
 Universidad Tecnologica De La Habana,Universidad Tecnologica De La Habana,1,TRUE
 Universidad Tecnologica De Lima Sur,Universidad Nacional Tecnologica De Lima Sur,1,FALSE
 Universidad Tecnologica De Los Andes,Universidad Tecnologica De Los Andes,4,TRUE
 Universidad Tecnologica De Puerto Cabello,Universidad Tecnologica De Puerto Cabello,1,TRUE
-Universidad Tecnologica Del Peru,Universidad Tecnologica Del Peru,348,TRUE
-Universidad Tecnologica Del Peru - Utp,Universidad Tecnologica Del Peru,1,FALSE
-Universidad Tecnologica Del Peru Utp,Universidad Tecnologica Del Peru,2,FALSE
+Universidad Tecnologica Del Peru,Universidad Tecnologica Del Peru,363,TRUE
+Universidad Tecnologica Del Peru - Utp,Universidad Tecnologica Del Peru,2,FALSE
+Universidad Tecnologica Del Peru Utp,Universidad Tecnologica Del Peru,3,FALSE
 Universidad Tecnologica Del Peru(Utp),Universidad Tecnologica Del Peru,2,FALSE
 Universidad Tecnologica Latinoamericana,Universidad Tecnologica Latinoamericana,1,TRUE
-Universidad Tecnologica Nacional,Universidad Tecnologica Nacional,2,TRUE
+Universidad Tecnologica Nacional,Universidad Tecnologica Nacional,3,TRUE
 Universidad Tecnologico Del Centro,Universidad Tecnologico Del Centro,1,TRUE
 Universidad Tegnologica Del Peru,Universidad Tecnologica Del Peru,1,FALSE
 Universidad Telesup,Universidad Privada Telesup,2,FALSE
@@ -1414,10 +1440,11 @@ Universidade Federal Do Rio Grande Do Sul,Universidade Federal Do Rio Grande Do 
 Universidade Federal Do Rio Grande Do Sul - Ufrgs,Universidade Federal Do Rio Grande Do Sul - Ufrgs,2,TRUE
 Universita Degli Studi Di Cassino,Universita Degli Studi Di Cassino,1,TRUE
 Universitat Augsburg,Universitat Augsburg,1,TRUE
+Universitat Autonoma De Barcelona,Universitat Autonoma De Barcelona,2,TRUE
 Universitat De Barcelona,Universitat De Barcelona,3,TRUE
 Universitat Obierta De Cataluniya,Universitat Obierta De Cataluniya,1,TRUE
 Universitat Politecnica De Valencia,Universitat Politecnica De Valencia,1,TRUE
-Universitat Ramon Llull,Universitat Ramon Llull,3,TRUE
+Universitat Ramon Llull,Universitat Ramon Llull,4,TRUE
 Universite Catholique De Lyon,Universite Catholique De Lyon,1,TRUE
 Universite Du Quebec A Montreal,Universite Du Quebec A Montreal,4,TRUE
 University,University,1,TRUE
@@ -1437,7 +1464,7 @@ University Of Virginia Darden School Of Business,University Of Virginia Darden S
 Univesidad Jose Faustino Sanchez Carrion,Universidad Nacional Jose Faustino Sanchez Carrion,1,FALSE
 Univesidad Privada Cesar Vallejo,Universidad Cesar Vallejo,2,FALSE
 Univesidad San Ignacio De Loyola,Universidad San Ignacio Del Loyola,1,FALSE
-Unjfsc,Universidad Nacional Jose Faustino Sanchez Carrion,16,FALSE
+Unjfsc,Universidad Nacional Jose Faustino Sanchez Carrion,18,FALSE
 Unmsm,Universidad Nacional Mayor De San Marcos,12,FALSE
 Unp,Universidad Nacional De Piura,2,FALSE
 Unprg,Universidad Nacional Pedro Ruiz Gallo,1,FALSE
@@ -1446,9 +1473,9 @@ Untecs,Universidad Nacional Tecnologica De Lima Sur,10,FALSE
 Untels,Universidad Nacional Tecnologica De Lima Sur,6,FALSE
 Upal,Universidad Privada Peruano Alemana,1,FALSE
 Upao,Universidad Privada Antenor Orrego,4,FALSE
-Upc,Universidad Peruana De Ciencias Aplicadas,295,FALSE
+Upc,Universidad Peruana De Ciencias Aplicadas,300,FALSE
 Upc - Epe,Universidad Peruana De Ciencias Aplicadas,1,FALSE
-Upc - Universidad Peruana De Ciencias Aplicadas,Universidad Peruana De Ciencias Aplicadas,10,FALSE
+Upc - Universidad Peruana De Ciencias Aplicadas,Universidad Peruana De Ciencias Aplicadas,11,FALSE
 Upci,Universidad Peruana De Ciencias E Informatica,4,FALSE
 Upn,Universidad Privada Del Norte,5,FALSE
 Upt Aragua,Upta Federico Brito Figueroa,1,FALSE
@@ -1457,7 +1484,7 @@ Upta Federico Brito Figueroa,Upta Federico Brito Figueroa,4,TRUE
 Urjc,Universidad Rey Juan Carlos,4,FALSE
 Urp,Universidad Ricardo Palma,1,FALSE
 Usat,Universidad Catolica Santo Toribio De Mogrovejo,2,FALSE
-Usil,Universidad San Ignacio Del Loyola,68,FALSE
+Usil,Universidad San Ignacio Del Loyola,69,FALSE
 Usil - Cpel,Universidad San Ignacio Del Loyola,1,FALSE
 Usil - Modalidad Cpel,Universidad San Ignacio Del Loyola,1,FALSE
 Usil - Universidad San Ignacio De Loyola,Universidad San Ignacio Del Loyola,1,FALSE
@@ -1466,7 +1493,7 @@ Usmp,Universidad De San Martin De Porres,2,FALSE
 Utah State University,Utah State University,1,TRUE
 Utec,Universidad De Ingenieria Y Tecnologia - Utec,2,FALSE
 Utel,Utel,7,TRUE
-Utp,Universidad Tecnologica Del Peru,159,FALSE
+Utp,Universidad Tecnologica Del Peru,168,FALSE
 Uvm - Universidad Del Valle De Mexico,Uvm - Universidad Del Valle De Mexico,1,TRUE
 Valfrat It,Valfrat It,1,TRUE
 Valores Formacion Y Psicoterapia Contextual,Valores Formacion Y Psicoterapia Contextual,1,TRUE
