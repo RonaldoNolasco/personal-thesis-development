@@ -1,0 +1,74 @@
+[
+    {
+        "algoritmo": "DT",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 14923,
+        "registrosPrueba": 4975,
+        "tiempoEjecucion": "485ms",
+        "matrizConfusion": "[[2309, 164], [0, 2502]]",
+        "exactitud": "96.70%",
+        "precision": "93.85%",
+        "sensibilidad": "100.00%",
+        "valorF": "96.83%"
+    },
+    {
+        "algoritmo": "GB",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 14923,
+        "registrosPrueba": 4975,
+        "tiempoEjecucion": "7881ms",
+        "matrizConfusion": "[[1961, 512], [806, 1696]]",
+        "exactitud": "73.51%",
+        "precision": "76.81%",
+        "sensibilidad": "67.79%",
+        "valorF": "72.02%"
+    },
+    {
+        "algoritmo": "GNB",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 14923,
+        "registrosPrueba": 4975,
+        "tiempoEjecucion": "161ms",
+        "matrizConfusion": "[[2370, 103], [1408, 1094]]",
+        "exactitud": "69.63%",
+        "precision": "91.40%",
+        "sensibilidad": "43.73%",
+        "valorF": "59.15%"
+    },
+    {
+        "algoritmo": "KNN",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 14923,
+        "registrosPrueba": 4975,
+        "tiempoEjecucion": "533ms",
+        "matrizConfusion": "[[2240, 233], [0, 2502]]",
+        "exactitud": "95.32%",
+        "precision": "91.48%",
+        "sensibilidad": "100.00%",
+        "valorF": "95.55%"
+    },
+    {
+        "algoritmo": "LR",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 14923,
+        "registrosPrueba": 4975,
+        "tiempoEjecucion": "562ms",
+        "matrizConfusion": "[[2007, 466], [523, 1979]]",
+        "exactitud": "80.12%",
+        "precision": "80.94%",
+        "sensibilidad": "79.10%",
+        "valorF": "80.01%"
+    },
+    {
+        "algoritmo": "RF",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 14923,
+        "registrosPrueba": 4975,
+        "tiempoEjecucion": "3744ms",
+        "matrizConfusion": "[[2473, 0], [0, 2502]]",
+        "exactitud": "100.00%",
+        "precision": "100.00%",
+        "sensibilidad": "100.00%",
+        "valorF": "100.00%"
+    }
+]
