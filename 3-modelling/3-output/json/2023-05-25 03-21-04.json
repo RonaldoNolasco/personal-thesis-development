@@ -1,0 +1,93 @@
+[
+    {
+        "algoritmo": "DT",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 11470,
+        "registrosPrueba": 3824,
+        "proporcionSobremuestreo": 1,
+        "tiempoEjecucion": "524ms",
+        "matrizConfusion": "[[1793, 110], [236, 1685]]",
+        "exactitud": "90.95%",
+        "precision": "90.95%",
+        "sensibilidad": "90.95%",
+        "valorF": "90.95%"
+    },
+    {
+        "algoritmo": "GB",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 11470,
+        "registrosPrueba": 3824,
+        "proporcionSobremuestreo": 1,
+        "tiempoEjecucion": "5069ms",
+        "matrizConfusion": "[[1223, 680], [756, 1165]]",
+        "exactitud": "62.45%",
+        "precision": "62.45%",
+        "sensibilidad": "62.45%",
+        "valorF": "62.45%"
+    },
+    {
+        "algoritmo": "GNB",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 11470,
+        "registrosPrueba": 3824,
+        "proporcionSobremuestreo": 1,
+        "tiempoEjecucion": "89ms",
+        "matrizConfusion": "[[636, 1267], [320, 1601]]",
+        "exactitud": "58.50%",
+        "precision": "58.50%",
+        "sensibilidad": "58.50%",
+        "valorF": "58.50%"
+    },
+    {
+        "algoritmo": "KNN",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 11470,
+        "registrosPrueba": 3824,
+        "proporcionSobremuestreo": 1,
+        "tiempoEjecucion": "272ms",
+        "matrizConfusion": "[[1533, 370], [528, 1393]]",
+        "exactitud": "76.52%",
+        "precision": "76.52%",
+        "sensibilidad": "76.52%",
+        "valorF": "76.52%"
+    },
+    {
+        "algoritmo": "LR",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 11470,
+        "registrosPrueba": 3824,
+        "proporcionSobremuestreo": 1,
+        "tiempoEjecucion": "427ms",
+        "matrizConfusion": "[[1194, 709], [700, 1221]]",
+        "exactitud": "63.15%",
+        "precision": "63.15%",
+        "sensibilidad": "63.15%",
+        "valorF": "63.15%"
+    },
+    {
+        "algoritmo": "RF",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 11470,
+        "registrosPrueba": 3824,
+        "proporcionSobremuestreo": 1,
+        "tiempoEjecucion": "3446ms",
+        "matrizConfusion": "[[1758, 145], [129, 1792]]",
+        "exactitud": "92.83%",
+        "precision": "92.83%",
+        "sensibilidad": "92.83%",
+        "valorF": "92.83%"
+    },
+    {
+        "algoritmo": "SVM",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 11470,
+        "registrosPrueba": 3824,
+        "proporcionSobremuestreo": 1,
+        "tiempoEjecucion": "33090ms",
+        "matrizConfusion": "[[1461, 442], [461, 1460]]",
+        "exactitud": "76.39%",
+        "precision": "76.39%",
+        "sensibilidad": "76.39%",
+        "valorF": "76.39%"
+    }
+]
