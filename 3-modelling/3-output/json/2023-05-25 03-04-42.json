@@ -1,0 +1,93 @@
+[
+    {
+        "algoritmo": "DT",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 15056,
+        "registrosPrueba": 5019,
+        "proporcionSobremuestreo": 1,
+        "tiempoEjecucion": "942ms",
+        "matrizConfusion": "[[833, 83, 66, 25, 21], [92, 748, 87, 41, 31], [60, 62, 843, 19, 22], [7, 16, 1, 951, 0], [0, 2, 0, 0, 1009]]",
+        "exactitud": "87.35%",
+        "precision": "87.35%",
+        "sensibilidad": "87.35%",
+        "valorF": "87.35%"
+    },
+    {
+        "algoritmo": "GB",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 15056,
+        "registrosPrueba": 5019,
+        "proporcionSobremuestreo": 1,
+        "tiempoEjecucion": "34905ms",
+        "matrizConfusion": "[[471, 163, 193, 123, 78], [182, 397, 175, 158, 87], [186, 171, 435, 132, 82], [114, 150, 122, 518, 71], [154, 129, 133, 101, 494]]",
+        "exactitud": "46.12%",
+        "precision": "46.12%",
+        "sensibilidad": "46.12%",
+        "valorF": "46.12%"
+    },
+    {
+        "algoritmo": "GNB",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 15056,
+        "registrosPrueba": 5019,
+        "proporcionSobremuestreo": 1,
+        "tiempoEjecucion": "207ms",
+        "matrizConfusion": "[[114, 4, 36, 253, 621], [39, 47, 49, 256, 608], [42, 6, 107, 215, 636], [19, 3, 17, 416, 520], [14, 1, 12, 83, 901]]",
+        "exactitud": "31.58%",
+        "precision": "31.58%",
+        "sensibilidad": "31.58%",
+        "valorF": "31.58%"
+    },
+    {
+        "algoritmo": "KNN",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 15056,
+        "registrosPrueba": 5019,
+        "proporcionSobremuestreo": 1,
+        "tiempoEjecucion": "430ms",
+        "matrizConfusion": "[[599, 150, 129, 83, 67], [204, 507, 148, 72, 68], [172, 141, 565, 53, 75], [64, 48, 53, 795, 15], [9, 14, 13, 25, 950]]",
+        "exactitud": "68.06%",
+        "precision": "68.06%",
+        "sensibilidad": "68.06%",
+        "valorF": "68.06%"
+    },
+    {
+        "algoritmo": "LR",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 15056,
+        "registrosPrueba": 5019,
+        "proporcionSobremuestreo": 1,
+        "tiempoEjecucion": "746ms",
+        "matrizConfusion": "[[392, 153, 200, 159, 124], [181, 304, 194, 172, 148], [177, 152, 380, 142, 155], [149, 130, 126, 466, 104], [111, 107, 104, 95, 594]]",
+        "exactitud": "42.56%",
+        "precision": "42.56%",
+        "sensibilidad": "42.56%",
+        "valorF": "42.56%"
+    },
+    {
+        "algoritmo": "RF",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 15056,
+        "registrosPrueba": 5019,
+        "proporcionSobremuestreo": 1,
+        "tiempoEjecucion": "4883ms",
+        "matrizConfusion": "[[861, 112, 45, 7, 3], [106, 811, 71, 8, 3], [63, 69, 868, 6, 0], [5, 9, 3, 958, 0], [0, 2, 0, 0, 1009]]",
+        "exactitud": "89.80%",
+        "precision": "89.80%",
+        "sensibilidad": "89.80%",
+        "valorF": "89.80%"
+    },
+    {
+        "algoritmo": "SVM",
+        "tipo": "Total de datos",
+        "registrosEntrenamiento": 15056,
+        "registrosPrueba": 5019,
+        "proporcionSobremuestreo": 1,
+        "tiempoEjecucion": "72199ms",
+        "matrizConfusion": "[[643, 142, 145, 53, 45], [187, 528, 143, 77, 64], [149, 130, 617, 57, 53], [86, 60, 78, 726, 25], [50, 42, 41, 30, 848]]",
+        "exactitud": "66.99%",
+        "precision": "66.99%",
+        "sensibilidad": "66.99%",
+        "valorF": "66.99%"
+    }
+]
