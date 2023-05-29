@@ -1,0 +1,8 @@
+algoritmo,tipo,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,tiempoEjecucion,matrizConfusion,exactitud,precision,sensibilidad,valorF
+DT,Total de datos,3027,1009,0.2,41ms,"[[419, 90], [17, 483]]",89.40%,89.40%,89.40%,89.40%
+GB,Total de datos,3027,1009,0.2,756ms,"[[389, 120], [152, 348]]",73.04%,73.04%,73.04%,73.04%
+GNB,Total de datos,3027,1009,0.2,11ms,"[[493, 16], [388, 112]]",59.96%,59.96%,59.96%,59.96%
+KNN,Total de datos,3027,1009,0.2,42ms,"[[362, 147], [78, 422]]",77.70%,77.70%,77.70%,77.70%
+LR,Total de datos,3027,1009,0.2,31ms,"[[357, 152], [156, 344]]",69.47%,69.47%,69.47%,69.47%
+RF,Total de datos,3027,1009,0.2,473ms,"[[501, 8], [23, 477]]",96.93%,96.93%,96.93%,96.93%
+SVM,Total de datos,3027,1009,0.2,666ms,"[[411, 98], [126, 374]]",77.80%,77.80%,77.80%,77.80%
