@@ -34,7 +34,7 @@ Administrador,Administrador,22,TRUE
 Administrador - Gerente Comercial,Administrador,1,FALSE
 Administrador Azure,Administrador Azure,3,TRUE
 Administrador Comercial,Administrador Comercial,1,TRUE
-Administrador Comercial Sap,Administrador Comercial Sap,1,TRUE
+Administrador Comercial Sap,Administrador Comercial,1,FALSE
 Administrador De Accesos,Administrador De Accesos,1,TRUE
 Administrador De Base De Datos,Administrador De Base De Datos,12,TRUE
 Administrador De Base De Datos (Dba),Administrador De Base De Datos,2,FALSE
@@ -45,24 +45,24 @@ Administrador De Base De Datos Sql Server,Administrador De Base De Datos,1,FALSE
 Administrador De Bases De Datos,Administrador De Base De Datos,1,FALSE
 Administrador De Data Center,Administrador De Data Center,1,TRUE
 Administrador De Infraestructura,Administrador De Infraestructura,1,TRUE
-Administrador De Infraestructura - Microsoft,Administrador De Infraestructura - Microsoft,1,TRUE
+Administrador De Infraestructura - Microsoft,Administrador De Infraestructura,1,FALSE
 Administrador De Infraestructura Ti,Administrador De Infraestructura,5,FALSE
-Administrador De Infraestructura Y Operacion,Administrador De Infraestructura Y Operacion,1,TRUE
+Administrador De Infraestructura Y Operacion,Administrador De Infraestructura,1,FALSE
 Administrador De Infraestructura Y Sistemas,Administrador De Infraestructura,3,FALSE
 Administrador De La Plataforma De Respaldo,Administrador De La Plataforma De Respaldo,1,TRUE
 Administrador De Las Tecnologias De La Informacion,Administrador De Las Tecnologias De La Informacion,2,TRUE
 Administrador De Obra,Administrador De Obra,1,TRUE
 Administrador De Personal (Rrhh),Administrador De Personal (Rrhh),1,TRUE
 Administrador De Plataforma,Administrador De Plataforma,1,TRUE
-Administrador De Plataforma Lms,Administrador De Plataforma Lms,1,TRUE
-Administrador De Plataforma Windows,Administrador De Plataforma Windows,1,TRUE
-Administrador De Plataformas De Aprendizaje,Administrador De Plataformas De Aprendizaje,1,TRUE
+Administrador De Plataforma Lms,Administrador De Plataforma,1,FALSE
+Administrador De Plataforma Windows,Administrador De Plataforma,1,FALSE
+Administrador De Plataformas De Aprendizaje,Administrador De Plataforma,1,FALSE
 Administrador De Proyecto,Administrador De Proyecto,1,TRUE
 Administrador De Recursos Humanos,Administrador De Recursos Humanos,2,TRUE
 Administrador De Red,Administrador De Redes,4,FALSE
 Administrador De Redes,Administrador De Redes,5,TRUE
 Administrador De Redes E Infraestructura,Administrador De Redes,1,FALSE
-Administrador De Redes Y Base De Datos,Administrador De Redes Y Base De Datos,1,TRUE
+Administrador De Redes Y Base De Datos,Administrador De Redes,1,FALSE
 Administrador De Redes Y Comunicaciones,Administrador De Redes,1,FALSE
 Administrador De Redes Y Sistemas,Administrador De Redes,1,FALSE
 Administrador De Redes Y Telecomunicaciones,Administrador De Redes,1,FALSE
@@ -70,7 +70,7 @@ Administrador De Servicios Ti,Administrador De Servicios Ti,2,TRUE
 Administrador De Servidores,Administrador De Servidores,2,TRUE
 Administrador De Servidores Series X (Windows),Administrador De Servidores,1,FALSE
 Administrador De Servidores Virtuales Vmware,Administrador De Servidores,1,FALSE
-Administrador De Servidores Y Aplicaciones,Administrador De Servidores Y Aplicaciones,1,TRUE
+Administrador De Servidores Y Aplicaciones,Administrador De Servidores,1,FALSE
 Administrador De Servidores Y Comunicaciones,Administrador De Servidores,1,FALSE
 Administrador De Sistemas,Administrador De Sistemas,14,TRUE
 Administrador De Sistemas Cloud,Administrador De Sistemas,1,FALSE
@@ -213,8 +213,8 @@ Analista De Atencion Al Cliente,Analista De Atencion Al Cliente,1,TRUE
 Analista De Atencion Y Servicio Al Estudiante,Analista De Atencion Y Servicio Al Estudiante,1,TRUE
 Analista De Automatizacion,Analista De Automatizacion,1,TRUE
 Analista De Back Office,Analista De Back Office,1,TRUE
-Analista De Backoffice,Analista De Backoffice,1,TRUE
-Analista De Base Datos,Analista De Base Datos,1,TRUE
+Analista De Backoffice,Analista De Back Office,1,FALSE
+Analista De Base Datos,Analista De Base De Datos,1,FALSE
 Analista De Base De Datos,Analista De Base De Datos,16,TRUE
 Analista De Base De Datos -Bi,Analista De Base De Datos,1,FALSE
 Analista De Base De Datos E Inteligencia Negocios,Analista De Base De Datos,1,FALSE
@@ -315,12 +315,12 @@ Analista De Incidencias,Analista De Incidencias,1,TRUE
 Analista De Informacion,Analista De Informacion,4,TRUE
 Analista De Informacion Del Sist. Claridad,Analista De Informacion Del Sist. Claridad,1,TRUE
 Analista De Infraestructura,Analista De Infraestructura,1,TRUE
-Analista De Infraestructura Tecnologica,Analista De Infraestructura Tecnologica,2,TRUE
-Analista De Infraestructura Ti,Analista De Infraestructura Ti,8,TRUE
-Analista De Infraestructura Ti Regional,Analista De Infraestructura Ti Regional,1,TRUE
-Analista De Infraestrucura,Analista De Infraestrucura,1,TRUE
-Analista De Infrastructura,Analista De Infrastructura,1,TRUE
-Analista De Infrastructura Y Servicios De Ti,Analista De Infrastructura Y Servicios De Ti,3,TRUE
+Analista De Infraestructura Tecnologica,Analista De Infraestructura,2,FALSE
+Analista De Infraestructura Ti,Analista De Infraestructura,8,FALSE
+Analista De Infraestructura Ti Regional,Analista De Infraestructura,1,FALSE
+Analista De Infraestrucura,Analista De Infraestructura,1,FALSE
+Analista De Infrastructura,Analista De Infraestructura,1,FALSE
+Analista De Infrastructura Y Servicios De Ti,Analista De Infraestructura,3,FALSE
 Analista De Ingenieria,Analista De Ingenieria,2,TRUE
 Analista De Instalaciones Inalambricos,Analista De Instalaciones Inalambricos,1,TRUE
 Analista De Instrumentaciob Y Control,Analista De Instrumentaciob Y Control,1,TRUE
@@ -329,7 +329,7 @@ Analista De Integracion,Analista De Integracion,3,TRUE
 Analista De Integracion Y Desarrollador Java,Analista De Integracion Y Desarrollador Java,2,TRUE
 Analista De Integraciones Jr,Analista De Integraciones Jr,1,TRUE
 Analista De Inteligencia Comercial,Analista De Inteligencia Comercial,5,TRUE
-Analista De Inteligencia Comercial Y Gd,Analista De Inteligencia Comercial Y Gd,1,TRUE
+Analista De Inteligencia Comercial Y Gd,Analista De Inteligencia Comercial,1,FALSE
 Analista De Inteligencia De Mercado,Analista De Inteligencia De Mercado,1,TRUE
 Analista De Inteligencia De Negocio,Analista De Inteligencia De Negocios,1,FALSE
 Analista De Inteligencia De Negocios,Analista De Inteligencia De Negocios,11,TRUE
@@ -357,21 +357,21 @@ Analista De Negocios,Analista De Negocios,3,TRUE
 Analista De Negocios Mype,Analista De Negocios Mype,1,TRUE
 Analista De Nominas Y Compensaciones,Analista De Nominas Y Compensaciones,1,TRUE
 Analista De Operaciones,Analista De Operaciones,7,TRUE
-Analista De Operaciones Bi,Analista De Operaciones Bi,2,TRUE
-Analista De Operaciones De Becas Universitarias,Analista De Operaciones De Becas Universitarias,1,TRUE
-Analista De Operaciones De Planta Externa,Analista De Operaciones De Planta Externa,1,TRUE
-Analista De Operaciones De Transmision,Analista De Operaciones De Transmision,1,TRUE
-Analista De Operaciones Digitales,Analista De Operaciones Digitales,1,TRUE
-Analista De Operaciones Ti,Analista De Operaciones Ti,1,TRUE
+Analista De Operaciones Bi,Analista De Operaciones,2,FALSE
+Analista De Operaciones De Becas Universitarias,Analista De Operaciones,1,FALSE
+Analista De Operaciones De Planta Externa,Analista De Operaciones,1,FALSE
+Analista De Operaciones De Transmision,Analista De Operaciones,1,FALSE
+Analista De Operaciones Digitales,Analista De Operaciones,1,FALSE
+Analista De Operaciones Ti,Analista De Operaciones,1,FALSE
 Analista De Organizacion Y Metodos,Analista De Organizacion Y Metodos,2,TRUE
 Analista De Paginas Web,Analista De Paginas Web,1,TRUE
 Analista De Personal,Analista De Personal,1,TRUE
 Analista De Planeamiento,Analista De Planeamiento,2,TRUE
-Analista De Planeamiento Y Control,Analista De Planeamiento Y Control,2,TRUE
-Analista De Planeamiento Y Operaciones,Analista De Planeamiento Y Operaciones,1,TRUE
-Analista De Planning,Analista De Planning,1,TRUE
+Analista De Planeamiento Y Control,Analista De Planeamiento,2,FALSE
+Analista De Planeamiento Y Operaciones,Analista De Planeamiento,1,FALSE
+Analista De Planning,Analista De Planeamiento,1,FALSE
 Analista De Pocesos Y Proyectos,Analista De Procesos,1,FALSE
-Analista De Procesamiento De Datos,Analista De Procesamiento De Datos,1,TRUE
+Analista De Procesamiento De Datos,Analista De Procesos,1,FALSE
 Analista De Proceso Y Proyectos,Analista De Procesos,1,FALSE
 Analista De Procesos,Analista De Procesos,33,TRUE
 Analista De Procesos De Datos,Analista De Procesos,2,FALSE
@@ -406,16 +406,16 @@ Analista De Proyectos Y Negocios Ti,Analista De Proyectos,1,FALSE
 Analista De Proyectos Y Procesos,Analista De Proyectos,1,FALSE
 "Analista De Proyectos, Operaciones Y Logistica",Analista De Proyectos,1,FALSE
 Analista De Proyectos.,Analista De Proyectos,1,FALSE
-Analista De Pruebas De Desarrollo De Software,Analista De Pruebas De Desarrollo De Software,3,TRUE
-Analista De Pruebas Funcionales,Analista De Pruebas Funcionales,2,TRUE
-Analista De Qa,Analista De Qa,5,TRUE
-Analista De Qa Y Despliegue,Analista De Qa Y Despliegue,1,TRUE
-Analista De Qa Y Soporte Especializado,Analista De Qa Y Soporte Especializado,1,TRUE
+Analista De Pruebas De Desarrollo De Software,Analista De Calidad,3,FALSE
+Analista De Pruebas Funcionales,Analista De Calidad,2,FALSE
+Analista De Qa,Analista De Calidad,5,FALSE
+Analista De Qa Y Despliegue,Analista De Calidad,1,FALSE
+Analista De Qa Y Soporte Especializado,Analista De Calidad,1,FALSE
 Analista De Reclamos Para El Bbva Continental,Analista De Reclamos Para El Bbva Continental,1,TRUE
 Analista De Reclamos Y Contracargos,Analista De Reclamos Y Contracargos,1,TRUE
 Analista De Reclutamiento Y Seleccion,Analista De Reclutamiento Y Seleccion,1,TRUE
 Analista De Recursos Humanos,Analista De Recursos Humanos,9,TRUE
-Analista De Recursos Humanos Y Compensaciones,Analista De Recursos Humanos Y Compensaciones,1,TRUE
+Analista De Recursos Humanos Y Compensaciones,Analista De Recursos Humanos,1,FALSE
 Analista De Recursos Y Servicios De Ti,Analista De Recursos Y Servicios De Ti,1,TRUE
 Analista De Redes E Infraestructura,Analista De Redes E Infraestructura,1,TRUE
 Analista De Redes Y Comunicaciones,Analista De Redes Y Comunicaciones,2,TRUE
@@ -425,11 +425,11 @@ Analista De Relaciones Humanas Y Sociales,Analista De Relaciones Humanas Y Socia
 Analista De Remuneraciones,Analista De Remuneraciones,1,TRUE
 Analista De Responsabilidad Social Y Cultura,Analista De Responsabilidad Social Y Cultura,1,TRUE
 Analista De Revistas Cientificas,Analista De Revistas Cientificas,1,TRUE
-Analista De Riesgo,Analista De Riesgo,2,TRUE
-Analista De Riesgo Operacional,Analista De Riesgo Operacional,1,TRUE
+Analista De Riesgo,Analista De Riesgos,2,FALSE
+Analista De Riesgo Operacional,Analista De Riesgos,1,FALSE
 Analista De Riesgos,Analista De Riesgos,1,TRUE
-Analista De Riesgos(Temporal),Analista De Riesgos(Temporal),1,TRUE
-Analista De Rrhh,Analista De Rrhh,1,TRUE
+Analista De Riesgos(Temporal),Analista De Riesgos,1,FALSE
+Analista De Rrhh,Analista De Recursos Humanos,1,FALSE
 Analista De Seguridad,Analista De Seguridad De La Informacion,1,FALSE
 Analista De Seguridad De Aplicaciones,Analista De Seguridad De La Informacion,1,FALSE
 Analista De Seguridad De Inf Y Procesos,Analista De Seguridad De La Informacion,1,FALSE
@@ -474,23 +474,23 @@ Analista De Sistemas Y Ux Designer Freelance,Analista De Sistemas,1,FALSE
 Analista De Sistemas/ Encargado De Laboratorio,Analista De Sistemas,1,FALSE
 Analista De Sistemas/Funcional,Analista De Sistemas,2,FALSE
 Analista De Software,Analista De Software,2,TRUE
-Analista De Solucion De Negocios,Analista De Solucion De Negocios,5,TRUE
+Analista De Solucion De Negocios,Analista De Soluciones,5,FALSE
 Analista De Soluciones,Analista De Soluciones,5,TRUE
-Analista De Soluciones De Negocio,Analista De Soluciones De Negocio,7,TRUE
-Analista De Soluciones De Negocio Y Scrum Master,Analista De Soluciones De Negocio Y Scrum Master,1,TRUE
+Analista De Soluciones De Negocio,Analista De Soluciones,7,FALSE
+Analista De Soluciones De Negocio Y Scrum Master,Analista De Soluciones,1,FALSE
 Analista De Soporte,Analista De Soporte,1,TRUE
 Analista De Soporte Aplicaciones,Analista De Soporte,1,FALSE
 Analista De Soporte De Aplicaciones,Analista De Soporte,5,FALSE
 Analista De Soporte De Operaciones,Analista De Soporte,2,FALSE
-Analista De Soporte E Infraestructura,Analista De Soporte E Infraestructura,2,TRUE
+Analista De Soporte E Infraestructura,Analista De Soporte,2,FALSE
 Analista De Soporte E Infraestructura Ti,Analista De Soporte,1,FALSE
 Analista De Soporte En Sitio Y Redes,Analista De Soporte,1,FALSE
 Analista De Soporte Funcional,Analista De Soporte,3,FALSE
 Analista De Soporte Informatico,Analista De Soporte,1,FALSE
-Analista De Soporte Microinformatico,Analista De Soporte Microinformatico,1,TRUE
+Analista De Soporte Microinformatico,Analista De Soporte,1,FALSE
 Analista De Soporte Primer Nivel,Analista De Soporte,1,FALSE
 Analista De Soporte Tecnico,Analista De Soporte,6,FALSE
-Analista De Soporte Tecnico - Stefanini S.A.C.,Analista De Soporte Tecnico - Stefanini S.A.C.,1,TRUE
+Analista De Soporte Tecnico - Stefanini S.A.C.,Analista De Soporte,1,FALSE
 Analista De Soporte Tecnico Y Redes,Analista De Soporte,1,FALSE
 Analista De Soporte Tecnologico,Analista De Soporte,2,FALSE
 Analista De Soporte Ti,Analista De Soporte,3,FALSE
@@ -504,12 +504,12 @@ Analista De T.I.,Analista De T.I.,4,TRUE
 Analista De Talento Humano,Analista De Talento Humano,1,TRUE
 Analista De Tarifa - Pricing,Analista De Tarifa - Pricing,1,TRUE
 Analista De Tecnologia De Informacion,Analista De Tecnologia De Informacion,1,TRUE
-Analista De Tecnologia De Informacion De Riesgos,Analista De Tecnologia De Informacion De Riesgos,1,TRUE
-Analista De Tecnologia De La Informacion,Analista De Tecnologia De La Informacion,2,TRUE
-Analista De Tecnologias De Informacion,Analista De Tecnologias De Informacion,4,TRUE
-Analista De Tesoreria,Analista De Tesoreria,2,TRUE
-Analista De Ti,Analista De Ti,21,TRUE
-Analista De Ti.,Analista De Ti,1,FALSE
+Analista De Tecnologia De Informacion De Riesgos,Analista De Tecnologia De Informacion,1,FALSE
+Analista De Tecnologia De La Informacion,Analista De Tecnologia De Informacion,2,FALSE
+Analista De Tecnologias De Informacion,Analista De Tecnologia De Informacion,4,FALSE
+Analista De Tesoreria,Analista De Tecnologia De Informacion,2,FALSE
+Analista De Ti,Analista De Tecnologia De Informacion,21,FALSE
+Analista De Ti.,Analista De Tecnologia De Informacion,1,FALSE
 Analista De Trabajo Social,Analista De Trabajo Social,1,TRUE
 Analista De Transformacion De Procesos,Analista De Transformacion De Procesos,1,TRUE
 Analista De Transformacion De Procesos Senior,Analista De Transformacion De Procesos Senior,1,TRUE
@@ -743,10 +743,10 @@ Analista Ssoma,Analista Ssoma,2,TRUE
 Analista Tecnico,Analista Tecnico,9,TRUE
 Analista Tecnico / Full Stack Developer,Analista Tecnico,1,FALSE
 Analista Tecnico De Proyectos,Analista Tecnico,1,FALSE
-Analista Tecnico De Sistemas,Analista Tecnico De Sistemas,7,TRUE
+Analista Tecnico De Sistemas,Analista Tecnico,7,FALSE
 Analista Tecnico Funcional Acsel/X,Analista Tecnico,4,FALSE
 Analista Tecnico Funcional Ellucian Mexico,Analista Tecnico,2,FALSE
-Analista Tecnico Funcional Senior,Analista Tecnico Funcional Senior,2,TRUE
+Analista Tecnico Funcional Senior,Analista Tecnico,2,FALSE
 Analista Tecnico Java,Analista Tecnico,4,FALSE
 Analista Tecnico Programador,Analista Tecnico,2,FALSE
 Analista Tecnico Senior,Analista Tecnico,3,FALSE
@@ -757,9 +757,9 @@ Analista Transformacion Y Experiencia Del Cliente,Analista Transformacion Y Expe
 Analista Web,Analista Web,1,TRUE
 Analista Y Coordinadora Online De Almacen,Analista Y Coordinadora Online De Almacen,1,TRUE
 Analista Y Desarrollador,Analista Y Desarrollador,1,TRUE
-Analista Y Desarrollador [Senior],Analista Y Desarrollador [Senior],4,TRUE
-Analista Y Desarrollador De Sistemas,Analista Y Desarrollador De Sistemas,8,TRUE
-Analista Y Desarrollo De Software,Analista Y Desarrollo De Software,1,TRUE
+Analista Y Desarrollador [Senior],Analista Y Desarrollador,4,FALSE
+Analista Y Desarrollador De Sistemas,Analista Y Desarrollador,8,FALSE
+Analista Y Desarrollo De Software,Analista Y Desarrollador,1,FALSE
 Analista Y Programador Externo,Analista Y Programador Externo,1,TRUE
 "Analista, Programador, Coordinador","Analista, Programador, Coordinador",1,TRUE
 Analista/Programador,Analista/Programador,1,TRUE
@@ -818,7 +818,7 @@ Arquitecto De Datos,Arquitecto De Datos,10,TRUE
 Arquitecto De Sistemas,Arquitecto De Sistemas,2,TRUE
 Arquitecto De Sistemas Senior,Arquitecto De Sistemas,1,FALSE
 Arquitecto De Software,Arquitecto De Software,4,TRUE
-Arquitecto De Software Ti,Arquitecto De Software Ti,1,TRUE
+Arquitecto De Software Ti,Arquitecto De Software,1,FALSE
 Arquitecto De Solucion,Arquitecto De Soluciones,1,FALSE
 Arquitecto De Soluciones,Arquitecto De Soluciones,6,TRUE
 Arquitecto De Soluciones Azure,Arquitecto De Soluciones,2,FALSE
@@ -928,10 +928,10 @@ Asesor Y Supervisor De Servicios,Asesor Y Supervisor De Servicios,1,TRUE
 Asesora,Asesora,3,TRUE
 Asesora Call Center Business Movistar Peru,Asesora Call Center Business Movistar Peru,1,TRUE
 Asesora Comercial,Asesora Comercial,6,TRUE
-Asesora Comercial- Academico,Asesora Comercial- Academico,1,TRUE
-Asesora Comercial Corporativa,Asesora Comercial Corporativa,1,TRUE
-Asesora Comercial Cuentas Retail,Asesora Comercial Cuentas Retail,1,TRUE
-Asesora Comercial Senior,Asesora Comercial Senior,1,TRUE
+Asesora Comercial- Academico,Asesora Comercial,1,FALSE
+Asesora Comercial Corporativa,Asesora Comercial,1,FALSE
+Asesora Comercial Cuentas Retail,Asesora Comercial,1,FALSE
+Asesora Comercial Senior,Asesora Comercial,1,FALSE
 Asesora De Admision Contac Center,Asesora De Admision Contac Center,1,TRUE
 Asesora De Capacitacion,Asesora De Capacitacion,1,TRUE
 Asesora De Cobranzas,Asesora De Cobranzas,1,TRUE
@@ -1164,11 +1164,11 @@ Asistente De Plataforma De Respaldo Tecnologico,Asistente De Plataforma De Respa
 Asistente De Pmo,Asistente De Pmo,1,TRUE
 Asistente De Proceso Y Calidad,Asistente De Proceso Y Calidad,1,TRUE
 Asistente De Procesos,Asistente De Procesos,2,TRUE
-Asistente De Procesos - Coes Sinac,Asistente De Procesos - Coes Sinac,1,TRUE
-Asistente De Procesos Centrales,Asistente De Procesos Centrales,4,TRUE
-Asistente De Procesos Y Costos,Asistente De Procesos Y Costos,1,TRUE
-Asistente De Procesos Y Mejora Continua,Asistente De Procesos Y Mejora Continua,1,TRUE
-Asistente De Procesos Y Planeamiento,Asistente De Procesos Y Planeamiento,1,TRUE
+Asistente De Procesos - Coes Sinac,Asistente De Procesos,1,FALSE
+Asistente De Procesos Centrales,Asistente De Procesos,4,FALSE
+Asistente De Procesos Y Costos,Asistente De Procesos,1,FALSE
+Asistente De Procesos Y Mejora Continua,Asistente De Procesos,1,FALSE
+Asistente De Procesos Y Planeamiento,Asistente De Procesos,1,FALSE
 Asistente De Produccion,Asistente De Produccion,5,TRUE
 Asistente De Produccion De Eventos Btl,Asistente De Produccion De Eventos Btl,1,TRUE
 "Asistente De Producto, Innovacion Y Mejora De Ce","Asistente De Producto, Innovacion Y Mejora De Ce",1,TRUE
@@ -1176,12 +1176,12 @@ Asistente De Productos Nuevos Y Proyectos.,Asistente De Productos Nuevos Y Proye
 Asistente De Propuestas,Asistente De Propuestas,1,TRUE
 Asistente De Proyecto,Asistente De Proyecto,2,TRUE
 Asistente De Proyectos,Asistente De Proyectos,8,TRUE
-Asistente De Proyectos De Ingenieria,Asistente De Proyectos De Ingenieria,1,TRUE
-Asistente De Proyectos De Pmo,Asistente De Proyectos De Pmo,1,TRUE
-Asistente De Proyectos Logisticos,Asistente De Proyectos Logisticos,1,TRUE
-Asistente De Proyectos Tic,Asistente De Proyectos Tic,1,TRUE
-Asistente De Proyectos Y Coordinador De Operacione,Asistente De Proyectos Y Coordinador De Operacione,2,TRUE
-Asistente De Proyectos Y Mantenimiento,Asistente De Proyectos Y Mantenimiento,2,TRUE
+Asistente De Proyectos De Ingenieria,Asistente De Proyectos,1,FALSE
+Asistente De Proyectos De Pmo,Asistente De Proyectos,1,FALSE
+Asistente De Proyectos Logisticos,Asistente De Proyectos,1,FALSE
+Asistente De Proyectos Tic,Asistente De Proyectos,1,FALSE
+Asistente De Proyectos Y Coordinador De Operacione,Asistente De Proyectos,2,FALSE
+Asistente De Proyectos Y Mantenimiento,Asistente De Proyectos,2,FALSE
 Asistente De Psicologia,Asistente De Psicologia,2,TRUE
 Asistente De Quality Assurance,Asistente De Quality Assurance,1,TRUE
 Asistente De R.R.H.H.,Asistente De Recursos Humanos,1,FALSE
@@ -1251,9 +1251,9 @@ Asistente De Ti,Asistente De Ti,14,TRUE
 Asistente De Ti De Sistemas,Asistente De Ti,1,FALSE
 Asistente De Venta Comercial,Asistente De Venta Comercial,1,TRUE
 Asistente De Ventas,Asistente De Ventas,6,TRUE
-Asistente De Ventas - Ripley Tech,Asistente De Ventas - Ripley Tech,1,TRUE
-Asistente De Ventas Agroindustrial,Asistente De Ventas Agroindustrial,1,TRUE
-Asistente De Ventas Institucionales,Asistente De Ventas Institucionales,1,TRUE
+Asistente De Ventas - Ripley Tech,Asistente De Ventas,1,FALSE
+Asistente De Ventas Agroindustrial,Asistente De Ventas,1,FALSE
+Asistente De Ventas Institucionales,Asistente De Ventas,1,FALSE
 Asistente De Vicepresidencia,Asistente De Vicepresidencia,1,TRUE
 Asistente Del Area Comercial,Asistente Del Area Comercial,1,TRUE
 Asistente Del Area De Recursos Humanos,Asistente Del Area De Recursos Humanos,1,TRUE
@@ -1278,10 +1278,10 @@ Asistente It,Asistente It,1,TRUE
 Asistente Jhunior,Asistente Jhunior,1,TRUE
 Asistente Junior De Contabilidad,Asistente Junior De Contabilidad,1,TRUE
 Asistente Legal,Asistente Legal,2,TRUE
-Asistente Logistica,Asistente Logistica,1,TRUE
-"Asistente Logistica, Cadena De Abastecimiento","Asistente Logistica, Cadena De Abastecimiento",1,TRUE
+Asistente Logistica,Asistente Logistico,1,FALSE
+"Asistente Logistica, Cadena De Abastecimiento",Asistente Logistico,1,FALSE
 Asistente Logistico,Asistente Logistico,1,TRUE
-Asistente Logistico De Almacen,Asistente Logistico De Almacen,1,TRUE
+Asistente Logistico De Almacen,Asistente Logistico,1,FALSE
 Asistente Mecatronica,Asistente Mecatronica,1,TRUE
 Asistente Multifuncional,Asistente Multifuncional,1,TRUE
 Asistente Normalizador De Atencion Al Cliente,Asistente Normalizador De Atencion Al Cliente,1,TRUE
@@ -1307,11 +1307,11 @@ Asistente Soporte Ti,Asistente Soporte Ti,1,TRUE
 Asistente Ssoma,Asistente Ssoma,2,TRUE
 Asistente Tecnica Administrativa - Seleccion,Asistente Tecnica Administrativa - Seleccion,1,TRUE
 Asistente Tecnico,Asistente Tecnico,3,TRUE
-Asistente Tecnico - Temporal,Asistente Tecnico - Temporal,4,TRUE
-Asistente Tecnico Administrativo,Asistente Tecnico Administrativo,1,TRUE
-Asistente Tecnico Comercial,Asistente Tecnico Comercial,1,TRUE
-Asistente Tecnico De Proyectos,Asistente Tecnico De Proyectos,1,TRUE
-Asistente Tenico,Asistente Tenico,1,TRUE
+Asistente Tecnico - Temporal,Asistente Tecnico,4,FALSE
+Asistente Tecnico Administrativo,Asistente Tecnico,1,FALSE
+Asistente Tecnico Comercial,Asistente Tecnico,1,FALSE
+Asistente Tecnico De Proyectos,Asistente Tecnico,1,FALSE
+Asistente Tenico,Asistente Tecnico,1,FALSE
 Asistente Ti,Asistente Ti,6,TRUE
 Asistente Y Apoyo Administrativo,Asistente Y Apoyo Administrativo,1,TRUE
 Asistente/ Analista Rrhh,Asistente/ Analista Rrhh,1,TRUE
@@ -1352,8 +1352,8 @@ Auxiliar,Auxiliar,1,TRUE
 Auxiliar - Administrador De Flota,Auxiliar - Administrador De Flota,1,TRUE
 Auxiliar Academico - Incorporacion Docente,Auxiliar Academico - Incorporacion Docente,1,TRUE
 Auxiliar Administrativo,Auxiliar Administrativo,7,TRUE
-Auxiliar Administrativo Comercial,Auxiliar Administrativo Comercial,1,TRUE
-Auxiliar Asministrativo,Auxiliar Asministrativo,1,TRUE
+Auxiliar Administrativo Comercial,Auxiliar Administrativo,1,FALSE
+Auxiliar Asministrativo,Auxiliar Administrativo,1,FALSE
 Auxiliar Bienestar Social,Auxiliar Bienestar Social,1,TRUE
 Auxiliar Comercial,Auxiliar Comercial,2,TRUE
 Auxiliar Contable,Auxiliar Contable,2,TRUE
@@ -1396,10 +1396,10 @@ Auxiliar De Reclutamiento &Amp; Seleccion (Ct),Auxiliar De Reclutamiento &Amp; S
 Auxiliar De Reclutamiento Y Seleccion,Auxiliar De Reclutamiento Y Seleccion,2,TRUE
 Auxiliar De Recursos Humanos,Auxiliar De Recursos Humanos,9,TRUE
 Auxiliar De Relaciones Educativas,Auxiliar De Relaciones Educativas,1,TRUE
-Auxiliar De Rhh,Auxiliar De Rhh,1,TRUE
-Auxiliar De Rr. Hh.,Auxiliar De Rr. Hh.,1,TRUE
-Auxiliar De Rr.Hh,Auxiliar De Rr.Hh,2,TRUE
-Auxiliar De Rrhh,Auxiliar De Rrhh,5,TRUE
+Auxiliar De Rhh,Auxiliar De Recursos Humanos,1,FALSE
+Auxiliar De Rr. Hh.,Auxiliar De Recursos Humanos,1,FALSE
+Auxiliar De Rr.Hh,Auxiliar De Recursos Humanos,2,FALSE
+Auxiliar De Rrhh,Auxiliar De Recursos Humanos,5,FALSE
 Auxiliar De Seleccion,Auxiliar De Seleccion,1,TRUE
 Auxiliar De Servicio,Auxiliar De Servicio,1,TRUE
 Auxiliar De Sistema De Informacion,Auxiliar De Sistema De Informacion,2,TRUE
@@ -1464,7 +1464,7 @@ Business Analyst Sr.,Business Analyst Sr.,2,TRUE
 Business Banking Proyect Analyst,Business Banking Proyect Analyst,1,TRUE
 Business Consultant,Business Consultant,1,TRUE
 Business Development,Business Development,1,TRUE
-Business Development Manager,Business Development Manager,2,TRUE
+Business Development Manager,Business Development,2,FALSE
 Business Executive,Business Executive,4,TRUE
 Business Intelligence,Business Intelligence,11,TRUE
 Business Intelligence Analyst / Software Developer,Business Intelligence,1,FALSE
@@ -1472,7 +1472,7 @@ Business Intelligence Consultant,Business Intelligence,5,FALSE
 Business Intelligence Developer,Business Intelligence,1,FALSE
 Business Intelligence Lead,Business Intelligence,4,FALSE
 Business Partner,Business Partner,1,TRUE
-Business Partner Ti,Business Partner Ti,1,TRUE
+Business Partner Ti,Business Partner,1,FALSE
 Business Partnership,Business Partnership,1,TRUE
 Business Solutions Developer,Business Solutions Developer,1,TRUE
 Cajera,Cajero,7,FALSE
@@ -1515,7 +1515,7 @@ Ciso - Oficial De Seguridad De La Informacion,Ciso - Oficial De Seguridad De La 
 Clases Particulares De Ingles,Clases Particulares De Ingles,1,TRUE
 Cloud / It /Nfv/ Ps Core Engineer,Cloud / It /Nfv/ Ps Core Engineer,1,TRUE
 Cloud Administrator,Cloud Administrator,6,TRUE
-Cloud Administrator (N2),Cloud Administrator (N2),1,TRUE
+Cloud Administrator (N2),Cloud Administrator,1,FALSE
 Cloud Engineer,Cloud Engineer,1,TRUE
 Cloud Operations Engineer,Cloud Operations Engineer,4,TRUE
 Cloud Platform Specialist,Cloud Platform Specialist,2,TRUE
@@ -1550,10 +1550,10 @@ Compensacion Y Planilla,Compensacion Y Planilla,1,TRUE
 Compliance Adm Del Cliente: B. Pichincha,Compliance Adm Del Cliente: B. Pichincha,1,TRUE
 Comprador,Comprador,1,TRUE
 Comunicador,Comunicador,3,TRUE
-Comunicador Consultor,Comunicador Consultor,1,TRUE
-Comunicador Interno,Comunicador Interno,1,TRUE
-Comunicadora,Comunicadora,1,TRUE
-Comunicadora Interna,Comunicadora Interna,1,TRUE
+Comunicador Consultor,Comunicador,1,FALSE
+Comunicador Interno,Comunicador,1,FALSE
+Comunicadora,Comunicador,1,FALSE
+Comunicadora Interna,Comunicador,1,FALSE
 Comunity Manager,Comunity Manager,1,TRUE
 Comunnity Manager Y Disenador,Comunnity Manager Y Disenador,2,TRUE
 Conductor,Conductor,1,TRUE
@@ -1577,15 +1577,15 @@ Consultor Bi Y Cloud,Consultor Bi Y Cloud,4,TRUE
 Consultor Business Intelligence,Consultor Business Intelligence,2,TRUE
 Consultor Comercial,Consultor Comercial,2,TRUE
 Consultor Corporativo,Consultor Corporativo,8,TRUE
-Consultor Corporativo Senior,Consultor Corporativo Senior,1,TRUE
-Consultor Corporativo Ti,Consultor Corporativo Ti,1,TRUE
+Consultor Corporativo Senior,Consultor Corporativo,1,FALSE
+Consultor Corporativo Ti,Consultor Corporativo,1,FALSE
 Consultor Crm,Consultor Crm,2,TRUE
 Consultor Data Analytics,Consultor Data Analytics,14,TRUE
 "Consultor Dba, Sysadmin Cloud Freelance","Consultor Dba, Sysadmin Cloud Freelance",1,TRUE
 Consultor De Analisis Y Programacion-Sharepoint,Consultor De Analisis Y Programacion-Sharepoint,1,TRUE
 Consultor De Aplicaciones,Consultor De Aplicaciones,3,TRUE
-Consultor De Aplicaciones Moviles,Consultor De Aplicaciones Moviles,1,TRUE
-Consultor De Aplicaciones Y Bi,Consultor De Aplicaciones Y Bi,5,TRUE
+Consultor De Aplicaciones Moviles,Consultor De Aplicaciones,1,FALSE
+Consultor De Aplicaciones Y Bi,Consultor De Aplicaciones,5,FALSE
 Consultor De Arquitectura,Consultor De Arquitectura,1,TRUE
 Consultor De Arquitectura De Soluciones De Ti,Consultor De Arquitectura De Soluciones De Ti,1,TRUE
 Consultor De Aseguramiento De Calidad,Consultor De Aseguramiento De Calidad,1,TRUE
@@ -1614,20 +1614,20 @@ Consultor De Procesos Senior,Consultor De Procesos,1,FALSE
 Consultor De Procesos Y Lean,Consultor De Procesos,1,FALSE
 Consultor De Proyecto Ti,Consultor De Proyecto Ti,1,TRUE
 Consultor De Proyectos,Consultor De Proyectos,5,TRUE
-Consultor De Proyectos Agile,Consultor De Proyectos Agile,1,TRUE
-Consultor De Proyectos De Ti,Consultor De Proyectos De Ti,1,TRUE
-Consultor De Proyectos Sap Fi,Consultor De Proyectos Sap Fi,2,TRUE
-Consultor De Proyectos Ti,Consultor De Proyectos Ti,2,TRUE
+Consultor De Proyectos Agile,Consultor De Proyectos,1,FALSE
+Consultor De Proyectos De Ti,Consultor De Proyectos,1,FALSE
+Consultor De Proyectos Sap Fi,Consultor De Proyectos,2,FALSE
+Consultor De Proyectos Ti,Consultor De Proyectos,2,FALSE
 Consultor De Riesgo Y Cumplimiento,Consultor De Riesgo Y Cumplimiento,1,TRUE
 Consultor De Riesgos Mineros,Consultor De Riesgos Mineros,1,TRUE
 Consultor De Seguridad De La Informacion,Consultor De Seguridad De La Informacion,1,TRUE
 Consultor De Sharepoint,Consultor De Sharepoint,1,TRUE
 Consultor De Sistemas,Consultor De Sistemas,6,TRUE
-Consultor De Sistemas / Analista Funcional,Consultor De Sistemas / Analista Funcional,1,TRUE
-Consultor De Sistemas De Informacion,Consultor De Sistemas De Informacion,1,TRUE
-Consultor De Sistemas Freelancer,Consultor De Sistemas Freelancer,1,TRUE
-Consultor De Sistemas Y T.I,Consultor De Sistemas Y T.I,3,TRUE
-Consultor De Sistemas.,Consultor De Sistemas.,1,TRUE
+Consultor De Sistemas / Analista Funcional,Consultor De Sistemas,1,FALSE
+Consultor De Sistemas De Informacion,Consultor De Sistemas,1,FALSE
+Consultor De Sistemas Freelancer,Consultor De Sistemas,1,FALSE
+Consultor De Sistemas Y T.I,Consultor De Sistemas,3,FALSE
+Consultor De Sistemas.,Consultor De Sistemas,1,FALSE
 Consultor De Soluciones De Infraestructura,Consultor De Soluciones De Infraestructura,1,TRUE
 Consultor De Soluciones Tecnologicas,Consultor De Soluciones Tecnologicas,1,TRUE
 Consultor De Soporte Tecnico N2,Consultor De Soporte Tecnico N2,1,TRUE
@@ -1656,9 +1656,9 @@ Consultor Estrategico,Consultor Estrategico,1,TRUE
 Consultor Etl,Consultor Etl,2,TRUE
 Consultor Experto Business Intelligence,Consultor Experto Business Intelligence,1,TRUE
 Consultor Externo,Consultor Externo,2,TRUE
-Consultor Externo - Proyecto Data Toponimica,Consultor Externo - Proyecto Data Toponimica,1,TRUE
-Consultor Externo De Infraestructura Y Soporte Ti,Consultor Externo De Infraestructura Y Soporte Ti,1,TRUE
-Consultor Externo En Licitaciones,Consultor Externo En Licitaciones,2,TRUE
+Consultor Externo - Proyecto Data Toponimica,Consultor Externo,1,FALSE
+Consultor Externo De Infraestructura Y Soporte Ti,Consultor Externo,1,FALSE
+Consultor Externo En Licitaciones,Consultor Externo,2,FALSE
 Consultor Free Lance,Consultor Free Lance,2,TRUE
 Consultor Freelance,Consultor Freelance,1,TRUE
 Consultor Funcional,Consultor Funcional,6,TRUE
@@ -1679,13 +1679,13 @@ Consultor Qlik Sense,Consultor Qlik Sense,2,TRUE
 Consultor Risk Advisory,Consultor Risk Advisory,1,TRUE
 Consultor Rpa,Consultor Rpa,2,TRUE
 Consultor Sap,Consultor Sap,1,TRUE
-"Consultor Sap (Wm,Mm,Sd,Pm,Pp,Fi,Co)","Consultor Sap (Wm,Mm,Sd,Pm,Pp,Fi,Co)",1,TRUE
-Consultor Sap Basis,Consultor Sap Basis,2,TRUE
-Consultor Sap Business One,Consultor Sap Business One,1,TRUE
-Consultor Sap Fi,Consultor Sap Fi,1,TRUE
-Consultor Sap Fi Y Analytics,Consultor Sap Fi Y Analytics,1,TRUE
-Consultor Sap Hana Hcm,Consultor Sap Hana Hcm,3,TRUE
-Consultor Sap Mm/Sd,Consultor Sap Mm/Sd,1,TRUE
+"Consultor Sap (Wm,Mm,Sd,Pm,Pp,Fi,Co)",Consultor Sap,1,FALSE
+Consultor Sap Basis,Consultor Sap,2,FALSE
+Consultor Sap Business One,Consultor Sap,1,FALSE
+Consultor Sap Fi,Consultor Sap,1,FALSE
+Consultor Sap Fi Y Analytics,Consultor Sap,1,FALSE
+Consultor Sap Hana Hcm,Consultor Sap,3,FALSE
+Consultor Sap Mm/Sd,Consultor Sap,1,FALSE
 Consultor Scrum + Mejora Continua,Consultor Scrum + Mejora Continua,1,TRUE
 Consultor Senior,Consultor Senior,7,TRUE
 Consultor Senior (Analista Programador),Consultor Senior (Analista Programador),2,TRUE
@@ -1783,22 +1783,22 @@ Coordinador De Comunicaciones,Coordinador De Comunicaciones,1,TRUE
 Coordinador De Control De Proyectos,Coordinador De Control De Proyectos,1,TRUE
 Coordinador De Control Interno,Coordinador De Control Interno,1,TRUE
 Coordinador De Desarrollo,Coordinador De Desarrollo,3,TRUE
-Coordinador De Desarrollo De Software,Coordinador De Desarrollo De Software,2,TRUE
-Coordinador De Desarrollo Sap,Coordinador De Desarrollo Sap,1,TRUE
-Coordinador De Desarrollo Web,Coordinador De Desarrollo Web,1,TRUE
-Coordinador De Desarrollo Y Sistemas,Coordinador De Desarrollo Y Sistemas,1,TRUE
+Coordinador De Desarrollo De Software,Coordinador De Desarrollo,2,FALSE
+Coordinador De Desarrollo Sap,Coordinador De Desarrollo,1,FALSE
+Coordinador De Desarrollo Web,Coordinador De Desarrollo,1,FALSE
+Coordinador De Desarrollo Y Sistemas,Coordinador De Desarrollo,1,FALSE
 Coordinador De Diseno,Coordinador De Diseno,1,TRUE
 Coordinador De Diseno Y Ventas,Coordinador De Diseno Y Ventas,1,TRUE
 Coordinador De Estrategia Comercial,Coordinador De Estrategia Comercial,1,TRUE
 Coordinador De Help Desk,Coordinador De Help Desk,1,TRUE
 Coordinador De Infraestructura,Coordinador De Infraestructura,3,TRUE
-Coordinador De Infraestructura Tecnologica,Coordinador De Infraestructura Tecnologica,1,TRUE
-Coordinador De Infraestructura Ti,Coordinador De Infraestructura Ti,6,TRUE
-Coordinador De Infraestructura Y Comunicaciones,Coordinador De Infraestructura Y Comunicaciones,2,TRUE
-Coordinador De Infraestructura Y Seguridad Ti,Coordinador De Infraestructura Y Seguridad Ti,1,TRUE
-Coordinador De Infraestructura Y Servicios Ti,Coordinador De Infraestructura Y Servicios Ti,2,TRUE
-Coordinador De Infraestructura Y Soporte Ti,Coordinador De Infraestructura Y Soporte Ti,1,TRUE
-Coordinador De Innovacion Y Soporte Tecnologica,Coordinador De Innovacion Y Soporte Tecnologica,1,TRUE
+Coordinador De Infraestructura Tecnologica,Coordinador De Infraestructura,1,FALSE
+Coordinador De Infraestructura Ti,Coordinador De Infraestructura,6,FALSE
+Coordinador De Infraestructura Y Comunicaciones,Coordinador De Infraestructura,2,FALSE
+Coordinador De Infraestructura Y Seguridad Ti,Coordinador De Infraestructura,1,FALSE
+Coordinador De Infraestructura Y Servicios Ti,Coordinador De Infraestructura,2,FALSE
+Coordinador De Infraestructura Y Soporte Ti,Coordinador De Infraestructura,1,FALSE
+Coordinador De Innovacion Y Soporte Tecnologica,Coordinador De Innovacion Y Soporte Tecnologico,1,FALSE
 Coordinador De Innovacion Y Soporte Tecnologico,Coordinador De Innovacion Y Soporte Tecnologico,5,TRUE
 Coordinador De Inteligencia Comercial,Coordinador De Inteligencia Comercial,2,TRUE
 Coordinador De Local De Votacion,Coordinador De Local De Votacion,1,TRUE
@@ -1851,11 +1851,11 @@ Coordinador De Sistemas Y Operaciones,Coordinador De Sistemas,1,FALSE
 Coordinador De Sistemas Y Servicios Ti,Coordinador De Sistemas,1,FALSE
 Coordinador De Solucion De Negocios,Coordinador De Solucion De Negocios,1,TRUE
 Coordinador De Soluciones,Coordinador De Soluciones,1,TRUE
-Coordinador De Soporte E Implementacion,Coordinador De Soporte E Implementacion,1,TRUE
+Coordinador De Soporte E Implementacion,Coordinador De Soporte Tecnico,1,FALSE
 Coordinador De Soporte Tecnico,Coordinador De Soporte Tecnico,4,TRUE
-Coordinador De Soporte Ti,Coordinador De Soporte Ti,3,TRUE
-Coordinador De Soporte Y Nuevas Tecnologias,Coordinador De Soporte Y Nuevas Tecnologias,1,TRUE
-Coordinador De Soporte Y Redes,Coordinador De Soporte Y Redes,2,TRUE
+Coordinador De Soporte Ti,Coordinador De Soporte Tecnico,3,FALSE
+Coordinador De Soporte Y Nuevas Tecnologias,Coordinador De Soporte Tecnico,1,FALSE
+Coordinador De Soporte Y Redes,Coordinador De Soporte Tecnico,2,FALSE
 Coordinador De Talento Humano,Coordinador De Talento Humano,1,TRUE
 Coordinador De Tecnologia,Coordinador De Tecnologia,7,TRUE
 Coordinador De Tecnologia De La Informacion,Coordinador De Tecnologia De La Informacion,1,TRUE
@@ -1913,10 +1913,10 @@ Coordinadora Comercial,Coordinadora Comercial,5,TRUE
 Coordinadora Contable,Coordinadora Contable,1,TRUE
 Coordinadora De Administracion De Personal,Coordinadora De Administracion De Personal,1,TRUE
 Coordinadora De Bbss,Coordinadora De Bbss,1,TRUE
-Coordinadora De Bienestar,Coordinadora De Bienestar,2,TRUE
+Coordinadora De Bienestar,Coordinadora De Bienestar Social,2,FALSE
 Coordinadora De Bienestar Social,Coordinadora De Bienestar Social,2,TRUE
-Coordinadora De Bienestar Y Rrhh,Coordinadora De Bienestar Y Rrhh,1,TRUE
-Coordinadora De Bienestar Yrrhh,Coordinadora De Bienestar Yrrhh,1,TRUE
+Coordinadora De Bienestar Y Rrhh,Coordinadora De Bienestar Social,1,FALSE
+Coordinadora De Bienestar Yrrhh,Coordinadora De Bienestar Social,1,FALSE
 Coordinadora De Calidad Y Atencion Al Cliente,Coordinadora De Calidad Y Atencion Al Cliente,1,TRUE
 Coordinadora De Control Operativo,Coordinadora De Control Operativo,1,TRUE
 Coordinadora De Desarrollo Organizacional,Coordinadora De Desarrollo Organizacional,3,TRUE
@@ -1956,8 +1956,8 @@ Copywriter,Copywriter,1,TRUE
 Corporate Account Executive,Corporate Account Executive,4,TRUE
 Costumer Service,Costumer Service,1,TRUE
 Creador De Contenido | Community Manager,Creador De Contenido | Community Manager,1,TRUE
-Creadora De Contenido,Creadora De Contenido,2,TRUE
-Creadora De Contenidos,Creadora De Contenidos,1,TRUE
+Creadora De Contenido,Creador De Contenido | Community Manager,2,FALSE
+Creadora De Contenidos,Creador De Contenido | Community Manager,1,FALSE
 Creando Matematica.,Creando Matematica.,1,TRUE
 Creditos Y Cobranzas,Creditos Y Cobranzas,1,TRUE
 Crisis Manager,Crisis Manager,1,TRUE
@@ -1971,8 +1971,8 @@ Customer Service Representative,Customer Service Representative,1,TRUE
 Cyber Security Analyst,Cyber Security Analyst,1,TRUE
 Daip,Daip,1,TRUE
 Data Analyst,Data Analyst,1,TRUE
-Data Analyst Program,Data Analyst Program,1,TRUE
-Data Analytics,Data Analytics,6,TRUE
+Data Analyst Program,Data Analyst,1,FALSE
+Data Analytics,Data Analyst,6,FALSE
 Data And Analytics / Business Intelligence Leader,Data And Analytics / Business Intelligence Leader,1,TRUE
 Data Architect,Data Architect,1,TRUE
 Data Architect Leader,Data Architect,1,FALSE
@@ -2004,9 +2004,9 @@ Desarrollador,Desarrollador,21,TRUE
 Desarrollador .Net,Desarrollador .Net,7,TRUE
 Desarrollador / Disenador,Desarrollador / Disenador,1,TRUE
 Desarrollador Android - Web,Desarrollador Android - Web,1,TRUE
-Desarrollador Back End,Desarrollador Back End,3,TRUE
+Desarrollador Back End,Desarrollador Backend,3,FALSE
 Desarrollador Backend,Desarrollador Backend,2,TRUE
-Desarrollador Backend Escritorio,Desarrollador Backend Escritorio,1,TRUE
+Desarrollador Backend Escritorio,Desarrollador Backend,1,FALSE
 Desarrollador Bi,Desarrollador Bi,1,TRUE
 Desarrollador Big Data,Desarrollador Big Data,1,TRUE
 "Desarrollador Cell, Banco: Bbva Peru","Desarrollador Cell, Banco: Bbva Peru",1,TRUE
@@ -2022,16 +2022,16 @@ Desarrollador De Software .Net,Desarrollador De Software,1,FALSE
 Desarrollador De Software Senior,Desarrollador De Software,1,FALSE
 Desarrollador Dot.Net,Desarrollador Dot.Net,2,TRUE
 Desarrollador Freelancer,Desarrollador Freelancer,1,TRUE
-Desarrollador Front End,Desarrollador Front End,1,TRUE
-Desarrollador Front End Lider De Mesa.,Desarrollador Front End Lider De Mesa.,1,TRUE
+Desarrollador Front End,Desarrollador Frontend,1,FALSE
+Desarrollador Front End Lider De Mesa.,Desarrollador Frontend,1,FALSE
 Desarrollador Frontend,Desarrollador Frontend,1,TRUE
-Desarrollador Front-End,Desarrollador Front-End,1,TRUE
+Desarrollador Front-End,Desarrollador Frontend,1,FALSE
 Desarrollador Full Stack,Desarrollador Full Stack,5,TRUE
-Desarrollador Full Stack .Net,Desarrollador Full Stack .Net,1,TRUE
-Desarrollador Full Stack Javascript,Desarrollador Full Stack Javascript,1,TRUE
-Desarrollador Fullstack,Desarrollador Fullstack,5,TRUE
-Desarrollador Fullstack Node.Js,Desarrollador Fullstack Node.Js,1,TRUE
-Desarrollador Fullstack Senior .Net,Desarrollador Fullstack Senior .Net,2,TRUE
+Desarrollador Full Stack .Net,Desarrollador Full Stack,1,FALSE
+Desarrollador Full Stack Javascript,Desarrollador Full Stack,1,FALSE
+Desarrollador Fullstack,Desarrollador Full Stack,5,FALSE
+Desarrollador Fullstack Node.Js,Desarrollador Full Stack,1,FALSE
+Desarrollador Fullstack Senior .Net,Desarrollador Full Stack,2,FALSE
 Desarrollador Ii,Desarrollador Ii,1,TRUE
 Desarrollador Java,Desarrollador Java,2,TRUE
 Desarrollador Legacy,Desarrollador Legacy,1,TRUE
@@ -2104,9 +2104,9 @@ Director Creativo,Director Creativo,1,TRUE
 Director De Desarrollo Organizacional,Director De Desarrollo Organizacional,1,TRUE
 Director De Ingenieria Y Ti,Director De Ingenieria Y Ti,1,TRUE
 Director De Proyecto,Director De Proyecto,1,TRUE
-Director De Proyectos T.I.,Director De Proyectos T.I.,1,TRUE
+Director De Proyectos T.I.,Director De Proyecto,1,FALSE
 Director De Recursos Humanos,Director De Recursos Humanos,1,TRUE
-Director De Rr.Hh,Director De Rr.Hh,1,TRUE
+Director De Rr.Hh,Director De Recursos Humanos,1,FALSE
 Director De Servicios,Director De Servicios,1,TRUE
 Director De Tecnologia,Director De Tecnologia,1,TRUE
 Director De Tecnologias De La Informacion,Director De Tecnologias De La Informacion,1,TRUE
@@ -2129,21 +2129,21 @@ Disenador Grafico Y Community Manager,Disenador Grafico,1,FALSE
 Disenador Industrial Y Programador Cnc,Disenador Industrial Y Programador Cnc,1,TRUE
 Disenador Multimedia,Disenador Multimedia,4,TRUE
 Disenador Semi Senior,Disenador Semi Senior,1,TRUE
-Disenador Ui,Disenador Ui,2,TRUE
+Disenador Ui,Disenador Ui/Ux,2,FALSE
 Disenador Ui/Ux,Disenador Ui/Ux,1,TRUE
-Disenador Ui-Ux,Disenador Ui-Ux,2,TRUE
-Disenador Ux Senior,Disenador Ux Senior,1,TRUE
-Disenador Ux Ui,Disenador Ux Ui,1,TRUE
-Disenador Ux/Ui,Disenador Ux/Ui,5,TRUE
-Disenador Ux/Ui - Maquetador Web,Disenador Ux/Ui - Maquetador Web,2,TRUE
-Disenador Ux|Ui,Disenador Ux|Ui,1,TRUE
-Disenador Web Ux/Ui,Disenador Web Ux/Ui,1,TRUE
-Disenador Web Y Grafico Ux/Ui,Disenador Web Y Grafico Ux/Ui,1,TRUE
+Disenador Ui-Ux,Disenador Ui/Ux,2,FALSE
+Disenador Ux Senior,Disenador Ui/Ux,1,FALSE
+Disenador Ux Ui,Disenador Ui/Ux,1,FALSE
+Disenador Ux/Ui,Disenador Ui/Ux,5,FALSE
+Disenador Ux/Ui - Maquetador Web,Disenador Ui/Ux,2,FALSE
+Disenador Ux|Ui,Disenador Ui/Ux,1,FALSE
+Disenador Web Ux/Ui,Disenador Ui/Ux,1,FALSE
+Disenador Web Y Grafico Ux/Ui,Disenador Ui/Ux,1,FALSE
 Disenadora Grafica,Disenadora Grafica,2,TRUE
-Disenadora Grafica &Amp; Marketing Digital,Disenadora Grafica &Amp; Marketing Digital,1,TRUE
-Disenadora Grafica // Disenadora Ux/Ui,Disenadora Grafica // Disenadora Ux/Ui,1,TRUE
-Disenadora Grafica Sr.,Disenadora Grafica Sr.,1,TRUE
-Disenadora Ux,Disenadora Ux,1,TRUE
+Disenadora Grafica &Amp; Marketing Digital,Disenadora Grafica,1,FALSE
+Disenadora Grafica // Disenadora Ux/Ui,Disenadora Grafica,1,FALSE
+Disenadora Grafica Sr.,Disenadora Grafica,1,FALSE
+Disenadora Ux,Disenador Ui/Ux,1,FALSE
 Disenadora Web,Disenadora Web,1,TRUE
 Disenadora Y Operador De Pre Prensa Flexo,Disenadora Y Operador De Pre Prensa Flexo,1,TRUE
 Disenadora Y Programadora Web,Disenadora Y Programadora Web,1,TRUE
@@ -2214,10 +2214,10 @@ Ejecutiva De Atencion Al Cliente,Ejecutiva De Atencion Al Cliente,2,TRUE
 Ejecutiva De Cobranza,Ejecutiva De Cobranza,1,TRUE
 Ejecutiva De Comunicaciones,Ejecutiva De Comunicaciones,1,TRUE
 Ejecutiva De Contratos,Ejecutiva De Contratos,1,TRUE
-Ejecutiva De Cuenta,Ejecutiva De Cuenta,2,TRUE
+Ejecutiva De Cuenta,Ejecutiva De Cuentas,2,FALSE
 Ejecutiva De Cuentas,Ejecutiva De Cuentas,8,TRUE
-Ejecutiva De Cuentas Especiales,Ejecutiva De Cuentas Especiales,1,TRUE
-Ejecutiva De Cuentas Senior,Ejecutiva De Cuentas Senior,3,TRUE
+Ejecutiva De Cuentas Especiales,Ejecutiva De Cuentas,1,FALSE
+Ejecutiva De Cuentas Senior,Ejecutiva De Cuentas,3,FALSE
 Ejecutiva De Inversiones,Ejecutiva De Inversiones,5,TRUE
 Ejecutiva De Licitaciones,Ejecutiva De Licitaciones,1,TRUE
 Ejecutiva De Locales Comerciales,Ejecutiva De Locales Comerciales,1,TRUE
@@ -2263,11 +2263,11 @@ Ejecutivo De Comercial Banca Persona,Ejecutivo De Comercial Banca Persona,1,TRUE
 Ejecutivo De Convenios,Ejecutivo De Convenios,2,TRUE
 Ejecutivo De Creditos Vehiculares,Ejecutivo De Creditos Vehiculares,1,TRUE
 Ejecutivo De Cuentas,Ejecutivo De Cuentas,6,TRUE
-Ejecutivo De Cuentas - Indiggo Publicidad,Ejecutivo De Cuentas - Indiggo Publicidad,2,TRUE
-Ejecutivo De Cuentas Clave,Ejecutivo De Cuentas Clave,1,TRUE
-Ejecutivo De Cuentas Claves,Ejecutivo De Cuentas Claves,2,TRUE
-Ejecutivo De Cuentas Corporativas,Ejecutivo De Cuentas Corporativas,1,TRUE
-Ejecutivo De Cuentas Y Nuevos Negocios,Ejecutivo De Cuentas Y Nuevos Negocios,1,TRUE
+Ejecutivo De Cuentas - Indiggo Publicidad,Ejecutivo De Cuentas,2,FALSE
+Ejecutivo De Cuentas Clave,Ejecutivo De Cuentas,1,FALSE
+Ejecutivo De Cuentas Claves,Ejecutivo De Cuentas,2,FALSE
+Ejecutivo De Cuentas Corporativas,Ejecutivo De Cuentas,1,FALSE
+Ejecutivo De Cuentas Y Nuevos Negocios,Ejecutivo De Cuentas,1,FALSE
 Ejecutivo De Desarrollo De Negocios,Ejecutivo De Desarrollo De Negocios,1,TRUE
 Ejecutivo De Help Desk,Ejecutivo De Help Desk,1,TRUE
 Ejecutivo De Implementacion Tecnologica De Viajes,Ejecutivo De Implementacion Tecnologica De Viajes,1,TRUE
@@ -2302,7 +2302,7 @@ Ejecutivo Senior Administrativo,Ejecutivo Senior Administrativo,1,TRUE
 Ejecutivo Senior De Cuentas Corporativas,Ejecutivo Senior De Cuentas Corporativas,1,TRUE
 Ejecutivo Service Desk,Ejecutivo Service Desk,1,TRUE
 Ejecutivo Vehicular,Ejecutivo Vehicular,1,TRUE
-Ejecutivo Venta Empresa,Ejecutivo Venta Empresa,2,TRUE
+Ejecutivo Venta Empresa,Ejecutivo De Ventas,2,FALSE
 Ejecutivo Worksite,Ejecutivo Worksite,1,TRUE
 Ejecutivo Y Asesor Comercial,Ejecutivo Y Asesor Comercial,1,TRUE
 Ejecutivo/Consultor Comercial,Ejecutivo/Consultor Comercial,1,TRUE
@@ -2350,11 +2350,11 @@ Encargado De Reclutamiento - Seleccion,Encargado De Reclutamiento - Seleccion,1,
 Encargado De Seccion,Encargado De Seccion,1,TRUE
 Encargado De Seguridad Y Salud En El Trabajo,Encargado De Seguridad Y Salud En El Trabajo,1,TRUE
 Encargado De Servidores Y Soporte,Encargado De Servidores Y Soporte,1,TRUE
-Encargado De Sistema,Encargado De Sistema,1,TRUE
+Encargado De Sistema,Encargado De Sistemas,1,FALSE
 Encargado De Sistemas,Encargado De Sistemas,4,TRUE
-Encargado De Sistemas Online,Encargado De Sistemas Online,2,TRUE
-Encargado De Sistemas Y Bi,Encargado De Sistemas Y Bi,3,TRUE
-Encargado De Sistemas Y Seguridad,Encargado De Sistemas Y Seguridad,2,TRUE
+Encargado De Sistemas Online,Encargado De Sistemas,2,FALSE
+Encargado De Sistemas Y Bi,Encargado De Sistemas,3,FALSE
+Encargado De Sistemas Y Seguridad,Encargado De Sistemas,2,FALSE
 Encargado De Soporte,Encargado De Soporte,1,TRUE
 Encargado De Soporte Tecnico,Encargado De Soporte Tecnico,1,TRUE
 Encargado De Ti,Encargado De Ti,2,TRUE
@@ -2399,8 +2399,8 @@ Especialista De Datos - Beca Continuidad I,Especialista De Datos - Beca Continui
 Especialista De Desarrollo De Ingenieria Ti,Especialista De Desarrollo De Ingenieria Ti,2,TRUE
 Especialista De Estadistica,Especialista De Estadistica,2,TRUE
 Especialista De Gestion De Informacion,Especialista De Gestion De Informacion,2,TRUE
-Especialista De Gestion De Informacion Y Analitycs,Especialista De Gestion De Informacion Y Analitycs,1,TRUE
-Especialista De Gestion Del Conocimiento,Especialista De Gestion Del Conocimiento,1,TRUE
+Especialista De Gestion De Informacion Y Analitycs,Especialista De Gestion De Informacion,1,FALSE
+Especialista De Gestion Del Conocimiento,Especialista De Gestion De Informacion,1,FALSE
 Especialista De Gestion Y Control Comercial,Especialista De Gestion Y Control Comercial,1,TRUE
 Especialista De Gobierno De Datos,Especialista De Gobierno De Datos,1,TRUE
 Especialista De Implementacion Y Mantenimiento,Especialista De Implementacion Y Mantenimiento,1,TRUE
@@ -2415,9 +2415,9 @@ Especialista De Monitoreo De Alerta De Fraude,Especialista De Monitoreo De Alert
 Especialista De Oficina De Gestion De Servicio Ti,Especialista De Oficina De Gestion De Servicio Ti,1,TRUE
 Especialista De Precios,Especialista De Precios,1,TRUE
 Especialista De Procesos,Especialista De Procesos,2,TRUE
-Especialista De Procesos De Ti,Especialista De Procesos De Ti,1,TRUE
-Especialista De Procesos Ti,Especialista De Procesos Ti,1,TRUE
-Especialista De Procesos Y Proyectos,Especialista De Procesos Y Proyectos,2,TRUE
+Especialista De Procesos De Ti,Especialista De Procesos,1,FALSE
+Especialista De Procesos Ti,Especialista De Procesos,1,FALSE
+Especialista De Procesos Y Proyectos,Especialista De Procesos,2,FALSE
 Especialista De Proyecto (Pm),Especialista De Proyecto (Pm),1,TRUE
 Especialista De Proyectos Ti,Especialista De Proyectos Ti,7,TRUE
 Especialista De Proyectos Y Procesos,Especialista De Proyectos Y Procesos,1,TRUE
@@ -2431,22 +2431,22 @@ Especialista De Servicios Digitales,Especialista De Servicios Digitales,1,TRUE
 Especialista De Servicios Ti,Especialista De Servicios Ti,2,TRUE
 Especialista De Servidores Activaciones Ibm,Especialista De Servidores Activaciones Ibm,1,TRUE
 Especialista De Sistemas,Especialista De Sistemas,5,TRUE
-Especialista De Sistemas De Informacion,Especialista De Sistemas De Informacion,1,TRUE
+Especialista De Sistemas De Informacion,Especialista De Sistemas,1,FALSE
 Especialista De Soporte,Especialista De Soporte,1,TRUE
-Especialista De Soporte De Incidencias,Especialista De Soporte De Incidencias,1,TRUE
-Especialista De Soporte De Service Desk,Especialista De Soporte De Service Desk,3,TRUE
-Especialista De Soporte Sd,Especialista De Soporte Sd,1,TRUE
-Especialista De Soporte Service Desk,Especialista De Soporte Service Desk,1,TRUE
-Especialista De Soporte Service Desk Senior,Especialista De Soporte Service Desk Senior,1,TRUE
-Especialista De Soporte Ti,Especialista De Soporte Ti,1,TRUE
+Especialista De Soporte De Incidencias,Especialista De Soporte,1,FALSE
+Especialista De Soporte De Service Desk,Especialista De Soporte,3,FALSE
+Especialista De Soporte Sd,Especialista De Soporte,1,FALSE
+Especialista De Soporte Service Desk,Especialista De Soporte,1,FALSE
+Especialista De Soporte Service Desk Senior,Especialista De Soporte,1,FALSE
+Especialista De Soporte Ti,Especialista De Soporte,1,FALSE
 Especialista De Tecnologias Emergentes,Especialista De Tecnologias Emergentes,1,TRUE
 Especialista De Ti,Especialista De Ti,5,TRUE
 Especialista De Tic,Especialista De Tic,1,TRUE
 Especialista Desarrollador,Especialista Desarrollador,1,TRUE
 Especialista Devops,Especialista Devops,1,TRUE
-Especialista Devops / Arquitecto,Especialista Devops / Arquitecto,1,TRUE
-Especialista Devops / Arquitecto Backend,Especialista Devops / Arquitecto Backend,1,TRUE
-Especialista Devsecops / Arquitecto Backend,Especialista Devsecops / Arquitecto Backend,2,TRUE
+Especialista Devops / Arquitecto,Especialista Devops,1,FALSE
+Especialista Devops / Arquitecto Backend,Especialista Devops,1,FALSE
+Especialista Devsecops / Arquitecto Backend,Especialista Devops,2,FALSE
 Especialista En Analitica,Especialista En Analitica,1,TRUE
 Especialista En Analitica Digital,Especialista En Analitica Digital,2,TRUE
 Especialista En Arquitectura,Especialista En Arquitectura,1,TRUE
@@ -2535,7 +2535,7 @@ Facilitadora Educativa,Facilitadora Educativa,1,TRUE
 Facturacion,Facturacion,1,TRUE
 Field Support,Field Support,1,TRUE
 Fiscalizador De Local De Votacion,Fiscalizador De Local De Votacion,1,TRUE
-Fiscalizador De Local De Votacon,Fiscalizador De Local De Votacon,1,TRUE
+Fiscalizador De Local De Votacon,Fiscalizador De Local De Votacion,1,FALSE
 Fiscalizador Tecnico,Fiscalizador Tecnico,1,TRUE
 Fiscalizadora,Fiscalizadora,2,TRUE
 Fonoluz,Fonoluz,1,TRUE
@@ -2597,10 +2597,10 @@ Gerente,Gerente,4,TRUE
 Gerente Adjunto,Gerente Adjunto,3,TRUE
 Gerente Administracion Y Rrhh,Gerente Administracion Y Rrhh,1,TRUE
 Gerente Comercial,Gerente Comercial,9,TRUE
-Gerente Comercial Y Marketing,Gerente Comercial Y Marketing,1,TRUE
-Gerente Comercial Y Proyectos,Gerente Comercial Y Proyectos,1,TRUE
-Gerente Comercial Y Ti,Gerente Comercial Y Ti,1,TRUE
-Gerente Comercial/Ejecutivo Comercial,Gerente Comercial/Ejecutivo Comercial,1,TRUE
+Gerente Comercial Y Marketing,Gerente Comercial,1,FALSE
+Gerente Comercial Y Proyectos,Gerente Comercial,1,FALSE
+Gerente Comercial Y Ti,Gerente Comercial,1,FALSE
+Gerente Comercial/Ejecutivo Comercial,Gerente Comercial,1,FALSE
 Gerente Coordinador De Producto Erp,Gerente Coordinador De Producto Erp,1,TRUE
 Gerente De Acl,Gerente De Acl,1,TRUE
 Gerente De Administracion Y Finanzas,Gerente De Administracion Y Finanzas,1,TRUE
@@ -2608,15 +2608,15 @@ Gerente De Analytics Y Bi,Gerente De Analytics Y Bi,1,TRUE
 Gerente De Campo,Gerente De Campo,1,TRUE
 Gerente De Centro De Servicios,Gerente De Centro De Servicios,2,TRUE
 Gerente De Competencias Logisticas,Gerente De Competencias Logisticas,1,TRUE
-Gerente De Cuenta,Gerente De Cuenta,4,TRUE
-Gerente De Cuenta Regional,Gerente De Cuenta Regional,1,TRUE
+Gerente De Cuenta,Gerente De Cuentas,4,FALSE
+Gerente De Cuenta Regional,Gerente De Cuentas,1,FALSE
 Gerente De Cuentas,Gerente De Cuentas,2,TRUE
-Gerente De Cuentas Corporativas,Gerente De Cuentas Corporativas,1,TRUE
-Gerente De Cuentas Grandes Empresas,Gerente De Cuentas Grandes Empresas,5,TRUE
+Gerente De Cuentas Corporativas,Gerente De Cuentas,1,FALSE
+Gerente De Cuentas Grandes Empresas,Gerente De Cuentas,5,FALSE
 Gerente De Desarrollo,Gerente De Desarrollo,3,TRUE
-Gerente De Desarrollo De Negocios,Gerente De Desarrollo De Negocios,3,TRUE
-Gerente De Desarrollo Social,Gerente De Desarrollo Social,1,TRUE
-Gerente De Desarrollo Y Ti,Gerente De Desarrollo Y Ti,1,TRUE
+Gerente De Desarrollo De Negocios,Gerente De Desarrollo,3,FALSE
+Gerente De Desarrollo Social,Gerente De Desarrollo,1,FALSE
+Gerente De Desarrollo Y Ti,Gerente De Desarrollo,1,FALSE
 Gerente De Estrategia Y Control De Gestion,Gerente De Estrategia Y Control De Gestion,1,TRUE
 Gerente De Las Operaciones T.I.,Gerente De Las Operaciones T.I.,2,TRUE
 Gerente De Marketing,Gerente De Marketing,2,TRUE
@@ -2653,8 +2653,8 @@ Gerente De Ventas Directas,Gerente De Ventas Directas,1,TRUE
 Gerente Desarrollo De Negocios,Gerente Desarrollo De Negocios,1,TRUE
 Gerente Desarrollo De Negocios - Gobierno,Gerente Desarrollo De Negocios - Gobierno,1,TRUE
 Gerente General,Gerente General,7,TRUE
-Gerente General - Representante Legal,Gerente General - Representante Legal,1,TRUE
-Gerente General/ Gerente Comercial,Gerente General/ Gerente Comercial,1,TRUE
+Gerente General - Representante Legal,Gerente General,1,FALSE
+Gerente General/ Gerente Comercial,Gerente General,1,FALSE
 Gerente Regional De Alianzas Y Canales Ibm,Gerente Regional De Alianzas Y Canales Ibm,1,TRUE
 Gerente Territorial,Gerente Territorial,1,TRUE
 Gerente Ti,Gerente Ti,2,TRUE
@@ -2720,15 +2720,15 @@ Gestor De Proyectos Sap,Gestor De Proyectos,1,FALSE
 Gestor De Proyectos Senior,Gestor De Proyectos,2,FALSE
 Gestor De Proyectos Software,Gestor De Proyectos,1,FALSE
 Gestor De Proyectos Ti,Gestor De Proyectos,8,FALSE
-Gestor De Servicio,Gestor De Servicio,1,TRUE
-Gestor De Servicios,Gestor De Servicios,3,TRUE
-Gestor De Servicios De Ti &Amp; Proyectos,Gestor De Servicios De Ti &Amp; Proyectos,1,TRUE
-Gestor De Servicios Digitales Y Ti,Gestor De Servicios Digitales Y Ti,1,TRUE
-Gestor De Servicios It,Gestor De Servicios It,1,TRUE
+Gestor De Servicio,Gestor De Servicios Ti,1,FALSE
+Gestor De Servicios,Gestor De Servicios Ti,3,FALSE
+Gestor De Servicios De Ti &Amp; Proyectos,Gestor De Servicios Ti,1,FALSE
+Gestor De Servicios Digitales Y Ti,Gestor De Servicios Ti,1,FALSE
+Gestor De Servicios It,Gestor De Servicios Ti,1,FALSE
 Gestor De Servicios Ti,Gestor De Servicios Ti,5,TRUE
-Gestor De Servicios Ti - Operaciones,Gestor De Servicios Ti - Operaciones,1,TRUE
-Gestor De Servicios Ti Junior,Gestor De Servicios Ti Junior,1,TRUE
-Gestor De Servicios Y Proyectos,Gestor De Servicios Y Proyectos,2,TRUE
+Gestor De Servicios Ti - Operaciones,Gestor De Servicios Ti,1,FALSE
+Gestor De Servicios Ti Junior,Gestor De Servicios Ti,1,FALSE
+Gestor De Servicios Y Proyectos,Gestor De Servicios Ti,2,FALSE
 Gestor De Soporte Tecnico,Gestor De Soporte Tecnico,1,TRUE
 Gestor De Suministros,Gestor De Suministros,1,TRUE
 Gestor De Talento Humano,Gestor De Talento Humano,2,TRUE
@@ -2819,8 +2819,8 @@ Ingeniero Comercial,Ingeniero Comercial,1,TRUE
 Ingeniero Comercial Pre-Venta,Ingeniero Comercial Pre-Venta,1,TRUE
 Ingeniero De Aplicaciones,Ingeniero De Aplicaciones,2,TRUE
 Ingeniero De Calidad,Ingeniero De Calidad,1,TRUE
-Ingeniero De Calidad De Software,Ingeniero De Calidad De Software,1,TRUE
-Ingeniero De Calidad Y Procesos,Ingeniero De Calidad Y Procesos,1,TRUE
+Ingeniero De Calidad De Software,Ingeniero De Calidad,1,FALSE
+Ingeniero De Calidad Y Procesos,Ingeniero De Calidad,1,FALSE
 Ingeniero De Campo,Ingeniero De Campo,1,TRUE
 Ingeniero De Campo De Obras Civiles Y Acabados,Ingeniero De Campo De Obras Civiles Y Acabados,1,TRUE
 Ingeniero De Control Y Mantenimiento,Ingeniero De Control Y Mantenimiento,1,TRUE
@@ -2829,9 +2829,9 @@ Ingeniero De Datos,Ingeniero De Datos,6,TRUE
 Ingeniero De Desarrollo Junior,Ingeniero De Desarrollo Junior,1,TRUE
 Ingeniero De Desarrollo Y Telefonia,Ingeniero De Desarrollo Y Telefonia,1,TRUE
 Ingeniero De Implementacion,Ingeniero De Implementacion,1,TRUE
-Ingeniero De Implementacion De Proyectos De Ti,Ingeniero De Implementacion De Proyectos De Ti,1,TRUE
-Ingeniero De Implementacion De Redes,Ingeniero De Implementacion De Redes,1,TRUE
-Ingeniero De Implementacion E Infraestructura,Ingeniero De Implementacion E Infraestructura,1,TRUE
+Ingeniero De Implementacion De Proyectos De Ti,Ingeniero De Implementacion,1,FALSE
+Ingeniero De Implementacion De Redes,Ingeniero De Implementacion,1,FALSE
+Ingeniero De Implementacion E Infraestructura,Ingeniero De Implementacion,1,FALSE
 Ingeniero De Integraciones,Ingeniero De Integraciones,1,TRUE
 Ingeniero De Operaciones Y Ti,Ingeniero De Operaciones Y Ti,1,TRUE
 Ingeniero De Postventa,Ingeniero De Postventa,1,TRUE
@@ -2854,9 +2854,9 @@ Ingeniero De Software Lider,Ingeniero De Software,1,FALSE
 Ingeniero De Software Senior,Ingeniero De Software,1,FALSE
 Ingeniero De Soluciones Cloud,Ingeniero De Soluciones Cloud,2,TRUE
 Ingeniero De Soporte,Ingeniero De Soporte,2,TRUE
-Ingeniero De Soporte Tecnico,Ingeniero De Soporte Tecnico,1,TRUE
-Ingeniero De Soporte Y Atencion Al Cliente,Ingeniero De Soporte Y Atencion Al Cliente,1,TRUE
-Ingeniero De Soporte Y Proyectos,Ingeniero De Soporte Y Proyectos,1,TRUE
+Ingeniero De Soporte Tecnico,Ingeniero De Soporte,1,FALSE
+Ingeniero De Soporte Y Atencion Al Cliente,Ingeniero De Soporte,1,FALSE
+Ingeniero De Soporte Y Proyectos,Ingeniero De Soporte,1,FALSE
 Ingeniero De Tecnologia /Jefe Sistemas,Ingeniero De Tecnologia /Jefe Sistemas,1,TRUE
 Ingeniero De Ventas,Ingeniero De Ventas,3,TRUE
 Ingeniero Devsecops,Ingeniero Devsecops,2,TRUE
@@ -2875,10 +2875,10 @@ Ingeniero On Site,Ingeniero On Site,1,TRUE
 Ingeniero Operacional Dispatch,Ingeniero Operacional Dispatch,1,TRUE
 Ingeniero Practicante,Ingeniero Practicante,1,TRUE
 Ingeniero Pre Venta,Ingeniero Pre Venta,3,TRUE
-Ingeniero Pre Venta De Conectividad,Ingeniero Pre Venta De Conectividad,1,TRUE
-Ingeniero Preventa,Ingeniero Preventa,2,TRUE
-Ingeniero Preventa Sector Gobierno,Ingeniero Preventa Sector Gobierno,1,TRUE
-Ingeniero Preventa Ti/Cloud/Ccuu,Ingeniero Preventa Ti/Cloud/Ccuu,1,TRUE
+Ingeniero Pre Venta De Conectividad,Ingeniero Pre Venta,1,FALSE
+Ingeniero Preventa,Ingeniero Pre Venta,2,FALSE
+Ingeniero Preventa Sector Gobierno,Ingeniero Pre Venta,1,FALSE
+Ingeniero Preventa Ti/Cloud/Ccuu,Ingeniero Pre Venta,1,FALSE
 Ingeniero Proyectos Redes,Ingeniero Proyectos Redes,1,TRUE
 Ingeniero Redes,Ingeniero Redes,1,TRUE
 Ingeniero Residente,Ingeniero Residente,8,TRUE
@@ -2905,16 +2905,16 @@ Interactive Development Manager,Interactive Development Manager,1,TRUE
 Intercambio Cultural En Ee.Uu.,Intercambio Cultural En Ee.Uu.,1,TRUE
 Intern,Intern,1,TRUE
 Interna,Interna,2,TRUE
-Interna De Psicologia,Interna De Psicologia,7,TRUE
+Interna De Psicologia,Interno De Psicologia,7,FALSE
 Interno,Interno,1,TRUE
 Interno 2,Interno 2,1,TRUE
 Interno De Psicologia,Interno De Psicologia,3,TRUE
-Interno De Psicologia Clinica,Interno De Psicologia Clinica,1,TRUE
+Interno De Psicologia Clinica,Interno De Psicologia,1,FALSE
 Interno Organizacional,Interno Organizacional,1,TRUE
 Interprete Bilingue,Interprete Bilingue,1,TRUE
 Introduccion Personal -,Introduccion Personal -,1,TRUE
-Intruduccion Personal,Intruduccion Personal,2,TRUE
-Intruduccion Personal -,Intruduccion Personal -,4,TRUE
+Intruduccion Personal,Introduccion Personal -,2,FALSE
+Intruduccion Personal -,Introduccion Personal -,4,FALSE
 Inventariador,Inventariador,2,TRUE
 Investigador,Investigador,1,TRUE
 Investigador Junior,Investigador Junior,1,TRUE
@@ -3031,12 +3031,12 @@ Jefe De Operaciones,Jefe De Operaciones,6,TRUE
 Jefe De Oti,Jefe De Oti,2,TRUE
 Jefe De Otic,Jefe De Otic,1,TRUE
 Jefe De Post Venta,Jefe De Post Venta,1,TRUE
-Jefe De Practica,Jefe De Practica,6,TRUE
+Jefe De Practica,Jefe De Practicas,6,FALSE
 Jefe De Practicas,Jefe De Practicas,1,TRUE
 Jefe De Pricing &Amp; Bi,Jefe De Pricing &Amp; Bi,1,TRUE
 Jefe De Procesos Tic,Jefe De Procesos Tic,1,TRUE
 Jefe De Procesos Y Mejora Continua,Jefe De Procesos Y Mejora Continua,3,TRUE
-Jefe De Procesos Y Mejora Continua.,Jefe De Procesos Y Mejora Continua.,1,TRUE
+Jefe De Procesos Y Mejora Continua.,Jefe De Procesos Y Mejora Continua,1,FALSE
 Jefe De Procesos Y Ti,Jefe De Procesos Y Ti,1,TRUE
 Jefe De Produccion,Jefe De Produccion,4,TRUE
 Jefe De Produccion Ti,Jefe De Produccion Ti,1,TRUE
@@ -3076,7 +3076,7 @@ Jefe De Recursos Humano,Jefe De Recursos Humanos,1,FALSE
 Jefe De Recursos Humanos,Jefe De Recursos Humanos,2,TRUE
 Jefe De Recursos Humanos Y Logistica,Jefe De Recursos Humanos,1,FALSE
 Jefe De Revenue,Jefe De Revenue,1,TRUE
-Jefe De Rr.Hh,Jefe De Rr.Hh,1,TRUE
+Jefe De Rr.Hh,Jefe De Recursos Humanos,1,FALSE
 Jefe De Sala De Ventas,Jefe De Sala De Ventas,1,TRUE
 Jefe De Seccion,Jefe De Seccion,1,TRUE
 Jefe De Seo/Sem,Jefe De Seo/Sem,2,TRUE
@@ -3127,11 +3127,11 @@ Jefe De Transformacion Digital Y Mej.Continua,Jefe De Transformacion Digital Y M
 Jefe De Transformacion Y Ti,Jefe De Transformacion Y Ti,1,TRUE
 Jefe De Unidad,Jefe De Unidad,1,TRUE
 Jefe De Ventas,Jefe De Ventas,4,TRUE
-Jefe Del Area De Sistemad Bi,Jefe Del Area De Sistemad Bi,1,TRUE
+Jefe Del Area De Sistemad Bi,Jefe Del Area De Sistemas,1,FALSE
 Jefe Del Area De Sistemas,Jefe Del Area De Sistemas,2,TRUE
 Jefe Del Area De Tecnologia De Informacion,Jefe Del Area De Tecnologia De Informacion,1,TRUE
-Jefe Del Area De Tecnologia De La Informacion,Jefe Del Area De Tecnologia De La Informacion,1,TRUE
-Jefe Del Area De Ti,Jefe Del Area De Ti,1,TRUE
+Jefe Del Area De Tecnologia De La Informacion,Jefe Del Area De Tecnologia De Informacion,1,FALSE
+Jefe Del Area De Ti,Jefe Del Area De Tecnologia De Informacion,1,FALSE
 Jefe Ecommerce/Key Account Manager Ecommerce,Jefe Ecommerce/Key Account Manager Ecommerce,1,TRUE
 Jefe Inteligencia De Negocios Y Analytics,Jefe Inteligencia De Negocios Y Analytics,2,TRUE
 Jefe It,Jefe It,2,TRUE
@@ -3155,7 +3155,7 @@ Junior Cyber Security Analyst,Junior Cyber Security Analyst,1,TRUE
 Junior Developer,Junior Developer,1,TRUE
 Junior Devops Engineer,Junior Devops Engineer,1,TRUE
 Junior Service Technician - Proyectos Bbvacf,Junior Service Technician - Proyectos Bbvacf,1,TRUE
-Junior System Engineer,Junior System Engineer,1,TRUE
+Junior System Engineer,Junior Systems Engineer,1,FALSE
 Junior Systems Engineer,Junior Systems Engineer,3,TRUE
 Junior Web Designer,Junior Web Designer,1,TRUE
 Junior Web Developer,Junior Web Developer,1,TRUE
@@ -3237,15 +3237,15 @@ Lider Digital Developer Senior,Lider Digital Developer Senior,1,TRUE
 "Lider En Rrhh, Bienestar, Clima Y Calidad De Vida","Lider En Rrhh, Bienestar, Clima Y Calidad De Vida",1,TRUE
 Lider Erp Y Transformacion Digital,Lider Erp Y Transformacion Digital,2,TRUE
 Lider Funcional,Lider Funcional,4,TRUE
-Lider Funcional - Lider Qa,Lider Funcional - Lider Qa,1,TRUE
-Lider Funcional Sap - Marcimex,Lider Funcional Sap - Marcimex,1,TRUE
-Lider Funcional Y Gestor De Proyectos,Lider Funcional Y Gestor De Proyectos,2,TRUE
-Lider Funcional Y Tecnico Erp Ebs,Lider Funcional Y Tecnico Erp Ebs,1,TRUE
+Lider Funcional - Lider Qa,Lider Funcional,1,FALSE
+Lider Funcional Sap - Marcimex,Lider Funcional,1,FALSE
+Lider Funcional Y Gestor De Proyectos,Lider Funcional,2,FALSE
+Lider Funcional Y Tecnico Erp Ebs,Lider Funcional,1,FALSE
 Lider Pmo,Lider Pmo,3,TRUE
-Lider Proyecto,Lider Proyecto,2,TRUE
-Lider Proyecto Analytic,Lider Proyecto Analytic,1,TRUE
+Lider Proyecto,Lider Proyectos,2,FALSE
+Lider Proyecto Analytic,Lider Proyectos,1,FALSE
 Lider Proyectos,Lider Proyectos,1,TRUE
-Lider Proyectos - Scrum Team,Lider Proyectos - Scrum Team,1,TRUE
+Lider Proyectos - Scrum Team,Lider Proyectos,1,FALSE
 Lider Qa,Lider Qa,4,TRUE
 Lider Scp,Lider Scp,1,TRUE
 Lider Servicio Qa Y Gestor Proyectos,Lider Servicio Qa Y Gestor Proyectos,2,TRUE
@@ -3282,7 +3282,7 @@ Logistics Analyst,Logistics Analyst,1,TRUE
 Mainframe Batch Specialist,Mainframe Batch Specialist,1,TRUE
 Manager,Manager,1,TRUE
 Manager Business,Manager Business,2,TRUE
-Manager Business Ti,Manager Business Ti,2,TRUE
+Manager Business Ti,Manager Business,2,FALSE
 "Manager Client Support, Peru","Manager Client Support, Peru",1,TRUE
 Mantenimiento,Mantenimiento,3,TRUE
 Marinero De Bahia,Marinero De Bahia,1,TRUE
@@ -3300,9 +3300,9 @@ Mejora De Procesos,Mejora De Procesos,1,TRUE
 Mentor,Mentor,1,TRUE
 Mercaderista,Mercaderista,2,TRUE
 Merchandise Hostess,Merchandise Hostess,1,TRUE
-Merchandise Hostess - Epcot,Merchandise Hostess - Epcot,1,TRUE
+Merchandise Hostess - Epcot,Merchandise Hostess,1,FALSE
 Mesa De Ayuda,Mesa De Ayuda,2,TRUE
-Mesa De Ayuda / Soporte Tecnico,Mesa De Ayuda / Soporte Tecnico,1,TRUE
+Mesa De Ayuda / Soporte Tecnico,Mesa De Ayuda,1,FALSE
 Mesero,Mesero,1,TRUE
 Microsoft Product Specialist Leader,Microsoft Product Specialist Leader,1,TRUE
 Middle Developer,Middle Developer,1,TRUE
@@ -3349,7 +3349,7 @@ Operador De Data Center,Operador De Data Center,1,TRUE
 Operador De Dato,Operador De Dato,2,TRUE
 Operador De Impresion,Operador De Impresion,1,TRUE
 Operador De Infraestructura,Operador De Infraestructura,4,TRUE
-Operador De Infraestructura Y Servidores,Operador De Infraestructura Y Servidores,2,TRUE
+Operador De Infraestructura Y Servidores,Operador De Infraestructura,2,FALSE
 Operador De Modulo,Operador De Modulo,1,TRUE
 Operador De Monitoreo,Operador De Monitoreo,2,TRUE
 Operador De Plataforma Digital,Operador De Plataforma Digital,2,TRUE
@@ -3425,12 +3425,12 @@ Practicante - Equipo De Desarrollo De Producto,Practicante - Equipo De Desarroll
 Practicante - Gerencia Comercial,Practicante - Gerencia Comercial,1,TRUE
 Practicante - Pre Profesional,Practicante - Pre Profesional,1,TRUE
 Practicante Administracion,Practicante Administracion,1,TRUE
-Practicante Administracion - Area Operaciones,Practicante Administracion - Area Operaciones,1,TRUE
-Practicante Administrativa,Practicante Administrativa,1,TRUE
-Practicante Administrativo,Practicante Administrativo,8,TRUE
-Practicante Administrativo De Servicios,Practicante Administrativo De Servicios,1,TRUE
-Practicante Administrativo Y Rr.Hh,Practicante Administrativo Y Rr.Hh,2,TRUE
-Practicante Adminstrativo,Practicante Adminstrativo,1,TRUE
+Practicante Administracion - Area Operaciones,Practicante Administracion,1,FALSE
+Practicante Administrativa,Practicante Administracion,1,FALSE
+Practicante Administrativo,Practicante Administracion,8,FALSE
+Practicante Administrativo De Servicios,Practicante Administracion,1,FALSE
+Practicante Administrativo Y Rr.Hh,Practicante Administracion,2,FALSE
+Practicante Adminstrativo,Practicante Administracion,1,FALSE
 Practicante Analista Programador,Practicante Analista Programador,2,TRUE
 Practicante Area Comercial,Practicante Area Comercial,1,TRUE
 Practicante Asociaciones Publicas Y Privadas,Practicante Asociaciones Publicas Y Privadas,1,TRUE
@@ -3439,7 +3439,7 @@ Practicante Calidad,Practicante Calidad,2,TRUE
 Practicante Comercial,Practicante Comercial,13,TRUE
 Practicante Comercial De Negocios Masivos,Practicante Comercial,1,FALSE
 Practicante Contable,Practicante Contable,1,TRUE
-Practicante Contable-Administrativo,Practicante Contable-Administrativo,1,TRUE
+Practicante Contable-Administrativo,Practicante Contable,1,FALSE
 Practicante Control De Morosidad,Practicante Control De Morosidad,1,TRUE
 Practicante Customer Experience,Practicante Customer Experience,1,TRUE
 Practicante De Administracion,Practicante De Administracion,5,TRUE
@@ -3472,7 +3472,7 @@ Practicante De Comunicacion Audiovisual Pucp,Practicante De Comunicacion Audiovi
 Practicante De Consultoria,Practicante De Consultoria,2,TRUE
 Practicante De Consultoria Organizacional,Practicante De Consultoria Organizacional,1,TRUE
 Practicante De Contrataciones,Practicante De Contrataciones,1,TRUE
-Practicante De Contrataciones Del Estado,Practicante De Contrataciones Del Estado,1,TRUE
+Practicante De Contrataciones Del Estado,Practicante De Contrataciones,1,FALSE
 Practicante De Control De Calidad,Practicante De Control De Calidad,1,TRUE
 Practicante De Control De Procesos,Practicante De Control De Procesos,1,TRUE
 Practicante De Cuentas Del Estado,Practicante De Cuentas Del Estado,1,TRUE
@@ -3480,11 +3480,11 @@ Practicante De Cultura Organizacional,Practicante De Cultura Organizacional,1,TR
 Practicante De Darsa (Calendarizacion),Practicante De Darsa (Calendarizacion),2,TRUE
 Practicante De Data Y Analytics,Practicante De Data Y Analytics,4,TRUE
 Practicante De Desarrollo,Practicante De Desarrollo,3,TRUE
-Practicante De Desarrollo De Aplicativo,Practicante De Desarrollo De Aplicativo,2,TRUE
-Practicante De Desarrollo De Software,Practicante De Desarrollo De Software,2,TRUE
-Practicante De Desarrollo Organizacional,Practicante De Desarrollo Organizacional,1,TRUE
-Practicante De Desarrollo Profesional,Practicante De Desarrollo Profesional,1,TRUE
-Practicante De Desarrollo Web,Practicante De Desarrollo Web,1,TRUE
+Practicante De Desarrollo De Aplicativo,Practicante De Desarrollo,2,FALSE
+Practicante De Desarrollo De Software,Practicante De Desarrollo,2,FALSE
+Practicante De Desarrollo Organizacional,Practicante De Desarrollo,1,FALSE
+Practicante De Desarrollo Profesional,Practicante De Desarrollo,1,FALSE
+Practicante De Desarrollo Web,Practicante De Desarrollo,1,FALSE
 Practicante De Diseno Grafico,Practicante De Diseno Grafico,1,TRUE
 Practicante De Diseno Y Desarrollo,Practicante De Diseno Y Desarrollo,1,TRUE
 Practicante De Diseno Y Domotica,Practicante De Diseno Y Domotica,1,TRUE
@@ -3522,10 +3522,10 @@ Practicante De Logistica,Practicante De Logistica,3,TRUE
 Practicante De Maestrias Especializadas,Practicante De Maestrias Especializadas,1,TRUE
 "Practicante De Mantenimiento,Reparacion Y Redes","Practicante De Mantenimiento,Reparacion Y Redes",1,TRUE
 Practicante De Marketing,Practicante De Marketing,7,TRUE
-Practicante De Marketing Digital,Practicante De Marketing Digital,1,TRUE
-Practicante De Marketing Y Comunicacion Interna,Practicante De Marketing Y Comunicacion Interna,1,TRUE
+Practicante De Marketing Digital,Practicante De Marketing,1,FALSE
+Practicante De Marketing Y Comunicacion Interna,Practicante De Marketing,1,FALSE
 Practicante De Operaciones,Practicante De Operaciones,3,TRUE
-Practicante De Operaciones Y Distribucion,Practicante De Operaciones Y Distribucion,1,TRUE
+Practicante De Operaciones Y Distribucion,Practicante De Operaciones,1,FALSE
 Practicante De Planeamiento Y Gestion,Practicante De Planeamiento Y Gestion,1,TRUE
 Practicante De Planificacion,Practicante De Planificacion,1,TRUE
 Practicante De Planificacion Comercial,Practicante De Planificacion Comercial,1,TRUE
@@ -3535,11 +3535,11 @@ Practicante De Procesos,Practicante De Procesos,1,TRUE
 Practicante De Programacion,Practicante De Programacion,1,TRUE
 Practicante De Programas Y Proyectos,Practicante De Programas Y Proyectos,1,TRUE
 Practicante De Psicologia,Practicante De Psicologia,7,TRUE
-Practicante De Psicologia Clinica,Practicante De Psicologia Clinica,1,TRUE
-Practicante De Psicologia Educativa,Practicante De Psicologia Educativa,1,TRUE
-Practicante De Psicologia Ocupacional,Practicante De Psicologia Ocupacional,1,TRUE
-Practicante De Psicologia Organizacional,Practicante De Psicologia Organizacional,3,TRUE
-Practicante De Psicologia Social Educativa,Practicante De Psicologia Social Educativa,1,TRUE
+Practicante De Psicologia Clinica,Practicante De Psicologia,1,FALSE
+Practicante De Psicologia Educativa,Practicante De Psicologia,1,FALSE
+Practicante De Psicologia Ocupacional,Practicante De Psicologia,1,FALSE
+Practicante De Psicologia Organizacional,Practicante De Psicologia,3,FALSE
+Practicante De Psicologia Social Educativa,Practicante De Psicologia,1,FALSE
 Practicante De Reclutamiento,Practicante De Recursos Humanos,1,FALSE
 Practicante De Reclutamiento Y Seleccion,Practicante De Recursos Humanos,19,FALSE
 Practicante De Reclutamiento Y Seleccion- Rrhh,Practicante De Recursos Humanos,1,FALSE
@@ -3551,7 +3551,7 @@ Practicante De Redes Y Comunicaciones,Practicante De Redes Y Comunicaciones,1,TR
 Practicante De Registros Academicos,Practicante De Registros Academicos,1,TRUE
 Practicante De Remuneraciones,Practicante De Remuneraciones,3,TRUE
 Practicante De Resultados Comerciales,Practicante De Resultados Comerciales,1,TRUE
-Practicante De Rh,Practicante De Rh,1,TRUE
+Practicante De Rh,Practicante De Recursos Humanos,1,FALSE
 Practicante De Riesgo Operacional Y Laft,Practicante De Riesgo Operacional Y Laft,1,TRUE
 Practicante De Rrhh,Practicante De Recursos Humanos,6,FALSE
 Practicante De Seleccion,Practicante De Recursos Humanos,1,FALSE
@@ -3564,12 +3564,12 @@ Practicante De Sistemas,Practicante De Sistemas,9,TRUE
 Practicante De Sistemas De Informacion,Practicante De Sistemas De Informacion,1,TRUE
 Practicante De Soporte A Laboratorios,Practicante De Soporte A Laboratorios,1,TRUE
 Practicante De Supply,Practicante De Supply,1,TRUE
-Practicante De T.I,Practicante De T.I,1,TRUE
+Practicante De T.I,Practicante De Tecnologias De La Informacion,1,FALSE
 Practicante De Talento Humano,Practicante De Talento Humano,1,TRUE
 Practicante De Talento Y Cultura,Practicante De Talento Y Cultura,3,TRUE
 Practicante De Tecnologias De La Informacion,Practicante De Tecnologias De La Informacion,1,TRUE
 Practicante De Telefonia,Practicante De Telefonia,1,TRUE
-Practicante De Ti,Practicante De Ti,7,TRUE
+Practicante De Ti,Practicante De Tecnologias De La Informacion,7,FALSE
 Practicante De Tipo De Cambio,Practicante De Tipo De Cambio,1,TRUE
 Practicante De Trabajo Social,Practicante De Trabajo Social,1,TRUE
 Practicante De Ventas,Practicante De Ventas,1,TRUE
@@ -3602,8 +3602,8 @@ Practicante Hr Business Partnering,Practicante Hr Business Partnering,1,TRUE
 Practicante Infraestructura Y Ti,Practicante Infraestructura Y Ti,1,TRUE
 Practicante Laboral,Practicante Laboral,1,TRUE
 Practicante Logistica,Practicante Logistica,1,TRUE
-Practicante Logistica Comercial,Practicante Logistica Comercial,4,TRUE
-Practicante Logistico - Operacion,Practicante Logistico - Operacion,1,TRUE
+Practicante Logistica Comercial,Practicante Logistica,4,FALSE
+Practicante Logistico - Operacion,Practicante Logistica,1,FALSE
 Practicante Marketing,Practicante Marketing,1,TRUE
 Practicante Planeacion Financiera,Practicante Planeacion Financiera,1,TRUE
 Practicante Planeamiento Mantenimiento,Practicante Planeamiento Mantenimiento,1,TRUE
@@ -3694,7 +3694,7 @@ Practicante Sistema De Gestion De Calidad,Practicante Sistema De Gestion De Cali
 Practicante Soporte Tecnico,Practicante Soporte Tecnico,1,TRUE
 Practicante Ssoma,Practicante Ssoma,1,TRUE
 Practicante Ti,Practicante Ti,3,TRUE
-Practicante Ti.,Practicante Ti.,1,TRUE
+Practicante Ti.,Practicante Ti,1,FALSE
 Practicante Trade Marketing,Practicante Trade Marketing,1,TRUE
 Practicante Voluntario De Administracion,Practicante Voluntario De Administracion,1,TRUE
 Practicante/Analista Calidad,Practicante/Analista Calidad,1,TRUE
@@ -3726,15 +3726,15 @@ Produccion,Produccion,1,TRUE
 Product Design / Strategy Comercial / Ux,Product Design / Strategy Comercial / Ux,1,TRUE
 Product Designer,Product Designer,1,TRUE
 Product Manager,Product Manager,3,TRUE
-Product Manager - Ux/Ui,Product Manager - Ux/Ui,1,TRUE
-Product Manager Corporate Peru,Product Manager Corporate Peru,1,TRUE
-Product Manager De Bi Y Mkt Digital,Product Manager De Bi Y Mkt Digital,1,TRUE
+Product Manager - Ux/Ui,Product Manager,1,FALSE
+Product Manager Corporate Peru,Product Manager,1,FALSE
+Product Manager De Bi Y Mkt Digital,Product Manager,1,FALSE
 Product Owner,Product Owner,9,TRUE
-Product Owner (Freelance),Product Owner (Freelance),1,TRUE
-Product Owner Db - Software Developer,Product Owner Db - Software Developer,1,TRUE
-Product Owner Del Producto Regularizacion De Cuent,Product Owner Del Producto Regularizacion De Cuent,1,TRUE
-Product Owner Sr - Lider De Proyectos,Product Owner Sr - Lider De Proyectos,1,TRUE
-Product Owner/ Lider Tecnico,Product Owner/ Lider Tecnico,1,TRUE
+Product Owner (Freelance),Product Owner,1,FALSE
+Product Owner Db - Software Developer,Product Owner,1,FALSE
+Product Owner Del Producto Regularizacion De Cuent,Product Owner,1,FALSE
+Product Owner Sr - Lider De Proyectos,Product Owner,1,FALSE
+Product Owner/ Lider Tecnico,Product Owner,1,FALSE
 Product Support Analyst,Product Support Analyst,1,TRUE
 Profesional 2 Nivel 4,Profesional 2 Nivel 4,4,TRUE
 Profesional De Venta Consumo,Profesional De Venta Consumo,1,TRUE
@@ -3823,9 +3823,9 @@ Promotor Comercial,Promotor Comercial,5,TRUE
 Promotor De Experiencias Al Colaborador,Promotor De Experiencias Al Colaborador,1,TRUE
 Promotor De Proyectos,Promotor De Proyectos,1,TRUE
 Promotor De Servicios,Promotor De Servicios,3,TRUE
-Promotor De Servicios Bancario,Promotor De Servicios Bancario,1,TRUE
+Promotor De Servicios Bancario,Promotor De Servicios,1,FALSE
 Promotor De Ventas,Promotor De Ventas,3,TRUE
-Promotor De Ventas Y Tecnico,Promotor De Ventas Y Tecnico,1,TRUE
+Promotor De Ventas Y Tecnico,Promotor De Ventas,1,FALSE
 Promotora Corporativa,Promotora Corporativa,1,TRUE
 Promotora De Colegios,Promotora De Colegios,1,TRUE
 Promotora De Ventas.,Promotora De Ventas.,1,TRUE
@@ -3838,14 +3838,14 @@ Proyecto: Consultor Bi Y Analitica / Cloud,Proyecto: Consultor Bi Y Analitica / 
 Proyectos,Proyectos,4,TRUE
 Proyectos De Soluciones Audiovisuales,Proyectos De Soluciones Audiovisuales,1,TRUE
 Ps Core Engineer,Ps Core Engineer,1,TRUE
-Psicologa,Psicologa,4,TRUE
-Psicologa Asistente,Psicologa Asistente,1,TRUE
-Psicologa Clinica,Psicologa Clinica,1,TRUE
-'Psicologa Educativa,'Psicologa Educativa,1,TRUE
-Psicologia,Psicologia,1,TRUE
-Psicologico,Psicologico,1,TRUE
+Psicologa,Psicologo,4,FALSE
+Psicologa Asistente,Psicologo,1,FALSE
+Psicologa Clinica,Psicologo,1,FALSE
+'Psicologa Educativa,Psicologo,1,FALSE
+Psicologia,Psicologo,1,FALSE
+Psicologico,Psicologo,1,FALSE
 Psicologo,Psicologo,3,TRUE
-Psicologo Organizacional,Psicologo Organizacional,1,TRUE
+Psicologo Organizacional,Psicologo,1,FALSE
 Pss,Pss,1,TRUE
 Publicista,Publicista,2,TRUE
 Pyo,Pyo,1,TRUE
@@ -3866,9 +3866,9 @@ Quality Analyst,Quality Analyst,2,TRUE
 Rac Monitor,Rac Monitor,1,TRUE
 Recaudacion De Empresas,Recaudacion De Empresas,2,TRUE
 Recepcionista,Recepcionista,3,TRUE
-Recepcionista Administrativa,Recepcionista Administrativa,2,TRUE
-Recepcionista Senior Y Supervisora De Sst,Recepcionista Senior Y Supervisora De Sst,1,TRUE
-Recepcionista Y Asesora Educativas,Recepcionista Y Asesora Educativas,3,TRUE
+Recepcionista Administrativa,Recepcionista,2,FALSE
+Recepcionista Senior Y Supervisora De Sst,Recepcionista,1,FALSE
+Recepcionista Y Asesora Educativas,Recepcionista,3,FALSE
 Recibidor Pagador,Recibidor Pagador,2,TRUE
 Reclutador,Reclutador,1,TRUE
 Reclutador Freelance,Reclutador Freelance,1,TRUE
@@ -3887,17 +3887,17 @@ Reponedor Y Carryboy,Reponedor Y Carryboy,1,TRUE
 Reportera,Reportera,1,TRUE
 "Reportero, Conductor Y Operador Switcher","Reportero, Conductor Y Operador Switcher",1,TRUE
 Representante Comercial,Representante Comercial,3,TRUE
-Representante Comercial Peru,Representante Comercial Peru,1,TRUE
+Representante Comercial Peru,Representante Comercial,1,FALSE
 Representante D Eventas,Representante D Eventas,1,TRUE
 Representante De Banca,Representante De Banca,1,TRUE
-Representante De Banca Y Servicio,Representante De Banca Y Servicio,1,TRUE
+Representante De Banca Y Servicio,Representante De Banca,1,FALSE
 Representante De Servicio Al Cliente,Representante De Servicio Al Cliente,1,TRUE
 Representante De Servicios,Representante De Servicios,1,TRUE
 Representante De Ventas,Representante De Ventas,4,TRUE
-Representante De Ventas Locales,Representante De Ventas Locales,1,TRUE
+Representante De Ventas Locales,Representante De Ventas,1,FALSE
 Representante Entel,Representante Entel,1,TRUE
 Representante Financiero,Representante Financiero,2,TRUE
-Representante Financiero Senior,Representante Financiero Senior,1,TRUE
+Representante Financiero Senior,Representante Financiero,1,FALSE
 Representante Tecnico Comercial,Representante Tecnico Comercial,1,TRUE
 Research Director,Research Director,1,TRUE
 Residente,Residente,5,TRUE
@@ -3916,21 +3916,21 @@ Responsable De Desarrollo De Negocios Peru,Responsable De Desarrollo De Negocios
 Responsable De Finanzas,Responsable De Finanzas,1,TRUE
 Responsable De Gestion,Responsable De Gestion,1,TRUE
 Responsable De Infraestructura Y Si,Responsable De Infraestructura Y Si,1,TRUE
-Responsable De Infraestructura Y Si Corporativo,Responsable De Infraestructura Y Si Corporativo,2,TRUE
+Responsable De Infraestructura Y Si Corporativo,Responsable De Infraestructura Y Si,2,FALSE
 Responsable De Inteligencia Comercial,Responsable De Inteligencia Comercial,1,TRUE
 Responsable De Local De Votacion,Responsable De Local De Votacion,1,TRUE
 Responsable De Logistica,Responsable De Logistica,1,TRUE
-Responsable De Logistica Y Caja,Responsable De Logistica Y Caja,1,TRUE
+Responsable De Logistica Y Caja,Responsable De Logistica,1,FALSE
 Responsable De Obra,Responsable De Obra,1,TRUE
 Responsable De Operaciones,Responsable De Operaciones,1,TRUE
 Responsable De Proyectos De Software,Responsable De Proyectos De Software,1,TRUE
 Responsable De Recursos Humanos,Responsable De Recursos Humanos,2,TRUE
 Responsable De Redes Y Datacenter,Responsable De Redes Y Datacenter,4,TRUE
-Responsable De Rrhh,Responsable De Rrhh,2,TRUE
+Responsable De Rrhh,Responsable De Recursos Humanos,2,FALSE
 Responsable De Sistemas,Responsable De Sistemas,1,TRUE
 Responsable De Sistemas &Amp; Comunicaciones,Responsable De Sistemas &Amp; Comunicaciones,1,TRUE
 Responsable De Tecnologia E Informacion,Responsable De Tecnologia E Informacion,2,TRUE
-Responsable De Ti,Responsable De Ti,2,TRUE
+Responsable De Ti,Responsable De Tecnologia E Informacion,2,FALSE
 Responsable Del Area Comercial,Responsable Del Area Comercial,1,TRUE
 Responsable Del Area De Bienestar Social,Responsable Del Area De Bienestar Social,1,TRUE
 Responsable Del Area De Comunicaciones,Responsable Del Area De Comunicaciones,1,TRUE
@@ -3954,8 +3954,8 @@ Sales Manager,Sales Manager,5,TRUE
 Sales Operation Manager,Sales Operation Manager,1,TRUE
 Sales Representative E-Commerce,Sales Representative E-Commerce,1,TRUE
 Sales Specialist,Sales Specialist,2,TRUE
-Sales Specialist Latam,Sales Specialist Latam,1,TRUE
-Sales Specialist/Pre Venta Junior,Sales Specialist/Pre Venta Junior,1,TRUE
+Sales Specialist Latam,Sales Specialist,1,FALSE
+Sales Specialist/Pre Venta Junior,Sales Specialist,1,FALSE
 Sales Staff,Sales Staff,1,TRUE
 Salesforce Developer,Salesforce Developer,1,TRUE
 Sap Netweaver (Project Telefonica),Sap Netweaver (Project Telefonica),1,TRUE
@@ -4030,7 +4030,7 @@ Soa Specialist Architect,Soa Specialist Architect,1,TRUE
 Soc Engineer(Smartcare),Soc Engineer(Smartcare),1,TRUE
 Social Assistant / People Experience Specialist,Social Assistant / People Experience Specialist,1,TRUE
 Social Media Manager,Social Media Manager,2,TRUE
-Social Media Manager/Fotografo,Social Media Manager/Fotografo,1,TRUE
+Social Media Manager/Fotografo,Social Media Manager,1,FALSE
 Social Worker,Social Worker,1,TRUE
 Social Worker People Partner,Social Worker People Partner,1,TRUE
 Socio En El Desarrollo De Proyectos De Innovacion,Socio En El Desarrollo De Proyectos De Innovacion,1,TRUE
@@ -4043,17 +4043,17 @@ Software Engineer 2,Software Engineer,1,FALSE
 Soluciones Tecnologicas Ti,Soluciones Tecnologicas Ti,1,TRUE
 Solution Analyst,Solution Analyst,4,TRUE
 Solution Architect,Solution Architect,1,TRUE
-Solution Assistan,Solution Assistan,2,TRUE
-Solution Assistance,Solution Assistance,1,TRUE
-Solution Assistant,Solution Assistant,5,TRUE
-Solution Assistant Sa-N1,Solution Assistant Sa-N1,1,TRUE
-Solution Assistent,Solution Assistent,2,TRUE
+Solution Assistan,Solutions Assistant,2,FALSE
+Solution Assistance,Solutions Assistant,1,FALSE
+Solution Assistant,Solutions Assistant,5,FALSE
+Solution Assistant Sa-N1,Solutions Assistant,1,FALSE
+Solution Assistent,Solutions Assistant,2,FALSE
 Solutions Analyst,Solutions Analyst,7,TRUE
-Solutions Assistance,Solutions Assistance,1,TRUE
+Solutions Assistance,Solutions Assistant,1,FALSE
 Solutions Assistant,Solutions Assistant,1,TRUE
-Solutions Assistant - N1,Solutions Assistant - N1,1,TRUE
-Solutions Assistant (Sa - N1),Solutions Assistant (Sa - N1),1,TRUE
-Solutions Assitant Bootcamp,Solutions Assitant Bootcamp,1,TRUE
+Solutions Assistant - N1,Solutions Assistant,1,FALSE
+Solutions Assistant (Sa - N1),Solutions Assistant,1,FALSE
+Solutions Assitant Bootcamp,Solutions Assistant,1,FALSE
 Solutions Engineer,Solutions Engineer,1,TRUE
 Solutions Team Leader,Solutions Team Leader,1,TRUE
 Soporte,Soporte,1,TRUE
@@ -4104,8 +4104,8 @@ Specialist Infrastructure &Amp; Middleware,Specialist Infrastructure &Amp; Middl
 Specialist It,Specialist It,1,TRUE
 Specialist Product Hp,Specialist Product Hp,1,TRUE
 Specialist Sourcer,Specialist Sourcer,1,TRUE
-Specialist Sourcer I,Specialist Sourcer I,1,TRUE
-Specialist Sourcer Ii,Specialist Sourcer Ii,1,TRUE
+Specialist Sourcer I,Specialist Sourcer,1,FALSE
+Specialist Sourcer Ii,Specialist Sourcer,1,FALSE
 Sql Developer / Azure,Sql Developer / Azure,4,TRUE
 Sre,Sre,2,TRUE
 Sst,Sst,1,TRUE
@@ -4172,9 +4172,9 @@ Supervisor De Mesa De Ayuda,Supervisor De Mesa De Ayuda,1,TRUE
 Supervisor De Migraciones - Proyecto Fonafe,Supervisor De Migraciones - Proyecto Fonafe,1,TRUE
 Supervisor De Obra,Supervisor De Obra,1,TRUE
 Supervisor De Operaciones,Supervisor De Operaciones,6,TRUE
-Supervisor De Operaciones In House,Supervisor De Operaciones In House,1,TRUE
-Supervisor De Operaciones Ti,Supervisor De Operaciones Ti,2,TRUE
-Supervisor De Operaciones Y Servicios Ti,Supervisor De Operaciones Y Servicios Ti,2,TRUE
+Supervisor De Operaciones In House,Supervisor De Operaciones,1,FALSE
+Supervisor De Operaciones Ti,Supervisor De Operaciones,2,FALSE
+Supervisor De Operaciones Y Servicios Ti,Supervisor De Operaciones,2,FALSE
 Supervisor De Personal,Supervisor De Personal,1,TRUE
 Supervisor De Produccion De Ensamble &Amp; Empaque,Supervisor De Produccion De Ensamble &Amp; Empaque,1,TRUE
 Supervisor De Proyecto Cloud,Supervisor De Proyecto Cloud,2,TRUE
@@ -4185,12 +4185,12 @@ Supervisor De Retail,Supervisor De Retail,1,TRUE
 Supervisor De Seguridad,Supervisor De Seguridad,1,TRUE
 Supervisor De Seguridad E Higiene,Supervisor De Seguridad E Higiene,1,TRUE
 Supervisor De Serv. Infraestructura Central Ti,Supervisor De Serv. Infraestructura Central Ti,1,TRUE
-Supervisor De Servicio,Supervisor De Servicio,2,TRUE
+Supervisor De Servicio,Supervisor De Servicios,2,FALSE
 Supervisor De Servicios,Supervisor De Servicios,2,TRUE
-Supervisor De Servicios - Proyecto Entel,Supervisor De Servicios - Proyecto Entel,1,TRUE
-Supervisor De Servicios Cloud,Supervisor De Servicios Cloud,1,TRUE
-Supervisor De Servicios De Ti,Supervisor De Servicios De Ti,1,TRUE
-Supervisor De Servicios Ti,Supervisor De Servicios Ti,3,TRUE
+Supervisor De Servicios - Proyecto Entel,Supervisor De Servicios,1,FALSE
+Supervisor De Servicios Cloud,Supervisor De Servicios,1,FALSE
+Supervisor De Servicios De Ti,Supervisor De Servicios,1,FALSE
+Supervisor De Servicios Ti,Supervisor De Servicios,3,FALSE
 Supervisor De Sig,Supervisor De Sig,2,TRUE
 Supervisor De Soporte Tecnico,Supervisor De Soporte Tecnico,1,TRUE
 Supervisor De Soporte Tecnico Mesa De Ayuda,Supervisor De Soporte Tecnico Mesa De Ayuda,1,TRUE
@@ -4204,7 +4204,7 @@ Supervisor E Ingeniero De Servicios,Supervisor E Ingeniero De Servicios,3,TRUE
 Supervisor Ehs Lider,Supervisor Ehs Lider,1,TRUE
 Supervisor Electronico,Supervisor Electronico,1,TRUE
 Supervisor Help Desk,Supervisor Help Desk,1,TRUE
-Supervisor Helpdesk,Supervisor Helpdesk,1,TRUE
+Supervisor Helpdesk,Supervisor Help Desk,1,FALSE
 Supervisor Mecanico Ambiental,Supervisor Mecanico Ambiental,1,TRUE
 Supervisor Mesa De Ayuda,Supervisor Mesa De Ayuda,1,TRUE
 Supervisor Operativo,Supervisor Operativo,3,TRUE
@@ -4214,7 +4214,7 @@ Supervisor Sigi,Supervisor Sigi,1,TRUE
 Supervisor Sistemas,Supervisor Sistemas,1,TRUE
 Supervisor Ssoma,Supervisor Ssoma,1,TRUE
 Supervisor Ti,Supervisor Ti,4,TRUE
-Supervisor Ti/Mesa De Ayuda/Lider De Proyectos,Supervisor Ti/Mesa De Ayuda/Lider De Proyectos,1,TRUE
+Supervisor Ti/Mesa De Ayuda/Lider De Proyectos,Supervisor Ti,1,FALSE
 Supervisor Y Coordinadora De Soporte Tecnico,Supervisor Y Coordinadora De Soporte Tecnico,1,TRUE
 Supervisora,Supervisora,4,TRUE
 Supervisora (Rol),Supervisora (Rol),1,TRUE
@@ -4259,8 +4259,8 @@ Technology Consultant,Technology Consultant,1,TRUE
 Tecnica En Informatica,Tecnica En Informatica,1,TRUE
 Tecnico,Tecnico,10,TRUE
 Tecnico Administrativo,Tecnico Administrativo,3,TRUE
-Tecnico Administrativo De Personal,Tecnico Administrativo De Personal,1,TRUE
-Tecnico Administrativo Vii / Administrativo,Tecnico Administrativo Vii / Administrativo,1,TRUE
+Tecnico Administrativo De Personal,Tecnico Administrativo,1,FALSE
+Tecnico Administrativo Vii / Administrativo,Tecnico Administrativo,1,FALSE
 Tecnico Atencion De Deposito,Tecnico Atencion De Deposito,1,TRUE
 Tecnico Clonacion Y Emigracion Dd Datos,Tecnico Clonacion Y Emigracion Dd Datos,1,TRUE
 Tecnico De Atencion Telefonica,Tecnico De Atencion Telefonica,1,TRUE
@@ -4270,7 +4270,7 @@ Tecnico De Fraude,Tecnico De Fraude,1,TRUE
 Tecnico De Impresoras,Tecnico De Impresoras,1,TRUE
 Tecnico De Investigacion Y Desarrollo,Tecnico De Investigacion Y Desarrollo,1,TRUE
 Tecnico De Mantenimiento,Tecnico De Mantenimiento,1,TRUE
-Tecnico De Mantenimiento Y Emergencia,Tecnico De Mantenimiento Y Emergencia,1,TRUE
+Tecnico De Mantenimiento Y Emergencia,Tecnico De Mantenimiento,1,FALSE
 Tecnico De Mesa De Ayuda,Tecnico De Mesa De Ayuda,1,TRUE
 Tecnico De Procesos Quimicos/Ayudante De Procesos,Tecnico De Procesos Quimicos/Ayudante De Procesos,1,TRUE
 Tecnico De Proyecto,Tecnico De Proyecto,1,TRUE
@@ -4280,7 +4280,7 @@ Tecnico De Soporte De Ti,Tecnico De Soporte De Ti,1,TRUE
 Tecnico De Soporte Ti,Tecnico De Soporte Ti,1,TRUE
 Tecnico De Video It,Tecnico De Video It,2,TRUE
 Tecnico Electrico,Tecnico Electrico,2,TRUE
-Tecnico Electrico N3,Tecnico Electrico N3,1,TRUE
+Tecnico Electrico N3,Tecnico Electrico,1,FALSE
 Tecnico Electronico,Tecnico Electronico,2,TRUE
 Tecnico En Computacion,Tecnico En Computacion,1,TRUE
 Tecnico En Informatica,Tecnico En Informatica,1,TRUE
@@ -4303,9 +4303,9 @@ Telco Project Leader,Telco Project Leader,1,TRUE
 Telco Senior,Telco Senior,1,TRUE
 Telemarketing,Telemarketing,1,TRUE
 Teleoperador,Teleoperador,5,TRUE
-Teleoperador - Banco De Credito Bcp,Teleoperador - Banco De Credito Bcp,1,TRUE
-Teleoperador De Cobranzas,Teleoperador De Cobranzas,1,TRUE
-Teleoperadora,Teleoperadora,4,TRUE
+Teleoperador - Banco De Credito Bcp,Teleoperador,1,FALSE
+Teleoperador De Cobranzas,Teleoperador,1,FALSE
+Teleoperadora,Teleoperador,4,FALSE
 Tendido Y Acceso,Tendido Y Acceso,1,TRUE
 Tenico En Sistemas E Informatica,Tenico En Sistemas E Informatica,1,TRUE
 Terapeuta De Bienestar Integral,Terapeuta De Bienestar Integral,1,TRUE
@@ -4348,14 +4348,14 @@ Tutor Academico,Tutor Academico,1,TRUE
 Tutor/Docente,Tutor/Docente,1,TRUE
 Tutora,Tutora,3,TRUE
 Tutoria,Tutoria,1,TRUE
-Ui Ux Designer,Ui Ux Designer,1,TRUE
+Ui Ux Designer,Ui/Ux Designer,1,FALSE
 Ui/Ux Designer,Ui/Ux Designer,1,TRUE
-Ux Designer,Ux Designer,3,TRUE
-Ux Researcher,Ux Researcher,1,TRUE
-Ux Ui Wordpress - Seo Specialist,Ux Ui Wordpress - Seo Specialist,1,TRUE
-"Ux, Ui, Front End Developer","Ux, Ui, Front End Developer",1,TRUE
-Ux/Ui - Disenador Web,Ux/Ui - Disenador Web,1,TRUE
-Ux/Ui Designer,Ux/Ui Designer,4,TRUE
+Ux Designer,Ui/Ux Designer,3,FALSE
+Ux Researcher,Ui/Ux Designer,1,FALSE
+Ux Ui Wordpress - Seo Specialist,Ui/Ux Designer,1,FALSE
+"Ux, Ui, Front End Developer",Ui/Ux Designer,1,FALSE
+Ux/Ui - Disenador Web,Ui/Ux Designer,1,FALSE
+Ux/Ui Designer,Ui/Ux Designer,4,FALSE
 Valet Dispatcher,Valet Dispatcher,1,TRUE
 Validacion De Datos/Digitadora,Validacion De Datos/Digitadora,1,TRUE
 Vendedor,Ventas,7,FALSE
@@ -4373,19 +4373,19 @@ Ventas Y Cobranzas,Ventas,1,FALSE
 Venue Technology Manager,Venue Technology Manager,2,TRUE
 Visitador Medico,Visitador Medico,1,TRUE
 Voluntaria,Voluntaria,5,TRUE
-Voluntaria Area De Cultura,Voluntaria Area De Cultura,1,TRUE
-Voluntaria At-Prim,Voluntaria At-Prim,1,TRUE
-Voluntaria Coordinadora Gestion Del Talento Humano,Voluntaria Coordinadora Gestion Del Talento Humano,1,TRUE
-Voluntaria De Reclutamiento Y Seleccion,Voluntaria De Reclutamiento Y Seleccion,1,TRUE
-Voluntaria Del Area De Gestion De Talento Humano,Voluntaria Del Area De Gestion De Talento Humano,1,TRUE
-Voluntaria En El Area De Recursos Humanos,Voluntaria En El Area De Recursos Humanos,1,TRUE
-Voluntariada,Voluntariada,1,TRUE
-Voluntariado Administracion De Sedes,Voluntariado Administracion De Sedes,1,TRUE
-Voluntario De Recursos Humanos,Voluntario De Recursos Humanos,1,TRUE
+Voluntaria Area De Cultura,Voluntaria,1,FALSE
+Voluntaria At-Prim,Voluntaria,1,FALSE
+Voluntaria Coordinadora Gestion Del Talento Humano,Voluntaria,1,FALSE
+Voluntaria De Reclutamiento Y Seleccion,Voluntaria,1,FALSE
+Voluntaria Del Area De Gestion De Talento Humano,Voluntaria,1,FALSE
+Voluntaria En El Area De Recursos Humanos,Voluntaria,1,FALSE
+Voluntariada,Voluntaria,1,FALSE
+Voluntariado Administracion De Sedes,Voluntaria,1,FALSE
+Voluntario De Recursos Humanos,Voluntaria,1,FALSE
 Web Designer,Web Designer,2,TRUE
 Web Developer,Web Developer,1,TRUE
-Web Developer // Especialista En Marketing Digital,Web Developer // Especialista En Marketing Digital,1,TRUE
+Web Developer // Especialista En Marketing Digital,Web Developer,1,FALSE
 Web Master,Web Master,1,TRUE
-Webmaster - E-Commerce,Webmaster - E-Commerce,1,TRUE
+Webmaster - E-Commerce,Web Master,1,FALSE
 Wellness Analyst - Suplencia,Wellness Analyst - Suplencia,2,TRUE
 Zone Venue Technology Manager,Zone Venue Technology Manager,1,TRUE

@@ -29,24 +29,24 @@ Adm Togad,Adm Togad,1,TRUE
 Adm. De Empresas Y Negocios Internacionales,Adm. De Empresas Y Negocios Internacionales,1,TRUE
 Adm. Negocios Internacionales,Adm. Negocios Internacionales,1,TRUE
 Adminisracion Bancaria,Adminisracion Bancaria,1,TRUE
-Administraacion,Administraacion,1,TRUE
+Administraacion,Administracion,1,FALSE
 Administraccion Industrial,Administraccion Industrial,1,TRUE
 Administracion,Administracion,128,TRUE
 Administracion - Recursos Humanos,Administracion - Recursos Humanos,1,TRUE
 Administracion 8Vo Ciclo,Administracion 8Vo Ciclo,1,TRUE
-Administracion Banca Y Finanzas,Administracion Banca Y Finanzas,2,TRUE
+Administracion Banca Y Finanzas,Administracion Bancaria,2,FALSE
 Administracion Bancaria,Administracion Bancaria,7,TRUE
-Administracion Bancaria Y Financiera,Administracion Bancaria Y Financiera,1,TRUE
-Administracion Bancaria Y Finanzas,Administracion Bancaria Y Finanzas,2,TRUE
+Administracion Bancaria Y Financiera,Administracion Bancaria,1,FALSE
+Administracion Bancaria Y Finanzas,Administracion Bancaria,2,FALSE
 Administracion Comercial,Administracion Comercial,1,TRUE
 Administracion Con Mencion En Direccion,Administracion Con Mencion En Direccion,1,TRUE
-Administracion Con Mencion En Direccion De Empresa,Administracion Con Mencion En Direccion De Empresa,4,TRUE
-Administracion De Banca Y Finanzas,Administracion De Banca Y Finanzas,8,TRUE
+Administracion Con Mencion En Direccion De Empresa,Administracion Con Mencion En Direccion,4,FALSE
+Administracion De Banca Y Finanzas,Administracion Bancaria,8,FALSE
 Administracion De Base De Datos,Administracion De Base De Datos,1,TRUE
-Administracion De Base De Datos En Oracle,Administracion De Base De Datos En Oracle,1,TRUE
-Administracion De Base De Datos Oracle,Administracion De Base De Datos Oracle,2,TRUE
-Administracion De Base De Datos Oracle 19C,Administracion De Base De Datos Oracle 19C,1,TRUE
-Administracion De Bd En Oracle,Administracion De Bd En Oracle,1,TRUE
+Administracion De Base De Datos En Oracle,Administracion De Base De Datos,1,FALSE
+Administracion De Base De Datos Oracle,Administracion De Base De Datos,2,FALSE
+Administracion De Base De Datos Oracle 19C,Administracion De Base De Datos,1,FALSE
+Administracion De Bd En Oracle,Administracion De Base De Datos,1,FALSE
 Administracion De Empreras,Administracion De Empresas,1,FALSE
 Administracion De Empresa,Administracion De Empresas,3,FALSE
 Administracion De Empresaa,Administracion De Empresas,1,FALSE
@@ -81,7 +81,7 @@ Administracion De Redes Y Servidores,Administracion De Redes Y Servidores,1,TRUE
 Administracion De Servicios,Administracion De Servicios,1,TRUE
 Administracion De Servicios Hoteleros,Administracion De Servicios Hoteleros,2,TRUE
 Administracion De Sistemas,Administracion De Sistemas,4,TRUE
-Administracion De Sistemas En Redes,Administracion De Sistemas En Redes,1,TRUE
+Administracion De Sistemas En Redes,Administracion De Sistemas,1,FALSE
 Administracion De Utm (Fortigate),Administracion De Utm (Fortigate),2,TRUE
 Administracion De Ventas,Administracion De Ventas,1,TRUE
 Administracion De Windows Server 2012/2016,Administracion De Windows Server 2012/2016,1,TRUE
@@ -93,8 +93,8 @@ Administracion En Negocios Internacionales,Administracion En Negocios Internacio
 Administracion En Salud,Administracion En Salud,4,TRUE
 Administracion En Turismo Y Hoteleria,Administracion En Turismo Y Hoteleria,2,TRUE
 Administracion Estrategica De Empresas,Administracion Estrategica De Empresas,1,TRUE
-Administracion Estrategica De Empresas (Mba),Administracion Estrategica De Empresas (Mba),1,TRUE
-Administracion Estrategica De Negocios,Administracion Estrategica De Negocios,1,TRUE
+Administracion Estrategica De Empresas (Mba),Administracion Estrategica De Empresas,1,FALSE
+Administracion Estrategica De Negocios,Administracion Estrategica De Empresas,1,FALSE
 Administracion Hotelera,Administracion Hotelera,5,TRUE
 Administracion Industrial,Administracion Industrial,11,TRUE
 Administracion Maritima Y Portuaria,Administracion Maritima Y Portuaria,1,TRUE
@@ -103,10 +103,10 @@ Administracion Mencion Recursos Humanos,Administracion Mencion Recursos Humanos,
 Administracion Negocios Internacionales,Administracion Negocios Internacionales,3,TRUE
 Administracion Turistica,Administracion Turistica,1,TRUE
 Administracion Y Agronegocios,Administracion Y Agronegocios,1,TRUE
-Administracion Y Direccion De Empresa,Administracion Y Direccion De Empresa,2,TRUE
+Administracion Y Direccion De Empresa,Administracion Y Direccion De Empresas,2,FALSE
 Administracion Y Direccion De Empresas,Administracion Y Direccion De Empresas,2,TRUE
-Administracion Y Direccion De Empresas.,Administracion Y Direccion De Empresas.,2,TRUE
-Administracion Y Direccion De Negocios,Administracion Y Direccion De Negocios,2,TRUE
+Administracion Y Direccion De Empresas.,Administracion Y Direccion De Empresas,2,FALSE
+Administracion Y Direccion De Negocios,Administracion Y Direccion De Empresas,2,FALSE
 Administracion Y Direccion De Proyectos,Administracion Y Direccion De Proyectos,2,TRUE
 Administracion Y Emprendimiento,Administracion Y Emprendimiento,1,TRUE
 Administracion Y Evaluacion De Proyectos,Administracion Y Evaluacion De Proyectos,1,TRUE
@@ -116,8 +116,8 @@ Administracion Y Gerencia De Emprendimiento,Administracion Y Gerencia,1,FALSE
 Administracion Y Gerencia Del Emprendimiento,Administracion Y Gerencia,2,FALSE
 Administracion Y Gerencia Empresarial,Administracion Y Gerencia,3,FALSE
 Administracion Y Gestion Comercial,Administracion Y Gestion Comercial,4,TRUE
-Administracion Y Gestion De Empresas,Administracion Y Gestion De Empresas,1,TRUE
-Administracion Y Gestion De Empresas ( Bachiller),Administracion Y Gestion De Empresas ( Bachiller),1,TRUE
+Administracion Y Gestion De Empresas,Administracion Y Gestion Empresarial,1,FALSE
+Administracion Y Gestion De Empresas ( Bachiller),Administracion Y Gestion Empresarial,1,FALSE
 Administracion Y Gestion Del Talento Humano,Administracion Y Gestion Del Talento Humano,5,TRUE
 Administracion Y Gestion Empresarial,Administracion Y Gestion Empresarial,1,TRUE
 Administracion Y Marketing,Administracion Y Marketing,37,TRUE
@@ -149,7 +149,7 @@ Administradora De Empresas,Administracion De Empresas,1,FALSE
 Administradora De Empresas Y Gestion,Administracion De Empresas,1,FALSE
 Adminitracion De Empresa,Administracion De Empresas,1,FALSE
 Adminitracion De Empresas,Administracion De Empresas,1,FALSE
-Adminitracion De Negocios Internacionales.,Adminitracion De Negocios Internacionales.,1,TRUE
+Adminitracion De Negocios Internacionales.,Adminstracion Y Negocios Internacionales,1,FALSE
 Adminstracion De Empresas,Administracion De Empresas,1,FALSE
 Adminstracion Y Negocios Internacionales,Adminstracion Y Negocios Internacionales,1,TRUE
 Admnistracion,Admnistracion,1,TRUE
@@ -166,7 +166,7 @@ Agile Development Specialization Program,Agile Development Specialization Progra
 Agile Marketing(Scrum),Agile Marketing(Scrum),1,TRUE
 Agile Mba,Agile Mba,1,TRUE
 Agile Scrum Master,Agile Scrum Master,1,TRUE
-"Agile Scrum Master, Smc(Tm), Sdc(Tm), Sfc(Tm)","Agile Scrum Master, Smc(Tm), Sdc(Tm), Sfc(Tm)",2,TRUE
+"Agile Scrum Master, Smc(Tm), Sdc(Tm), Sfc(Tm)",Agile Scrum Master,2,FALSE
 Agile Work Teams,Agile Work Teams,1,TRUE
 Agroexportaciones,Agroexportaciones,3,TRUE
 Almacenes E Inventarios,Almacenes E Inventarios,1,TRUE
@@ -183,7 +183,7 @@ Analisis De Informacion Con Power Bi Para Excel,Analisis De Informacion Con Powe
 Analisis De Informacion Con Tableu,Analisis De Informacion Con Tableu,1,TRUE
 Analisis De Negocios - Cbap,Analisis De Negocios - Cbap,4,TRUE
 Analisis De Sistemas,Analisis De Sistemas,2,TRUE
-Analisis De Sistemas Y Adm. De Base Datos Sql,Analisis De Sistemas Y Adm. De Base Datos Sql,1,TRUE
+Analisis De Sistemas Y Adm. De Base Datos Sql,Analisis De Sistemas,1,FALSE
 Analisis Y Desarrollo De Sistemas,Analisis Y Desarrollo De Sistemas,1,TRUE
 Analisis Y Diseno De Sistemas,Analisis Y Diseno De Sistemas,1,TRUE
 Analisis Y Diseno De Sistemas Isil,Analisis Y Diseno De Sistemas Isil,4,TRUE
@@ -203,10 +203,10 @@ Analista De Sistemas,Analista De Sistemas,10,TRUE
 Analista De Sistemas - Computacion E Informatica,Analista De Sistemas,1,FALSE
 Analista De Supply Chain,Analista De Sistemas,1,FALSE
 Analista E Ingeniero De Sistemas,Analista De Sistemas,1,FALSE
-Analista En Gestion Del Talento,Analista En Gestion Del Talento,1,TRUE
+Analista En Gestion Del Talento,Analista En Gestion Del Talento Humano,1,FALSE
 Analista En Gestion Del Talento Humano,Analista En Gestion Del Talento Humano,2,TRUE
 Analista Funcional / Administracion Y Sistemas,Analista Funcional / Administracion Y Sistemas,1,TRUE
-Analista Programador,Analista Programador,1,TRUE
+Analista Programador,Analista Programador Web,1,FALSE
 Analista Programador Web,Analista Programador Web,1,TRUE
 Analitica De Negocios Y Gestion De La Informacion,Analitica De Negocios Y Gestion De La Informacion,4,TRUE
 Analitica Digital,Analitica Digital,3,TRUE
@@ -235,26 +235,26 @@ Arquitectura De Datos En Cloud,Arquitectura De Datos En Cloud,2,TRUE
 Arquitectura De Interiores,Arquitectura De Interiores,1,TRUE
 Arquitectura Empresarial Aplicada,Arquitectura Empresarial Aplicada,1,TRUE
 Arquitectura Orientada Al Servicio,Arquitectura Orientada Al Servicio,1,TRUE
-Arquitectura Y Urbanismo,Arquitectura Y Urbanismo,2,TRUE
+Arquitectura Y Urbanismo,"Arquitectura, Urbanismo Y Artes",2,FALSE
 "Arquitectura, Urbanismo Y Artes","Arquitectura, Urbanismo Y Artes",1,TRUE
 Arte,Arte,1,TRUE
 Arte Y Diseno Empresarial,Arte Y Diseno Empresarial,1,TRUE
-Arte Y Diseno Grafico Empresarial,Arte Y Diseno Grafico Empresarial,3,TRUE
+Arte Y Diseno Grafico Empresarial,Arte Y Diseno Empresarial,3,FALSE
 Asignaturas Y Visitas Empresariales,Asignaturas Y Visitas Empresariales,1,TRUE
 Asistenta Social,Asistenta Social,1,TRUE
 Asistente Administrativo,Asistente Administrativo,1,TRUE
 "Asistente De Contabilidad, Finanzas Y Tributacion","Asistente De Contabilidad, Finanzas Y Tributacion",1,TRUE
 Asistente De Gerencia,Asistente De Gerencia,1,TRUE
 Asistente De Logistica,Asistente De Logistica,1,TRUE
-Asistente De Planilla,Asistente De Planilla,2,TRUE
+Asistente De Planilla,Asistente De Planillas,2,FALSE
 Asistente De Planillas,Asistente De Planillas,2,TRUE
 Asp. Mvc 5 Applications,Asp.Net Mvc,1,FALSE
 Asp.Net 5.0 Developer Projects,Asp.Net Mvc,1,FALSE
 Asp.Net Mvc,Asp.Net Mvc,18,TRUE
 Auditor Interno De Sistema Integrado De Gestio...,Auditor Interno De Sistema Integrado De Gestio...,1,TRUE
 Auditor Interno Iso 27001,Auditor Interno Iso 27001,1,TRUE
-Auditor Interno Iso 27001:2013,Auditor Interno Iso 27001:2013,1,TRUE
-Auditor Interno Iso/ Ec 2701,Auditor Interno Iso/ Ec 2701,1,TRUE
+Auditor Interno Iso 27001:2013,Auditor Interno Iso 27001,1,FALSE
+Auditor Interno Iso/ Ec 2701,Auditor Interno Iso 27001,1,FALSE
 Auditor Interno Sgsi,Auditor Interno Sgsi,1,TRUE
 Auditor Iso,Auditor Iso,1,TRUE
 Auditor Lider Pecb Iso 45001:2018,Auditor Lider Pecb Iso 45001:2018,1,TRUE
@@ -271,9 +271,9 @@ Auxiliar De Educacion,Auxiliar De Educacion,1,TRUE
 Auxiliar Electronico,Auxiliar Electronico,1,TRUE
 Auxiliar En Comercio Exterior,Auxiliar En Comercio Exterior,1,TRUE
 Aviacion Comercial,Aviacion Comercial,3,TRUE
-Aws,Aws,3,TRUE
+Aws,Aws (Amazon Web Services),3,FALSE
 Aws (Amazon Web Services),Aws (Amazon Web Services),1,TRUE
-Aws Big Data Analytics Especialist,Aws Big Data Analytics Especialist,1,TRUE
+Aws Big Data Analytics Especialist,Aws Big Data Analytics Specialist,1,FALSE
 Aws Big Data Analytics Specialist,Aws Big Data Analytics Specialist,2,TRUE
 Aws Certified Cloud Practitioner,Aws Certified Cloud Practitioner,2,TRUE
 Aws Certified Solution Architect - Associate,Aws Certified Solution Architect - Associate,2,TRUE
@@ -304,19 +304,19 @@ Bachiller / Administracion Y Recursos Humanos,Bachiller / Administracion Y Recur
 Bachiller / Ingenieria,Bachiller / Ingenieria,2,TRUE
 Bachiller / Ingenieria Informatica,Bachiller / Ingenieria Informatica,1,TRUE
 Bachiller Administracion De Empresas,Bachiller Administracion De Empresas,2,TRUE
-Bachiller Administracion Empresa,Bachiller Administracion Empresa,1,TRUE
-Bachiller Administrador De Empresas,Bachiller Administrador De Empresas,1,TRUE
-Bachiller De Administracion De Empresas,Bachiller De Administracion De Empresas,2,TRUE
+Bachiller Administracion Empresa,Bachiller Administracion De Empresas,1,FALSE
+Bachiller Administrador De Empresas,Bachiller Administracion De Empresas,1,FALSE
+Bachiller De Administracion De Empresas,Bachiller Administracion De Empresas,2,FALSE
 Bachiller De Arquitectura,Bachiller De Arquitectura,1,TRUE
 Bachiller De Ciencias Contables Y Financiera,Bachiller De Ciencias Contables Y Financiera,1,TRUE
 Bachiller De Ciencias De La Comunicacion,Bachiller De Ciencias De La Comunicacion,1,TRUE
 Bachiller De Comunicacion,Bachiller De Comunicacion,1,TRUE
-Bachiller De Ingenieria De Sistema,Bachiller De Ingenieria De Sistema,1,TRUE
-Bachiller De Ingenieria De Sistemas,Bachiller De Ingenieria De Sistemas,5,TRUE
+Bachiller De Ingenieria De Sistema,Bachiller En Ingenieria De Sistemas,1,FALSE
+Bachiller De Ingenieria De Sistemas,Bachiller En Ingenieria De Sistemas,5,FALSE
 Bachiller De Ingenieria Electrica,Bachiller De Ingenieria Electrica,1,TRUE
-Bachiller De Ingenieria Electronica,Bachiller De Ingenieria Electronica,3,TRUE
-Bachiller De Ingenieria Industrial,Bachiller De Ingenieria Industrial,3,TRUE
-Bachiller De Ingenieria Informatica,Bachiller De Ingenieria Informatica,1,TRUE
+Bachiller De Ingenieria Electronica,Bachiller En Ingenieria Electronica,3,FALSE
+Bachiller De Ingenieria Industrial,Bachiller En Ingenieria Industrial,3,FALSE
+Bachiller De Ingenieria Informatica,Bachiller En Ingenieria Informatica,1,FALSE
 Bachiller De Psicologia,Bachiller De Psicologia,4,TRUE
 Bachiller De Trabajo Social,Bachiller De Trabajo Social,3,TRUE
 Bachiller Derecho Ycc.Pp.,Bachiller Derecho Ycc.Pp.,1,TRUE
@@ -324,10 +324,10 @@ Bachiller En Adm. De Aduanas Y Comercio Exterior,Bachiller En Adm. De Aduanas Y 
 Bachiller En Adm. Y Finanzas Vi Ciclo,Bachiller En Adm. Y Finanzas Vi Ciclo,1,TRUE
 Bachiller En Administracion,Bachiller En Administracion,2,TRUE
 Bachiller En Administracion De Empresas,Bachiller En Administracion De Empresas,1,TRUE
-Bachiller En Administracion De Negocios,Bachiller En Administracion De Negocios,1,TRUE
+Bachiller En Administracion De Negocios,Bachiller En Administracion De Empresas,1,FALSE
 Bachiller En Administracion Y Marketing,Bachiller En Administracion Y Marketing,4,TRUE
 Bachiller En Administracion Y Recursos Humanos,Bachiller En Administracion Y Recursos Humanos,1,TRUE
-Bachiller En Administrador De Empresas,Bachiller En Administrador De Empresas,1,TRUE
+Bachiller En Administrador De Empresas,Bachiller En Administracion De Empresas,1,FALSE
 Bachiller En Arte Con Mencion En Diseno Grafico,Bachiller En Arte Con Mencion En Diseno Grafico,1,TRUE
 Bachiller En Ciencia De La Computacion,Bachiller En Ciencia De La Computacion,1,TRUE
 Bachiller En Ciencias De La Comunicacion,Bachiller En Ciencias De La Comunicacion,1,TRUE
@@ -336,9 +336,9 @@ Bachiller En Comunicacion,Bachiller En Comunicacion,1,TRUE
 Bachiller En Contabilidad,Bachiller En Contabilidad,1,TRUE
 Bachiller En Gestion De Recursos Humanos,Bachiller En Gestion De Recursos Humanos,1,TRUE
 Bachiller En Gestion Empresarial,Bachiller En Gestion Empresarial,2,TRUE
-Bachiller En Ing. De Sistemas,Bachiller En Ing. De Sistemas,3,TRUE
-Bachiller En Ing. De Sistemas E Informatica,Bachiller En Ing. De Sistemas E Informatica,2,TRUE
-Bachiller En Ing. De Sistemas Empresariales,Bachiller En Ing. De Sistemas Empresariales,2,TRUE
+Bachiller En Ing. De Sistemas,Bachiller En Ingenieria De Sistemas,3,FALSE
+Bachiller En Ing. De Sistemas E Informatica,Bachiller En Ingenieria De Sistemas,2,FALSE
+Bachiller En Ing. De Sistemas Empresariales,Bachiller En Ingenieria De Sistemas,2,FALSE
 Bachiller En Ing. De Software,Bachiller En Ing. De Software,1,TRUE
 Bachiller En Ingenieria De Diseno Grafico,Bachiller En Ingenieria De Diseno Grafico,1,TRUE
 Bachiller En Ingenieria De Las Telecomunicaciones,Bachiller En Ingenieria De Las Telecomunicaciones,1,TRUE
@@ -355,8 +355,8 @@ Bachiller En Ingenieria Industrial,Bachiller En Ingenieria Industrial,16,TRUE
 Bachiller En Ingenieria Industrial Y Comercial,Bachiller En Ingenieria Industrial,2,FALSE
 Bachiller En Ingenieria Industrial Y De Sistemas,Bachiller En Ingenieria Industrial,1,FALSE
 Bachiller En Ingenieria Informatica,Bachiller En Ingenieria Informatica,2,TRUE
-Bachiller En Ingenieria Informatica(En Curso),Bachiller En Ingenieria Informatica(En Curso),1,TRUE
-Bachiller En Ingenieria Informatica.,Bachiller En Ingenieria Informatica.,2,TRUE
+Bachiller En Ingenieria Informatica(En Curso),Bachiller En Ingenieria Informatica,1,FALSE
+Bachiller En Ingenieria Informatica.,Bachiller En Ingenieria Informatica,2,FALSE
 Bachiller En Ingenieria Mecatronica,Bachiller En Ingenieria Mecatronica,1,TRUE
 Bachiller En Investigacion Operativa,Bachiller En Investigacion Operativa,2,TRUE
 Bachiller En Marketing,Bachiller En Marketing,2,TRUE
@@ -372,9 +372,9 @@ Bachiller En Sociologia,Bachiller En Sociologia,1,TRUE
 Bachiller En Trabajo Social,Bachiller En Trabajo Social,7,TRUE
 Bachiller En Turismo Y Hoteleria,Bachiller En Turismo Y Hoteleria,1,TRUE
 Bachiller Expedito Al Titulo Profesional,Bachiller Expedito Al Titulo Profesional,1,TRUE
-Bachiller Facultad De Ingenieria De Sistemas,Bachiller Facultad De Ingenieria De Sistemas,1,TRUE
-Bachiller Graduado En Ingenieria De Sistemas,Bachiller Graduado En Ingenieria De Sistemas,3,TRUE
-Bachiller Ing. Electronica,Bachiller Ing. Electronica,1,TRUE
+Bachiller Facultad De Ingenieria De Sistemas,Bachiller En Ingenieria De Sistemas,1,FALSE
+Bachiller Graduado En Ingenieria De Sistemas,Bachiller En Ingenieria De Sistemas,3,FALSE
+Bachiller Ing. Electronica,Bachiller En Ingenieria Eletronica,1,FALSE
 Bachiller Ing. Industrial,Bachiller En Ingenieria Industrial,2,FALSE
 Bachiller Ing. Sistemas,Bachiller En Ingenieria De Sistemas,2,FALSE
 Bachiller Ingeneria De Sistemas,Bachiller En Ingenieria De Sistemas,1,FALSE
@@ -385,11 +385,11 @@ Bachiller Ingenieria De Sistemas,Bachiller En Ingenieria De Sistemas,16,FALSE
 Bachiller Ingenieria De Sistemas Computacionales,Bachiller En Ingenieria De Sistemas,8,FALSE
 Bachiller Ingenieria De Sistemas E Informatic,Bachiller En Ingenieria De Sistemas,1,FALSE
 Bachiller Ingenieria De Sistemas Y Computo,Bachiller En Ingenieria De Sistemas,2,FALSE
-Bachiller Ingenieria Electronica,Bachiller Ingenieria Electronica,1,TRUE
-Bachiller Ingenieria En Sistemas,Bachiller Ingenieria En Sistemas,1,TRUE
-Bachiller Ingenieria Industrial,Bachiller Ingenieria Industrial,3,TRUE
-Bachiller Ingenieria Informatica,Bachiller Ingenieria Informatica,1,TRUE
-Bachiller Ingenieria Sistemas E Informatica,Bachiller Ingenieria Sistemas E Informatica,1,TRUE
+Bachiller Ingenieria Electronica,Bachiller En Ingenieria Eletronica,1,FALSE
+Bachiller Ingenieria En Sistemas,Bachiller En Ingenieria De Sistemas,1,FALSE
+Bachiller Ingenieria Industrial,Bachiller En Ingenieria Industrial,3,FALSE
+Bachiller Ingenieria Informatica,Bachiller En Ingenieria Informatica,1,FALSE
+Bachiller Ingenieria Sistemas E Informatica,Bachiller En Ingenieria De Sistemas,1,FALSE
 Bachiller Tecnico De Administracion De Redes,Bachiller Tecnico De Administracion De Redes,5,TRUE
 Bachiller Tecnico En Computacion E Informatica,Bachiller Tecnico En Computacion E Informatica,1,TRUE
 Bachiller Trabajo Social,Bachiller Trabajo Social,1,TRUE
@@ -407,17 +407,17 @@ Becario De Salesforce,Becario De Salesforce,1,TRUE
 Bi Reporting,Bi Reporting,1,TRUE
 Bienestar Social Y Calidad De Vida En Las Empresas,Bienestar Social Y Calidad De Vida En Las Empresas,1,TRUE
 Big Data,Big Data,5,TRUE
-Big Data &Amp; Analytics In Azure,Big Data &Amp; Analytics In Azure,1,TRUE
-Big Data &Amp; Machine Learning Professional,Big Data &Amp; Machine Learning Professional,1,TRUE
-Big Data / Bi,Big Data / Bi,1,TRUE
-Big Data E Inteligencia Artificial A La Industria,Big Data E Inteligencia Artificial A La Industria,1,TRUE
-Big Data En Entornos Seguros,Big Data En Entornos Seguros,1,TRUE
-Big Data Expert,Big Data Expert,4,TRUE
-Big Data Hadoop,Big Data Hadoop,2,TRUE
-Big Data On Google Cloud Platform,Big Data On Google Cloud Platform,1,TRUE
-Big Data Y Business Analytics,Big Data Y Business Analytics,1,TRUE
-Big Data Y Machine Learning: Bi Y Data Mining.,Big Data Y Machine Learning: Bi Y Data Mining.,2,TRUE
-Big Data Y Seguridad De La Informacion,Big Data Y Seguridad De La Informacion,1,TRUE
+Big Data &Amp; Analytics In Azure,Big Data,1,FALSE
+Big Data &Amp; Machine Learning Professional,Big Data,1,FALSE
+Big Data / Bi,Big Data,1,FALSE
+Big Data E Inteligencia Artificial A La Industria,Big Data,1,FALSE
+Big Data En Entornos Seguros,Big Data,1,FALSE
+Big Data Expert,Big Data,4,FALSE
+Big Data Hadoop,Big Data,2,FALSE
+Big Data On Google Cloud Platform,Big Data,1,FALSE
+Big Data Y Business Analytics,Big Data,1,FALSE
+Big Data Y Machine Learning: Bi Y Data Mining.,Big Data,2,FALSE
+Big Data Y Seguridad De La Informacion,Big Data,1,FALSE
 Bombero Voluntario,Bombero Voluntario,1,TRUE
 Boopstrap,Boopstrap,1,TRUE
 Bootcamp Codigo,Bootcamp Codigo,1,TRUE
@@ -433,19 +433,19 @@ Business Analytics &Amp; Bigdata,Business Analytics &Amp; Bigdata,1,TRUE
 Business Analytics Con Python,Business Analytics Con Python,1,TRUE
 Business Continuity Professional Iso 22301,Business Continuity Professional Iso 22301,1,TRUE
 Business English,Business English,1,TRUE
-Business Inteligence Implementacion,Business Inteligence Implementacion,1,TRUE
+Business Inteligence Implementacion,Business Intelligence,1,FALSE
 Business Intelligence,Business Intelligence,5,TRUE
-Business Intelligence - Sql Server 2016,Business Intelligence - Sql Server 2016,1,TRUE
-Business Intelligence &Amp; Analitycs,Business Intelligence &Amp; Analitycs,1,TRUE
-Business Intelligence / Sql Server 2019,Business Intelligence / Sql Server 2019,1,TRUE
-Business Intelligence Avanzado,Business Intelligence Avanzado,1,TRUE
-Business Intelligence Con Sql Server 2012,Business Intelligence Con Sql Server 2012,1,TRUE
-Business Intelligence For Data Analytics,Business Intelligence For Data Analytics,3,TRUE
-Business Intelligence Power Bi,Business Intelligence Power Bi,1,TRUE
-Business Intelligence Professional Certification,Business Intelligence Professional Certification,1,TRUE
-Business Intelligence Sql Server 2012 Basico,Business Intelligence Sql Server 2012 Basico,1,TRUE
-Business Intelligence Y Big Data,Business Intelligence Y Big Data,2,TRUE
-"Business Intelligence, Analytics Y Big Data","Business Intelligence, Analytics Y Big Data",1,TRUE
+Business Intelligence - Sql Server 2016,Business Intelligence,1,FALSE
+Business Intelligence &Amp; Analitycs,Business Intelligence,1,FALSE
+Business Intelligence / Sql Server 2019,Business Intelligence,1,FALSE
+Business Intelligence Avanzado,Business Intelligence,1,FALSE
+Business Intelligence Con Sql Server 2012,Business Intelligence,1,FALSE
+Business Intelligence For Data Analytics,Business Intelligence,3,FALSE
+Business Intelligence Power Bi,Business Intelligence,1,FALSE
+Business Intelligence Professional Certification,Business Intelligence,1,FALSE
+Business Intelligence Sql Server 2012 Basico,Business Intelligence,1,FALSE
+Business Intelligence Y Big Data,Business Intelligence,2,FALSE
+"Business Intelligence, Analytics Y Big Data",Business Intelligence,1,FALSE
 Business Model Canvas Essentials Professional,Business Model Canvas Essentials Professional,1,TRUE
 Business Process Management (Iso 19510),Business Process Management (Iso 19510),1,TRUE
 Bussines Inteligent Sql Server 2019,Bussines Inteligent Sql Server 2019,2,TRUE
@@ -544,10 +544,10 @@ Certificacion Power Bi,Certificacion Power Bi,1,TRUE
 Certificacion Product Owner,Certificacion Product Owner,2,TRUE
 Certificacion Sap B1 9.3 Hana,Certificacion Sap B1 9.3 Hana,1,TRUE
 Certificacion Scrum,Certificacion Scrum,1,TRUE
-Certificacion Scrum Developer Y Master,Certificacion Scrum Developer Y Master,2,TRUE
-Certificacion Scrum Foundation,Certificacion Scrum Foundation,1,TRUE
-Certificacion Scrum Master,Certificacion Scrum Master,6,TRUE
-Certificacion Scrum Master Alliance,Certificacion Scrum Master Alliance,1,TRUE
+Certificacion Scrum Developer Y Master,Certificacion Scrum,2,FALSE
+Certificacion Scrum Foundation,Certificacion Scrum,1,FALSE
+Certificacion Scrum Master,Certificacion Scrum,6,FALSE
+Certificacion Scrum Master Alliance,Certificacion Scrum,1,FALSE
 Certificacion Six Sigma Yellowbelt Profesional,Certificacion Six Sigma Yellowbelt Profesional,3,TRUE
 Certificacion: Agile Coach,Certificacion: Agile Coach,1,TRUE
 Certificada En Scrum Master,Certificada En Scrum Master,1,TRUE
@@ -588,12 +588,12 @@ Ciberseguridad,Ciberseguridad,1,TRUE
 Ciberseguridad Y Gestion De La Informacion,Ciberseguridad Y Gestion De La Informacion,1,TRUE
 Cibertec,Cibertec,1,TRUE
 Ciencia De Datos,Ciencia De Datos,4,TRUE
-"Ciencia De Datos, Machine Learning","Ciencia De Datos, Machine Learning",1,TRUE
-Ciencia De La Computacion,Ciencia De La Computacion,4,TRUE
-Ciencia De La Comunicacion,Ciencia De La Comunicacion,2,TRUE
+"Ciencia De Datos, Machine Learning",Ciencia De Datos,1,FALSE
+Ciencia De La Computacion,Ciencias De La Computacion,4,FALSE
+Ciencia De La Comunicacion,Ciencias De La Comunicacion,2,FALSE
 Ciencia De Los Datos,Ciencia De Los Datos,1,TRUE
 Ciencias Administrativas,Ciencias Administrativas,2,TRUE
-Ciencias Administrativas Y Ciencias Economica,Ciencias Administrativas Y Ciencias Economica,1,TRUE
+Ciencias Administrativas Y Ciencias Economica,Ciencias Administrativas,1,FALSE
 Ciencias Aeronauticas,Ciencias Aeronauticas,2,TRUE
 Ciencias Contables,Ciencias Contables,1,TRUE
 Ciencias Contables Y Finanzas,Ciencias Contables,1,FALSE
@@ -608,18 +608,18 @@ Cientifico De La Computacion,Cientifico De La Computacion,1,TRUE
 Cientifico De Los Datos,Cientifico De Los Datos,1,TRUE
 Cirujano Dentista,Cirujano Dentista,1,TRUE
 Cisco - It Essentials,Cisco - It Essentials,5,TRUE
-Cisco Ccna,Cisco Ccna,1,TRUE
-Cisco Ccna V7.0,Cisco Ccna V7.0,1,TRUE
-Cisco Certified Network Asociate,Cisco Certified Network Asociate,1,TRUE
-Cisco Certified Network Associated - Ccna,Cisco Certified Network Associated - Ccna,1,TRUE
+Cisco Ccna,Ccna,1,FALSE
+Cisco Ccna V7.0,Ccna,1,FALSE
+Cisco Certified Network Asociate,Ccna,1,FALSE
+Cisco Certified Network Associated - Ccna,Ccna,1,FALSE
 Cisco Ciber Security,Cisco Ciber Security,1,TRUE
-Cisco Networking Ccna,Cisco Networking Ccna,1,TRUE
+Cisco Networking Ccna,Ccna,1,FALSE
 Cissp (Certified Information Systems Security,Cissp (Certified Information Systems Security,1,TRUE
 Cissp De (Isc)2,Cissp De (Isc)2,1,TRUE
 Clearing And Settlement Processing Known,Clearing And Settlement Processing Known,1,TRUE
 Clinica De Branding,Clinica De Branding,1,TRUE
 Cloud Computing,Cloud Computing,4,TRUE
-Cloud Computing Google,Cloud Computing Google,1,TRUE
+Cloud Computing Google,Cloud Computing,1,FALSE
 Cloud Core,Cloud Core,1,TRUE
 Cmmi - Dev,Cmmi - Dev,1,TRUE
 Coach Ejecutivo,Coach Ejecutivo,1,TRUE
@@ -646,10 +646,10 @@ Comercio Exterior,Comercio Exterior,3,TRUE
 Comercio Internacional,Comercio Internacional,1,TRUE
 Comercio Y Negocios Internacionales,Comercio Y Negocios Internacionales,2,TRUE
 Communication And Digital Media,Communication And Digital Media,1,TRUE
-Community Management,Community Management,3,TRUE
+Community Management,Community Manager,3,FALSE
 Community Manager,Community Manager,8,TRUE
-Community Manager - Curso,Community Manager - Curso,1,TRUE
-Community Manegment,Community Manegment,1,TRUE
+Community Manager - Curso,Community Manager,1,FALSE
+Community Manegment,Community Manager,1,FALSE
 Como Vender Con Exito Al Estado,Como Vender Con Exito Al Estado,1,TRUE
 Compensaciones,Compensaciones,1,TRUE
 Competencias Para La Empleabilidad,Competencias Para La Empleabilidad,1,TRUE
@@ -677,10 +677,10 @@ Computer Software Engineering,Computer Software Engineering,1,TRUE
 Computronic,Computronic,1,TRUE
 Comunicacion,Comunicacion,5,TRUE
 Comunicacion Audiovisual En Medios Digitales,Comunicacion Audiovisual En Medios Digitales,1,TRUE
-Comunicacion Audiovisual Multimedia,Comunicacion Audiovisual Multimedia,1,TRUE
-Comunicacion Audiovisual Y Medios Interactivo,Comunicacion Audiovisual Y Medios Interactivo,1,TRUE
-Comunicacion Audiovisual Y Publicidad,Comunicacion Audiovisual Y Publicidad,1,TRUE
-Comunicacion Audiovisuales,Comunicacion Audiovisuales,1,TRUE
+Comunicacion Audiovisual Multimedia,Comunicacion Audiovisual En Medios Digitales,1,FALSE
+Comunicacion Audiovisual Y Medios Interactivo,Comunicacion Audiovisual En Medios Digitales,1,FALSE
+Comunicacion Audiovisual Y Publicidad,Comunicacion Audiovisual En Medios Digitales,1,FALSE
+Comunicacion Audiovisuales,Comunicacion Audiovisual En Medios Digitales,1,FALSE
 Comunicacion Corporativa,Comunicacion Corporativa,1,TRUE
 Comunicacion De Marketing,Comunicacion De Marketing,1,TRUE
 Comunicacion Digital En Medios Audiovisuales,Comunicacion Digital En Medios Audiovisuales,1,TRUE
@@ -691,22 +691,22 @@ Comunicacion Integral,Comunicacion Integral,3,TRUE
 Comunicacion Interna Y Employee Experiencie,Comunicacion Interna Y Employee Experiencie,1,TRUE
 Comunicacion Publicitaria,Comunicacion Publicitaria,1,TRUE
 Comunicacion Social,Comunicacion Social,2,TRUE
-Comunicacion Y Markenting,Comunicacion Y Markenting,1,TRUE
+Comunicacion Y Markenting,Comunicacion Y Marketing,1,FALSE
 Comunicacion Y Marketing,Comunicacion Y Marketing,1,TRUE
-Comunicacion Y Marketing Digital En El Sector Publ,Comunicacion Y Marketing Digital En El Sector Publ,1,TRUE
+Comunicacion Y Marketing Digital En El Sector Publ,Comunicacion Y Marketing,1,FALSE
 Comunicacion Y Periodismo,Comunicacion Y Periodismo,3,TRUE
 Comunicacion Y Publicidad,Comunicaciones,10,FALSE
 Comunicaciones,Comunicaciones,10,TRUE
 Comunicaciones E Imagen Empresarial,Comunicaciones E Imagen Empresarial,1,TRUE
 Comunicador,Comunicador,2,TRUE
 Comunicador Social,Comunicador Social,1,TRUE
-Comunicador Social Mencion Publicidad Y Rr.Pp,Comunicador Social Mencion Publicidad Y Rr.Pp,1,TRUE
+Comunicador Social Mencion Publicidad Y Rr.Pp,Comunicador Social,1,FALSE
 Comunicadora,Comunicadora,1,TRUE
 Comunicadora Social,Comunicadora Social,1,TRUE
 Comunnity Management,Comunnity Management,1,TRUE
 Concentracion De Minerales,Concentracion De Minerales,1,TRUE
 Conciliacion Extrajudicial,Conciliacion Extrajudicial,1,TRUE
-Conciliadora Extrajudicial,Conciliadora Extrajudicial,1,TRUE
+Conciliadora Extrajudicial,Conciliacion Extrajudicial,1,FALSE
 Concluido,Concluido,1,TRUE
 Conectividad De Redes Ip,Conectividad De Redes Ip,1,TRUE
 Conferencia Magistral En Tecnologia Y Distrib,Conferencia Magistral En Tecnologia Y Distrib,1,TRUE
@@ -714,8 +714,8 @@ Congreso Virtual De Recursos Humano,Congreso Virtual De Recursos Humano,1,TRUE
 Constancia En Acces 2007,Constancia En Acces 2007,1,TRUE
 Construcciones - Supervisor,Construcciones - Supervisor,1,TRUE
 Consultor Sap Fi,Consultor Sap Fi,4,TRUE
-Consultor Sap Mm,Consultor Sap Mm,1,TRUE
-Consultor Sap Ventas Y Distribucion,Consultor Sap Ventas Y Distribucion,1,TRUE
+Consultor Sap Mm,Consultor Sap Fi,1,FALSE
+Consultor Sap Ventas Y Distribucion,Consultor Sap Fi,1,FALSE
 Contabilidad,Contabilidad,18,TRUE
 Contabilidad Para No Contadores,Contabilidad,4,FALSE
 Contabilidad Tributaria,Contabilidad,1,FALSE
@@ -777,7 +777,7 @@ Curso De Formacion De Auditores,Curso De Formacion De Auditores,1,TRUE
 Curso De Formacion De Defensoria Del Nna,Curso De Formacion De Defensoria Del Nna,1,TRUE
 Curso De Gerencia De Proyectos De Tecnologias,Curso De Gerencia De Proyectos De Tecnologias,2,TRUE
 Curso De Gestion De Proyectos,Curso De Gestion De Proyectos,1,TRUE
-Curso De Gestion De Proyectos Pmp,Curso De Gestion De Proyectos Pmp,6,TRUE
+Curso De Gestion De Proyectos Pmp,Curso De Gestion De Proyectos,6,FALSE
 Curso De Gestion De Recursos Humanos 3.0,Curso De Gestion De Recursos Humanos 3.0,1,TRUE
 Curso De Indicadores Comerciales Kpis,Curso De Indicadores Comerciales Kpis,1,TRUE
 Curso De Ingenieria De Servicios,Curso De Ingenieria De Servicios,1,TRUE
@@ -820,7 +820,7 @@ Curso Especializado En Marketing Intelligence,Curso Especializado En Marketing I
 Curso Especializado En Ux/Ui,Curso Especializado En Ux/Ui,2,TRUE
 Curso Especializado Tramite Documentario Y Gest. D,Curso Especializado Tramite Documentario Y Gest. D,1,TRUE
 Curso Excel,Curso Excel,1,TRUE
-Curso Excel Intermedio Avanzado,Curso Excel Intermedio Avanzado,1,TRUE
+Curso Excel Intermedio Avanzado,Curso Excel,1,FALSE
 Curso Front - End,Curso Front - End,1,TRUE
 Curso Fundamentos De Hacking Etico(16 Horas),Curso Fundamentos De Hacking Etico(16 Horas),1,TRUE
 Curso Gestion De Riesgos Y Coso,Curso Gestion De Riesgos Y Coso,1,TRUE
@@ -869,8 +869,8 @@ Cursos Agil Scrum,Cursos Agil Scrum,2,TRUE
 Cursos De Harvard - On Line,Cursos De Harvard - On Line,1,TRUE
 Customer Centric Management,Customer Centric Management,1,TRUE
 Customer Experience,Customer Experience,6,TRUE
-Customer Experience - Cx Design And Management,Customer Experience - Cx Design And Management,1,TRUE
-Customer Experience Design And Management(Cx),Customer Experience Design And Management(Cx),1,TRUE
+Customer Experience - Cx Design And Management,Customer Experience,1,FALSE
+Customer Experience Design And Management(Cx),Customer Experience,1,FALSE
 Customer Intelligence,Customer Intelligence,1,TRUE
 Customer Relationship Management,Customer Relationship Management,1,TRUE
 Customer Success Manager Specialist.,Customer Success Manager Specialist.,1,TRUE
@@ -887,13 +887,13 @@ Data Analytics Power Bi Cloud 2016,Data Analyst,1,FALSE
 Data Base Administrator,Data Base Administrator,2,TRUE
 Data Management E Innovacion Tecnologica,Data Management E Innovacion Tecnologica,2,TRUE
 Data Science,Data Science,5,TRUE
-Data Science (Professional Certificate Program),Data Science (Professional Certificate Program),2,TRUE
-Data Science Essentials,Data Science Essentials,1,TRUE
-Data Science For Business,Data Science For Business,1,TRUE
-Data Science Fundamentals,Data Science Fundamentals,2,TRUE
-Data Science Iii - Especialist,Data Science Iii - Especialist,1,TRUE
-Data Science Para Negocios,Data Science Para Negocios,5,TRUE
-Data Science Professional,Data Science Professional,1,TRUE
+Data Science (Professional Certificate Program),Data Science,2,FALSE
+Data Science Essentials,Data Science,1,FALSE
+Data Science For Business,Data Science,1,FALSE
+Data Science Fundamentals,Data Science,2,FALSE
+Data Science Iii - Especialist,Data Science,1,FALSE
+Data Science Para Negocios,Data Science,5,FALSE
+Data Science Professional,Data Science,1,FALSE
 Database Administrator,Database Administrator,1,TRUE
 Deep Learning,Deep Learning,2,TRUE
 Deep Learning Specialization,Deep Learning Specialization,1,TRUE
@@ -926,19 +926,19 @@ Desarrollo De Aplicciones Hibridas,Desarrollo De Aplicciones Hibridas,1,TRUE
 Desarrollo De Apps Moviles,Desarrollo De Apps Moviles,1,TRUE
 Desarrollo De Productos Con Metodologia Lean,Desarrollo De Productos Con Metodologia Lean,1,TRUE
 Desarrollo De Sisitemas,Desarrollo De Sisitemas,5,TRUE
-Desarrollo De Sistema De Informacion,Desarrollo De Sistema De Informacion,1,TRUE
+Desarrollo De Sistema De Informacion,Desarrollo De Sistemas,1,FALSE
 Desarrollo De Sistemas,Desarrollo De Sistemas,1,TRUE
-Desarrollo De Sistemas Con Mencion En Proceso De A,Desarrollo De Sistemas Con Mencion En Proceso De A,1,TRUE
-Desarrollo De Sistemas De Informacion,Desarrollo De Sistemas De Informacion,7,TRUE
-Desarrollo De Sistemas Informaticos,Desarrollo De Sistemas Informaticos,1,TRUE
+Desarrollo De Sistemas Con Mencion En Proceso De A,Desarrollo De Sistemas,1,FALSE
+Desarrollo De Sistemas De Informacion,Desarrollo De Sistemas,7,FALSE
+Desarrollo De Sistemas Informaticos,Desarrollo De Sistemas,1,FALSE
 Desarrollo De Sitios Web Y Aplicaciones Moviles,Desarrollo De Sitios Web Y Aplicaciones Moviles,3,TRUE
 Desarrollo De Software,Desarrollo De Software,15,TRUE
 Desarrollo De Soluciones Web Asp.Net Ajax Mvc,Desarrollo De Soluciones Web Asp.Net Ajax Mvc,1,TRUE
 Desarrollo De Tableros En Power Bi,Desarrollo De Tableros En Power Bi,1,TRUE
 Desarrollo Full Stack,Desarrollo Full Stack,1,TRUE
 Desarrollo Web,Desarrollo Web,5,TRUE
-"Desarrollo Web Con Html5, Css3, C# - Asp.Net Mvc 5","Desarrollo Web Con Html5, Css3, C# - Asp.Net Mvc 5",1,TRUE
-"Desarrollo Web Con Html5, Css3, Php Y Mysql","Desarrollo Web Con Html5, Css3, Php Y Mysql",1,TRUE
+"Desarrollo Web Con Html5, Css3, C# - Asp.Net Mvc 5",Desarrollo Web,1,FALSE
+"Desarrollo Web Con Html5, Css3, Php Y Mysql",Desarrollo Web,1,FALSE
 Desarrollo Y Despliegue De Soluciones Windows Y We,Desarrollo Y Despliegue De Soluciones Windows Y We,1,TRUE
 Desarrollo. De Software,Desarrollo. De Software,1,TRUE
 Design Think,Design Think,1,TRUE
@@ -956,7 +956,7 @@ Devops Foundation,Devops Foundation,2,TRUE
 Devops Fundamentals Cm-Dofc,Devops Fundamentals Cm-Dofc,1,TRUE
 Diagnostico Y Estructura Salarial,Diagnostico Y Estructura Salarial,1,TRUE
 Digital Transformation,Digital Transformation,1,TRUE
-Digital Transformation Digital Transformation,Digital Transformation Digital Transformation,1,TRUE
+Digital Transformation Digital Transformation,Digital Transformation,1,FALSE
 Dilomado En Microfinanzas,Dilomado En Microfinanzas,1,TRUE
 Dimplomatura En Gestion De Procesos,Dimplomatura En Gestion De Procesos,1,TRUE
 Diolomado Social Selling,Diolomado Social Selling,1,TRUE
@@ -973,7 +973,7 @@ Diploma En Gestion De Recursos Humanos,Diploma En Gestion De Recursos Humanos,1,
 Diploma En Gestion Organizacional,Diploma En Gestion Organizacional,2,TRUE
 Diploma Especializado En Transformacion Digital,Diploma Especializado En Transformacion Digital,1,TRUE
 Diploma In Advance Computing,Diploma In Advance Computing,2,TRUE
-Diploma Internacional De Gestion Comercial,Diploma Internacional De Gestion Comercial,1,TRUE
+Diploma Internacional De Gestion Comercial,Diploma Internacional En Gestion Comercial,1,FALSE
 Diploma Internacional En Gestion Comercial,Diploma Internacional En Gestion Comercial,1,TRUE
 Diploma Internacional En Marketing,Diploma Internacional En Marketing,4,TRUE
 Diploma Internacional Gerencia De Proyectos,Diploma Internacional Gerencia De Proyectos,2,TRUE
@@ -1011,9 +1011,9 @@ Diplomado De Marketing Estrtegico,Diplomado De Marketing Estrtegico,1,TRUE
 Diplomado De Operaciones Y Logistica.,Diplomado De Operaciones Y Logistica.,1,TRUE
 Diplomado De Procesos Y Mejora Continua,Diplomado De Procesos Y Mejora Continua,2,TRUE
 Diplomado De Publicidad Y Estrategias Digitales,Diplomado De Publicidad Y Estrategias Digitales,1,TRUE
-Diplomado De Recuersos Humanos,Diplomado De Recuersos Humanos,1,TRUE
+Diplomado De Recuersos Humanos,Diplomado De Recursos Humanos,1,FALSE
 Diplomado De Recursos Humanos,Diplomado De Recursos Humanos,1,TRUE
-Diplomado De Rrhh,Diplomado De Rrhh,1,TRUE
+Diplomado De Rrhh,Diplomado De Recursos Humanos,1,FALSE
 Diplomado De Seguridad Y Salud Ocupacional Y Medio,Diplomado De Seguridad Y Salud Ocupacional Y Medio,1,TRUE
 Diplomado De Trabajo Social,Diplomado De Trabajo Social,2,TRUE
 Diplomado De Tributacion,Diplomado De Tributacion,1,TRUE
@@ -1033,7 +1033,7 @@ Diplomado En Business Intelligence &Amp; Analytics,Diplomado En Business Intelli
 Diplomado En Business Intelligence Y Big Data,Diplomado En Business Intelligence,1,FALSE
 Diplomado En Business Process Management Con Bizag,Diplomado En Business Process Management Con Bizag,2,TRUE
 Diplomado En Contrataciones Con El Estado,Diplomado En Contrataciones Con El Estado,1,TRUE
-Diplomado En Contrataciones Del Estado,Diplomado En Contrataciones Del Estado,2,TRUE
+Diplomado En Contrataciones Del Estado,Diplomado En Contrataciones Con El Estado,2,FALSE
 Diplomado En Decisiones Estrategicas,Diplomado En Decisiones Estrategicas,4,TRUE
 Diplomado En Direccion Avanzada De Proyectos,Diplomado En Direccion Avanzada De Proyectos,1,TRUE
 Diplomado En Direccion De Proyectos,Diplomado En Gestion De Proyectos,9,FALSE
@@ -1054,9 +1054,9 @@ Diplomado En G. Seguridad Y Salud Ocupacional,Diplomado En G. Seguridad Y Salud 
 Diplomado En Gerencia De Gestion Administ,Diplomado En Gerencia De Gestion Administ,1,TRUE
 Diplomado En Gerencia De Operaciones Y Logistica,Diplomado En Gerencia De Operaciones Y Logistica,1,TRUE
 Diplomado En Gerencia De Proyectos,Diplomado En Gerencia De Proyectos,9,TRUE
-Diplomado En Gerencia De Proyectos De Ti,Diplomado En Gerencia De Proyectos De Ti,1,TRUE
-Diplomado En Gerencia De Proyectos Y Calidad,Diplomado En Gerencia De Proyectos Y Calidad,1,TRUE
-Diplomado En Gerencia De Proyectos.,Diplomado En Gerencia De Proyectos.,9,TRUE
+Diplomado En Gerencia De Proyectos De Ti,Diplomado En Gerencia De Proyectos,1,FALSE
+Diplomado En Gerencia De Proyectos Y Calidad,Diplomado En Gerencia De Proyectos,1,FALSE
+Diplomado En Gerencia De Proyectos.,Diplomado En Gerencia De Proyectos,9,FALSE
 Diplomado En Gerencia De Riesgos Y Seguros,Diplomado En Gerencia De Riesgos Y Seguros,2,TRUE
 Diplomado En Gerencia De Rr.Hh.,Diplomado En Gerencia De Rr.Hh.,1,TRUE
 Diplomado En Gerencia De Ventas,Diplomado En Gerencia De Ventas,1,TRUE
@@ -1122,9 +1122,9 @@ Diplomado En Publicidad,Diplomado En Publicidad,1,TRUE
 Diplomado En Recursos Humanos,Diplomado En Recursos Humanos,24,TRUE
 Diplomado En Rrhh,Diplomado En Recursos Humanos,1,FALSE
 Diplomado En Seguridad De La Informacion,Diplomado En Seguridad De La Informacion,2,TRUE
-Diplomado En Seguridad De La Informacion Stit,Diplomado En Seguridad De La Informacion Stit,1,TRUE
-Diplomado En Seguridad De La Informacion Y Auditor,Diplomado En Seguridad De La Informacion Y Auditor,2,TRUE
-Diplomado En Seguridad Salud En El Trabajo,Diplomado En Seguridad Salud En El Trabajo,1,TRUE
+Diplomado En Seguridad De La Informacion Stit,Diplomado En Seguridad De La Informacion,1,FALSE
+Diplomado En Seguridad De La Informacion Y Auditor,Diplomado En Seguridad De La Informacion,2,FALSE
+Diplomado En Seguridad Salud En El Trabajo,Diplomado En Seguridad Y Salud En El Trabajo,1,FALSE
 Diplomado En Seguridad Y Salud En El Trabajo,Diplomado En Seguridad Y Salud En El Trabajo,4,TRUE
 Diplomado En Sgsi Iso27001:2013,Diplomado En Sgsi Iso27001:2013,1,TRUE
 Diplomado En Ssoma,Diplomado En Ssoma,1,TRUE
@@ -1138,8 +1138,8 @@ Diplomado Especializado En Gestion Del Factor,Diplomado Especializado En Gestion
 Diplomado Especializado En Seguridad Y Salud En El,Diplomado Especializado En Seguridad Y Salud En El,3,TRUE
 Diplomado Experto En Recursos Humanos,Diplomado Experto En Recursos Humanos,1,TRUE
 Diplomado Gerencia De Proyectos,Diplomado Gerencia De Proyectos,1,TRUE
-Diplomado Gerencia De Proyectos Enfoque Pmi,Diplomado Gerencia De Proyectos Enfoque Pmi,3,TRUE
-Diplomado Gerencia De Proyectos Pmi,Diplomado Gerencia De Proyectos Pmi,4,TRUE
+Diplomado Gerencia De Proyectos Enfoque Pmi,Diplomado Gerencia De Proyectos,3,FALSE
+Diplomado Gerencia De Proyectos Pmi,Diplomado Gerencia De Proyectos,4,FALSE
 Diplomado Gerencia De Recursos Humanos,Diplomado Gerencia De Recursos Humanos,1,TRUE
 Diplomado Gerencia Estrategica De Marketing,Diplomado Gerencia Estrategica De Marketing,2,TRUE
 Diplomado Gestion De Comercio Internacional,Diplomado Gestion De Comercio Internacional,1,TRUE
@@ -1159,7 +1159,7 @@ Diplomado Internacional En Gestion De Procesos,Diplomado Internacional En Gestio
 Diplomado Internacional En Gestion De Proyectos.,Diplomado Internacional En Gestion De Proyectos.,1,TRUE
 Diplomado Internacional En Proyectos,Diplomado Internacional En Proyectos,1,TRUE
 Diplomado Internacional En Supply Chain Management,Diplomado Internacional En Supply Chain Management,1,TRUE
-Diplomado Internacional En Supply Chain Managment,Diplomado Internacional En Supply Chain Managment,1,TRUE
+Diplomado Internacional En Supply Chain Managment,Diplomado Internacional En Supply Chain Management,1,FALSE
 Diplomado Internacional En Ventas,Diplomado Internacional En Ventas,1,TRUE
 Diplomado Internacional Gerencia De Proyectos,Diplomado Internacional Gerencia De Proyectos,2,TRUE
 Diplomado Investigacion Cientifica,Diplomado Investigacion Cientifica,1,TRUE
@@ -1209,9 +1209,9 @@ Direccion De Proyectos Pmbok,Direccion De Proyectos,2,FALSE
 Direccion De Proyectos Y Hab. Directivas,Direccion De Proyectos,1,FALSE
 Direccion De Proyectos Y Habilidades Directivas,Direccion De Proyectos,1,FALSE
 Direccion De Sistemas Y Ti,Direccion De Sistemas Y Ti,2,TRUE
-Direccion De Tecnologia De Informacion,Direccion De Tecnologia De Informacion,2,TRUE
+Direccion De Tecnologia De Informacion,Direccion De Tecnologias De Informacion,2,FALSE
 Direccion De Tecnologias De Informacion,Direccion De Tecnologias De Informacion,1,TRUE
-Direccion De Tecnologias De La Informacion,Direccion De Tecnologias De La Informacion,4,TRUE
+Direccion De Tecnologias De La Informacion,Direccion De Tecnologias De Informacion,4,FALSE
 Direccion De Ventas,Direccion De Ventas,1,TRUE
 Direccion De Ventas Y Gestion Comercial,Direccion De Ventas Y Gestion Comercial,2,TRUE
 Direccion En Gestion De Ventas,Direccion En Gestion De Ventas,1,TRUE
@@ -1229,7 +1229,7 @@ Director De Proyectos,Director De Proyectos,2,TRUE
 Disenador Grafico,Disenador Grafico,4,TRUE
 Disenador Industrial,Disenador Industrial,2,TRUE
 Disenador Ux/Ui,Disenador Ux/Ui,1,TRUE
-Disenador Ux|Ui,Disenador Ux|Ui,1,TRUE
+Disenador Ux|Ui,Disenador Ux/Ui,1,FALSE
 Disenadora Publicitaria,Disenadora Publicitaria,1,TRUE
 Diseno De Arquitectura Con Apache Kafka,Diseno De Arquitectura Con Apache Kafka,1,TRUE
 Diseno De Base De Datos Relacionales,Diseno De Base De Datos Relacionales,2,TRUE
@@ -1255,13 +1255,13 @@ Diseno Industrial,Diseno Industrial,1,TRUE
 Diseno Profesional Grafico,Diseno Profesional Grafico,1,TRUE
 Diseno Publicitario,Diseno Publicitario,2,TRUE
 Diseno Ui/Ux,Diseno Ui/Ux,1,TRUE
-Diseno Ux Ui,Diseno Ux Ui,1,TRUE
-Diseno Ux/Ui,Diseno Ux/Ui,2,TRUE
+Diseno Ux Ui,Diseno Ui/Ux,1,FALSE
+Diseno Ux/Ui,Diseno Ui/Ux,2,FALSE
 Diseno Web,Diseno Web,1,TRUE
 Diseno Y Comportamiento Organizacional,Diseno Y Comportamiento Organizacional,1,TRUE
 Diseno Y Construccion De Un Data Center,Diseno Y Construccion De Un Data Center,1,TRUE
 Diseno Y Desarrollo De Software,Diseno Y Desarrollo De Software,2,TRUE
-Diseno Y Desarrollo De Sofware,Diseno Y Desarrollo De Sofware,1,TRUE
+Diseno Y Desarrollo De Sofware,Diseno Y Desarrollo De Software,1,FALSE
 Diseno Y Desarrollo Para Medios Digitales,Diseno Y Desarrollo Para Medios Digitales,2,TRUE
 Diseno Y Desarrollo Web,Diseno Y Desarrollo Web,3,TRUE
 Diseno Y Gestion De Moda,Diseno Y Gestion De Moda,1,TRUE
@@ -1269,10 +1269,10 @@ Diseno Y Medicion Para Cursos De Aprendizaje,Diseno Y Medicion Para Cursos De Ap
 Division Cpel,Division Cpel,1,TRUE
 Docencia En Telecomunicaciones,Docencia En Telecomunicaciones,1,TRUE
 Docencia Universitaria,Docencia Universitaria,4,TRUE
-Docencia Universitaria E Investigacion Pedag.,Docencia Universitaria E Investigacion Pedag.,1,TRUE
-Docencia Universitaria Y Gestion Educativa,Docencia Universitaria Y Gestion Educativa,2,TRUE
+Docencia Universitaria E Investigacion Pedag.,Docencia Universitaria,1,FALSE
+Docencia Universitaria Y Gestion Educativa,Docencia Universitaria,2,FALSE
 Docker,Docker,1,TRUE
-Dockers,Dockers,1,TRUE
+Dockers,Docker,1,FALSE
 Doctorado Administracion De Empresas,Doctorado Administracion De Empresas,2,TRUE
 Doctorado En Administracion,Doctorado En Administracion,3,TRUE
 Doctorado En Educacion,Doctorado En Educacion,1,TRUE
@@ -1290,7 +1290,7 @@ Edex En Estrategia Y Gestion De Innovacion,Edex En Estrategia Y Gestion De Innov
 Edicion - Post Produccion,Edicion - Post Produccion,1,TRUE
 Edicion Y Post Produccion De Video,Edicion Y Post Produccion De Video,1,TRUE
 Eduacion Con Mencion En Tecnologia,Eduacion Con Mencion En Tecnologia,1,TRUE
-Educacion De Idiomas : Ingles,Educacion De Idiomas : Ingles,1,TRUE
+Educacion De Idiomas : Ingles,Educacion Idiomas - Ingles,1,FALSE
 Educacion Idiomas - Ingles,Educacion Idiomas - Ingles,1,TRUE
 Educacion Superior - Psicologia,Educacion Superior - Psicologia,1,TRUE
 Educacion Universitaria,Educacion Universitaria,3,TRUE
@@ -1298,7 +1298,7 @@ Edx Micromaster Credential,Edx Micromaster Credential,1,TRUE
 Egresada,Egresada,4,TRUE
 Egresada De Comuniaciones,Egresada De Comuniaciones,1,TRUE
 Egresada De Psicologia,Egresada De Psicologia,2,TRUE
-Egresada De Psicologia Organizacional,Egresada De Psicologia Organizacional,1,TRUE
+Egresada De Psicologia Organizacional,Egresada De Psicologia,1,FALSE
 Egresada En Administracion De Empresas,Egresada En Administracion De Empresas,2,TRUE
 Egresada En Ingenieria De Sistemas,Egresada En Ingenieria De Sistemas,8,TRUE
 Egresada/Bachiller,Egresada/Bachiller,1,TRUE
@@ -1307,10 +1307,10 @@ Egresado - Administracion,Egresado - Administracion,1,TRUE
 Egresado Bachiller Universitario,Egresado Bachiller Universitario,1,TRUE
 Egresado Computacion E Informatica,Egresado Computacion E Informatica,1,TRUE
 Egresado De Administracion,Egresado De Administracion,1,TRUE
-Egresado De Ing De Sistemas,Egresado De Ing De Sistemas,1,TRUE
-Egresado De Ing. De Sistemas,Egresado De Ing. De Sistemas,1,TRUE
+Egresado De Ing De Sistemas,Egresado En Ingenieria De Sistemas,1,FALSE
+Egresado De Ing. De Sistemas,Egresado En Ingenieria De Sistemas,1,FALSE
 Egresado De Ingenieria Computacion Y Sistemas,Egresado De Ingenieria Computacion Y Sistemas,1,TRUE
-Egresado De Ingenieria Electronica,Egresado De Ingenieria Electronica,1,TRUE
+Egresado De Ingenieria Electronica,Egresado En Ingenieria Electronica,1,FALSE
 Egresado De Ingenieria Industrial,Egresado De Ingenieria Industrial,2,TRUE
 Egresado De La Carrera De Marketing En Epe,Egresado De La Carrera De Marketing En Epe,1,TRUE
 Egresado De La Facultad De Ingenieria De Sistemas,Egresado De La Facultad De Ingenieria De Sistemas,1,TRUE
@@ -1324,7 +1324,7 @@ Egresado En Ingenieria Industrial,Egresado En Ingenieria Industrial,2,TRUE
 Egresado En Maestria De Sistemas,Egresado En Maestria De Sistemas,1,TRUE
 Egresado Gestion Educacional,Egresado Gestion Educacional,7,TRUE
 Egresado Ing. Computacion E Informatica,Egresado Ing. Computacion E Informatica,1,TRUE
-Egresado Ingenieria De Sistemas,Egresado Ingenieria De Sistemas,1,TRUE
+Egresado Ingenieria De Sistemas,Egresado En Ingenieria De Sistemas,1,FALSE
 Egresado Ingenieria En Informatica Y Sistemas,Egresado Ingenieria En Informatica Y Sistemas,2,TRUE
 Egresado Inst Ciencias De La Informacion,Egresado Inst Ciencias De La Informacion,1,TRUE
 Egresado Isil - Ing Sistemas - 1Er Lugar*,Egresado Isil - Ing Sistemas - 1Er Lugar*,6,TRUE
@@ -1342,9 +1342,9 @@ En Proceso,En Proceso,1,TRUE
 Encargado De Computo Descentralizado,Encargado De Computo Descentralizado,1,TRUE
 Enfermeria,Enfermeria,1,TRUE
 Engenharia De Producao,Engenharia De Producao,1,TRUE
-Ensamblaje,Ensamblaje,1,TRUE
+Ensamblaje,Ensamblaje De Computadora,1,FALSE
 Ensamblaje De Computadora,Ensamblaje De Computadora,2,TRUE
-Ensamblaje Y Reparacion De Pc'S,Ensamblaje Y Reparacion De Pc'S,1,TRUE
+Ensamblaje Y Reparacion De Pc'S,Ensamblaje De Computadora,1,FALSE
 Enterprise Architecture-Togaf V9.1 -Applying,Enterprise Architecture-Togaf V9.1 -Applying,2,TRUE
 Enterprise Design Thinking,Enterprise Design Thinking,1,TRUE
 Enterprise Linux &Amp; Engineer,Enterprise Linux &Amp; Engineer,1,TRUE
@@ -1367,7 +1367,7 @@ Especialiazacion En Ux,Especialiazacion En Ux,1,TRUE
 Especialidad Business Analytics Y Bigdata,Especialidad Business Analytics Y Bigdata,2,TRUE
 Especialidad En Business Intelingence,Especialidad En Business Intelingence,1,TRUE
 Especialidad En Direccion De Proyectos Pmi,Especialidad En Direccion De Proyectos Pmi,1,TRUE
-Especialidad En Direccion De Proyectos Pmp,Especialidad En Direccion De Proyectos Pmp,1,TRUE
+Especialidad En Direccion De Proyectos Pmp,Especialidad En Direccion De Proyectos Pmi,1,FALSE
 Especialidad En Evaluacion Economica Y Financiera,Especialidad En Evaluacion Economica Y Financiera,1,TRUE
 Especialidad En Metodologias Agiles,Especialidad En Metodologias Agiles,1,TRUE
 Especialidad En Regulacion De La Electricidad,Especialidad En Regulacion De La Electricidad,1,TRUE
@@ -1381,8 +1381,8 @@ Especialista En Autocad,Especialista En Autocad,3,TRUE
 Especialista En Base De Datos,Especialista En Base De Datos,2,TRUE
 Especialista En Business Analytics Y Power Bi,Especialista En Business Analytics Y Power Bi,1,TRUE
 Especialista En Business Intelligence,Especialista En Business Intelligence,2,TRUE
-Especialista En Business Intelligence Sql,Especialista En Business Intelligence Sql,1,TRUE
-Especialista En Bussines Inteligente,Especialista En Bussines Inteligente,1,TRUE
+Especialista En Business Intelligence Sql,Especialista En Business Intelligence,1,FALSE
+Especialista En Bussines Inteligente,Especialista En Business Intelligence,1,FALSE
 Especialista En Ccna Routing And Switching V6.0,Especialista En Ccna Routing And Switching V6.0,1,TRUE
 Especialista En Comercio Exterior Y Aduanas,Especialista En Comercio Exterior Y Aduanas,1,TRUE
 Especialista En Comunicaciones Opticas,Especialista En Comunicaciones Opticas,1,TRUE
@@ -1393,10 +1393,10 @@ Especialista En Data Science,Especialista En Data Science,1,TRUE
 Especialista En Dibujo Y Diseno Por Computado,Especialista En Dibujo Y Diseno Por Computado,1,TRUE
 Especialista En Diseno De Data Center,Especialista En Diseno De Data Center,1,TRUE
 Especialista En Excel,Especialista En Excel,9,TRUE
-Especialista En Excel Empresarial,Especialista En Excel Empresarial,5,TRUE
+Especialista En Excel Empresarial,Especialista En Excel,5,FALSE
 Especialista En Finanzas,Especialista En Finanzas,1,TRUE
 Especialista En Gerencia De Proyectos,Especialista En Gerencia De Proyectos,1,TRUE
-Especialista En Gerencia De Proyectos Ti,Especialista En Gerencia De Proyectos Ti,2,TRUE
+Especialista En Gerencia De Proyectos Ti,Especialista En Gerencia De Proyectos,2,FALSE
 Especialista En Gerencia De Recursos Humanos,Especialista En Gerencia De Recursos Humanos,1,TRUE
 Especialista En Gestion De Proyectos,Especialista En Gestion De Proyectos,2,TRUE
 Especialista En Gestion De Recursos Humanos,Especialista En Gestion De Recursos Humanos,1,TRUE
@@ -1415,7 +1415,7 @@ Especialista En Office Basico E Intermedio,Especialista En Office Basico E Inter
 Especialista En Power Bi,Especialista En Power Bi,1,TRUE
 Especialista En Recursos Humanos,Especialista En Recursos Humanos,3,TRUE
 Especialista En Redes,Especialista En Redes,1,TRUE
-Especialista En Redes Y Conectividad,Especialista En Redes Y Conectividad,4,TRUE
+Especialista En Redes Y Conectividad,Especialista En Redes,4,FALSE
 Especialista En Siga,Especialista En Siga,1,TRUE
 Especialista En Soporte It,Especialista En Soporte It,1,TRUE
 Especialista En Soporte Tecnico It Essentials,Especialista En Soporte Tecnico It Essentials,1,TRUE
@@ -1436,10 +1436,10 @@ Especializacion Avanzada De Direccion De Proyec...,Especializacion Avanzada De D
 Especializacion Avanzada En Gestion De Procesos,Especializacion Avanzada En Gestion De Procesos,1,TRUE
 Especializacion Bi,Especializacion Bi,2,TRUE
 Especializacion Big Data,Especializacion Big Data,3,TRUE
-Especializacion Big Data &Amp; Business Analytics,Especializacion Big Data &Amp; Business Analytics,5,TRUE
+Especializacion Big Data &Amp; Business Analytics,Especializacion Big Data,5,FALSE
 Especializacion Business Analytics &Amp; Big Data,Especializacion Business Analytics &Amp; Big Data,1,TRUE
 Especializacion Business Intelligence,Especializacion Business Intelligence,1,TRUE
-Especializacion Business Intelligence-Analytics,Especializacion Business Intelligence-Analytics,2,TRUE
+Especializacion Business Intelligence-Analytics,Especializacion Business Intelligence,2,FALSE
 Especializacion Costos Avanzados En Mineria,Especializacion Costos Avanzados En Mineria,1,TRUE
 Especializacion De Creditos Y Cobranza,Especializacion De Creditos Y Cobranza,1,TRUE
 Especializacion De Facebook Ads Y Google Ads,Especializacion De Facebook Ads Y Google Ads,1,TRUE
@@ -1462,15 +1462,15 @@ Especializacion En Contratacion Con El Estado,Especializacion En Contratacion Co
 Especializacion En Contrataciones,Especializacion En Contrataciones,1,TRUE
 Especializacion En Contrataciones Del Estado,Especializacion En Contrataciones Del Estado,2,TRUE
 Especializacion En Data Analytics,Especializacion En Data Analytics,1,TRUE
-Especializacion En Data Science 160 Hrs.,Especializacion En Data Science 160 Hrs.,2,TRUE
+Especializacion En Data Science 160 Hrs.,Especializacion En Data Science Machine Learning,2,FALSE
 Especializacion En Data Science Machine Learning,Especializacion En Data Science Machine Learning,2,TRUE
 Especializacion En Desarrollo Empresarial,Especializacion En Desarrollo Empresarial,2,TRUE
 Especializacion En Direccion De Proyectos,Especializacion En Direccion De Proyectos,1,TRUE
-Especializacion En Direccion De Proyectos Y Habili,Especializacion En Direccion De Proyectos Y Habili,1,TRUE
+Especializacion En Direccion De Proyectos Y Habili,Especializacion En Direccion De Proyectos,1,FALSE
 Especializacion En Direccion Y Consultoria,Especializacion En Direccion Y Consultoria,1,TRUE
 Especializacion En Docencia Universitaria,Especializacion En Docencia Universitaria,2,TRUE
 Especializacion En Estadistica,Especializacion En Estadistica,2,TRUE
-Especializacion En Estadistica Aplicada,Especializacion En Estadistica Aplicada,1,TRUE
+Especializacion En Estadistica Aplicada,Especializacion En Estadistica,1,FALSE
 Especializacion En Excel Empresarial,Especializacion En Excel Empresarial,1,TRUE
 Especializacion En Facebook Y Google Ads,Especializacion En Facebook Y Google Ads,1,TRUE
 Especializacion En Factor Humano,Especializacion En Factor Humano,1,TRUE
@@ -1478,16 +1478,16 @@ Especializacion En Finanzas,Especializacion En Finanzas,2,TRUE
 Especializacion En Finanzas Corporativas,Especializacion En Finanzas Corporativas,2,TRUE
 Especializacion En Gerencia De Proyectos,Especializacion En Gerencia De Proyectos,2,TRUE
 Especializacion En Gestion Comercial,Especializacion En Gestion Comercial,1,TRUE
-Especializacion En Gestion Comercial Y Marketing,Especializacion En Gestion Comercial Y Marketing,1,TRUE
+Especializacion En Gestion Comercial Y Marketing,Especializacion En Gestion Comercial,1,FALSE
 Especializacion En Gestion De Capital Humano,Especializacion En Gestion De Capital Humano,1,TRUE
 Especializacion En Gestion De La Ciberseguridad,Especializacion En Gestion De La Ciberseguridad,1,TRUE
 Especializacion En Gestion De Personas,Especializacion En Gestion De Personas,1,TRUE
 Especializacion En Gestion De Procesos,Especializacion En Gestion De Procesos,4,TRUE
 Especializacion En Gestion De Proyectos,Especializacion En Gestion De Proyectos,9,TRUE
 Especializacion En Gestion De Proyectos (Pmi),Especializacion En Gestion De Proyectos (Pmi),1,TRUE
-Especializacion En Gestion De Recursos Humano,Especializacion En Gestion De Recursos Humano,1,TRUE
+Especializacion En Gestion De Recursos Humano,Especializacion En Gestion De Recursos Humanos,1,FALSE
 Especializacion En Gestion De Recursos Humanos,Especializacion En Gestion De Recursos Humanos,6,TRUE
-Especializacion En Gestion De Rrhh.,Especializacion En Gestion De Rrhh.,1,TRUE
+Especializacion En Gestion De Rrhh.,Especializacion En Gestion De Recursos Humanos,1,FALSE
 Especializacion En Gestion De Talento Humano,Especializacion En Gestion De Talento Humano,1,TRUE
 Especializacion En Gestion De Ti,Especializacion En Gestion De Ti,1,TRUE
 Especializacion En Gestion Del Talento,Especializacion En Gestion Del Talento,1,TRUE
@@ -1520,8 +1520,8 @@ Especializacion En Sistemas Y Tl,Especializacion En Sistemas Y Tl,1,TRUE
 Especializacion En Sql Server,Especializacion En Sql Server,2,TRUE
 Especializacion En Supply Chain Management,Especializacion En Supply Chain Management,2,TRUE
 Especializacion En Talento Humano,Especializacion En Talento Humano,1,TRUE
-Especializacion En Tecnologia De Informacion,Especializacion En Tecnologia De Informacion,1,TRUE
-Especializacion En Tecnologia De La Informaci,Especializacion En Tecnologia De La Informaci,1,TRUE
+Especializacion En Tecnologia De Informacion,Especializacion En Tecnologias De Informacion,1,FALSE
+Especializacion En Tecnologia De La Informaci,Especializacion En Tecnologias De Informacion,1,FALSE
 Especializacion En Tecnologias De Informacion,Especializacion En Tecnologias De Informacion,2,TRUE
 Especializacion En Ti,Especializacion En Ti,2,TRUE
 Especializacion En Transformacion Digital,Especializacion En Transformacion Digital,1,TRUE
@@ -1560,7 +1560,7 @@ Estudiante De Ciencias De La Comunicacion,Estudiante De Ciencias De La Comunicac
 Estudiante De Computacion E Informatica,Estudiante De Computacion E Informatica,1,TRUE
 Estudiante De Derecho,Estudiante De Derecho,1,TRUE
 Estudiante De Gestion De Recursos Humanos,Estudiante De Gestion De Recursos Humanos,1,TRUE
-Estudiante De Ing. De Sistemas,Estudiante De Ing. De Sistemas,1,TRUE
+Estudiante De Ing. De Sistemas,Estudiante De Ingenieria De Sistemas,1,FALSE
 Estudiante De Ingenieria De Sistemas,Estudiante De Ingenieria De Sistemas,4,TRUE
 Estudiante De Ingenieria De Software,Estudiante De Ingenieria De Software,2,TRUE
 Estudiante De Ingenieria Industrial,Estudiante De Ingenieria Industrial,2,TRUE
@@ -1628,8 +1628,8 @@ Facultad: Ing. De Sistemas,Facultad: Ing. De Sistemas,1,TRUE
 Fashion Stylist,Fashion Stylist,1,TRUE
 Figma,Figma,1,TRUE
 Finanzas,Finanzas,5,TRUE
-Finanzas Corporativas,Finanzas Corporativas,7,TRUE
-Finanzas Para No Financistas.,Finanzas Para No Financistas.,2,TRUE
+Finanzas Corporativas,Finanzas,7,FALSE
+Finanzas Para No Financistas.,Finanzas,2,FALSE
 Firewall: Fortinet,Firewall: Fortinet,1,TRUE
 Flask With Python,Flask With Python,1,TRUE
 Forensic Lab,Forensic Lab,1,TRUE
@@ -1642,23 +1642,23 @@ Formacion Profesional,Formacion Profesional,1,TRUE
 Forografia Publicitaria,Forografia Publicitaria,1,TRUE
 Fortinet Nse-4,Fortinet Nse-4,5,TRUE
 Fotografia,Fotografia,3,TRUE
-Fotografia Digital,Fotografia Digital,3,TRUE
+Fotografia Digital,Fotografia,3,FALSE
 Frances,Frances,1,TRUE
 Frances Basico,Frances Basico,1,TRUE
 Fraude Y Defensa Alimentaria,Fraude Y Defensa Alimentaria,1,TRUE
-Front End,Front End,1,TRUE
-Front End Developer,Front End Developer,2,TRUE
-Front End Web Developer,Front End Web Developer,1,TRUE
-Front-End,Front-End,1,TRUE
-Frontend - Angular5,Frontend - Angular5,5,TRUE
+Front End,Frontend Developer,1,FALSE
+Front End Developer,Frontend Developer,2,FALSE
+Front End Web Developer,Frontend Developer,1,FALSE
+Front-End,Frontend Developer,1,FALSE
+Frontend - Angular5,Frontend Developer,5,FALSE
 Frontend Developer,Frontend Developer,2,TRUE
-Front-End Developer,Front-End Developer,1,TRUE
-Front-End: Angular 9,Front-End: Angular 9,1,TRUE
+Front-End Developer,Frontend Developer,1,FALSE
+Front-End: Angular 9,Frontend Developer,1,FALSE
 Fullstack Developer,Fullstack Developer,1,TRUE
-Fullstack Web Developer,Fullstack Web Developer,1,TRUE
+Fullstack Web Developer,Fullstack Developer,1,FALSE
 Funcionario En Gestion De Contrataciones,Funcionario En Gestion De Contrataciones,1,TRUE
 Functional Analyst,Functional Analyst,1,TRUE
-Fundamental Itil,Fundamental Itil,1,TRUE
+Fundamental Itil,Fundamentos De Itil,1,FALSE
 Fundamentals In Devops And Microservices Architect,Fundamentals In Devops And Microservices Architect,1,TRUE
 Fundamento De La Programacion,Fundamento De La Programacion,1,TRUE
 Fundamentos De Gestion De Proyectos,Fundamentos De Gestion De Proyectos,1,TRUE
@@ -1668,8 +1668,8 @@ Fundamentos De La Gestion De Proyectos,Fundamentos De La Gestion De Proyectos,1,
 Fundamentos De Python Para Ciencia De Datos,Fundamentos De Python Para Ciencia De Datos,2,TRUE
 Fundamentos De Scrum,Fundamentos De Scrum,1,TRUE
 Fundamentos Del Liderazgo,Fundamentos Del Liderazgo,1,TRUE
-Fundamentos Itil Para La Gestiom De Servicios,Fundamentos Itil Para La Gestiom De Servicios,1,TRUE
-Fundamentos Itil V3 Para La Gestion De Los Se,Fundamentos Itil V3 Para La Gestion De Los Se,6,TRUE
+Fundamentos Itil Para La Gestiom De Servicios,Fundamentos De Itil,1,FALSE
+Fundamentos Itil V3 Para La Gestion De Los Se,Fundamentos De Itil,6,FALSE
 Gamification,Gamification,1,TRUE
 Gastronomia Y Gestion De Empresas,Gastronomia Y Gestion De Empresas,1,TRUE
 Generalista De Recursos Humanos,Generalista De Recursos Humanos,1,TRUE
@@ -1697,9 +1697,9 @@ Gerencia Sistema De Informacion,Gerencia Sistema De Informacion,1,TRUE
 Gerencia Y Desarrollo De La Organizacion,Gerencia Y Desarrollo De La Organizacion,1,TRUE
 Gestion,Gestion,2,TRUE
 Gestion Comercial,Gestion Comercial,1,TRUE
-Gestion Comercial Y De Cobranzas,Gestion Comercial Y De Cobranzas,2,TRUE
-Gestion Comercial Y Negocios Digitales,Gestion Comercial Y Negocios Digitales,1,TRUE
-Gestion Comercial: Estrategias Y Kpi'S,Gestion Comercial: Estrategias Y Kpi'S,1,TRUE
+Gestion Comercial Y De Cobranzas,Gestion Comercial,2,FALSE
+Gestion Comercial Y Negocios Digitales,Gestion Comercial,1,FALSE
+Gestion Comercial: Estrategias Y Kpi'S,Gestion Comercial,1,FALSE
 Gestion Comunitaria,Gestion Comunitaria,1,TRUE
 Gestion Con Mencion A La Finanzas Publicas,Gestion Con Mencion A La Finanzas Publicas,1,TRUE
 Gestion De Almacenes E Inventarios,Gestion De Almacenes E Inventarios,1,TRUE
@@ -1720,8 +1720,8 @@ Gestion De Logistica Y Cadena De Suministros,Gestion De Logistica Y Cadena De Su
 Gestion De Operaciones,Gestion De Operaciones,3,TRUE
 Gestion De Operaciones Y Servicios Logisticos,Gestion De Operaciones Y Servicios Logisticos,3,TRUE
 Gestion De Planillas,Gestion De Planillas,1,TRUE
-Gestion De Planillas Y Legislacion Laboral,Gestion De Planillas Y Legislacion Laboral,3,TRUE
-Gestion De Planillas Y Recursos Humanos,Gestion De Planillas Y Recursos Humanos,1,TRUE
+Gestion De Planillas Y Legislacion Laboral,Gestion De Planillas,3,FALSE
+Gestion De Planillas Y Recursos Humanos,Gestion De Planillas,1,FALSE
 Gestion De Portafolios,Gestion De Portafolios,1,TRUE
 Gestion De Procesos,Gestion De Procesos,2,TRUE
 Gestion De Procesos De Negocio,Gestion De Procesos De Negocio,1,TRUE
@@ -1761,11 +1761,11 @@ Gestion De Rrhh Y Bienestar Laboral,Gestion De Recursos Humanos,2,FALSE
 Gestion De Servicio Ti - Itil,Gestion De Servicio Ti - Itil,2,TRUE
 Gestion De Subsidios,Gestion De Subsidios,3,TRUE
 Gestion De Talento Humano,Gestion De Talento Humano,1,TRUE
-Gestion De Tecnologia De Informacion,Gestion De Tecnologia De Informacion,2,TRUE
+Gestion De Tecnologia De Informacion,Gestion De Tecnologias De Informacion,2,FALSE
 Gestion De Tecnologias De Informacion,Gestion De Tecnologias De Informacion,3,TRUE
-Gestion De Tecnologias De Informacion Y Comunic...,Gestion De Tecnologias De Informacion Y Comunic...,1,TRUE
-Gestion De Tecnologias De La Informacion,Gestion De Tecnologias De La Informacion,1,TRUE
-Gestion De Tic,Gestion De Tic,3,TRUE
+Gestion De Tecnologias De Informacion Y Comunic...,Gestion De Tecnologias De Informacion,1,FALSE
+Gestion De Tecnologias De La Informacion,Gestion De Tecnologias De Informacion,1,FALSE
+Gestion De Tic,Gestion De Tecnologias De Informacion,3,FALSE
 Gestion De Ventas,Gestion De Ventas,2,TRUE
 Gestion Del Comercio Internacional,Gestion Del Comercio Internacional,1,TRUE
 Gestion Del Desarrollo Tecnologico,Gestion Del Desarrollo Tecnologico,1,TRUE
@@ -1815,8 +1815,8 @@ Growth,Growth,1,TRUE
 Guia Oficial De Turismo,Guia Oficial De Turismo,1,TRUE
 Habilidades Blandas,Habilidades Blandas,1,TRUE
 Habilidades Directivas,Habilidades Directivas,1,TRUE
-Habilidades Directivas Gestion De Personas,Habilidades Directivas Gestion De Personas,1,TRUE
-Habilidades Directivas Para El Ejecutivo M,Habilidades Directivas Para El Ejecutivo M,1,TRUE
+Habilidades Directivas Gestion De Personas,Habilidades Directivas,1,FALSE
+Habilidades Directivas Para El Ejecutivo M,Habilidades Directivas,1,FALSE
 Hacking Etico,Hacking Etico,2,TRUE
 Hcia Huawei Cloud,Hcia Huawei Cloud,1,TRUE
 Herramientas Agiles En Proyectos Y Scrum,Herramientas Agiles En Proyectos Y Scrum,2,TRUE
@@ -1828,11 +1828,11 @@ Hosteleria Y Turisml,Hosteleria Y Turisml,2,TRUE
 Hr Analytics: Data Aplicada A La Gestion,Hr Analytics: Data Aplicada A La Gestion,1,TRUE
 Identity Windows Server 2016,Identity Windows Server 2016,7,TRUE
 Idioma Ingles,Idioma Ingles,7,TRUE
-Idioma Ingles Intermedio-Avanzado,Idioma Ingles Intermedio-Avanzado,1,TRUE
+Idioma Ingles Intermedio-Avanzado,Idioma Ingles,1,FALSE
 Idioma Portugues,Idioma Portugues,1,TRUE
 Idiomas,Idiomas,2,TRUE
 Idiomas Catolica,Idiomas Catolica,1,TRUE
-Idiomas Ingles,Idiomas Ingles,2,TRUE
+Idiomas Ingles,Idioma Ingles,2,FALSE
 Ii Curso De Extension Universitaria,Ii Curso De Extension Universitaria,1,TRUE
 Img. Sistemas,Img. Sistemas,1,TRUE
 Implantacion Sgsi Optica Iso 27001:2013,Implantacion Sgsi Optica Iso 27001:2013,1,TRUE
@@ -1855,11 +1855,11 @@ In. Sistemas,In. Sistemas,2,TRUE
 Incompleto,Incompleto,1,TRUE
 Inconcluso,Inconcluso,1,TRUE
 Indicadores De Gestion,Indicadores De Gestion,1,TRUE
-Indicadores De Gestion Balance Scorecard,Indicadores De Gestion Balance Scorecard,1,TRUE
-Indicadores De Gestion De Calidad,Indicadores De Gestion De Calidad,1,TRUE
-Indicadores De Gestion Del Talento Humano,Indicadores De Gestion Del Talento Humano,1,TRUE
-Indicadores De Gestion Kpi Recursos Humanos,Indicadores De Gestion Kpi Recursos Humanos,1,TRUE
-Induccion Y Orientacion Basica En Mineria,Induccion Y Orientacion Basica En Mineria,2,TRUE
+Indicadores De Gestion Balance Scorecard,Indicadores De Gestion,1,FALSE
+Indicadores De Gestion De Calidad,Indicadores De Gestion,1,FALSE
+Indicadores De Gestion Del Talento Humano,Indicadores De Gestion,1,FALSE
+Indicadores De Gestion Kpi Recursos Humanos,Indicadores De Gestion,1,FALSE
+Induccion Y Orientacion Basica En Mineria,Indicadores De Gestion,2,FALSE
 Inegnieria De Sistemas,Inegnieria De Sistemas,6,TRUE
 Informatica,Informatica,6,TRUE
 Informatica Contable,Informatica Contable,1,TRUE
@@ -1867,36 +1867,36 @@ Informatica Redes,Informatica Redes,2,TRUE
 Informatico,Informatico,3,TRUE
 Information Technology,Information Technology,1,TRUE
 Infraestructura De Servidores En Windows Server 20,Infraestructura De Servidores En Windows Server 20,1,TRUE
-Ing .Industrial Y Comercial,Ing .Industrial Y Comercial,1,TRUE
-Ing Civil,Ing Civil,2,TRUE
+Ing .Industrial Y Comercial,Ingenieria Industrial,1,FALSE
+Ing Civil,Ingenieria Civil,2,FALSE
 Ing Computacion Y Sistemas,Ingenieria De Sistemas,3,FALSE
 Ing De Sistemas,Ingenieria De Sistemas,10,FALSE
 Ing De Sistemas Computacionales,Ingenieria De Sistemas,1,FALSE
 Ing De Sistemas De Informacion,Ingenieria De Sistemas,1,FALSE
 Ing De Sistemas E Informatica,Ingenieria De Sistemas,2,FALSE
-Ing De Software,Ing De Software,4,TRUE
-Ing De Telecomunicaciones,Ing De Telecomunicaciones,1,TRUE
-Ing Electronica,Ing Electronica,2,TRUE
-Ing Industrial,Ing Industrial,5,TRUE
-Ing Industrial - Usil,Ing Industrial - Usil,1,TRUE
-Ing Informatica,Ing Informatica,2,TRUE
+Ing De Software,Ingenieria De Software,4,FALSE
+Ing De Telecomunicaciones,Ingenieria De Telecomunicaciones,1,FALSE
+Ing Electronica,Ingenieria Electronica,2,FALSE
+Ing Industrial,Ingenieria Industrial,5,FALSE
+Ing Industrial - Usil,Ingenieria Industrial,1,FALSE
+Ing Informatica,Ingenieria Informatica,2,FALSE
 Ing Informatica Y De Sistemas,Ingenieria De Sistemas,1,FALSE
-Ing Informatico,Ing Informatico,4,TRUE
-Ing Redes Y Comunicaciones,Ing Redes Y Comunicaciones,2,TRUE
+Ing Informatico,Ingenieria Informatica,4,FALSE
+Ing Redes Y Comunicaciones,Ingenieria De Redes Y Comunicaciones,2,FALSE
 Ing Sistemas,Ingenieria De Sistemas,10,FALSE
-Ing Software,Ing Software,1,TRUE
+Ing Software,Ingenieria De Software,1,FALSE
 "Ing, De Sistemas Y Informatica",Ingenieria De Sistemas,1,FALSE
 "Ing, Empresarial Y De Sistemas",Ingenieria De Sistemas,1,FALSE
-"Ing, Redes Y Comunicaciones","Ing, Redes Y Comunicaciones",1,TRUE
+"Ing, Redes Y Comunicaciones",Ingenieria De Redes Y Comunicaciones,1,FALSE
 Ing. Agroindustrial,Ing. Agroindustrial,1,TRUE
 Ing. Automotriz,Ing. Automotriz,1,TRUE
-Ing. Computacion E Informatica,Ing. Computacion E Informatica,3,TRUE
+Ing. Computacion E Informatica,Ingenieria De Computacion E Informatica,3,FALSE
 Ing. Computacion Y Sistemas,Ingenieria De Sistemas,4,FALSE
-Ing. De Auditoria Y Seguridad Informatica,Ing. De Auditoria Y Seguridad Informatica,1,TRUE
+Ing. De Auditoria Y Seguridad Informatica,Ingenieria De Seguridad Y Auditoria Informatica,1,FALSE
 Ing. De Computacion Y Sistemas,Ingenieria De Sistemas,2,FALSE
 Ing. De Computacion Y Sistemas.,Ingenieria De Sistemas,1,FALSE
-Ing. De Redes Y Comunicaciones,Ing. De Redes Y Comunicaciones,2,TRUE
-Ing. De Seguridad Y Auditoria Informatica,Ing. De Seguridad Y Auditoria Informatica,1,TRUE
+Ing. De Redes Y Comunicaciones,Ingenieria De Redes Y Comunicaciones,2,FALSE
+Ing. De Seguridad Y Auditoria Informatica,Ingenieria De Seguridad Y Auditoria Informatica,1,FALSE
 Ing. De Sistema,Ingenieria De Sistemas,1,FALSE
 Ing. De Sistemas,Ingenieria De Sistemas,28,FALSE
 Ing. De Sistemas - Colegiado,Ingenieria De Sistemas,1,FALSE
@@ -1910,34 +1910,34 @@ Ing. De Sistemas Y Gti,Ingenieria De Sistemas,1,FALSE
 Ing. De Sistemas Y Redes,Ingenieria De Sistemas,2,FALSE
 "Ing. De Sistemas, Computo Y Telecomunicaciones.",Ingenieria De Sistemas,1,FALSE
 "Ing. De Sistemas, Universidad Senor De Sipan",Ingenieria De Sistemas,2,FALSE
-Ing. De Software,Ing. De Software,7,TRUE
-Ing. De Tecnologias De La Informacion Y Sistemas,Ing. De Tecnologias De La Informacion Y Sistemas,1,TRUE
-Ing. De Telecomunicaciones,Ing. De Telecomunicaciones,9,TRUE
-Ing. Electronica,Ingeniero Electronico,4,FALSE
-Ing. Electronica Y Telecomunicaciones,Ingeniero Electronico,1,FALSE
-Ing. Electronico,Ingeniero Electronico,2,FALSE
-Ing. Electronico - Industrial,Ingeniero Electronico,1,FALSE
-Ing. Electronico Y Telecomunicaciones,Ingeniero Electronico,1,FALSE
-Ing. Emprearial Y De Sistemas,Ing. Emprearial Y De Sistemas,2,TRUE
-Ing. Empresarial,Ing. Empresarial,1,TRUE
-Ing. Empresarial Y De Sistemas,Ing. Empresarial Y De Sistemas,1,TRUE
-Ing. En Computacion E Informatica,Ing. En Computacion E Informatica,1,TRUE
-Ing. En Gestion Empresarial,Ing. En Gestion Empresarial,2,TRUE
+Ing. De Software,Ingenieria De Software,7,FALSE
+Ing. De Tecnologias De La Informacion Y Sistemas,Ingenieria De Software,1,FALSE
+Ing. De Telecomunicaciones,Ingenieria De Telecomunicaciones,9,FALSE
+Ing. Electronica,Ingenieria Electronica,4,FALSE
+Ing. Electronica Y Telecomunicaciones,Ingenieria Electronica,1,FALSE
+Ing. Electronico,Ingenieria Electronica,2,FALSE
+Ing. Electronico - Industrial,Ingenieria Electronica,1,FALSE
+Ing. Electronico Y Telecomunicaciones,Ingenieria Electronica,1,FALSE
+Ing. Emprearial Y De Sistemas,Ingenieria Empresarial,2,FALSE
+Ing. Empresarial,Ingenieria Empresarial,1,FALSE
+Ing. Empresarial Y De Sistemas,Ingenieria Empresarial,1,FALSE
+Ing. En Computacion E Informatica,Ingenieria De Computacion E Informatica,1,FALSE
+Ing. En Gestion Empresarial,Ingenieria De Gestion Empresarial,2,FALSE
 Ing. En Informatica Y Sistemas,Ingenieria De Sistemas,4,FALSE
 Ing. En Sistemas,Ingenieria De Sistemas,5,FALSE
 Ing. En Sistemas E Informatica,Ingenieria De Sistemas,1,FALSE
-Ing. Estadistico E Informatico,Ing. Estadistico E Informatico,1,TRUE
-Ing. Gestion Empresarial,Ing. Gestion Empresarial,1,TRUE
-Ing. Industrial,Ing. Industrial,23,TRUE
-Ing. Informatica,Ing. Informatica,8,TRUE
+Ing. Estadistico E Informatico,Ingenieria Estadistica,1,FALSE
+Ing. Gestion Empresarial,Ingenieria De Gestion Empresarial,1,FALSE
+Ing. Industrial,Ingenieria Industrial,23,FALSE
+Ing. Informatica,Ingenieria Informatica,8,FALSE
 Ing. Informatica Y De Sistemas,Ingenieria De Sistemas,5,FALSE
 Ing. Informatica Y Sistemas,Ingenieria De Sistemas,2,FALSE
-Ing. Informatico,Ing. Informatico,1,TRUE
-Ing. Informatico - Reg. Cip No 160712,Ing. Informatico - Reg. Cip No 160712,1,TRUE
-Ing. Mecatronica,Ing. Mecatronica,3,TRUE
-Ing. Quimica,Ing. Quimica,1,TRUE
-Ing. Redes Y Comunicaciones,Ing. Redes Y Comunicaciones,4,TRUE
-Ing. Sist 4To Semestre,Ing. Sist 4To Semestre,1,TRUE
+Ing. Informatico,Ingenieria Informatica,1,FALSE
+Ing. Informatico - Reg. Cip No 160712,Ingenieria Informatica,1,FALSE
+Ing. Mecatronica,Ingenieria Mecatronica,3,FALSE
+Ing. Quimica,Ingenieria Quimica,1,FALSE
+Ing. Redes Y Comunicaciones,Ingenieria De Redes Y Comunicaciones,4,FALSE
+Ing. Sist 4To Semestre,Ingenieria De Sistemas,1,FALSE
 Ing. Sistemas,Ingenieria De Sistemas,13,FALSE
 Ing. Sistemas / Estudiante,Ingenieria De Sistemas,4,FALSE
 Ing. Sistemas Computacionales,Ingenieria De Sistemas,3,FALSE
@@ -1946,13 +1946,13 @@ Ing. Sistemas Empresariales,Ingenieria De Sistemas,2,FALSE
 Ing. Sistemas Empresrial,Ingenieria De Sistemas,2,FALSE
 Ing. Sistemas Y Computacion,Ingenieria De Sistemas,3,FALSE
 Ing. Sistemas Y Computo,Ingenieria De Sistemas,1,FALSE
-Ing. Sitemas,Ing. Sitemas,1,TRUE
-Ing. Telecomunicaciones,Ing. Telecomunicaciones,4,TRUE
-Ing.Ciberseguridad,Ing.Ciberseguridad,1,TRUE
+Ing. Sitemas,Ingenieria De Sistemas,1,FALSE
+Ing. Telecomunicaciones,Ingenieria De Telecomunicaciones,4,FALSE
+Ing.Ciberseguridad,Ingenieria De Ciberseguridad,1,FALSE
 Ing.De Sistemas,Ingenieria De Sistemas,2,FALSE
-Ing.Eletronica,Ing.Eletronica,1,TRUE
+Ing.Eletronica,Ingenieria Electronica,1,FALSE
 Ing.En Sistemas,Ingenieria De Sistemas,2,FALSE
-Ing.Industrial,Ing.Industrial,4,TRUE
+Ing.Industrial,Ingenieria Industrial,4,FALSE
 Ing.Sistemas,Ingenieria De Sistemas,4,FALSE
 Ing.Sistemas Computacionales,Ingenieria De Sistemas,2,FALSE
 Ing.Sistemas E Informatica,Ingenieria De Sistemas,1,FALSE
@@ -1962,33 +1962,33 @@ Ingeneria De Sistemas,Ingenieria De Sistemas,7,FALSE
 Ingeneria De Sistemas Computacionales,Ingenieria De Sistemas,2,FALSE
 Ingeneria De Sistemas E Informatica,Ingenieria De Sistemas,1,FALSE
 Ingeneria De Sistemas Y Telecomunicaciones,Ingenieria De Sistemas,1,FALSE
-Ingeneria De Software,Ingeneria De Software,3,TRUE
-Ingeneria De Telecomunicaciones,Ingeneria De Telecomunicaciones,1,TRUE
+Ingeneria De Software,Ingenieria De Software,3,FALSE
+Ingeneria De Telecomunicaciones,Ingenieria De Telecomunicaciones,1,FALSE
 Ingeneria En Computacion Y Sistemas,Ingenieria De Sistemas,1,FALSE
-Ingeneria Industrial,Ingeneria Industrial,3,TRUE
-Ingeneria Informatica,Ingeneria Informatica,19,TRUE
+Ingeneria Industrial,Ingenieria Industrial,3,FALSE
+Ingeneria Informatica,Ingenieria Informatica,19,FALSE
 Ingeneria Sistemas,Ingenieria De Sistemas,1,FALSE
 Ingeneria Telematica,Ingeneria Telematica,1,TRUE
-Ingenerio Industrial Y Comercial,Ingenerio Industrial Y Comercial,1,TRUE
-Ingeniara De Sistemas - Titulado,Ingeniara De Sistemas - Titulado,1,TRUE
+Ingenerio Industrial Y Comercial,Ingenieria Industrial,1,FALSE
+Ingeniara De Sistemas - Titulado,Ingenieria De Sistemas,1,FALSE
 Ingeniera Alimentaria,Ingeniera Alimentaria,1,TRUE
-Ingeniera Civil,Ingeniera Civil,2,TRUE
-Ingeniera De Computacion E Informatica,Ingeniera De Computacion E Informatica,1,TRUE
-Ingeniera De Gestion Empresarial,Ingeniera De Gestion Empresarial,1,TRUE
+Ingeniera Civil,Ingenieria Civil,2,FALSE
+Ingeniera De Computacion E Informatica,Ingenieria De Computacion E Informatica,1,FALSE
+Ingeniera De Gestion Empresarial,Ingenieria De Gestion Empresarial,1,FALSE
 Ingeniera De Sistemas,Ingenieria De Sistemas,28,FALSE
 Ingeniera De Sistemas - Titulada,Ingenieria De Sistemas,1,FALSE
 Ingeniera De Sistemas Computacionales,Ingenieria De Sistemas,1,FALSE
 Ingeniera De Sistemas E Informatica,Ingenieria De Sistemas,7,FALSE
 Ingeniera De Sistemas Y Computacion,Ingenieria De Sistemas,1,FALSE
-Ingeniera Electronica,Ingeniera Electronica,1,TRUE
-Ingeniera Empresarial,Ingeniera Empresarial,1,TRUE
+Ingeniera Electronica,Ingenieria Electronica,1,FALSE
+Ingeniera Empresarial,Ingenieria Empresarial,1,FALSE
 Ingeniera Empresarial Y De Sistemas,Ingenieria De Sistemas,3,FALSE
 Ingeniera En Sistemas,Ingenieria De Sistemas,3,FALSE
-Ingeniera Industrial,Ingeniera Industrial,9,TRUE
-Ingeniera Industrial - Vi Ciclo,Ingeniera Industrial - Vi Ciclo,1,TRUE
-Ingeniera Industrial Y Comercial,Ingeniera Industrial Y Comercial,1,TRUE
-Ingeniera Industrial Y De Sistemas,Ingeniera Industrial Y De Sistemas,1,TRUE
-Ingeniera Informatica,Ingeniera Informatica,3,TRUE
+Ingeniera Industrial,Ingenieria Industrial,9,FALSE
+Ingeniera Industrial - Vi Ciclo,Ingenieria Industrial,1,FALSE
+Ingeniera Industrial Y Comercial,Ingenieria Industrial,1,FALSE
+Ingeniera Industrial Y De Sistemas,Ingenieria Industrial,1,FALSE
+Ingeniera Informatica,Ingenieria Informatica,3,FALSE
 Ingeniera Sistemas,Ingenieria De Sistemas,1,FALSE
 Ingenieria,Ingenieria,15,TRUE
 Ingenieria Administrativa,Ingenieria Administrativa,1,TRUE
@@ -1998,21 +1998,21 @@ Ingenieria Comercial,Ingenieria Comercial,3,TRUE
 Ingenieria D Sistemas,Ingenieria De Sistemas,1,FALSE
 Ingenieria De Ciberseguridad,Ingenieria De Ciberseguridad,2,TRUE
 Ingenieria De Computacion E Informatica,Ingenieria De Computacion E Informatica,1,TRUE
-Ingenieria De Computacion Y Sistema,Ingenieria De Computacion Y Sistema,1,TRUE
+Ingenieria De Computacion Y Sistema,Ingenieria De Computacion Y Sistemas,1,FALSE
 Ingenieria De Computacion Y Sistemas,Ingenieria De Computacion Y Sistemas,54,TRUE
 Ingenieria De Datos Con Microsoft Azure,Ingenieria De Datos Con Microsoft Azure,1,TRUE
 Ingenieria De Diseno Industrial Y Desarrollo De Pr,Ingenieria De Diseno Industrial Y Desarrollo De Pr,1,TRUE
 Ingenieria De Empresas Y Sistemas,Ingenieria De Empresas Y Sistemas,2,TRUE
 Ingenieria De Gestion Empresarial,Ingenieria De Gestion Empresarial,17,TRUE
-Ingenieria De Gestion Empresarial Y Sistema,Ingenieria De Gestion Empresarial Y Sistema,1,TRUE
+Ingenieria De Gestion Empresarial Y Sistema,Ingenieria De Gestion Empresarial,1,FALSE
 Ingenieria De Informatica Y De Sistemas,Ingenieria De Informatica Y De Sistemas,2,TRUE
 Ingenieria De La Informacion,Ingenieria De La Informacion,1,TRUE
-Ingenieria De Las Telecomunicaciones,Ingenieria De Las Telecomunicaciones,9,TRUE
+Ingenieria De Las Telecomunicaciones,Ingenieria De Telecomunicaciones,9,FALSE
 Ingenieria De Logistica Y Transporte,Ingenieria De Logistica Y Transporte,1,TRUE
 Ingenieria De Minas,Ingenieria De Minas,1,TRUE
-Ingenieria De Redes &Amp; Comunicaciones,Ingenieria De Redes &Amp; Comunicaciones,1,TRUE
+Ingenieria De Redes &Amp; Comunicaciones,Ingenieria De Redes Y Comunicaciones,1,FALSE
 Ingenieria De Redes Y Comunicaciones,Ingenieria De Redes Y Comunicaciones,61,TRUE
-Ingenieria De Redes Y Telecomunicaciones,Ingenieria De Redes Y Telecomunicaciones,3,TRUE
+Ingenieria De Redes Y Telecomunicaciones,Ingenieria De Redes Y Comunicaciones,3,FALSE
 Ingenieria De Requerimientos De Software,Ingenieria De Requerimientos De Software,3,TRUE
 Ingenieria De Requerimientos Y Uml,Ingenieria De Requerimientos Y Uml,1,TRUE
 Ingenieria De Seguridad Y Auditoria Informatica,Ingenieria De Seguridad Y Auditoria Informatica,1,TRUE
@@ -2047,31 +2047,31 @@ Ingenieria De Software,Ingenieria De Software,56,TRUE
 Ingenieria De Tecnologias De Informacion Y Sistema,Ingenieria De Tecnologias De Informacion Y Sistema,1,TRUE
 Ingenieria De Telecomunicaciones,Ingenieria De Telecomunicaciones,23,TRUE
 Ingenieria De Ti Y Sistemas,Ingenieria De Sistemas,2,FALSE
-Ingenieria Del Software,Ingenieria Del Software,2,TRUE
+Ingenieria Del Software,Ingenieria De Software,2,FALSE
 Ingenieria Economica,Ingenieria Economica,3,TRUE
-Ingenieria Economica Y Negocios,Ingenieria Economica Y Negocios,1,TRUE
+Ingenieria Economica Y Negocios,Ingenieria Economica,1,FALSE
 Ingenieria Electrica,Ingenieria Electrica,1,TRUE
 Ingenieria Electronica,Ingenieria Electronica,43,TRUE
-Ingenieria Electronica Y De Telecomunicacione,Ingenieria Electronica Y De Telecomunicacione,1,TRUE
-Ingenieria Electronica Y Telecomunicaciones,Ingenieria Electronica Y Telecomunicaciones,8,TRUE
+Ingenieria Electronica Y De Telecomunicacione,Ingenieria Electronica,1,FALSE
+Ingenieria Electronica Y Telecomunicaciones,Ingenieria Electronica,8,FALSE
 Ingenieria Empresarial,Ingenieria Empresarial,31,TRUE
-Ingenieria Empresarial &Amp; Sistemas,Ingenieria Empresarial &Amp; Sistemas,1,TRUE
-Ingenieria Empresarial De Sistemas,Ingenieria Empresarial De Sistemas,4,TRUE
-Ingenieria Empresarial Y De Sistemas,Ingenieria Empresarial Y De Sistemas,35,TRUE
-Ingenieria Empresarial Y Sistemas,Ingenieria Empresarial Y Sistemas,10,TRUE
-Ingenieria En Computacion,Ingenieria En Computacion,1,TRUE
-Ingenieria En Computacion E Informatica,Ingenieria En Computacion E Informatica,7,TRUE
-Ingenieria En Gestion Empresarial,Ingenieria En Gestion Empresarial,4,TRUE
-Ingenieria En Informatica,Ingenieria En Informatica,5,TRUE
-Ingenieria En Redes Y Comunicaciones,Ingenieria En Redes Y Comunicaciones,3,TRUE
+Ingenieria Empresarial &Amp; Sistemas,Ingenieria Empresarial,1,FALSE
+Ingenieria Empresarial De Sistemas,Ingenieria Empresarial,4,FALSE
+Ingenieria Empresarial Y De Sistemas,Ingenieria Empresarial,35,FALSE
+Ingenieria Empresarial Y Sistemas,Ingenieria Empresarial,10,FALSE
+Ingenieria En Computacion,Ingenieria De Computacion E Informatica,1,FALSE
+Ingenieria En Computacion E Informatica,Ingenieria De Computacion E Informatica,7,FALSE
+Ingenieria En Gestion Empresarial,Ingenieria De Gestion Empresarial,4,FALSE
+Ingenieria En Informatica,Ingenieria Informatica,5,FALSE
+Ingenieria En Redes Y Comunicaciones,Ingenieria De Redes Y Comunicaciones,3,FALSE
 Ingenieria En Sistema,Ingenieria De Sistemas,1,FALSE
 Ingenieria En Sistemas,Ingenieria De Sistemas,4,FALSE
 Ingenieria En Sistemas Computacionales,Ingenieria De Sistemas,2,FALSE
 Ingenieria En Sistemas Con Enfasis En Desarrollo,Ingenieria De Sistemas,2,FALSE
-Ingenieria En Software Con Inteligencia Artificial,Ingenieria En Software Con Inteligencia Artificial,1,TRUE
-Ingenieria En Telecomunicaciones,Ingenieria En Telecomunicaciones,2,TRUE
+Ingenieria En Software Con Inteligencia Artificial,Ingenieria De Software,1,FALSE
+Ingenieria En Telecomunicaciones,Ingenieria De Telecomunicaciones,2,FALSE
 Ingenieria Estadistica,Ingenieria Estadistica,1,TRUE
-Ingenieria Estadistica E Informatica,Ingenieria Estadistica E Informatica,1,TRUE
+Ingenieria Estadistica E Informatica,Ingenieria Estadistica,1,FALSE
 Ingenieria Financiera,Ingenieria Financiera,1,TRUE
 Ingenieria Fisica,Ingenieria Fisica,2,TRUE
 Ingenieria Geografica Con Menc. En Ecoturismo,Ingenieria Geografica Con Menc. En Ecoturismo,2,TRUE
@@ -2083,23 +2083,23 @@ Ingenieria Industrial Y Comercual,Ingenieria Industrial,1,FALSE
 Ingenieria Industrial Y De Sistemas,Ingenieria Industrial,12,FALSE
 Ingenieria Industrial Y Sistemas,Ingenieria Industrial,1,FALSE
 Ingenieria Informatica,Ingenieria Informatica,63,TRUE
-Ingenieria Informatica 7 Ciclo Terminado,Ingenieria Informatica 7 Ciclo Terminado,1,TRUE
-Ingenieria Informatica Y De Sistemas,Ingenieria Informatica Y De Sistemas,14,TRUE
-Ingenieria Informatica Y Sistemas,Ingenieria Informatica Y Sistemas,6,TRUE
+Ingenieria Informatica 7 Ciclo Terminado,Ingenieria Informatica,1,FALSE
+Ingenieria Informatica Y De Sistemas,Ingenieria Informatica,14,FALSE
+Ingenieria Informatica Y Sistemas,Ingenieria Informatica,6,FALSE
 Ingenieria Mecanica,Ingenieria Mecanica,1,TRUE
 Ingenieria Mecatronica,Ingenieria Mecatronica,33,TRUE
 Ingenieria Pesquera,Ingenieria Pesquera,2,TRUE
 Ingenieria Quimica,Ingenieria Quimica,6,TRUE
-Ingenieria Sistema,Ingenieria Sistema,2,TRUE
-Ingenieria Sistemas,Ingenieria Sistemas,7,TRUE
-Ingenieria Sistemas Computacionales,Ingenieria Sistemas Computacionales,1,TRUE
-Ingenieria Sistemas De Informacion Y Gestion,Ingenieria Sistemas De Informacion Y Gestion,1,TRUE
-Ingenieria Sistemas E Informatica,Ingenieria Sistemas E Informatica,3,TRUE
-Ingenieria Telecomunicaciones,Ingenieria Telecomunicaciones,2,TRUE
-Ingenieria Y Computacion Y Sistemas,Ingenieria Y Computacion Y Sistemas,1,TRUE
-Ingenierio De Sistemas,Ingenierio De Sistemas,1,TRUE
-Ingenierio Industrial,Ingenierio Industrial,1,TRUE
-Ingenierio Informatico,Ingenierio Informatico,1,TRUE
+Ingenieria Sistema,Ingenieria De Sistemas,2,FALSE
+Ingenieria Sistemas,Ingenieria De Sistemas,7,FALSE
+Ingenieria Sistemas Computacionales,Ingenieria De Sistemas,1,FALSE
+Ingenieria Sistemas De Informacion Y Gestion,Ingenieria De Sistemas,1,FALSE
+Ingenieria Sistemas E Informatica,Ingenieria De Sistemas,3,FALSE
+Ingenieria Telecomunicaciones,Ingenieria De Telecomunicaciones,2,FALSE
+Ingenieria Y Computacion Y Sistemas,Ingenieria De Computacion Y Sistemas,1,FALSE
+Ingenierio De Sistemas,Ingenieria De Sistemas,1,FALSE
+Ingenierio Industrial,Ingenieria Industrial,1,FALSE
+Ingenierio Informatico,Ingenieria Informatica,1,FALSE
 Ingeniero,Ingeniero,12,TRUE
 Ingeniero Administrativo,Ingeniero Administrativo,1,TRUE
 Ingeniero Agronomo,Ingeniero Agronomo,1,TRUE
@@ -2107,9 +2107,9 @@ Ingeniero Ambiental Y De Recursos Naturales,Ingeniero Ambiental Y De Recursos Na
 Ingeniero Ciencias Informaticas,Ingeniero Ciencias Informaticas,1,TRUE
 Ingeniero Colegiado,Ingeniero Colegiado,4,TRUE
 Ingeniero Comercial,Ingeniero Comercial,2,TRUE
-Ingeniero De Computacion Y Sistemas,Ingeniero De Computacion Y Sistemas,18,TRUE
+Ingeniero De Computacion Y Sistemas,Ingenieria De Computacion Y Sistemas,18,FALSE
 Ingeniero De Petroleo,Ingeniero De Petroleo,1,TRUE
-Ingeniero De Redes Y Comunicaciones,Ingeniero De Redes Y Comunicaciones,3,TRUE
+Ingeniero De Redes Y Comunicaciones,Ingenieria De Redes Y Comunicaciones,3,FALSE
 Ingeniero De Sistema,Ingenieria De Sistemas,3,FALSE
 Ingeniero De Sistema E Informatica,Ingenieria De Sistemas,1,FALSE
 Ingeniero De Sistema Empresariales,Ingenieria De Sistemas,1,FALSE
@@ -2127,43 +2127,43 @@ Ingeniero De Sistemas Y Computacion,Ingenieria De Sistemas,11,FALSE
 Ingeniero De Sistemas Y Computo,Ingenieria De Sistemas,14,FALSE
 Ingeniero De Sistemas Y Empresa,Ingenieria De Sistemas,1,FALSE
 Ingeniero De Sistemas Y Gestion.,Ingenieria De Sistemas,2,FALSE
-Ingeniero De Software,Ingeniero De Software,14,TRUE
-Ingeniero De Telecomunicaciones,Ingeniero De Telecomunicaciones,9,TRUE
-Ingeniero Electronico,Ingeniero Electronico,10,TRUE
-Ingeniero Empresarial Y De Sistemas,Ingeniero Empresarial Y De Sistemas,2,TRUE
-Ingeniero Empresarial Y Sistemas,Ingeniero Empresarial Y Sistemas,1,TRUE
-Ingeniero En Computacion,Ingeniero En Computacion,1,TRUE
-Ingeniero En Computacion E Informatica,Ingeniero En Computacion E Informatica,2,TRUE
-Ingeniero En Computacion Y Sistemas,Ingeniero En Computacion Y Sistemas,14,TRUE
-Ingeniero En Electronica,Ingeniero En Electronica,5,TRUE
+Ingeniero De Software,Ingenieria De Software,14,FALSE
+Ingeniero De Telecomunicaciones,Ingenieria De Telecomunicaciones,9,FALSE
+Ingeniero Electronico,Ingenieria Electronica,10,FALSE
+Ingeniero Empresarial Y De Sistemas,Ingenieria Empresarial,2,FALSE
+Ingeniero Empresarial Y Sistemas,Ingenieria Empresarial,1,FALSE
+Ingeniero En Computacion,Ingenieria De Computacion Y Sistemas,1,FALSE
+Ingeniero En Computacion E Informatica,Ingenieria De Computacion E Informatica,2,FALSE
+Ingeniero En Computacion Y Sistemas,Ingenieria De Computacion Y Sistemas,14,FALSE
+Ingeniero En Electronica,Ingenieria Electronica,5,FALSE
 Ingeniero En Industrias Alimentarias,Ingeniero En Industrias Alimentarias,2,TRUE
-Ingeniero En Informacion,Ingeniero En Informacion,1,TRUE
-Ingeniero En Informatica,Ingeniero En Informatica,7,TRUE
-Ingeniero En Informatica Y De Sistemas,Ingeniero En Informatica Y De Sistemas,2,TRUE
-Ingeniero En Informatica Y Sistemas,Ingeniero En Informatica Y Sistemas,1,TRUE
-Ingeniero En Mecatronica,Ingeniero En Mecatronica,1,TRUE
-Ingeniero En Sistemas,Ingeniero En Sistemas,4,TRUE
-Ingeniero En Sistemas Computacionales,Ingeniero En Sistemas Computacionales,1,TRUE
-"Ingeniero En Sistemas, Informacion Y Gestion","Ingeniero En Sistemas, Informacion Y Gestion",2,TRUE
+Ingeniero En Informacion,Ingenieria Informatica,1,FALSE
+Ingeniero En Informatica,Ingenieria Informatica,7,FALSE
+Ingeniero En Informatica Y De Sistemas,Ingenieria Informatica,2,FALSE
+Ingeniero En Informatica Y Sistemas,Ingenieria Informatica,1,FALSE
+Ingeniero En Mecatronica,Ingenieria Mecatronica,1,FALSE
+Ingeniero En Sistemas,Ingenieria De Sistemas,4,FALSE
+Ingeniero En Sistemas Computacionales,Ingenieria De Sistemas,1,FALSE
+"Ingeniero En Sistemas, Informacion Y Gestion",Ingenieria De Sistemas,2,FALSE
 Ingeniero Industrial,Ingenieria Industrial,33,FALSE
 Ingeniero Industrial Titulado,Ingenieria Industrial,2,FALSE
 Ingeniero Industrial Y De Gestion Empresarial,Ingenieria Industrial,1,FALSE
 Ingeniero Indutrial,Ingenieria Industrial,1,FALSE
-Ingeniero Infomatico,Ingeniero Infomatico,1,TRUE
-Ingeniero Informatica Y De Sistemas,Ingeniero Informatica Y De Sistemas,1,TRUE
-Ingeniero Informatico,Ingeniero Informatico,23,TRUE
-Ingeniero Informatico / Ing. Informatica,Ingeniero Informatico / Ing. Informatica,1,TRUE
-Ingeniero Informatico Colegiado,Ingeniero Informatico Colegiado,1,TRUE
-Ingeniero Mecatronico,Ingeniero Mecatronico,7,TRUE
+Ingeniero Infomatico,Ingenieria Informatica,1,FALSE
+Ingeniero Informatica Y De Sistemas,Ingenieria Informatica,1,FALSE
+Ingeniero Informatico,Ingenieria Informatica,23,FALSE
+Ingeniero Informatico / Ing. Informatica,Ingenieria Informatica,1,FALSE
+Ingeniero Informatico Colegiado,Ingenieria Informatica,1,FALSE
+Ingeniero Mecatronico,Ingenieria Mecatronica,7,FALSE
 Ingeniero Sistemas,Ingenieria De Sistemas,2,FALSE
-Ingeniero Tecnico De Redes Y Comunicaciones,Ingeniero Tecnico De Redes Y Comunicaciones,2,TRUE
-Ingeniero Telecomunicaciones,Ingeniero Telecomunicaciones,1,TRUE
+Ingeniero Tecnico De Redes Y Comunicaciones,Ingenieria De Redes Y Comunicaciones,2,FALSE
+Ingeniero Telecomunicaciones,Ingenieria De Telecomunicaciones,1,FALSE
 Ingeniria De Sistemas,Ingenieria De Sistemas,2,FALSE
-Ingeniro Electronico,Ingeniro Electronico,1,TRUE
+Ingeniro Electronico,Ingenieria Electronica,1,FALSE
 Ingernieria De Sistemas,Ingenieria De Sistemas,1,FALSE
 Ingernieria Industria,Ingenieria Industrial,1,FALSE
 Ingieneria De Sistemas,Ingenieria De Sistemas,2,FALSE
-Ingieneria De Telecomunicaciones,Ingieneria De Telecomunicaciones,1,TRUE
+Ingieneria De Telecomunicaciones,Ingenieria De Telecomunicaciones,1,FALSE
 Ingieneria Industrial,Ingenieria Industrial,1,FALSE
 Ingles,Ingles,58,TRUE
 Ingles - Nivel Intermedio 12,Ingles,1,FALSE
@@ -2210,7 +2210,7 @@ Internet De Las Cosas Iot,Internet De Las Cosas Iot,1,TRUE
 "Internet Of Things, Big Data And Smart Cities","Internet Of Things, Big Data And Smart Cities",3,TRUE
 Interpretacion De La Norma Iso 37001:2016 Sgas,Interpretacion De La Norma Iso 37001:2016 Sgas,1,TRUE
 Interpretacion De La Norma Iso 9001:2008,Interpretacion De La Norma Iso 9001:2008,1,TRUE
-Interpretacion De La Norma Iso 9001:2015,Interpretacion De La Norma Iso 9001:2015,1,TRUE
+Interpretacion De La Norma Iso 9001:2015,Interpretacion De La Norma Iso 9001:2008,1,FALSE
 Interpretacion De La Norma Iso/Iec 27000:2013,Interpretacion De La Norma Iso/Iec 27000:2013,1,TRUE
 Interpretacion De Proyectos De Automatizacion,Interpretacion De Proyectos De Automatizacion,1,TRUE
 Intervencion En Violencia Familiar Y Abuso Sexual,Intervencion En Violencia Familiar Y Abuso Sexual,1,TRUE
@@ -2229,9 +2229,9 @@ Isec Peru(Ciso),Isec Peru(Ciso),1,TRUE
 Iso 27001 Foundation,Iso 27001 Foundation,1,TRUE
 Iso Iec 27001 - Lead Implementer,Iso Iec 27001 - Lead Implementer,3,TRUE
 Iso/Iec 27032 Lead Cybersecurity Manager,Iso/Iec 27032 Lead Cybersecurity Manager,1,TRUE
-Istqb,Istqb,3,TRUE
+Istqb,Istqb Certified Tester - Foundation Level,3,FALSE
 Istqb Certified Tester - Foundation Level,Istqb Certified Tester - Foundation Level,8,TRUE
-Istqb Certified Tester Foundation Level 2018,Istqb Certified Tester Foundation Level 2018,2,TRUE
+Istqb Certified Tester Foundation Level 2018,Istqb Certified Tester - Foundation Level,2,FALSE
 Itil,Itil,10,TRUE
 Itil 2011,Itil,1,FALSE
 Itil 2014,Itil,1,FALSE
@@ -2284,7 +2284,7 @@ Kanban,Kanban,3,TRUE
 Kanban Foundation Certificate (Kikf),Kanban Foundation Certificate (Kikf),1,TRUE
 Kanban System Design,Kanban System Design,1,TRUE
 Key Account Management,Key Account Management,2,TRUE
-Key Account Managment,Key Account Managment,1,TRUE
+Key Account Managment,Key Account Management,1,FALSE
 Key User (Sap Business One),Key User (Sap Business One),1,TRUE
 Key User-Sap Mm,Key User-Sap Mm,1,TRUE
 Kpi'S Para La Gestion Humana,Kpi'S Para La Gestion Humana,1,TRUE
@@ -2295,7 +2295,7 @@ Leading In Artificial Intelligence,Leading In Artificial Intelligence,2,TRUE
 Lean It,Lean It,2,TRUE
 Lean Project Managment,Lean Project Managment,1,TRUE
 Lean Six Sigma,Lean Six Sigma,1,TRUE
-Lean Six Sigma Black Belt,Lean Six Sigma Black Belt,4,TRUE
+Lean Six Sigma Black Belt,Lean Six Sigma,4,FALSE
 Lean Startup,Lean Startup,1,TRUE
 Learn Javascript,Learn Javascript,1,TRUE
 Legislacion Laboral,Legislacion Laboral,4,TRUE
@@ -2316,7 +2316,7 @@ Lic Trabajo Social,Lic Trabajo Social,1,TRUE
 Lic. Administracion De Empresas,Lic. Administracion De Empresas,1,TRUE
 Lic. Agente Inmobiliario Pn4737,Lic. Agente Inmobiliario Pn4737,1,TRUE
 Lic. De Administracion,Lic. De Administracion,1,TRUE
-Lic. En Administracion De Negocios,Lic. En Administracion De Negocios,1,TRUE
+Lic. En Administracion De Negocios,Lic. De Administracion,1,FALSE
 Lic. En Trabajo Social,Lic. En Trabajo Social,1,TRUE
 Lic. Gerencia De Recursos Humanos,Lic. Gerencia De Recursos Humanos,1,TRUE
 Lic. Marketing,Lic. Marketing,1,TRUE
@@ -2327,7 +2327,7 @@ Lic.En Trabajo Social,Lic.En Trabajo Social,1,TRUE
 Licda Administracion De Empresas,Licda Administracion De Empresas,1,TRUE
 Licenciada,Licenciada,10,TRUE
 Licenciada En Administracion,Licenciada En Administracion,7,TRUE
-Licenciada En Administracion De Empresas,Licenciada En Administracion De Empresas,4,TRUE
+Licenciada En Administracion De Empresas,Licenciada En Administracion,4,FALSE
 Licenciada En Comunicacion Corporativa,Licenciada En Comunicacion Corporativa,1,TRUE
 Licenciada En Comunicacion Social,Licenciada En Comunicacion Social,1,TRUE
 Licenciada En Enfermeria,Licenciada En Enfermeria,1,TRUE
@@ -2378,14 +2378,14 @@ Logistica De Comercio Exterior,Logistica De Comercio Exterior,1,TRUE
 Logistica Integral,Logistica Integral,1,TRUE
 Logistica Y Comercio Exterior,Logistica Y Comercio Exterior,1,TRUE
 Logistica Y Operaciones,Logistica Y Operaciones,1,TRUE
-Logistica Y Operaciones Internacionales,Logistica Y Operaciones Internacionales,1,TRUE
+Logistica Y Operaciones Internacionales,Logistica Y Operaciones,1,FALSE
 Machine Learning,Machine Learning,6,TRUE
-Machine Learning A-Z:Hands-On Python &Amp; R,Machine Learning A-Z:Hands-On Python &Amp; R,1,TRUE
-Machine Learning Specialist,Machine Learning Specialist,1,TRUE
-Machine Learning: Data Science Con Python,Machine Learning: Data Science Con Python,6,TRUE
+Machine Learning A-Z:Hands-On Python &Amp; R,Machine Learning,1,FALSE
+Machine Learning Specialist,Machine Learning,1,FALSE
+Machine Learning: Data Science Con Python,Machine Learning,6,FALSE
 Maestria,Maestria,1,TRUE
 Maestria Administracion - Gestion Empresarial,Maestria Administracion - Gestion Empresarial,1,TRUE
-Maestria Administracion Y Gestion Empresarial,Maestria Administracion Y Gestion Empresarial,1,TRUE
+Maestria Administracion Y Gestion Empresarial,Maestria Administracion - Gestion Empresarial,1,FALSE
 Maestria Ciberseguridad Y Gestion It,Maestria Ciberseguridad Y Gestion It,1,TRUE
 Maestria Ciencia De Datos,Maestria Ciencia De Datos,1,TRUE
 Maestria Con Mencion En Gerencia De Operaciones,Maestria Con Mencion En Gerencia De Operaciones,1,TRUE
@@ -2413,7 +2413,7 @@ Maestria En Administracion Estrategica,Maestria En Administracion De Negocios,1,
 Maestria En Administracion Y Negocios,Maestria En Administracion De Negocios,14,FALSE
 Maestria En Analisis Y Visualizacion De Datos,Maestria En Analisis Y Visualizacion De Datos,2,TRUE
 Maestria En Big Data,Maestria En Big Data,1,TRUE
-Maestria En Big Data Y Analytics,Maestria En Big Data Y Analytics,2,TRUE
+Maestria En Big Data Y Analytics,Maestria En Big Data,2,FALSE
 Maestria En Business It,Maestria En Business It,1,TRUE
 Maestria En Ciencia De La Computacion,Maestria En Ciencia De La Computacion,1,TRUE
 Maestria En Ciencias De La Computacion,Maestria En Ciencias De La Computacion,6,TRUE
@@ -2436,18 +2436,18 @@ Maestria En Direccion De Sist Y Ti,Maestria En Direccion De Sistemas Y Ti,1,FALS
 Maestria En Direccion De Sistemas,Maestria En Direccion De Sistemas Y Ti,1,FALSE
 Maestria En Direccion De Sistemas Y Tecnologias,Maestria En Direccion De Sistemas Y Ti,3,FALSE
 Maestria En Direccion De Sistemas Y Ti,Maestria En Direccion De Sistemas Y Ti,12,TRUE
-Maestria En Direccion De Tecnologia De Inform,Maestria En Direccion De Tecnologia De Inform,1,TRUE
+Maestria En Direccion De Tecnologia De Inform,Maestria En Direccion De Tecnologia De Informacion,1,FALSE
 Maestria En Direccion De Tecnologia De Informacion,Maestria En Direccion De Tecnologia De Informacion,1,TRUE
-Maestria En Direccion De Tecnologias De Informa...,Maestria En Direccion De Tecnologias De Informa...,1,TRUE
-Maestria En Direccion De Ti,Maestria En Direccion De Ti,5,TRUE
+Maestria En Direccion De Tecnologias De Informa...,Maestria En Direccion De Tecnologia De Informacion,1,FALSE
+Maestria En Direccion De Ti,Maestria En Direccion De Tecnologia De Informacion,5,FALSE
 Maestria En Direccion Financiera,Maestria En Direccion Financiera,9,TRUE
 Maestria En Direccion Y Gestion Del Talento Humano,Maestria En Direccion Y Gestion Del Talento Humano,1,TRUE
 Maestria En Economia Con Mencion En Finanzas,Maestria En Economia Con Mencion En Finanzas,1,TRUE
 Maestria En Educacion,Maestria En Educacion,3,TRUE
-Maestria En Educacion Superior,Maestria En Educacion Superior,1,TRUE
+Maestria En Educacion Superior,Maestria En Educacion,1,FALSE
 Maestria En Empresas Sociales Y Desarrollo Local,Maestria En Empresas Sociales Y Desarrollo Local,1,TRUE
 Maestria En Estadistica,Maestria En Estadistica,1,TRUE
-Maestria En Estadistica Aplicada,Maestria En Estadistica Aplicada,1,TRUE
+Maestria En Estadistica Aplicada,Maestria En Estadistica,1,FALSE
 Maestria En Finanzas,Maestria En Finanzas,5,TRUE
 "Maestria En Geotecnia, (Software De Geologia)","Maestria En Geotecnia, (Software De Geologia)",1,TRUE
 Maestria En Gerencia De Empresas,Maestria En Gerencia De Empresas,1,TRUE
@@ -2462,8 +2462,8 @@ Maestria En Gestion Comercial,Maestria En Gestion Comercial,1,TRUE
 Maestria En Gestion De Recursos Humanos,Maestria En Gestion De Recursos Humanos,2,TRUE
 Maestria En Gestion De Tecnologias De La Informaci,Maestria En Gestion De Tecnologias De La Informaci,1,TRUE
 Maestria En Gestion De Ti,Maestria En Gestion De Ti,3,TRUE
-Maestria En Gestion De Tics,Maestria En Gestion De Tics,3,TRUE
-Maestria En Gestion De Tic'S,Maestria En Gestion De Tic'S,1,TRUE
+Maestria En Gestion De Tics,Maestria En Gestion De Ti,3,FALSE
+Maestria En Gestion De Tic'S,Maestria En Gestion De Ti,1,FALSE
 Maestria En Gestion Educacional,Maestria En Gestion Educacional,6,TRUE
 Maestria En Gestion Empresarial,Maestria En Gestion Empresarial,3,TRUE
 Maestria En Gestion Integrada,Maestria En Gestion Integrada,1,TRUE
@@ -2485,15 +2485,15 @@ Maestria En Investigacion Y Docencia Universitaria,Maestria En Investigacion Y D
 Maestria En Marketing,Maestria En Marketing,2,TRUE
 Maestria En Marketing Y Gestion Comercial,Maestria En Marketing Y Gestion Comercial,3,TRUE
 Maestria En Operaciones,Maestria En Operaciones,1,TRUE
-Maestria En Poject Management,Maestria En Poject Management,1,TRUE
+Maestria En Poject Management,Maestria En Project Management,1,FALSE
 Maestria En Project Management,Maestria En Project Management,6,TRUE
 Maestria En Recursos Humanos,Maestria En Recursos Humanos,1,TRUE
 Maestria En Seguridad Informatica,Maestria En Seguridad Informatica,2,TRUE
 Maestria En Sig,Maestria En Sig,1,TRUE
 Maestria En Sistemas,Maestria En Sistemas,2,TRUE
-Maestria En Tecnologia De Informacion,Maestria En Tecnologia De Informacion,1,TRUE
+Maestria En Tecnologia De Informacion,Maestria En Tecnologias De La Informacion,1,FALSE
 Maestria En Tecnologias De La Informacion,Maestria En Tecnologias De La Informacion,1,TRUE
-Maestria En Ti,Maestria En Ti,1,TRUE
+Maestria En Ti,Maestria En Tecnologias De La Informacion,1,FALSE
 Maestria Estadistica,Maestria Estadistica,3,TRUE
 Maestria Gerencia De Operaciones Y Logistica.,Maestria Gerencia De Operaciones Y Logistica.,1,TRUE
 Maestria Gerencia Tecnologia De Informacion,Maestria Gerencia Tecnologia De Informacion,5,TRUE
@@ -2509,7 +2509,7 @@ Maestria Ingenieria Software,Maestria Ingenieria Software,1,TRUE
 Maestria Internacional En Direccion Y Gestion,Maestria Internacional En Direccion Y Gestion,1,TRUE
 Maestria Internacional En Marketing,Maestria Internacional En Marketing,2,TRUE
 Maestria Marketing,Maestria Marketing,1,TRUE
-Maestria Marketing Digital,Maestria Marketing Digital,1,TRUE
+Maestria Marketing Digital,Maestria Marketing,1,FALSE
 Maestria Mba Administracion,Maestria Mba Administracion,1,TRUE
 Maestria Oficial En Gestion De Proyectos,Maestria Oficial En Gestion De Proyectos,1,TRUE
 Maestria Profesional En Gobierno De Ti,Maestria Profesional En Gobierno De Ti,3,TRUE
@@ -2569,8 +2569,8 @@ Master De Alta Direccion De Empresas Mbaa,Master De Alta Direccion De Empresas M
 Master De Emprendimiento E Innovacion,Master De Emprendimiento E Innovacion,1,TRUE
 Master De Gestion Comercial Y Marketing,Master De Gestion Comercial Y Marketing,4,TRUE
 Master De Gestion De T.I.,Master De Gestion De T.I.,3,TRUE
-Master En Administracion De Empresas,Master En Administracion De Empresas,1,TRUE
-Master En Administracion De Empresas Mba,Master En Administracion De Empresas Mba,2,TRUE
+Master En Administracion De Empresas,Master In Business Administration (Mba),1,FALSE
+Master En Administracion De Empresas Mba,Master In Business Administration (Mba),2,FALSE
 Master En Administracion Y Habilidades Directivas,Master En Administracion Y Habilidades Directivas,1,TRUE
 Master En Alta Direccion Y Gestion De Empresa,Master En Alta Direccion Y Gestion De Empresa,1,TRUE
 Master En Animacion 3D Oficial De Autodesk Maya,Master En Animacion 3D Oficial De Autodesk Maya,6,TRUE
@@ -2611,89 +2611,89 @@ Master En Transformacion Digital,Master En Transformacion Digital,1,TRUE
 Master En Transformacion Digital E Innovacion,Master En Transformacion Digital E Innovacion,1,TRUE
 Master Executive En Gerencia Y Administracion,Master Executive En Gerencia Y Administracion,1,TRUE
 "Master In Analytics, Innovation &Amp; Technology","Master In Analytics, Innovation &Amp; Technology",1,TRUE
-Master In Business Administration,Master In Business Administration,1,TRUE
+Master In Business Administration,Master In Business Administration (Mba),1,FALSE
 Master In Business Administration (Mba),Master In Business Administration (Mba),1,TRUE
 Master In Scm And Technology,Master In Scm And Technology,1,TRUE
 Master Inteligencia De Neg. Y Big Data Analytics,Master Inteligencia De Neg. Y Big Data Analytics,1,TRUE
 Master Internacional En Liderazgo,Master Internacional En Liderazgo,1,TRUE
-Master Of Business Administration - Mba,Master Of Business Administration - Mba,3,TRUE
-"Master Of Business Administration, Mba","Master Of Business Administration, Mba",1,TRUE
+Master Of Business Administration - Mba,Master In Business Administration (Mba),3,FALSE
+"Master Of Business Administration, Mba",Master In Business Administration (Mba),1,FALSE
 Master Of Finance,Master Of Finance,1,TRUE
 Master Of Science In Management,Master Of Science In Management,2,TRUE
 Master Project Management,Master Project Management,1,TRUE
 Master'S In Leadership,Master'S In Leadership,2,TRUE
 Masters Of Science In Data Science,Masters Of Science In Data Science,1,TRUE
 Matematica E Informatica,Matematica E Informatica,1,TRUE
-Mba,Mba,68,TRUE
-Mba - Administracion Estrategica De Empresas,Mba,1,FALSE
-Mba - Administracion Estrategica De Negocios,Mba,2,FALSE
-Mba - Administracion Y Direccion De Empresas,Mba,1,FALSE
-Mba - Esan,Mba,1,FALSE
-Mba - Especializacion En Finanzas,Mba,2,FALSE
-Mba - Formulacion Y Evaluacion De Proyectos,Mba,3,FALSE
-Mba - Maestria En Administracion De Empresas,Mba,1,FALSE
-Mba - Maestria En Administracion De Negocios,Mba,3,FALSE
-Mba (Master Business Administrator),Mba,3,FALSE
-Mba (Master In Business Administration),Mba,1,FALSE
-Mba | Master Business Administrator,Mba,1,FALSE
-Mba Administracion,Mba,1,FALSE
-Mba -Administracion Y Direccion De Empresa,Mba,1,FALSE
-Mba Administracion Y Gestion De Empresas,Mba,1,FALSE
-Mba Con Enfasis En Inteligencia De Negocios,Mba,1,FALSE
-Mba Con Especializacion En Direccion De Proyectos,Mba,1,FALSE
-Mba Con Especializacion En Gestion De Proyectos,Mba,1,FALSE
-Mba Con Mencion En Direccion De Rrhh,Mba,1,FALSE
-Mba Con Titulo De Experto En Ti,Mba,2,FALSE
-Mba De La Universidad De Montreal - Canada,Mba,1,FALSE
-Mba Digital Business,Mba,2,FALSE
-Mba Ejecutivo,Mba,1,FALSE
-Mba En Alta Direccion De Empresas,Mba,1,FALSE
-Mba En Gestion De Empresas,Mba,5,FALSE
-Mba Enfasis En Business Intelligence Y Big Data,Mba,1,FALSE
-Mba Enfoque En Business Analytics,Mba,1,FALSE
-Mba Especialidad Business Intelligence Y Big Data,Mba,1,FALSE
-Mba Especialidad Project Management,Mba,1,FALSE
-Mba Especializacion En Gestion De Proyectos,Mba,1,FALSE
-Mba Especializado En Project Management,Mba,1,FALSE
-Mba Especializado En Recursos Humanos,Mba,1,FALSE
-Mba Especializado En Tecnologia Informatica,Mba,1,FALSE
-Mba Executive,Mba,1,FALSE
-Mba Gerencial,Mba,6,FALSE
-Mba Gerencial Internacional,Mba,2,FALSE
-Mba Internacional,Mba,1,FALSE
-Mba It,Mba,2,FALSE
-Mba Maestria En Administracion De Empresas,Mba,9,FALSE
-Mba- Maestria En Administracion De Empresas,Mba,1,FALSE
-Mba- Maestria En Administracion De Negocios.,Mba,1,FALSE
-Mba Pad,Mba,1,FALSE
-Mba(C),Mba,1,FALSE
-"Mba, Con Especialidad En Project Management.",Mba,1,FALSE
-"Mba, Con Mencion En Gerencia De Proyectos",Mba,1,FALSE
+Mba,Master In Business Administration (Mba),68,FALSE
+Mba - Administracion Estrategica De Empresas,Master In Business Administration (Mba),1,FALSE
+Mba - Administracion Estrategica De Negocios,Master In Business Administration (Mba),2,FALSE
+Mba - Administracion Y Direccion De Empresas,Master In Business Administration (Mba),1,FALSE
+Mba - Esan,Master In Business Administration (Mba),1,FALSE
+Mba - Especializacion En Finanzas,Master In Business Administration (Mba),2,FALSE
+Mba - Formulacion Y Evaluacion De Proyectos,Master In Business Administration (Mba),3,FALSE
+Mba - Maestria En Administracion De Empresas,Master In Business Administration (Mba),1,FALSE
+Mba - Maestria En Administracion De Negocios,Master In Business Administration (Mba),3,FALSE
+Mba (Master Business Administrator),Master In Business Administration (Mba),3,FALSE
+Mba (Master In Business Administration),Master In Business Administration (Mba),1,FALSE
+Mba | Master Business Administrator,Master In Business Administration (Mba),1,FALSE
+Mba Administracion,Master In Business Administration (Mba),1,FALSE
+Mba -Administracion Y Direccion De Empresa,Master In Business Administration (Mba),1,FALSE
+Mba Administracion Y Gestion De Empresas,Master In Business Administration (Mba),1,FALSE
+Mba Con Enfasis En Inteligencia De Negocios,Master In Business Administration (Mba),1,FALSE
+Mba Con Especializacion En Direccion De Proyectos,Master In Business Administration (Mba),1,FALSE
+Mba Con Especializacion En Gestion De Proyectos,Master In Business Administration (Mba),1,FALSE
+Mba Con Mencion En Direccion De Rrhh,Master In Business Administration (Mba),1,FALSE
+Mba Con Titulo De Experto En Ti,Master In Business Administration (Mba),2,FALSE
+Mba De La Universidad De Montreal - Canada,Master In Business Administration (Mba),1,FALSE
+Mba Digital Business,Master In Business Administration (Mba),2,FALSE
+Mba Ejecutivo,Master In Business Administration (Mba),1,FALSE
+Mba En Alta Direccion De Empresas,Master In Business Administration (Mba),1,FALSE
+Mba En Gestion De Empresas,Master In Business Administration (Mba),5,FALSE
+Mba Enfasis En Business Intelligence Y Big Data,Master In Business Administration (Mba),1,FALSE
+Mba Enfoque En Business Analytics,Master In Business Administration (Mba),1,FALSE
+Mba Especialidad Business Intelligence Y Big Data,Master In Business Administration (Mba),1,FALSE
+Mba Especialidad Project Management,Master In Business Administration (Mba),1,FALSE
+Mba Especializacion En Gestion De Proyectos,Master In Business Administration (Mba),1,FALSE
+Mba Especializado En Project Management,Master In Business Administration (Mba),1,FALSE
+Mba Especializado En Recursos Humanos,Master In Business Administration (Mba),1,FALSE
+Mba Especializado En Tecnologia Informatica,Master In Business Administration (Mba),1,FALSE
+Mba Executive,Master In Business Administration (Mba),1,FALSE
+Mba Gerencial,Master In Business Administration (Mba),6,FALSE
+Mba Gerencial Internacional,Master In Business Administration (Mba),2,FALSE
+Mba Internacional,Master In Business Administration (Mba),1,FALSE
+Mba It,Master In Business Administration (Mba),2,FALSE
+Mba Maestria En Administracion De Empresas,Master In Business Administration (Mba),9,FALSE
+Mba- Maestria En Administracion De Empresas,Master In Business Administration (Mba),1,FALSE
+Mba- Maestria En Administracion De Negocios.,Master In Business Administration (Mba),1,FALSE
+Mba Pad,Master In Business Administration (Mba),1,FALSE
+Mba(C),Master In Business Administration (Mba),1,FALSE
+"Mba, Con Especialidad En Project Management.",Master In Business Administration (Mba),1,FALSE
+"Mba, Con Mencion En Gerencia De Proyectos",Master In Business Administration (Mba),1,FALSE
 Mbi | Master Of Business Innovation,Mbi | Master Of Business Innovation,2,TRUE
 Mcm Comercial,Mcm Comercial,1,TRUE
 Mcp - Microsoft Certified Professional 20480,Mcp - Microsoft Certified Professional 20480,1,TRUE
 Mcpd Web Developer,Mcpd Web Developer,1,TRUE
 Mcsa Sql 2016 Database Administration,Mcsa Sql 2016 Database Administration,1,TRUE
-Mcsa Sql Server 2014,Mcsa Sql Server 2014,1,TRUE
-Mcsa Web Application,Mcsa Web Application,1,TRUE
-Mcsa: Sql 2016 Business Intelligence Development,Mcsa: Sql 2016 Business Intelligence Development,1,TRUE
-Mcsa: Sql Server,Mcsa: Sql Server,4,TRUE
-Mcsa: Windows Server 2012,Mcsa: Windows Server 2012,2,TRUE
-Mcsa: Windows Server 2016,Mcsa: Windows Server 2016,1,TRUE
+Mcsa Sql Server 2014,Mcsa Sql 2016 Database Administration,1,FALSE
+Mcsa Web Application,Mcsa Sql 2016 Database Administration,1,FALSE
+Mcsa: Sql 2016 Business Intelligence Development,Mcsa Sql 2016 Database Administration,1,FALSE
+Mcsa: Sql Server,Mcsa Sql 2016 Database Administration,4,FALSE
+Mcsa: Windows Server 2012,Mcsa Sql 2016 Database Administration,2,FALSE
+Mcsa: Windows Server 2016,Mcsa Sql 2016 Database Administration,1,FALSE
 Mcsd Web Applications - Visual Studio 2012,Mcsd Web Applications - Visual Studio 2012,1,TRUE
 Mcse Windows 2003 Server,Mcse Windows 2003 Server,1,TRUE
 Mcts - Microsoft Certified Technology Specialist,Mcts - Microsoft Certified Technology Specialist,1,TRUE
 Mecatronica De Buses Y Camiones,Mecatronica De Buses Y Camiones,1,TRUE
 Mecatronica Industrial,Mecatronica Industrial,1,TRUE
-"Mecatronica Industrial, Tecsup","Mecatronica Industrial, Tecsup",1,TRUE
+"Mecatronica Industrial, Tecsup",Mecatronica Industrial,1,FALSE
 Mecatronico Automotriz,Mecatronico Automotriz,2,TRUE
 Mechanical Engineering - Exchange Student,Mechanical Engineering - Exchange Student,1,TRUE
 Medicina Veterinaria,Medicina Veterinaria,1,TRUE
 Mejora Y Rediseno De Procesos,Mejora Y Rediseno De Procesos,1,TRUE
 Mencion En Direccion Avanzada De Proyectos,Mencion En Direccion Avanzada De Proyectos,2,TRUE
 Metodo Harvard De Negociacion,Metodo Harvard De Negociacion,1,TRUE
-Metodologia Agil Scrum,Metodologia Agil Scrum,2,TRUE
-Metodologia Agiles,Metodologia Agiles,1,TRUE
+Metodologia Agil Scrum,Metodologia Scrum,2,FALSE
+Metodologia Agiles,Metodologia Scrum,1,FALSE
 Metodologia Scrum,Metodologia Scrum,3,TRUE
 Metodologia Y Diseno De Pruebas,Metodologia Y Diseno De Pruebas,1,TRUE
 Metodologia Y Diseno De Pruebas De Software,Metodologia Y Diseno De Pruebas,1,FALSE
@@ -2718,10 +2718,10 @@ Microsoft Certified Azure Fundamentals,Microsoft Certified Azure Fundamentals,2,
 Microsoft Certified Data Analyst,Microsoft Certified Data Analyst,2,TRUE
 Microsoft Certified Technology Specialist,Microsoft Certified Technology Specialist,1,TRUE
 Microsoft Certified Trainer,Microsoft Certified Trainer,1,TRUE
-Microsoft Certified: Azure Fundamentals,Microsoft Certified: Azure Fundamentals,2,TRUE
-Microsoft Certified: Data Analyst Associate,Microsoft Certified: Data Analyst Associate,1,TRUE
+Microsoft Certified: Azure Fundamentals,Microsoft Certified Azure Fundamentals,2,FALSE
+Microsoft Certified: Data Analyst Associate,Microsoft Certified Data Analyst,1,FALSE
 Microsoft Excel,Microsoft Excel,3,TRUE
-Microsoft Excel 2010,Microsoft Excel 2010,1,TRUE
+Microsoft Excel 2010,Microsoft Excel,1,FALSE
 Microsoft M.C.I.T.P,Microsoft M.C.I.T.P,1,TRUE
 Microsoft Msca 2016,Microsoft Msca 2016,1,TRUE
 Microsoft Office,Microsoft Office,1,TRUE
@@ -2770,30 +2770,30 @@ Office,Office,2,TRUE
 Office Intermedio,Office Intermedio,1,TRUE
 Oficina De Proyectos (Pmo),Oficina De Proyectos (Pmo),2,TRUE
 Ofimatica,Ofimatica,4,TRUE
-Ofimatica Nivel Avanzado,Ofimatica Nivel Avanzado,1,TRUE
-Ofimatica Profesional,Ofimatica Profesional,1,TRUE
+Ofimatica Nivel Avanzado,Ofimatica,1,FALSE
+Ofimatica Profesional,Ofimatica,1,FALSE
 Okr - Gestion De Objetivos,Okr - Gestion De Objetivos,1,TRUE
 Olap - Sql Server 7.0,Olap - Sql Server 7.0,1,TRUE
 Operacion Segura De Montacargas,Operacion Segura De Montacargas,30,TRUE
 Operador Cctv - Alarmas - Gps,Operador Cctv - Alarmas - Gps,1,TRUE
 Optimizacion Del Trabajo,Optimizacion Del Trabajo,1,TRUE
 Oracle,Oracle,3,TRUE
-Oracle 11G R2 Dba Certified Professional,Oracle 11G R2 Dba Certified Professional,1,TRUE
-Oracle 12C Administrator,Oracle 12C Administrator,1,TRUE
-Oracle 12C Developer,Oracle 12C Developer,1,TRUE
-Oracle 12C Program With Pl/Sql,Oracle 12C Program With Pl/Sql,11,TRUE
-Oracle 12C: Database Administrador Ocp,Oracle 12C: Database Administrador Ocp,1,TRUE
-Oracle 18C Database Administrator,Oracle 18C Database Administrator,1,TRUE
-Oracle Applications Cloud - Modulo Compras,Oracle Applications Cloud - Modulo Compras,6,TRUE
-"Oracle Certified Professional, Java Se 8 Programme","Oracle Certified Professional, Java Se 8 Programme",1,TRUE
-Oracle Cloud Infraestructure Fundamentals,Oracle Cloud Infraestructure Fundamentals,1,TRUE
-Oracle Database 11G R2 Certification,Oracle Database 11G R2 Certification,1,TRUE
-Oracle Database 11G: Program With Pl/Sql,Oracle Database 11G: Program With Pl/Sql,1,TRUE
-Oracle Database 11G: Security Ed 2,Oracle Database 11G: Security Ed 2,1,TRUE
-Oracle Database 11G: Sql Tuning Ws R2,Oracle Database 11G: Sql Tuning Ws R2,1,TRUE
-Oracle Dba Master,Oracle Dba Master,2,TRUE
-Oracle Developer 12C,Oracle Developer 12C,1,TRUE
-Oracle Weblogic Administrator,Oracle Weblogic Administrator,1,TRUE
+Oracle 11G R2 Dba Certified Professional,Oracle,1,FALSE
+Oracle 12C Administrator,Oracle,1,FALSE
+Oracle 12C Developer,Oracle,1,FALSE
+Oracle 12C Program With Pl/Sql,Oracle,11,FALSE
+Oracle 12C: Database Administrador Ocp,Oracle,1,FALSE
+Oracle 18C Database Administrator,Oracle,1,FALSE
+Oracle Applications Cloud - Modulo Compras,Oracle,6,FALSE
+"Oracle Certified Professional, Java Se 8 Programme",Oracle,1,FALSE
+Oracle Cloud Infraestructure Fundamentals,Oracle,1,FALSE
+Oracle Database 11G R2 Certification,Oracle,1,FALSE
+Oracle Database 11G: Program With Pl/Sql,Oracle,1,FALSE
+Oracle Database 11G: Security Ed 2,Oracle,1,FALSE
+Oracle Database 11G: Sql Tuning Ws R2,Oracle,1,FALSE
+Oracle Dba Master,Oracle,2,FALSE
+Oracle Developer 12C,Oracle,1,FALSE
+Oracle Weblogic Administrator,Oracle,1,FALSE
 Organizacion De Documentos Y Archivos,Organizacion De Documentos Y Archivos,1,TRUE
 Organizacion De Eventos,Organizacion De Eventos,3,TRUE
 Organizacion Y Direccion De Recursos Humanos,Organizacion Y Direccion De Recursos Humanos,1,TRUE
@@ -2840,19 +2840,19 @@ Planeamiento Y Estrategia,Planeamiento Y Estrategia,1,TRUE
 Planificacion Industrial,Planificacion Industrial,1,TRUE
 Planificacion Y Programacion Del Mantenimiento,Planificacion Y Programacion Del Mantenimiento,1,TRUE
 Planillas,Planillas,1,TRUE
-Planillas De Remuneraciones,Planillas De Remuneraciones,1,TRUE
-Planillas Y Legislacion Laboral,Planillas Y Legislacion Laboral,2,TRUE
-Planillas Y T-Registra,Planillas Y T-Registra,1,TRUE
-"Planillas, Quinta Categoria, Beneficios Socia","Planillas, Quinta Categoria, Beneficios Socia",1,TRUE
+Planillas De Remuneraciones,Planillas,1,FALSE
+Planillas Y Legislacion Laboral,Planillas,2,FALSE
+Planillas Y T-Registra,Planillas,1,FALSE
+"Planillas, Quinta Categoria, Beneficios Socia",Planillas,1,FALSE
 Pmi,Pmi,3,TRUE
 Pmi Ready,Pmi Ready,1,TRUE
 Pmo - Cp,Pmo - Cp,1,TRUE
-Pmp,Pmp,5,TRUE
-Pmp - Project Management Professional,Pmp - Project Management Professional,1,TRUE
-Pmp (2691100),Pmp (2691100),2,TRUE
-Pmp 6Th Edicion,Pmp 6Th Edicion,1,TRUE
-Pmp Con Pmbok 4Ta Version.,Pmp Con Pmbok 4Ta Version.,1,TRUE
-Pmp Pmbok,Pmp Pmbok,1,TRUE
+Pmp,Project Management Professional (Pmp),5,FALSE
+Pmp - Project Management Professional,Project Management Professional (Pmp),1,FALSE
+Pmp (2691100),Project Management Professional (Pmp),2,FALSE
+Pmp 6Th Edicion,Project Management Professional (Pmp),1,FALSE
+Pmp Con Pmbok 4Ta Version.,Project Management Professional (Pmp),1,FALSE
+Pmp Pmbok,Project Management Professional (Pmp),1,FALSE
 Pofesional Agile Coach,Pofesional Agile Coach,1,TRUE
 Portugues,Portugues,1,TRUE
 Post Grado En Finanzas,Post Grado En Finanzas,1,TRUE
@@ -2887,7 +2887,7 @@ Procesos De Ti,Procesos De Ti,2,TRUE
 Produccion Audiovisual,Produccion Audiovisual,1,TRUE
 Product Management,Product Management,1,TRUE
 Product Owner,Product Owner,2,TRUE
-Product Owner (Certificado),Product Owner (Certificado),2,TRUE
+Product Owner (Certificado),Product Owner,2,FALSE
 Profescional En Administracion De Empresas,Profescional En Administracion De Empresas,1,TRUE
 Profesional Bpmn,Profesional Bpmn,1,TRUE
 Profesional En Administracion De Negocios,Profesional En Administracion De Negocios,1,TRUE
@@ -2909,9 +2909,9 @@ Profesional Tecnico En Marketing,Profesional Tecnico En Marketing,1,TRUE
 Professional / Big Data,Professional / Big Data,2,TRUE
 Professional Product Owner,Professional Product Owner,4,TRUE
 Professional Scrum Master,Professional Scrum Master,1,TRUE
-Professional Scrum Master I,Professional Scrum Master I,3,TRUE
-Professional Scrum Master I (Psm I),Professional Scrum Master I (Psm I),1,TRUE
-Professional Scrum(Tm) With Kanban I (Psk I),Professional Scrum(Tm) With Kanban I (Psk I),1,TRUE
+Professional Scrum Master I,Professional Scrum Master,3,FALSE
+Professional Scrum Master I (Psm I),Professional Scrum Master,1,FALSE
+Professional Scrum(Tm) With Kanban I (Psk I),Professional Scrum Master,1,FALSE
 Prog. Admin. General De Riesgos Y Seguros 2019,Prog. Admin. General De Riesgos Y Seguros 2019,1,TRUE
 Program Entrepreneurship And Innovation,Program Entrepreneurship And Innovation,1,TRUE
 Programa Asistente De Marketing,Programa Asistente De Marketing,1,TRUE
@@ -2956,7 +2956,7 @@ Programa En Marketing Digital &Amp; E-Commerce,Programa En Marketing Digital &Am
 Programa Especializado En Bi Y Ba,Programa Especializado En Bi Y Ba,1,TRUE
 Programa Especializado En Direccion De Proyectos,Programa Especializado En Direccion De Proyectos,2,TRUE
 Programa Especializado En Factor Humano,Programa Especializado En Factor Humano,1,TRUE
-Programa Especializado En Gerencia De Proyecto,Programa Especializado En Gerencia De Proyecto,2,TRUE
+Programa Especializado En Gerencia De Proyecto,Programa Especializado En Gerencia De Proyectos,2,FALSE
 Programa Especializado En Gerencia De Proyectos,Programa Especializado En Gerencia De Proyectos,1,TRUE
 Programa Especializado En Gestion De Marketin,Programa Especializado En Gestion De Marketin,2,TRUE
 Programa Especializado En Legislacion Laboral,Programa Especializado En Legislacion Laboral,1,TRUE
@@ -2988,21 +2988,21 @@ Programador Visual.Net,Programador Visual.Net,1,TRUE
 Programador Web,Programador Web,2,TRUE
 Programador Web Php,Programador Web Php,1,TRUE
 Programming Essentials In Python,Programming Essentials In Python,1,TRUE
-Project Management,Project Management Professional Pmp,5,FALSE
-Project Management For Professionals 6Th Edition,Project Management Professional Pmp,2,FALSE
-Project Management For Professionals 7Th Edition,Project Management Professional Pmp,1,FALSE
-Project Management Fundamentals,Project Management Professional Pmp,2,FALSE
-Project Management Profesional Certificate Pmp,Project Management Professional Pmp,1,FALSE
-Project Management Professional - Pmp 6Ta Edici...,Project Management Professional Pmp,2,FALSE
-Project Management Professional (Pmp(R)),Project Management Professional Pmp,2,FALSE
-Project Management Professional (Pmp),Project Management Professional Pmp,2,FALSE
-Project Management Professional (Pmp)(R),Project Management Professional Pmp,9,FALSE
-Project Management Professional Pmp,Project Management Professional Pmp,1,TRUE
-Project Manager,Project Management Professional Pmp,1,FALSE
-Project Manager Profesional,Project Management Professional Pmp,2,FALSE
-Project Manager Professional-Pmp,Project Management Professional Pmp,1,FALSE
-Project Manager Proffessional,Project Management Professional Pmp,1,FALSE
-Proyect Management,Project Management Professional Pmp,2,FALSE
+Project Management,Project Management Professional (Pmp),5,FALSE
+Project Management For Professionals 6Th Edition,Project Management Professional (Pmp),2,FALSE
+Project Management For Professionals 7Th Edition,Project Management Professional (Pmp),1,FALSE
+Project Management Fundamentals,Project Management Professional (Pmp),2,FALSE
+Project Management Profesional Certificate Pmp,Project Management Professional (Pmp),1,FALSE
+Project Management Professional - Pmp 6Ta Edici...,Project Management Professional (Pmp),2,FALSE
+Project Management Professional (Pmp(R)),Project Management Professional (Pmp),2,FALSE
+Project Management Professional (Pmp),Project Management Professional (Pmp),2,TRUE
+Project Management Professional (Pmp)(R),Project Management Professional (Pmp),9,FALSE
+Project Management Professional Pmp,Project Management Professional (Pmp),1,FALSE
+Project Manager,Project Management Professional (Pmp),1,FALSE
+Project Manager Profesional,Project Management Professional (Pmp),2,FALSE
+Project Manager Professional-Pmp,Project Management Professional (Pmp),1,FALSE
+Project Manager Proffessional,Project Management Professional (Pmp),1,FALSE
+Proyect Management,Project Management Professional (Pmp),2,FALSE
 Pruebas Psicologicas,Pruebas Psicologicas,1,TRUE
 Psicologa,Psicologia,2,FALSE
 Psicologia,Psicologia,252,TRUE
@@ -3019,17 +3019,17 @@ Psicologia Organizacional Y De La Gg. Hh.,Psicologia,1,FALSE
 "Psicologia Organizacional, Unfv",Psicologia,1,FALSE
 Psicologia Organizacionla,Psicologia,1,FALSE
 Psicologia Organzacional Y De La Gestion Humana,Psicologia,1,FALSE
-Psicologo,Psicologo,3,TRUE
-Psicologo General,Psicologo,1,FALSE
-Psicologo Organisacional,Psicologo,1,FALSE
-Psicologo Social,Psicologo,1,FALSE
+Psicologo,Psicologia,3,FALSE
+Psicologo General,Psicologia,1,FALSE
+Psicologo Organisacional,Psicologia,1,FALSE
+Psicologo Social,Psicologia,1,FALSE
 Psicoterapeuta En Act,Psicoterapeuta En Act,1,TRUE
 Publicidad,Publicidad,1,TRUE
 Publicidad Y Marketing,Publicidad,2,FALSE
 Publicidad Y Marketing Digital,Publicidad,3,FALSE
 Publicidad Y Medios Digitales,Publicidad,1,FALSE
 Publicidad Y Multimedia,Publicidad,1,FALSE
-Publicista,Publicista,1,TRUE
+Publicista,Publicidad,1,FALSE
 Python,Python,1,TRUE
 Python Basico,Python,1,FALSE
 Python For Analitycs,Python,1,FALSE
@@ -3080,9 +3080,9 @@ Rup 7.0 Y Uml 2.5 For Analyst,Rup 7.0 Y Uml 2.5 For Analyst,1,TRUE
 Safe 4.5,Safe 4.5,1,TRUE
 Safe Product Owner/Product Manager,Safe Product Owner/Product Manager,1,TRUE
 Sap - Procesos Logisticos,Sap - Procesos Logisticos,1,TRUE
-Sap Bo,Sap Bo,1,TRUE
+Sap Bo,Sap Business One,1,FALSE
 Sap Business One,Sap Business One,2,TRUE
-Sap Business One Service Layer (Servicios Web),Sap Business One Service Layer (Servicios Web),1,TRUE
+Sap Business One Service Layer (Servicios Web),Sap Business One,1,FALSE
 Sap Certified Associate - Design Thinking,Sap Certified Associate - Design Thinking,1,TRUE
 Sap Erp,Sap Erp,3,TRUE
 Sap Fiori Ui5 Apps Development,Sap Fiori Ui5 Apps Development,1,TRUE
@@ -3123,25 +3123,25 @@ Scrum Master Professional Certificate Smpc,Scrum Master,1,FALSE
 Scrum Master Professional Certified (Smpc),Scrum Master,1,FALSE
 Scrum Metodologias Agiles,Scrum Metodologias Agiles,1,TRUE
 Scrum Product Owner,Scrum Product Owner,2,TRUE
-Scrum Product Owner Certified Spopc,Scrum Product Owner Certified Spopc,1,TRUE
-Scrum Product Owner Professional Certificate,Scrum Product Owner Professional Certificate,2,TRUE
-Scrum Product Owner/ Scrum Developer,Scrum Product Owner/ Scrum Developer,3,TRUE
+Scrum Product Owner Certified Spopc,Scrum Product Owner,1,FALSE
+Scrum Product Owner Professional Certificate,Scrum Product Owner,2,FALSE
+Scrum Product Owner/ Scrum Developer,Scrum Product Owner,3,FALSE
 Scrum Trainer Certified,Scrum Trainer Certified,1,TRUE
 Scrum Y Metodologias Agiles,Scrum Y Metodologias Agiles,3,TRUE
-Scrum: Metodologias Agiles,Scrum: Metodologias Agiles,9,TRUE
-Scum Master,Scum Master,1,TRUE
+Scrum: Metodologias Agiles,Scrum Y Metodologias Agiles,9,FALSE
+Scum Master,Scrum Master,1,FALSE
 Secretaria,Secretaria,1,TRUE
 Secretarido Ejecutivo,Secretarido Ejecutivo,1,TRUE
 Seguridad De La Informacion,Seguridad De La Informacion,2,TRUE
 Seguridad De La Informacion Iso 27001,Seguridad De La Informacion Iso 27001,2,TRUE
-Seguridad De La Informacion Iso 27001:2013&Quot;,Seguridad De La Informacion Iso 27001:2013&Quot;,1,TRUE
+Seguridad De La Informacion Iso 27001:2013&Quot;,Seguridad De La Informacion Iso 27001,1,FALSE
 Seguridad De La Informacion Y Auditoria De Si,Seguridad De La Informacion Y Auditoria De Si,2,TRUE
 Seguridad E Higiene Ocupacional Y Medio Ambiente,Seguridad E Higiene Ocupacional Y Medio Ambiente,1,TRUE
 Seguridad Industrial Y Ambiental,Seguridad Industrial Y Ambiental,2,TRUE
 Seguridad Perimetral,Seguridad Perimetral,1,TRUE
 Seguridad Y Salud En El Trabajo,Seguridad Y Salud En El Trabajo,2,TRUE
-Seguridad Y Salud En El Trabajo.,Seguridad Y Salud En El Trabajo.,1,TRUE
-Seguridad Y Salud En Trabajos De Construccion,Seguridad Y Salud En Trabajos De Construccion,1,TRUE
+Seguridad Y Salud En El Trabajo.,Seguridad Y Salud En El Trabajo,1,FALSE
+Seguridad Y Salud En Trabajos De Construccion,Seguridad Y Salud En El Trabajo,1,FALSE
 Seleccion Del Talento Humano: Nuevas Herramientas,Seleccion Del Talento Humano: Nuevas Herramientas,1,TRUE
 Selenium Esential,Selenium Esential,3,TRUE
 Seminario,Seminario,1,TRUE
@@ -3169,8 +3169,8 @@ Sistemas Integrados De Gestion,Sistemas Integrados De Gestion,1,TRUE
 Sistemas Redes,Sistemas Redes,2,TRUE
 Sistemas Y Computo,Sistemas Y Computo,2,TRUE
 Six Sigma,Six Sigma,1,TRUE
-Six Sigma Yellow Belt,Six Sigma Yellow Belt,3,TRUE
-Six Sigma Yellow Belt Professional,Six Sigma Yellow Belt Professional,2,TRUE
+Six Sigma Yellow Belt,Six Sigma,3,FALSE
+Six Sigma Yellow Belt Professional,Six Sigma,2,FALSE
 Smc Certified,Smc Certified,2,TRUE
 Soa Architect Workshop Gen2 - Acreditado,Soa Architect Workshop Gen2 - Acreditado,1,TRUE
 Social Media,Social Media,1,TRUE
@@ -3228,10 +3228,10 @@ Taller De Introduccion A Sap,Taller De Introduccion A Sap,3,TRUE
 Taller De Metodos Agiles Para La Gestion Y D,Taller De Metodos Agiles Para La Gestion Y D,1,TRUE
 Taller De Negociacion Metodologia Harvard,Taller De Negociacion Metodologia Harvard,1,TRUE
 Taller De Preparacion Para Certificacion Pmp,Taller De Preparacion Para Certificacion Pmp,2,TRUE
-Taller De Preparacion Para El Examen Pmp,Taller De Preparacion Para El Examen Pmp,2,TRUE
-Taller De Preparacion Para El Pmp,Taller De Preparacion Para El Pmp,4,TRUE
+Taller De Preparacion Para El Examen Pmp,Taller De Preparacion Para Certificacion Pmp,2,FALSE
+Taller De Preparacion Para El Pmp,Taller De Preparacion Para Certificacion Pmp,4,FALSE
 Taller De Preparacion Para La Certificacion Smc(Tm),Taller De Preparacion Para La Certificacion Smc(Tm),1,TRUE
-Taller De Preparacion Para Pmp,Taller De Preparacion Para Pmp,2,TRUE
+Taller De Preparacion Para Pmp,Taller De Preparacion Para Certificacion Pmp,2,FALSE
 Taller De Pruebas Psicologicas Organizacionales,Taller De Pruebas Psicologicas Organizacionales,1,TRUE
 Taller De Python Y .Net,Taller De Python Y .Net,1,TRUE
 Taller De Sap Business One Basico Desde Cero,Taller De Sap Business One Basico Desde Cero,1,TRUE
@@ -3245,9 +3245,9 @@ Tecnica Egresada De Contabilidad,Tecnica Egresada De Contabilidad,1,TRUE
 Tecnica En Computacion E Informatica,Tecnica En Computacion E Informatica,1,TRUE
 Tecnica En Ingenieria De Sistemas - 4 Ciclos,Tecnica En Ingenieria De Sistemas - 4 Ciclos,1,TRUE
 Tecnica Fotografica,Tecnica Fotografica,1,TRUE
-Tecnicas De Venta Y Marketing Empresarial,Tecnicas De Venta Y Marketing Empresarial,1,TRUE
+Tecnicas De Venta Y Marketing Empresarial,Tecnicas De Ventas,1,FALSE
 Tecnicas De Ventas,Tecnicas De Ventas,1,TRUE
-Tecnicas De Ventas Y Negociacion,Tecnicas De Ventas Y Negociacion,1,TRUE
+Tecnicas De Ventas Y Negociacion,Tecnicas De Ventas,1,FALSE
 Tecnico,Tecnico,18,TRUE
 Tecnico - I.S.T.P. Abaco (Chiclayo),Tecnico - I.S.T.P. Abaco (Chiclayo),1,TRUE
 Tecnico / Windows Server 2016 - Administracion,Tecnico / Windows Server 2016 - Administracion,1,TRUE
@@ -3258,14 +3258,14 @@ Tecnico Computacion E Informatica,Tecnico Computacion E Informatica,4,TRUE
 Tecnico Computacion Y Sistemas,Tecnico Computacion Y Sistemas,1,TRUE
 Tecnico Contabilidad Y Finanzas,Tecnico Contabilidad Y Finanzas,1,TRUE
 Tecnico De Administracion Y Sistemas,Tecnico De Administracion Y Sistemas,1,TRUE
-Tecnico De Computacion E Informatica,Tecnico De Computacion E Informatica,2,TRUE
+Tecnico De Computacion E Informatica,Tecnico De Computacion Informatica,2,FALSE
 Tecnico De Computacion Informatica,Tecnico De Computacion Informatica,1,TRUE
 Tecnico De Computacion Y Sistemas,Tecnico De Computacion Y Sistemas,1,TRUE
 Tecnico De Redes Y Comunicaciones,Tecnico De Redes Y Comunicaciones,1,TRUE
 Tecnico Desarrollo De Software,Tecnico Desarrollo De Software,1,TRUE
 Tecnico En Administracion,Tecnico En Administracion,2,TRUE
-Tecnico En Administracion De Empresas.,Tecnico En Administracion De Empresas.,1,TRUE
-Tecnico En Administracion Y Sistemas,Tecnico En Administracion Y Sistemas,2,TRUE
+Tecnico En Administracion De Empresas.,Tecnico En Administracion,1,FALSE
+Tecnico En Administracion Y Sistemas,Tecnico En Administracion,2,FALSE
 Tecnico En Big Data,Tecnico En Big Data,1,TRUE
 Tecnico En Comoutacion,Tecnico En Computacion E Informatica,1,FALSE
 Tecnico En Computacion,Tecnico En Computacion E Informatica,2,FALSE
@@ -3316,8 +3316,8 @@ Tecnicos,Tecnicos,1,TRUE
 Tecnologa En Seguridad E Higiene Ocupacional,Tecnologa En Seguridad E Higiene Ocupacional,1,TRUE
 Tecnologia De Alimentos,Tecnologia De Alimentos,1,TRUE
 Tecnologia De La Informacion,Tecnologia De La Informacion,1,TRUE
-Tecnologia De La Informacion Y Comunicacion,Tecnologia De La Informacion Y Comunicacion,1,TRUE
-Tecnologias De Informacion,Tecnologias De Informacion,1,TRUE
+Tecnologia De La Informacion Y Comunicacion,Tecnologia De La Informacion,1,FALSE
+Tecnologias De Informacion,Tecnologia De La Informacion,1,FALSE
 Tecnologias De Telecomunicaciones Emergentes,Tecnologias De Telecomunicaciones Emergentes,1,TRUE
 Tecnologo En Electronica,Tecnologo En Electronica,3,TRUE
 Terapia De Parejas,Terapia De Parejas,1,TRUE
@@ -3331,13 +3331,13 @@ The Power Mba,The Power Mba,1,TRUE
 Ti Itil Expert,Ti Itil Expert,3,TRUE
 Tic E Historia,Tic E Historia,1,TRUE
 Titulacion,Titulacion,1,TRUE
-Titulacion En Ingenieria Informatica,Titulacion En Ingenieria Informatica,1,TRUE
-Titulacion Ingenieria De Sistemas,Titulacion Ingenieria De Sistemas,1,TRUE
+Titulacion En Ingenieria Informatica,Titulado En Ingenieria Informatica,1,FALSE
+Titulacion Ingenieria De Sistemas,Titulado En Ingenieria De Sistemas,1,FALSE
 Titulada,Titulada,2,TRUE
 Titulada En Administracion,Titulada En Administracion,1,TRUE
-Titulada En Ingenieria De Sistemas,Titulada En Ingenieria De Sistemas,4,TRUE
-Titulada En Ingenieria De Sistemas E Informatica,Titulada En Ingenieria De Sistemas E Informatica,1,TRUE
-Titulada En Ingenieria Informatica,Titulada En Ingenieria Informatica,1,TRUE
+Titulada En Ingenieria De Sistemas,Titulado En Ingenieria De Sistemas,4,FALSE
+Titulada En Ingenieria De Sistemas E Informatica,Titulado En Ingenieria De Sistemas,1,FALSE
+Titulada En Ingenieria Informatica,Titulado En Ingenieria Informatica,1,FALSE
 Titulada En Psicologia,Titulada En Psicologia,1,TRUE
 Titulada En Psicologia Humana,Titulada En Psicologia Humana,1,TRUE
 Titulada En Trababajo Social,Titulada En Trababajo Social,1,TRUE
@@ -3350,10 +3350,10 @@ Titulado Administracion Y Sistema De Informacion,Titulado Administracion Y Siste
 Titulado Como Analista - Programador De Sistemas,Titulado Como Analista - Programador De Sistemas,1,TRUE
 Titulado Como Ingenierio De Sistemas,Titulado Como Ingenierio De Sistemas,1,TRUE
 Titulado De Ingeniera Industrial,Titulado De Ingeniera Industrial,1,TRUE
-Titulado De Ingenieria De Sistemas,Titulado De Ingenieria De Sistemas,2,TRUE
+Titulado De Ingenieria De Sistemas,Titulado En Ingenieria De Sistemas,2,FALSE
 Titulado De Ingeniero De Sistemas,Titulado De Ingeniero De Sistemas,1,TRUE
 Titulado En Administracion De Empresas,Titulado En Administracion De Empresas,1,TRUE
-Titulado En Ing De Sistemas,Titulado En Ing De Sistemas,2,TRUE
+Titulado En Ing De Sistemas,Titulado En Ingenieria De Sistemas,2,FALSE
 Titulado En Ing Electronica,Titulado En Ing Electronica,1,TRUE
 Titulado En Ing. De Sistemas,Titulado En Ing. De Sistemas,2,TRUE
 Titulado En Ing. Industrial,Titulado En Ing. Industrial,1,TRUE
@@ -3391,9 +3391,9 @@ Titulo Profesional En Redes Y Comunicaciones.,Titulo Profesional En Redes Y Comu
 Titulo Universitario,Titulo Universitario,1,TRUE
 Todavia,Todavia,1,TRUE
 Togaf,Togaf,1,TRUE
-Togaf - Arquitectura Empresarial,Togaf - Arquitectura Empresarial,1,TRUE
-Trabajador Social,Trabajador Social,2,TRUE
-Trabajadora Social,Trabajadora Social,10,TRUE
+Togaf - Arquitectura Empresarial,Togaf,1,FALSE
+Trabajador Social,Trabajo Social,2,FALSE
+Trabajadora Social,Trabajo Social,10,FALSE
 Trabajo Social,Trabajo Social,70,TRUE
 Trabajo Social - Recursos Humanos,Trabajo Social,1,FALSE
 Traduccion,Traduccion,3,TRUE
@@ -3411,12 +3411,12 @@ Transformacion Digital: Metodologias Y Best Practi,Transformacion Digital,1,FALS
 Tributacion Laboral,Tributacion Laboral,1,TRUE
 Tripulante De Cabina,Tripulante De Cabina,1,TRUE
 Tsu,Tsu,1,TRUE
-Tsu En Admon. Contaduria,Tsu En Admon. Contaduria,1,TRUE
-Tsu En Comercio Exterior,Tsu En Comercio Exterior,2,TRUE
-Tsu Informatica,Tsu Informatica,7,TRUE
+Tsu En Admon. Contaduria,Tsu,1,FALSE
+Tsu En Comercio Exterior,Tsu,2,FALSE
+Tsu Informatica,Tsu,7,FALSE
 Turismo,Turismo,1,TRUE
-Turismo Y Hoteleria,Turismo Y Hoteleria,2,TRUE
-"Turismo, Hoteleria Y Gastronomia","Turismo, Hoteleria Y Gastronomia",1,TRUE
+Turismo Y Hoteleria,Turismo,2,FALSE
+"Turismo, Hoteleria Y Gastronomia",Turismo,1,FALSE
 U Nueva Competencia Contencioso Administrativo De,U Nueva Competencia Contencioso Administrativo De,1,TRUE
 Uml For Developer,Uml For Developer,2,TRUE
 Uml Para Desarrolladores - Analisis,Uml Para Desarrolladores - Analisis,6,TRUE
@@ -3432,7 +3432,7 @@ Universidad San Ignacio De La Oyola,Universidad San Ignacio De La Oyola,1,TRUE
 Universidad San Pedro,Universidad San Pedro,3,TRUE
 Universidad Tecnologica Del Peru,Universidad Tecnologica Del Peru,3,TRUE
 Universidad Tecnologica Del Peru - Utp,Universidad Tecnologica Del Peru - Utp,1,TRUE
-Universitaria,Universitaria,3,TRUE
+Universitaria,Universitario,3,FALSE
 Universitario,Universitario,24,TRUE
 Universitario - Ingenieria Electronica,Universitario,1,FALSE
 Universitario - Pregrado,Universitario,1,FALSE
@@ -3441,20 +3441,20 @@ Universitario De Ingenieria De Software,Universitario,2,FALSE
 Universitario Incompleto,Universitario,2,FALSE
 Universitario- Ing. De Sistemas,Universitario,1,FALSE
 Upc,Upc,1,TRUE
-Upc-Epe,Upc-Epe,1,TRUE
-User Experience (Ux),User Experience (Ux),1,TRUE
-User Experience Design,User Experience Design,1,TRUE
+Upc-Epe,Upc,1,FALSE
+User Experience (Ux),Ux/Ui Designer,1,FALSE
+User Experience Design,Ux/Ui Designer,1,FALSE
 Usuario Experto Sap Mm,Usuario Experto Sap Mm,3,TRUE
 Utp,Utp,1,TRUE
-Ux / Ui,Ux / Ui,2,TRUE
-Ux Estrategico,Ux Estrategico,2,TRUE
-Ux User Experience,Ux User Experience,1,TRUE
-Ux/Ui Design,Ux/Ui Design,2,TRUE
+Ux / Ui,Ux/Ui Designer,2,FALSE
+Ux Estrategico,Ux/Ui Designer,2,FALSE
+Ux User Experience,Ux/Ui Designer,1,FALSE
+Ux/Ui Design,Ux/Ui Designer,2,FALSE
 Ux/Ui Designer,Ux/Ui Designer,2,TRUE
-Ux/Ui Designer Certification,Ux/Ui Designer Certification,1,TRUE
-"Ux/Ui Designer, Certificado","Ux/Ui Designer, Certificado",1,TRUE
-Ux/Ui Designer: Experiencia De Usuario,Ux/Ui Designer: Experiencia De Usuario,1,TRUE
-Ux-Ui Design,Ux-Ui Design,1,TRUE
+Ux/Ui Designer Certification,Ux/Ui Designer,1,FALSE
+"Ux/Ui Designer, Certificado",Ux/Ui Designer,1,FALSE
+Ux/Ui Designer: Experiencia De Usuario,Ux/Ui Designer,1,FALSE
+Ux-Ui Design,Ux/Ui Designer,1,FALSE
 V Encuentro De Liderazgo E Innovacion,V Encuentro De Liderazgo E Innovacion,1,TRUE
 Validacion De Sistemas Computarizados,Validacion De Sistemas Computarizados,1,TRUE
 "Vcp 5.X, Virtualizacion Vmware","Vcp 5.X, Virtualizacion Vmware",1,TRUE
@@ -3472,13 +3472,13 @@ Visual Studio 2015 Developer C#,Visual Studio 2015 Developer C#,1,TRUE
 Visual Studio 2017 Fundamentals - C#,Visual Studio 2017 Fundamentals - C#,1,TRUE
 Visual Studio 2017 Web Developer,Visual Studio 2017 Web Developer,2,TRUE
 Visual Studio Developer,Visual Studio Developer,1,TRUE
-Visual Studio Developer 2017,Visual Studio Developer 2017,1,TRUE
+Visual Studio Developer 2017,Visual Studio Developer,1,FALSE
 Visual Studio Fundamentals 2015,Visual Studio Fundamentals 2015,1,TRUE
 Vmware - Vcp - Dcv Certificado,Vmware - Vcp - Dcv Certificado,2,TRUE
 Vmware Data Center Virtualization Fundamentals,Vmware Data Center Virtualization Fundamentals,1,TRUE
 Web Developer,Web Developer,1,TRUE
 Web Developer En Visual Studio 2017,Web Developer En Visual Studio 2017,1,TRUE
-Web Development,Web Development,1,TRUE
+Web Development,Web Developer,1,FALSE
 Web Frontend Developer,Web Frontend Developer,1,TRUE
 Win Office Systen (Abaco),Win Office Systen (Abaco),1,TRUE
 "Windows Server 2012 R2 - Seguridad Tmg ,Firew","Windows Server 2012 R2 - Seguridad Tmg ,Firew",1,TRUE
