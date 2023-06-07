@@ -1,7 +1,0 @@
-algoritmo,particion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,tiempoEjecucion,matrizConfusion,exactitud,precision,sensibilidad,robustez,promedioMetricas,tiempoPromedio
-RF,Particion 1,7241,1810,0.2,4.26s,"[[1505, 0], [19, 286]]",98.95%,100.00%,93.77%,96.79%,97.38%,0.47ms
-RF,Particion 2,7241,1810,0.2,4.30s,"[[1520, 0], [19, 271]]",98.95%,100.00%,93.45%,96.61%,97.25%,0.47ms
-RF,Particion 3,7241,1810,0.2,4.27s,"[[1497, 0], [22, 291]]",98.78%,100.00%,92.97%,96.36%,97.03%,0.47ms
-RF,Particion 4,7241,1810,0.2,4.00s,"[[1527, 0], [13, 270]]",99.28%,100.00%,95.41%,97.65%,98.08%,0.44ms
-RF,Particion 5,7240,1811,0.2,4.31s,"[[1484, 0], [21, 306]]",98.84%,100.00%,93.58%,96.68%,97.28%,0.48ms
-RF,Total de datos,9051,3018,0.2,5.64s,"[[2525, 0], [20, 473]]",99.34%,100.00%,95.94%,97.93%,98.30%,0.47ms
