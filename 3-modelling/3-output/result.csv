@@ -1,8 +1,8 @@
 algoritmo,particion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,tiempoEjecucion,matrizConfusion,exactitud,precision,sensibilidad,robustez,promedioMetricas,tiempoPromedio
-K vecinos más cercanos,Total de datos,9051,3018,0.2,0.39s,"[[2363, 162], [108, 385]]",91.05%,70.38%,78.09%,74.04%,78.39%,0.03ms
-Máquina de vectores de soporte,Total de datos,9051,3018,0.2,20.80s,"[[2525, 0], [180, 313]]",94.04%,100.00%,63.49%,77.67%,83.80%,1.72ms
-Regresión logística,Total de datos,9051,3018,0.2,0.60s,"[[2484, 41], [312, 181]]",88.30%,81.53%,36.71%,50.63%,64.29%,0.05ms
-Naive bayes gaussiano,Total de datos,9051,3018,0.2,0.21s,"[[1246, 1279], [10, 483]]",57.29%,27.41%,97.97%,42.84%,56.38%,0.02ms
-Aumento de gradiente,Total de datos,9051,3018,0.2,7.63s,"[[2524, 1], [396, 97]]",86.85%,98.98%,19.68%,32.83%,59.58%,0.63ms
+K vecinos más cercanos,Total de datos,9051,3018,0.2,0.33s,"[[2363, 162], [108, 385]]",91.05%,70.38%,78.09%,74.04%,78.39%,0.03ms
+Máquina de vectores de soporte,Total de datos,9051,3018,0.2,19.99s,"[[2525, 0], [180, 313]]",94.04%,100.00%,63.49%,77.67%,83.80%,1.66ms
+Regresión logística,Total de datos,9051,3018,0.2,0.55s,"[[2484, 41], [312, 181]]",88.30%,81.53%,36.71%,50.63%,64.29%,0.05ms
+Naive bayes gaussiano,Total de datos,9051,3018,0.2,0.19s,"[[1246, 1279], [10, 483]]",57.29%,27.41%,97.97%,42.84%,56.38%,0.02ms
+Aumento de gradiente,Total de datos,9051,3018,0.2,7.59s,"[[2524, 1], [396, 97]]",86.85%,98.98%,19.68%,32.83%,59.58%,0.63ms
 Árbol de decisión,Total de datos,9051,3018,0.2,1.86s,"[[2422, 103], [24, 469]]",95.79%,81.99%,95.13%,88.08%,90.25%,0.15ms
-Bosque aleatorio,Total de datos,9051,3018,0.2,3.73s,"[[2525, 0], [22, 471]]",99.27%,100.00%,95.54%,97.72%,98.13%,0.31ms
+Bosque aleatorio,Total de datos,9051,3018,0.2,3.61s,"[[2525, 0], [22, 471]]",99.27%,100.00%,95.54%,97.72%,98.13%,0.30ms
