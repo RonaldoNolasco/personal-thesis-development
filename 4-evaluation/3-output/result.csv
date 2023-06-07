@@ -1,6 +1,6 @@
 algoritmo,particion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,tiempoEjecucion,matrizConfusion,exactitud,precision,sensibilidad,robustez,promedioMetricas,tiempoPromedio
-Bosque aleatorio,Partición 1,9655,2414,0.2,3.84s,"[[2017, 0], [14, 383]]",99.42%,100.00%,96.47%,98.21%,98.52%,0.32ms
-Bosque aleatorio,Partición 2,9655,2414,0.2,3.89s,"[[2013, 0], [14, 387]]",99.42%,100.00%,96.51%,98.22%,98.54%,0.32ms
-Bosque aleatorio,Partición 3,9655,2414,0.2,3.95s,"[[2011, 0], [12, 391]]",99.50%,100.00%,97.02%,98.49%,98.75%,0.33ms
-Bosque aleatorio,Partición 4,9655,2414,0.2,3.79s,"[[2030, 0], [8, 376]]",99.67%,100.00%,97.92%,98.95%,99.13%,0.31ms
-Bosque aleatorio,Partición 5,9656,2413,0.2,3.91s,"[[1987, 0], [14, 412]]",99.42%,100.00%,96.71%,98.33%,98.62%,0.32ms
+Bosque aleatorio,Partición 1,9655,2414,0.2,3.85s,"[[2017, 0], [14, 383]]",99.42%,100.00%,96.47%,98.21%,98.52%,0.32ms
+Bosque aleatorio,Partición 2,9655,2414,0.2,3.90s,"[[2013, 0], [14, 387]]",99.42%,100.00%,96.51%,98.22%,98.54%,0.32ms
+Bosque aleatorio,Partición 3,9655,2414,0.2,4.00s,"[[2011, 0], [12, 391]]",99.50%,100.00%,97.02%,98.49%,98.75%,0.33ms
+Bosque aleatorio,Partición 4,9655,2414,0.2,4.08s,"[[2030, 0], [8, 376]]",99.67%,100.00%,97.92%,98.95%,99.13%,0.34ms
+Bosque aleatorio,Partición 5,9656,2413,0.2,4.09s,"[[1987, 0], [14, 412]]",99.42%,100.00%,96.71%,98.33%,98.62%,0.34ms
