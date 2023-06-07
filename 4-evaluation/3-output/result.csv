@@ -1,0 +1,6 @@
+algoritmo,particion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,tiempoEjecucion,matrizConfusion,exactitud,precision,sensibilidad,robustez,promedioMetricas,tiempoPromedio
+Bosque aleatorio,Partición 1,9655,2414,0.2,3.91s,"[[2022, 0], [8, 384]]",99.67%,100.00%,97.96%,98.97%,99.15%,0.32ms
+Bosque aleatorio,Partición 2,9655,2414,0.2,3.80s,"[[2031, 0], [11, 372]]",99.54%,100.00%,97.13%,98.54%,98.80%,0.32ms
+Bosque aleatorio,Partición 3,9655,2414,0.2,4.00s,"[[2004, 0], [13, 397]]",99.46%,100.00%,96.83%,98.39%,98.67%,0.33ms
+Bosque aleatorio,Partición 4,9655,2414,0.2,3.91s,"[[2009, 0], [10, 395]]",99.59%,100.00%,97.53%,98.75%,98.97%,0.32ms
+Bosque aleatorio,Partición 5,9656,2413,0.2,3.99s,"[[1992, 0], [12, 409]]",99.50%,100.00%,97.15%,98.55%,98.80%,0.33ms

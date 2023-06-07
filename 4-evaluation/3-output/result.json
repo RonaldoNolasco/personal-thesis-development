@@ -1,1 +1,77 @@
-[]
+[
+    {
+        "algoritmo": "Bosque aleatorio",
+        "particion": "Partición 1",
+        "registrosEntrenamiento": 9655,
+        "registrosPrueba": 2414,
+        "proporcionSobremuestreo": 0.2,
+        "tiempoEjecucion": "3.91s",
+        "matrizConfusion": "[[2022, 0], [8, 384]]",
+        "exactitud": "99.67%",
+        "precision": "100.00%",
+        "sensibilidad": "97.96%",
+        "robustez": "98.97%",
+        "promedioMetricas": "99.15%",
+        "tiempoPromedio": "0.32ms"
+    },
+    {
+        "algoritmo": "Bosque aleatorio",
+        "particion": "Partición 2",
+        "registrosEntrenamiento": 9655,
+        "registrosPrueba": 2414,
+        "proporcionSobremuestreo": 0.2,
+        "tiempoEjecucion": "3.80s",
+        "matrizConfusion": "[[2031, 0], [11, 372]]",
+        "exactitud": "99.54%",
+        "precision": "100.00%",
+        "sensibilidad": "97.13%",
+        "robustez": "98.54%",
+        "promedioMetricas": "98.80%",
+        "tiempoPromedio": "0.32ms"
+    },
+    {
+        "algoritmo": "Bosque aleatorio",
+        "particion": "Partición 3",
+        "registrosEntrenamiento": 9655,
+        "registrosPrueba": 2414,
+        "proporcionSobremuestreo": 0.2,
+        "tiempoEjecucion": "4.00s",
+        "matrizConfusion": "[[2004, 0], [13, 397]]",
+        "exactitud": "99.46%",
+        "precision": "100.00%",
+        "sensibilidad": "96.83%",
+        "robustez": "98.39%",
+        "promedioMetricas": "98.67%",
+        "tiempoPromedio": "0.33ms"
+    },
+    {
+        "algoritmo": "Bosque aleatorio",
+        "particion": "Partición 4",
+        "registrosEntrenamiento": 9655,
+        "registrosPrueba": 2414,
+        "proporcionSobremuestreo": 0.2,
+        "tiempoEjecucion": "3.91s",
+        "matrizConfusion": "[[2009, 0], [10, 395]]",
+        "exactitud": "99.59%",
+        "precision": "100.00%",
+        "sensibilidad": "97.53%",
+        "robustez": "98.75%",
+        "promedioMetricas": "98.97%",
+        "tiempoPromedio": "0.32ms"
+    },
+    {
+        "algoritmo": "Bosque aleatorio",
+        "particion": "Partición 5",
+        "registrosEntrenamiento": 9656,
+        "registrosPrueba": 2413,
+        "proporcionSobremuestreo": 0.2,
+        "tiempoEjecucion": "3.99s",
+        "matrizConfusion": "[[1992, 0], [12, 409]]",
+        "exactitud": "99.50%",
+        "precision": "100.00%",
+        "sensibilidad": "97.15%",
+        "robustez": "98.55%",
+        "promedioMetricas": "98.80%",
+        "tiempoPromedio": "0.33ms"
+    }
+]
