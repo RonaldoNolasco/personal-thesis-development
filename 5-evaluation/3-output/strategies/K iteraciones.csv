@@ -1,0 +1,6 @@
+algoritmo,particion,estrategiaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,promedioMetricas,tiempoTotal,tiempoPromedio
+Bosque aleatorio,Partición 1,K iteraciones,9655,2414,0.2,"[[2017, 0], [14, 383]]",99.42%,100.00%,96.47%,98.21%,98.52%,3.76517s,0.00031s
+Bosque aleatorio,Partición 2,K iteraciones,9655,2414,0.2,"[[2013, 0], [14, 387]]",99.42%,100.00%,96.51%,98.22%,98.54%,3.82965s,0.00032s
+Bosque aleatorio,Partición 3,K iteraciones,9655,2414,0.2,"[[2011, 0], [12, 391]]",99.50%,100.00%,97.02%,98.49%,98.75%,3.91742s,0.00032s
+Bosque aleatorio,Partición 4,K iteraciones,9655,2414,0.2,"[[2030, 0], [8, 376]]",99.67%,100.00%,97.92%,98.95%,99.13%,3.78522s,0.00031s
+Bosque aleatorio,Partición 5,K iteraciones,9656,2413,0.2,"[[1987, 0], [14, 412]]",99.42%,100.00%,96.71%,98.33%,98.62%,3.88685s,0.00032s
