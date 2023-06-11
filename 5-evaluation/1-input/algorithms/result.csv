@@ -1,8 +1,8 @@
 algoritmo,particion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,tiempoEjecucion,matrizConfusion,exactitud,precision,sensibilidad,robustez,promedioMetricas,tiempoPromedio
-K vecinos más cercanos,Total de datos,9655,2414,0.2,0.40s,"[[1890, 127], [79, 318]]",91.47%,71.46%,80.10%,75.53%,79.64%,0.03ms
-Máquina de vectores de soporte,Total de datos,9655,2414,0.2,22.31s,"[[2017, 0], [139, 258]]",94.24%,100.00%,64.99%,78.78%,84.50%,1.85ms
-Regresión logística,Total de datos,9655,2414,0.2,0.90s,"[[1982, 35], [247, 150]]",88.32%,81.08%,37.78%,51.55%,64.68%,0.07ms
-Naive bayes gaussiano,Total de datos,9655,2414,0.2,0.24s,"[[990, 1027], [4, 393]]",57.29%,27.68%,98.99%,43.26%,56.80%,0.02ms
-Aumento de gradiente,Total de datos,9655,2414,0.2,8.65s,"[[2014, 3], [326, 71]]",86.37%,95.95%,17.88%,30.15%,57.59%,0.72ms
-Árbol de decisión,Total de datos,9655,2414,0.2,2.00s,"[[1949, 68], [15, 382]]",96.56%,84.89%,96.22%,90.20%,91.97%,0.17ms
-Bosque aleatorio,Total de datos,9655,2414,0.2,5.05s,"[[2017, 0], [14, 383]]",99.42%,100.00%,96.47%,98.21%,98.52%,0.42ms
+K vecinos más cercanos,Total de datos,9655,2414,0.2,0.43s,"[[1948, 69], [13, 384]]",96.60%,84.77%,96.73%,90.35%,92.11%,0.04ms
+Máquina de vectores de soporte,Total de datos,9655,2414,0.2,18.37s,"[[2013, 4], [90, 307]]",96.11%,98.71%,77.33%,86.72%,89.72%,1.52ms
+Regresión logística,Total de datos,9655,2414,0.2,0.65s,"[[1982, 35], [247, 150]]",88.32%,81.08%,37.78%,51.55%,64.68%,0.05ms
+Naive bayes gaussiano,Total de datos,9655,2414,0.2,0.22s,"[[990, 1027], [4, 393]]",57.29%,27.68%,98.99%,43.26%,56.80%,0.02ms
+Aumento de gradiente,Total de datos,9655,2414,0.2,8.11s,"[[2014, 3], [326, 71]]",86.37%,95.95%,17.88%,30.15%,57.59%,0.67ms
+Árbol de decisión,Total de datos,9655,2414,0.2,1.80s,"[[1949, 68], [15, 382]]",96.56%,84.89%,96.22%,90.20%,91.97%,0.15ms
+Bosque aleatorio,Total de datos,9655,2414,0.2,4.30s,"[[2017, 0], [14, 383]]",99.42%,100.00%,96.47%,98.21%,98.52%,0.36ms
