@@ -1,8 +1,8 @@
 algoritmo,particion,estrategiaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,promedioMetricas,tiempoTotal,tiempoPromedio
-K vecinos más cercanos,Total de datos,Ninguna,9655,2414,0.2,"[[1948, 69], [13, 384]]",96.60%,84.77%,96.73%,90.35%,92.11%,0.37276s,0.00003s
-Máquina de vectores de soporte,Total de datos,Ninguna,9655,2414,0.2,"[[2013, 4], [90, 307]]",96.11%,98.71%,77.33%,86.72%,89.72%,17.18882s,0.00142s
-Regresión logística,Total de datos,Ninguna,9655,2414,0.2,"[[1982, 35], [247, 150]]",88.32%,81.08%,37.78%,51.55%,64.68%,0.61783s,0.00005s
-Naive bayes gaussiano,Total de datos,Ninguna,9655,2414,0.2,"[[990, 1027], [4, 393]]",57.29%,27.68%,98.99%,43.26%,56.80%,0.21088s,0.00002s
-Aumento de gradiente,Total de datos,Ninguna,9655,2414,0.2,"[[2014, 3], [326, 71]]",86.37%,95.95%,17.88%,30.15%,57.59%,8.08216s,0.00067s
-Árbol de decisión,Total de datos,Ninguna,9655,2414,0.2,"[[1949, 68], [15, 382]]",96.56%,84.89%,96.22%,90.20%,91.97%,1.72600s,0.00014s
-Bosque aleatorio,Total de datos,Ninguna,9655,2414,0.2,"[[2017, 0], [14, 383]]",99.42%,100.00%,96.47%,98.21%,98.52%,3.96146s,0.00033s
+K vecinos más cercanos,Total de datos,Ninguna,9655,2414,0.2,"[[1948, 69], [13, 384]]",96.60%,84.77%,96.73%,90.35%,92.11%,0.33817s,0.00003s
+Máquina de vectores de soporte,Total de datos,Ninguna,9655,2414,0.2,"[[2013, 4], [90, 307]]",96.11%,98.71%,77.33%,86.72%,89.72%,17.10837s,0.00142s
+Regresión logística,Total de datos,Ninguna,9655,2414,0.2,"[[1982, 35], [247, 150]]",88.32%,81.08%,37.78%,51.55%,64.68%,0.67004s,0.00006s
+Naive bayes gaussiano,Total de datos,Ninguna,9655,2414,0.2,"[[990, 1027], [4, 393]]",57.29%,27.68%,98.99%,43.26%,56.80%,0.20234s,0.00002s
+Aumento de gradiente,Total de datos,Ninguna,9655,2414,0.2,"[[2014, 3], [326, 71]]",86.37%,95.95%,17.88%,30.15%,57.59%,8.19178s,0.00068s
+Árbol de decisión,Total de datos,Ninguna,9655,2414,0.2,"[[1949, 68], [15, 382]]",96.56%,84.89%,96.22%,90.20%,91.97%,1.71049s,0.00014s
+Bosque aleatorio,Total de datos,Ninguna,9655,2414,0.2,"[[2017, 0], [14, 383]]",99.42%,100.00%,96.47%,98.21%,98.52%,3.91295s,0.00032s
