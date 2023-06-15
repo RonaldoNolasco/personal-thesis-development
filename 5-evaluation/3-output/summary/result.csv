@@ -1,4 +1,11 @@
-algoritmo,particion,estrategiaValidacion,promedioExactitud,promedioPrecision,promedioSensibilidad,promedioRobustez,promedioMetricas,tiempoTotal,tiempoPromedio
-Bosque aleatorio,Todas,K iteraciones,99.48%,100.00%,96.91%,98.43%,98.71%,4.00784s,0.00033s
-Bosque aleatorio,Todas,K iteraciones estratificado,99.49%,100.00%,96.93%,98.44%,98.71%,4.06248s,0.00034s
-Bosque aleatorio,Todas,División aleatoria,99.55%,100.00%,97.26%,98.61%,98.86%,3.96677s,0.00033s
+0,1,2
+Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
+Todas,Todas,Todas
+K iteraciones,K iteraciones estratificado,División aleatoria
+99.48%,99.49%,99.55%
+100.00%,100.00%,100.00%
+96.91%,96.93%,97.26%
+98.43%,98.44%,98.61%
+98.71%,98.71%,98.86%
+4.16654s,4.21859s,4.27776s
+0.00035s,0.00035s,0.00035s
