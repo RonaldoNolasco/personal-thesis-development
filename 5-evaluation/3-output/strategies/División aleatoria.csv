@@ -1,6 +1,6 @@
 algoritmo,particion,estrategiaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,promedioMetricas,tiempoTotal,tiempoPromedio
-Bosque aleatorio,Partición 1,División aleatoria,9655,2414,0.2,"[[2017, 0], [14, 383]]",99.42%,100.00%,96.47%,98.21%,98.52%,3.93929s,0.00033s
-Bosque aleatorio,Partición 2,División aleatoria,9655,2414,0.2,"[[1982, 0], [13, 419]]",99.46%,100.00%,96.99%,98.47%,98.73%,3.99999s,0.00033s
-Bosque aleatorio,Partición 3,División aleatoria,9655,2414,0.2,"[[2010, 0], [16, 388]]",99.34%,100.00%,96.04%,97.98%,98.34%,3.98959s,0.00033s
-Bosque aleatorio,Partición 4,División aleatoria,9655,2414,0.2,"[[2007, 0], [11, 396]]",99.54%,100.00%,97.30%,98.63%,98.87%,3.81602s,0.00032s
-Bosque aleatorio,Partición 5,División aleatoria,9655,2414,0.2,"[[2010, 0], [9, 395]]",99.63%,100.00%,97.77%,98.87%,99.07%,3.92574s,0.00033s
+Bosque aleatorio,Partición 1,División aleatoria,9655,2414,0.2,"[[2017, 0], [14, 383]]",99.42%,100.00%,96.47%,98.21%,98.52%,3.90079s,0.00032s
+Bosque aleatorio,Partición 2,División aleatoria,9655,2414,0.2,"[[1982, 0], [13, 419]]",99.46%,100.00%,96.99%,98.47%,98.73%,3.95752s,0.00033s
+Bosque aleatorio,Partición 3,División aleatoria,9655,2414,0.2,"[[2010, 0], [16, 388]]",99.34%,100.00%,96.04%,97.98%,98.34%,4.03484s,0.00033s
+Bosque aleatorio,Partición 4,División aleatoria,9655,2414,0.2,"[[2007, 0], [11, 396]]",99.54%,100.00%,97.30%,98.63%,98.87%,3.76502s,0.00031s
+Bosque aleatorio,Partición 5,División aleatoria,9655,2414,0.2,"[[2010, 0], [9, 395]]",99.63%,100.00%,97.77%,98.87%,99.07%,3.85162s,0.00032s
