@@ -1,6 +1,6 @@
-algoritmo,particion,estrategiaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,promedioMetricas,tiempoTotal,tiempoPromedio
-Bosque aleatorio,Partición 1,K iteraciones estratificado,9655,2414,0.2,"[[2012, 0], [8, 394]]",99.67%,100.00%,98.01%,98.99%,99.17%,3.94745s,0.00033s
-Bosque aleatorio,Partición 2,K iteraciones estratificado,9655,2414,0.2,"[[2012, 0], [9, 393]]",99.63%,100.00%,97.76%,98.87%,99.06%,3.80263s,0.00032s
-Bosque aleatorio,Partición 3,K iteraciones estratificado,9655,2414,0.2,"[[2012, 0], [10, 392]]",99.59%,100.00%,97.51%,98.74%,98.96%,3.90830s,0.00032s
-Bosque aleatorio,Partición 4,K iteraciones estratificado,9655,2414,0.2,"[[2011, 0], [13, 390]]",99.46%,100.00%,96.77%,98.36%,98.65%,3.87398s,0.00032s
-Bosque aleatorio,Partición 5,K iteraciones estratificado,9656,2413,0.2,"[[2011, 0], [15, 387]]",99.38%,100.00%,96.27%,98.10%,98.44%,3.92496s,0.00033s
+sigla,algoritmo,particion,estrategiaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,promedioMetricas,tiempoTotal,tiempoPromedio
+KIE,Bosque aleatorio,Partición 1,K iteraciones estratificado,9655,2414,0.2,"[[2017, 0], [14, 383]]",99.42%,100.00%,96.47%,98.21%,98.52%,3.97876s,0.00033s
+KIE,Bosque aleatorio,Partición 2,K iteraciones estratificado,9655,2414,0.2,"[[2013, 0], [14, 387]]",99.42%,100.00%,96.51%,98.22%,98.54%,4.03377s,0.00033s
+KIE,Bosque aleatorio,Partición 3,K iteraciones estratificado,9655,2414,0.2,"[[2011, 0], [12, 391]]",99.50%,100.00%,97.02%,98.49%,98.75%,4.14678s,0.00034s
+KIE,Bosque aleatorio,Partición 4,K iteraciones estratificado,9655,2414,0.2,"[[2030, 0], [8, 376]]",99.67%,100.00%,97.92%,98.95%,99.13%,3.96435s,0.00033s
+KIE,Bosque aleatorio,Partición 5,K iteraciones estratificado,9656,2413,0.2,"[[1987, 0], [14, 412]]",99.42%,100.00%,96.71%,98.33%,98.62%,4.18874s,0.00035s
