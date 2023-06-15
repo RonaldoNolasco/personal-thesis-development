@@ -1,10 +1,10 @@
-algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
-particion,Todas,Todas,Todas
-estrategiaValidacion,K iteraciones,K iteraciones estratificado,División aleatoria
-promedioExactitud,99.48%,99.49%,99.55%
-promedioPrecision,100.00%,100.00%,100.00%
-promedioSensibilidad,96.91%,96.93%,97.26%
-promedioRobustez,98.43%,98.44%,98.61%
-promedioMetricas,98.71%,98.71%,98.86%
-tiempoTotal,4.18432s,4.06856s,4.05929s
-tiempoPromedio,0.00035s,0.00034s,0.00034s
+algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
+particion,Todas,Todas,Todas,Todas
+estrategiaValidacion,K iteraciones,K iteraciones estratificado,División aleatoria,División aleatoria estratificado
+promedioExactitud,99.48%,99.49%,99.55%,99.72%
+promedioPrecision,100.00%,100.00%,100.00%,100.00%
+promedioSensibilidad,96.91%,96.93%,97.26%,98.31%
+promedioRobustez,98.43%,98.44%,98.61%,99.15%
+promedioMetricas,98.71%,98.71%,98.86%,99.29%
+tiempoTotal,4.23409s,4.16920s,4.18083s,4.75009s
+tiempoPromedio,0.00035s,0.00034s,0.00035s,0.00039s
