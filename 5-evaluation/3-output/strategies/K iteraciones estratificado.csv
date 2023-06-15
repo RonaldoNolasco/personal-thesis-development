@@ -1,16 +1,15 @@
-0,1,2,3,4
-KIE,KIE,KIE,KIE,KIE
-Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
-Partición 1,Partición 2,Partición 3,Partición 4,Partición 5
-K iteraciones estratificado,K iteraciones estratificado,K iteraciones estratificado,K iteraciones estratificado,K iteraciones estratificado
-9655,9655,9655,9655,9656
-2414,2414,2414,2414,2413
-0.2,0.2,0.2,0.2,0.2
-"[[2017, 0], [14, 383]]","[[2013, 0], [14, 387]]","[[2011, 0], [12, 391]]","[[2030, 0], [8, 376]]","[[1987, 0], [14, 412]]"
-99.42%,99.42%,99.50%,99.67%,99.42%
-100.00%,100.00%,100.00%,100.00%,100.00%
-96.47%,96.51%,97.02%,97.92%,96.71%
-98.21%,98.22%,98.49%,98.95%,98.33%
-98.52%,98.54%,98.75%,99.13%,98.62%
-3.86189s,4.34381s,4.14774s,4.40458s,4.33493s
-0.00032s,0.00036s,0.00034s,0.00036s,0.00036s
+sigla,KIE,KIE,KIE,KIE,KIE
+algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
+particion,Partición 1,Partición 2,Partición 3,Partición 4,Partición 5
+estrategiaValidacion,K iteraciones estratificado,K iteraciones estratificado,K iteraciones estratificado,K iteraciones estratificado,K iteraciones estratificado
+registrosEntrenamiento,9655,9655,9655,9655,9656
+registrosPrueba,2414,2414,2414,2414,2413
+proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2
+matrizConfusion,"[[2017, 0], [14, 383]]","[[2013, 0], [14, 387]]","[[2011, 0], [12, 391]]","[[2030, 0], [8, 376]]","[[1987, 0], [14, 412]]"
+exactitud,99.42%,99.42%,99.50%,99.67%,99.42%
+precision,100.00%,100.00%,100.00%,100.00%,100.00%
+sensibilidad,96.47%,96.51%,97.02%,97.92%,96.71%
+robustez,98.21%,98.22%,98.49%,98.95%,98.33%
+promedioMetricas,98.52%,98.54%,98.75%,99.13%,98.62%
+tiempoTotal,3.95648s,4.05922s,4.12682s,4.01231s,4.18798s
+tiempoPromedio,0.00033s,0.00034s,0.00034s,0.00033s,0.00035s
