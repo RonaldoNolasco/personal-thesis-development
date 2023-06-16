@@ -2,10 +2,10 @@ sigla,KI,KIE,DA,DAE
 algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
 particion,Todas,Todas,Todas,Todas
 estrategiaValidacion,K iteraciones,K iteraciones estratificada,División aleatoria,División aleatoria estratificada
-promedioExactitud,99.48%,99.49%,99.55%,99.56%
-promedioPrecision,100.00%,100.00%,100.00%,100.00%
-promedioSensibilidad,96.91%,96.93%,97.26%,97.36%
-promedioRobustez,98.43%,98.44%,98.61%,98.66%
+exactitud,99.48%,99.49%,99.55%,99.56%
+precision,100.00%,100.00%,100.00%,100.00%
+sensibilidad,96.91%,96.93%,97.26%,97.36%
+robustez,98.43%,98.44%,98.61%,98.66%
 promedioMetricas,98.71%,98.71%,98.86%,98.90%
-tiempoTotal,3.93767s,3.96195s,4.16515s,4.31761s
-tiempoPromedio,0.00033s,0.00033s,0.00035s,0.00036s
+tiempoTotal,4.44779s,4.37682s,5.20525s,4.78301s
+tiempoPromedio,0.00037s,0.00036s,0.00043s,0.00040s
