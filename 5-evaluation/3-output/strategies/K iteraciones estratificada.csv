@@ -1,7 +1,7 @@
 sigla,KIE,KIE,KIE,KIE,KIE
 algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
 particion,Partición 1,Partición 2,Partición 3,Partición 4,Partición 5
-estrategiaValidacion,K iteraciones estratificado,K iteraciones estratificado,K iteraciones estratificado,K iteraciones estratificado,K iteraciones estratificado
+estrategiaValidacion,K iteraciones estratificada,K iteraciones estratificada,K iteraciones estratificada,K iteraciones estratificada,K iteraciones estratificada
 registrosEntrenamiento,9655,9655,9655,9655,9656
 registrosPrueba,2414,2414,2414,2414,2413
 proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2
@@ -11,5 +11,5 @@ precision,100.00%,100.00%,100.00%,100.00%,100.00%
 sensibilidad,96.47%,96.51%,97.02%,97.92%,96.71%
 robustez,98.21%,98.22%,98.49%,98.95%,98.33%
 promedioMetricas,98.52%,98.54%,98.75%,99.13%,98.62%
-tiempoTotal,4.03651s,4.10950s,4.23177s,4.13185s,4.33639s
-tiempoPromedio,0.00033s,0.00034s,0.00035s,0.00034s,0.00036s
+tiempoTotal,4.01214s,3.94306s,3.97767s,3.86557s,4.01132s
+tiempoPromedio,0.00033s,0.00033s,0.00033s,0.00032s,0.00033s

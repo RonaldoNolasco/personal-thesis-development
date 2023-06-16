@@ -1,0 +1,15 @@
+sigla,DAE,DAE,DAE,DAE,DAE
+algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
+particion,Partición 1,Partición 2,Partición 3,Partición 4,Partición 5
+estrategiaValidacion,División aleatoria estratificada,División aleatoria estratificada,División aleatoria estratificada,División aleatoria estratificada,División aleatoria estratificada
+registrosEntrenamiento,9655,9655,9655,9655,9655
+registrosPrueba,2414,2414,2414,2414,2414
+proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2
+matrizConfusion,"[[2012, 0], [11, 391]]","[[2012, 0], [11, 391]]","[[2012, 0], [9, 393]]","[[2012, 0], [9, 393]]","[[2012, 0], [13, 389]]"
+exactitud,99.54%,99.54%,99.63%,99.63%,99.46%
+precision,100.00%,100.00%,100.00%,100.00%,100.00%
+sensibilidad,97.26%,97.26%,97.76%,97.76%,96.77%
+robustez,98.61%,98.61%,98.87%,98.87%,98.36%
+promedioMetricas,98.86%,98.86%,99.06%,99.06%,98.65%
+tiempoTotal,4.28424s,4.32976s,4.44893s,4.29965s,4.22546s
+tiempoPromedio,0.00035s,0.00036s,0.00037s,0.00036s,0.00035s
