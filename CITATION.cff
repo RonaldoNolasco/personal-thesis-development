@@ -3,10 +3,6 @@ message: "Si usas este programa, por favor cítalo."
 authors:
 - family-names: "Nolasco"
   given-names: "Ronaldo"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Bot"
-  given-names: "Hew"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "Modelo predictivo basado en aprendizaje de máquina"
 version: 1.0.0
 date-released: 2023-06-20
