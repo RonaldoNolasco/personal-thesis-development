@@ -1,7 +1,7 @@
 sigla,DAE,DAE,DAE,DAE,DAE
 algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
 particion,Partición 1,Partición 2,Partición 3,Partición 4,Partición 5
-estrategiaValidacion,División aleatoria estratificada,División aleatoria estratificada,División aleatoria estratificada,División aleatoria estratificada,División aleatoria estratificada
+tecnicaValidacion,División aleatoria estratificada,División aleatoria estratificada,División aleatoria estratificada,División aleatoria estratificada,División aleatoria estratificada
 registrosEntrenamiento,9655,9655,9655,9655,9655
 registrosPrueba,2414,2414,2414,2414,2414
 proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2
@@ -11,5 +11,5 @@ precision,100.00%,100.00%,100.00%,100.00%,100.00%
 sensibilidad,97.26%,97.26%,97.76%,97.76%,96.77%
 robustez,98.61%,98.61%,98.87%,98.87%,98.36%
 promedioMetricas,98.86%,98.86%,99.06%,99.06%,98.65%
-tiempoTotal,5.68209s,5.45605s,4.54973s,4.08645s,4.14075s
-tiempoPromedio,0.00047s,0.00045s,0.00038s,0.00034s,0.00034s
+tiempoTotal,4.07995s,3.99111s,4.00292s,3.92849s,3.96280s
+tiempoPromedio,0.00034s,0.00033s,0.00033s,0.00033s,0.00033s

@@ -1,0 +1,15 @@
+sigla,KIE,KIE,KIE,KIE,KIE
+algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
+particion,Partición 1,Partición 2,Partición 3,Partición 4,Partición 5
+tecnicaValidacion,K iteraciones estratificada,K iteraciones estratificada,K iteraciones estratificada,K iteraciones estratificada,K iteraciones estratificada
+registrosEntrenamiento,9655,9655,9655,9655,9656
+registrosPrueba,2414,2414,2414,2414,2413
+proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2
+matrizConfusion,"[[2017, 0], [14, 383]]","[[2013, 0], [14, 387]]","[[2011, 0], [12, 391]]","[[2030, 0], [8, 376]]","[[1987, 0], [14, 412]]"
+exactitud,99.42%,99.42%,99.50%,99.67%,99.42%
+precision,100.00%,100.00%,100.00%,100.00%,100.00%
+sensibilidad,96.47%,96.51%,97.02%,97.92%,96.71%
+robustez,98.21%,98.22%,98.49%,98.95%,98.33%
+promedioMetricas,98.52%,98.54%,98.75%,99.13%,98.62%
+tiempoTotal,4.26997s,4.25482s,4.30423s,4.43398s,4.62109s
+tiempoPromedio,0.00035s,0.00035s,0.00036s,0.00037s,0.00038s

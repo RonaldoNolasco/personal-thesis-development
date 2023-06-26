@@ -1,7 +1,7 @@
 sigla,KI,KI,KI,KI,KI
 algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
 particion,Partición 1,Partición 2,Partición 3,Partición 4,Partición 5
-estrategiaValidacion,K iteraciones,K iteraciones,K iteraciones,K iteraciones,K iteraciones
+tecnicaValidacion,K iteraciones,K iteraciones,K iteraciones,K iteraciones,K iteraciones
 registrosEntrenamiento,9655,9655,9655,9655,9655
 registrosPrueba,2414,2414,2414,2414,2414
 proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2

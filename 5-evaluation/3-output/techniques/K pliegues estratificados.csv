@@ -1,7 +1,7 @@
-sigla,DA,DA,DA,DA,DA
+sigla,KPE,KPE,KPE,KPE,KPE
 algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
 particion,Partición 1,Partición 2,Partición 3,Partición 4,Partición 5
-estrategiaValidacion,División aleatoria,División aleatoria,División aleatoria,División aleatoria,División aleatoria
+tecnicaValidacion,K pliegues estratificados,K pliegues estratificados,K pliegues estratificados,K pliegues estratificados,K pliegues estratificados
 registrosEntrenamiento,9655,9655,9655,9655,9656
 registrosPrueba,2414,2414,2414,2414,2413
 proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2
@@ -11,5 +11,5 @@ precision,100.00%,100.00%,100.00%,100.00%,100.00%
 sensibilidad,98.01%,97.76%,97.51%,96.77%,96.27%
 robustez,98.99%,98.87%,98.74%,98.36%,98.10%
 promedioMetricas,99.17%,99.06%,98.96%,98.65%,98.44%
-tiempoTotal,4.80099s,4.89221s,5.77321s,5.25900s,5.30086s
-tiempoPromedio,0.00040s,0.00041s,0.00048s,0.00044s,0.00044s
+tiempoTotal,4.08613s,4.09394s,4.07097s,4.04992s,4.04691s
+tiempoPromedio,0.00034s,0.00034s,0.00034s,0.00034s,0.00034s
