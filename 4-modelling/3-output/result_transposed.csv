@@ -1,15 +1,14 @@
-sigla,KNN,SVM,LR,GNB,GBM,DT,RF
-algoritmo,K vecinos más cercanos,Máquina de vectores de soporte,Regresión logística,Naive bayes gaussiano,Aumento de gradiente,Árbol de decisión,Bosque aleatorio
-particion,Total de datos,Total de datos,Total de datos,Total de datos,Total de datos,Total de datos,Total de datos
-tecnicaValidacion,Ninguna,Ninguna,Ninguna,Ninguna,Ninguna,Ninguna,Ninguna
-registrosEntrenamiento,9655,9655,9655,9655,9655,9655,9655
-registrosPrueba,2414,2414,2414,2414,2414,2414,2414
-proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2,0.2,0.2
-matrizConfusion,"[[1948, 69], [13, 384]]","[[2013, 4], [90, 307]]","[[1982, 35], [247, 150]]","[[990, 1027], [4, 393]]","[[2014, 3], [326, 71]]","[[1949, 68], [15, 382]]","[[2017, 0], [14, 383]]"
-exactitud,96.60%,96.11%,88.32%,57.29%,86.37%,96.56%,99.42%
-precision,84.77%,98.71%,81.08%,27.68%,95.95%,84.89%,100.00%
-sensibilidad,96.73%,77.33%,37.78%,98.99%,17.88%,96.22%,96.47%
-robustez,90.35%,86.72%,51.55%,43.26%,30.15%,90.20%,98.21%
-promedioMetricas,92.11%,89.72%,64.68%,56.80%,57.59%,91.97%,98.52%
-tiempoTotal,0.35638s,18.86933s,0.68990s,0.22082s,8.32813s,1.84172s,4.20803s
-tiempoPromedio,0.00003s,0.00156s,0.00006s,0.00002s,0.00069s,0.00015s,0.00035s
+sigla,KNN,SVM,LR,GBM,DT,RF
+algoritmo,K vecinos más cercanos,Máquina de vectores de soporte,Regresión logística,Aumento de gradiente,Árbol de decisión,Bosque aleatorio
+particion,Total de datos,Total de datos,Total de datos,Total de datos,Total de datos,Total de datos
+tecnicaValidacion,Ninguna,Ninguna,Ninguna,Ninguna,Ninguna,Ninguna
+registrosEntrenamiento,9655,9655,9655,9655,9655,9655
+registrosPrueba,2414,2414,2414,2414,2414,2414
+proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2,0.2
+matrizConfusion,"[[1948, 69], [13, 384]]","[[2017, 0], [139, 258]]","[[1982, 35], [247, 150]]","[[2014, 3], [326, 71]]","[[1949, 68], [15, 382]]","[[2017, 0], [14, 383]]"
+exactitud,96.60%,94.24%,88.32%,86.37%,96.56%,99.42%
+precision,84.77%,100.00%,81.08%,95.95%,84.89%,100.00%
+sensibilidad,96.73%,64.99%,37.78%,17.88%,96.22%,96.47%
+robustez,90.35%,78.78%,51.55%,30.15%,90.20%,98.21%
+tiempoPromedio,0.00003s,0.00185s,0.00006s,0.00069s,0.00015s,0.00033s
+promedioMetricas,92.11%,84.50%,64.68%,57.59%,91.97%,98.52%
