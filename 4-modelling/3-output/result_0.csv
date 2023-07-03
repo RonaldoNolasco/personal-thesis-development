@@ -1,7 +1,7 @@
 sigla,algoritmo,particion,estadoAleatorio,tecnicaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,tiempoPromedio,promedioMetricas
-KNN,K vecinos más cercanos,Total de datos,0,Ninguna,9655,2414,0.2,"[[1948, 69], [13, 384]]",96.60%,84.77%,96.73%,90.35%,0.00003s,92.11%
-SVM,Máquina de vectores de soporte,Total de datos,0,Ninguna,9655,2414,0.2,"[[2017, 0], [139, 258]]",94.24%,100.00%,64.99%,78.78%,0.00182s,84.50%
-LR,Regresión logística,Total de datos,0,Ninguna,9655,2414,0.2,"[[1982, 35], [247, 150]]",88.32%,81.08%,37.78%,51.55%,0.00006s,64.68%
-GNB,Naive bayes gaussiano,Total de datos,0,Ninguna,9655,2414,0.2,"[[990, 1027], [4, 393]]",57.29%,27.68%,98.99%,43.26%,0.00002s,56.80%
-DT,Árbol de decisión,Total de datos,0,Ninguna,9655,2414,0.2,"[[1949, 68], [15, 382]]",96.56%,84.89%,96.22%,90.20%,0.00015s,91.97%
-RF,Bosque aleatorio,Total de datos,0,Ninguna,9655,2414,0.2,"[[2017, 0], [14, 383]]",99.42%,100.00%,96.47%,98.21%,0.00034s,98.52%
+KNN,K vecinos más cercanos,Total de datos,0,Ninguna,9655,2414,0.2,"[[1948, 69], [13, 384]]",96.60%,84.77%,96.73%,90.35%,0.027,92.11%
+SVM,Máquina de vectores de soporte,Total de datos,0,Ninguna,9655,2414,0.2,"[[2017, 0], [139, 258]]",94.24%,100.00%,64.99%,78.78%,1.726,84.50%
+LR,Regresión logística,Total de datos,0,Ninguna,9655,2414,0.2,"[[1982, 35], [247, 150]]",88.32%,81.08%,37.78%,51.55%,0.052,64.68%
+GNB,Naive bayes gaussiano,Total de datos,0,Ninguna,9655,2414,0.2,"[[990, 1027], [4, 393]]",57.29%,27.68%,98.99%,43.26%,0.017,56.80%
+DT,Árbol de decisión,Total de datos,0,Ninguna,9655,2414,0.2,"[[1949, 68], [15, 382]]",96.56%,84.89%,96.22%,90.20%,0.155,91.97%
+RF,Bosque aleatorio,Total de datos,0,Ninguna,9655,2414,0.2,"[[2017, 0], [14, 383]]",99.42%,100.00%,96.47%,98.21%,0.361,98.52%
