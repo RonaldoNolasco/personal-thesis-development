@@ -1,0 +1,7 @@
+sigla,algoritmo,particion,estadoAleatorio,tecnicaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,tiempoPromedio,promedioMetricas
+KNN,K vecinos más cercanos,Total de datos,3,Ninguna,9655,2414,0.2,"[[1971, 48], [15, 380]]",97.39%,88.79%,96.20%,92.35%,0.00003s,93.68%
+SVM,Máquina de vectores de soporte,Total de datos,3,Ninguna,9655,2414,0.2,"[[2019, 0], [138, 257]]",94.28%,100.00%,65.06%,78.83%,0.00162s,84.55%
+LR,Regresión logística,Total de datos,3,Ninguna,9655,2414,0.2,"[[1980, 39], [229, 166]]",88.90%,80.98%,42.03%,55.33%,0.00005s,66.81%
+GNB,Naive bayes gaussiano,Total de datos,3,Ninguna,9655,2414,0.2,"[[980, 1039], [14, 381]]",56.38%,26.83%,96.46%,41.98%,0.00002s,55.41%
+DT,Árbol de decisión,Total de datos,3,Ninguna,9655,2414,0.2,"[[1937, 82], [14, 381]]",96.02%,82.29%,96.46%,88.81%,0.00014s,90.89%
+RF,Bosque aleatorio,Total de datos,3,Ninguna,9655,2414,0.2,"[[2019, 0], [16, 379]]",99.34%,100.00%,95.95%,97.93%,0.00031s,98.30%

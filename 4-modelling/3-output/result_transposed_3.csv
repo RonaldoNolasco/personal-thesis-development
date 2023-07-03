@@ -1,0 +1,15 @@
+sigla,KNN,SVM,LR,GNB,DT,RF
+algoritmo,K vecinos más cercanos,Máquina de vectores de soporte,Regresión logística,Naive bayes gaussiano,Árbol de decisión,Bosque aleatorio
+particion,Total de datos,Total de datos,Total de datos,Total de datos,Total de datos,Total de datos
+estadoAleatorio,3,3,3,3,3,3
+tecnicaValidacion,Ninguna,Ninguna,Ninguna,Ninguna,Ninguna,Ninguna
+registrosEntrenamiento,9655,9655,9655,9655,9655,9655
+registrosPrueba,2414,2414,2414,2414,2414,2414
+proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2,0.2
+matrizConfusion,"[[1971, 48], [15, 380]]","[[2019, 0], [138, 257]]","[[1980, 39], [229, 166]]","[[980, 1039], [14, 381]]","[[1937, 82], [14, 381]]","[[2019, 0], [16, 379]]"
+exactitud,97.39%,94.28%,88.90%,56.38%,96.02%,99.34%
+precision,88.79%,100.00%,80.98%,26.83%,82.29%,100.00%
+sensibilidad,96.20%,65.06%,42.03%,96.46%,96.46%,95.95%
+robustez,92.35%,78.83%,55.33%,41.98%,88.81%,97.93%
+tiempoPromedio,0.00003s,0.00162s,0.00005s,0.00002s,0.00014s,0.00031s
+promedioMetricas,93.68%,84.55%,66.81%,55.41%,90.89%,98.30%
