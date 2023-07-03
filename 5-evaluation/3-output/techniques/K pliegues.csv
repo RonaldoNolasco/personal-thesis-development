@@ -1,15 +1,7 @@
-sigla,KP,KP,KP,KP,KP
-algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
-particion,Partición 1,Partición 2,Partición 3,Partición 4,Partición 5
-tecnicaValidacion,K pliegues,K pliegues,K pliegues,K pliegues,K pliegues
-registrosEntrenamiento,9655,9655,9655,9655,9656
-registrosPrueba,2414,2414,2414,2414,2413
-proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2
-matrizConfusion,"[[2017, 0], [14, 383]]","[[2013, 0], [14, 387]]","[[2011, 0], [12, 391]]","[[2030, 0], [8, 376]]","[[1987, 0], [14, 412]]"
-exactitud,99.42%,99.42%,99.50%,99.67%,99.42%
-precision,100.00%,100.00%,100.00%,100.00%,100.00%
-sensibilidad,96.47%,96.51%,97.02%,97.92%,96.71%
-robustez,98.21%,98.22%,98.49%,98.95%,98.33%
-promedioMetricas,98.52%,98.54%,98.75%,99.13%,98.62%
-tiempoTotal,3.94783s,4.32936s,4.07396s,3.96852s,4.01468s
-tiempoPromedio,0.00033s,0.00036s,0.00034s,0.00033s,0.00033s
+sigla,algoritmo,particion,tecnicaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,tiempoPromedio,promedioMetricas
+KP,Bosque aleatorio,Partición 1,K pliegues,10057,2012,0.2,"[[1693, 0], [16, 303]]",99.20%,100.00%,94.98%,97.43%,0.348,97.90%
+KP,Bosque aleatorio,Partición 2,K pliegues,10057,2012,0.2,"[[1667, 0], [12, 333]]",99.40%,100.00%,96.52%,98.23%,0.358,98.54%
+KP,Bosque aleatorio,Partición 3,K pliegues,10057,2012,0.2,"[[1679, 0], [5, 328]]",99.75%,100.00%,98.50%,99.24%,0.335,99.37%
+KP,Bosque aleatorio,Partición 4,K pliegues,10058,2011,0.2,"[[1672, 0], [3, 336]]",99.85%,100.00%,99.12%,99.56%,0.363,99.63%
+KP,Bosque aleatorio,Partición 5,K pliegues,10058,2011,0.2,"[[1700, 0], [9, 302]]",99.55%,100.00%,97.11%,98.53%,0.338,98.80%
+KP,Bosque aleatorio,Partición 6,K pliegues,10058,2011,0.2,"[[1647, 0], [14, 350]]",99.30%,100.00%,96.15%,98.04%,0.348,98.37%

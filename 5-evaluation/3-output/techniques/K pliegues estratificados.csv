@@ -1,15 +1,7 @@
-sigla,KPE,KPE,KPE,KPE,KPE
-algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
-particion,Partición 1,Partición 2,Partición 3,Partición 4,Partición 5
-tecnicaValidacion,K pliegues estratificados,K pliegues estratificados,K pliegues estratificados,K pliegues estratificados,K pliegues estratificados
-registrosEntrenamiento,9655,9655,9655,9655,9656
-registrosPrueba,2414,2414,2414,2414,2413
-proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2
-matrizConfusion,"[[2012, 0], [8, 394]]","[[2012, 0], [9, 393]]","[[2012, 0], [10, 392]]","[[2011, 0], [13, 390]]","[[2011, 0], [15, 387]]"
-exactitud,99.67%,99.63%,99.59%,99.46%,99.38%
-precision,100.00%,100.00%,100.00%,100.00%,100.00%
-sensibilidad,98.01%,97.76%,97.51%,96.77%,96.27%
-robustez,98.99%,98.87%,98.74%,98.36%,98.10%
-promedioMetricas,99.17%,99.06%,98.96%,98.65%,98.44%
-tiempoTotal,4.03409s,4.11762s,3.99591s,3.93083s,4.05027s
-tiempoPromedio,0.00033s,0.00034s,0.00033s,0.00033s,0.00034s
+sigla,algoritmo,particion,tecnicaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,tiempoPromedio,promedioMetricas
+KPE,Bosque aleatorio,Partición 1,K pliegues estratificados,10057,2012,0.2,"[[1677, 0], [12, 323]]",99.40%,100.00%,96.42%,98.18%,0.334,98.50%
+KPE,Bosque aleatorio,Partición 2,K pliegues estratificados,10057,2012,0.2,"[[1677, 0], [2, 333]]",99.90%,100.00%,99.40%,99.70%,0.341,99.75%
+KPE,Bosque aleatorio,Partición 3,K pliegues estratificados,10057,2012,0.2,"[[1676, 0], [4, 332]]",99.80%,100.00%,98.81%,99.40%,0.357,99.50%
+KPE,Bosque aleatorio,Partición 4,K pliegues estratificados,10058,2011,0.2,"[[1676, 0], [9, 326]]",99.55%,100.00%,97.31%,98.64%,0.341,98.88%
+KPE,Bosque aleatorio,Partición 5,K pliegues estratificados,10058,2011,0.2,"[[1676, 0], [3, 332]]",99.85%,100.00%,99.10%,99.55%,0.331,99.63%
+KPE,Bosque aleatorio,Partición 6,K pliegues estratificados,10058,2011,0.2,"[[1676, 0], [16, 319]]",99.20%,100.00%,95.22%,97.55%,0.347,98.00%

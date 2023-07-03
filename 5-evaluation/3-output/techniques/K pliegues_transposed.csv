@@ -1,0 +1,14 @@
+sigla,KP,KP,KP,KP,KP,KP
+algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
+particion,Partición 1,Partición 2,Partición 3,Partición 4,Partición 5,Partición 6
+tecnicaValidacion,K pliegues,K pliegues,K pliegues,K pliegues,K pliegues,K pliegues
+registrosEntrenamiento,10057,10057,10057,10058,10058,10058
+registrosPrueba,2012,2012,2012,2011,2011,2011
+proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2,0.2
+matrizConfusion,"[[1693, 0], [16, 303]]","[[1667, 0], [12, 333]]","[[1679, 0], [5, 328]]","[[1672, 0], [3, 336]]","[[1700, 0], [9, 302]]","[[1647, 0], [14, 350]]"
+exactitud,99.20%,99.40%,99.75%,99.85%,99.55%,99.30%
+precision,100.00%,100.00%,100.00%,100.00%,100.00%,100.00%
+sensibilidad,94.98%,96.52%,98.50%,99.12%,97.11%,96.15%
+robustez,97.43%,98.23%,99.24%,99.56%,98.53%,98.04%
+tiempoPromedio,0.348,0.358,0.335,0.363,0.338,0.348
+promedioMetricas,97.90%,98.54%,99.37%,99.63%,98.80%,98.37%

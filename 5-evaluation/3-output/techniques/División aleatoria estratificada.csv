@@ -1,15 +1,7 @@
-sigla,DAE,DAE,DAE,DAE,DAE
-algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
-particion,Partición 1,Partición 2,Partición 3,Partición 4,Partición 5
-tecnicaValidacion,División aleatoria estratificada,División aleatoria estratificada,División aleatoria estratificada,División aleatoria estratificada,División aleatoria estratificada
-registrosEntrenamiento,9655,9655,9655,9655,9655
-registrosPrueba,2414,2414,2414,2414,2414
-proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2
-matrizConfusion,"[[2012, 0], [11, 391]]","[[2012, 0], [11, 391]]","[[2012, 0], [9, 393]]","[[2012, 0], [9, 393]]","[[2012, 0], [13, 389]]"
-exactitud,99.54%,99.54%,99.63%,99.63%,99.46%
-precision,100.00%,100.00%,100.00%,100.00%,100.00%
-sensibilidad,97.26%,97.26%,97.76%,97.76%,96.77%
-robustez,98.61%,98.61%,98.87%,98.87%,98.36%
-promedioMetricas,98.86%,98.86%,99.06%,99.06%,98.65%
-tiempoTotal,4.70309s,4.21421s,4.35610s,4.34663s,4.11474s
-tiempoPromedio,0.00039s,0.00035s,0.00036s,0.00036s,0.00034s
+sigla,algoritmo,particion,tecnicaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,tiempoPromedio,promedioMetricas
+DAE,Bosque aleatorio,Partición 1,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [15, 488]]",99.50%,100.00%,97.02%,98.49%,0.308,98.75%
+DAE,Bosque aleatorio,Partición 2,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [11, 492]]",99.64%,100.00%,97.81%,98.89%,0.301,99.09%
+DAE,Bosque aleatorio,Partición 3,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [18, 485]]",99.40%,100.00%,96.42%,98.18%,0.307,98.50%
+DAE,Bosque aleatorio,Partición 4,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [14, 489]]",99.54%,100.00%,97.22%,98.59%,0.314,98.84%
+DAE,Bosque aleatorio,Partición 5,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [14, 489]]",99.54%,100.00%,97.22%,98.59%,0.305,98.84%
+DAE,Bosque aleatorio,Partición 6,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [21, 482]]",99.30%,100.00%,95.83%,97.87%,0.299,98.25%

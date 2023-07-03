@@ -3,13 +3,13 @@ algoritmo,K vecinos más cercanos,Máquina de vectores de soporte,Regresión log
 particion,Total de datos,Total de datos,Total de datos,Total de datos,Total de datos,Total de datos
 estadoAleatorio,0,0,0,0,0,0
 tecnicaValidacion,Ninguna,Ninguna,Ninguna,Ninguna,Ninguna,Ninguna
-registrosEntrenamiento,9655,9655,9655,9655,9655,9655
-registrosPrueba,2414,2414,2414,2414,2414,2414
+registrosEntrenamiento,9051,9051,9051,9051,9051,9051
+registrosPrueba,3018,3018,3018,3018,3018,3018
 proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2,0.2
-matrizConfusion,"[[1948, 69], [13, 384]]","[[2017, 0], [139, 258]]","[[1982, 35], [247, 150]]","[[990, 1027], [4, 393]]","[[1949, 68], [15, 382]]","[[2017, 0], [14, 383]]"
-exactitud,96.60%,94.24%,88.32%,57.29%,96.56%,99.42%
-precision,84.77%,100.00%,81.08%,27.68%,84.89%,100.00%
-sensibilidad,96.73%,64.99%,37.78%,98.99%,96.22%,96.47%
-robustez,90.35%,78.78%,51.55%,43.26%,90.20%,98.21%
-tiempoPromedio,0.027,1.726,0.052,0.017,0.155,0.361
-promedioMetricas,92.11%,84.50%,64.68%,56.80%,91.97%,98.52%
+matrizConfusion,"[[2442, 83], [21, 472]]","[[2525, 0], [180, 313]]","[[2484, 41], [312, 181]]","[[1246, 1279], [10, 483]]","[[2422, 103], [24, 469]]","[[2525, 0], [22, 471]]"
+exactitud,96.55%,94.04%,88.30%,57.29%,95.79%,99.27%
+precision,85.05%,100.00%,81.53%,27.41%,81.99%,100.00%
+sensibilidad,95.74%,63.49%,36.71%,97.97%,95.13%,95.54%
+robustez,90.08%,77.67%,50.63%,42.84%,88.08%,97.72%
+tiempoPromedio,0.030,1.799,0.054,0.018,0.158,0.328
+promedioMetricas,91.85%,83.80%,64.29%,56.38%,90.25%,98.13%

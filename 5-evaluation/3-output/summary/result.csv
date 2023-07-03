@@ -1,11 +1,5 @@
-sigla,KP,KPE,DA,DAE
-algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
-particion,Todas,Todas,Todas,Todas
-tecnicaValidacion,K pliegues,K pliegues estratificados,División aleatoria,División aleatoria estratificada
-exactitud,99.49%,99.55%,99.48%,99.56%
-precision,100.00%,100.00%,100.00%,100.00%
-sensibilidad,96.93%,97.26%,96.91%,97.36%
-robustez,98.44%,98.61%,98.43%,98.66%
-promedioMetricas,98.71%,98.86%,98.71%,98.90%
-tiempoTotal,4.06687s,4.02574s,4.28944s,4.34695s
-tiempoPromedio,0.00034s,0.00033s,0.00035s,0.00036s
+sigla,algoritmo,particion,tecnicaValidacion,exactitud,precision,sensibilidad,robustez,tiempoPromedio,promedioMetricas
+KP,Bosque aleatorio,Todas,K pliegues,99.51%,100.00%,97.06%,98.51%,0.348,98.77%
+KPE,Bosque aleatorio,Todas,K pliegues estratificados,99.62%,100.00%,97.71%,98.84%,0.342,99.04%
+DA,Bosque aleatorio,Todas,División aleatoria,99.37%,100.00%,96.23%,98.08%,0.308,98.42%
+DAE,Bosque aleatorio,Todas,División aleatoria estratificada,99.49%,100.00%,96.92%,98.44%,0.306,98.71%
