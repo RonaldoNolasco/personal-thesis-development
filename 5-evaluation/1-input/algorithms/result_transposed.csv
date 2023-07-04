@@ -1,15 +1,15 @@
-sigla,KNN,SVM,LR,GNB,DT,RF
-algoritmo,K vecinos más cercanos,Máquina de vectores de soporte,Regresión logística,Naive bayes gaussiano,Árbol de decisión,Bosque aleatorio
+sigla,KNN,SVM,LR,DT,RF,GBM
+algoritmo,K vecinos más cercanos,Máquina de vectores de soporte,Regresión logística,Árbol de decisión,Bosque aleatorio,Aumento de gradiente
 particion,Total de datos,Total de datos,Total de datos,Total de datos,Total de datos,Total de datos
 estadoAleatorio,0,0,0,0,0,0
 tecnicaValidacion,Ninguna,Ninguna,Ninguna,Ninguna,Ninguna,Ninguna
 registrosEntrenamiento,9051,9051,9051,9051,9051,9051
 registrosPrueba,3018,3018,3018,3018,3018,3018
 proporcionSobremuestreo,0.2,0.2,0.2,0.2,0.2,0.2
-matrizConfusion,"[[2442, 83], [21, 472]]","[[2525, 0], [180, 313]]","[[2484, 41], [312, 181]]","[[1246, 1279], [10, 483]]","[[2422, 103], [24, 469]]","[[2525, 0], [22, 471]]"
-exactitud,96.55%,94.04%,88.30%,57.29%,95.79%,99.27%
-precision,85.05%,100.00%,81.53%,27.41%,81.99%,100.00%
-sensibilidad,95.74%,63.49%,36.71%,97.97%,95.13%,95.54%
-robustez,90.08%,77.67%,50.63%,42.84%,88.08%,97.72%
-tiempoPromedio,0.030,1.799,0.054,0.018,0.158,0.328
-promedioMetricas,91.85%,83.80%,64.29%,56.38%,90.25%,98.13%
+matrizConfusion,"[[2363, 162], [108, 385]]","[[2525, 0], [180, 313]]","[[2484, 41], [312, 181]]","[[2422, 103], [24, 469]]","[[2525, 0], [22, 471]]","[[2524, 1], [396, 97]]"
+exactitud,91.05%,94.04%,88.30%,95.79%,99.27%,86.85%
+precision,70.38%,100.00%,81.53%,81.99%,100.00%,98.98%
+sensibilidad,78.09%,63.49%,36.71%,95.13%,95.54%,19.68%
+robustez,74.04%,77.67%,50.63%,88.08%,97.72%,32.83%
+tiempoPromedio,0.027,1.675,0.048,0.158,0.313,0.638
+promedioMetricas,78.39%,83.80%,64.29%,90.25%,98.13%,59.58%
