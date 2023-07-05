@@ -1,7 +1,0 @@
-sigla,algoritmo,particion,tecnicaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,tiempoPromedio,promedioMetricas
-KPE,Bosque aleatorio,Partición 1,K pliegues estratificados,10057,2012,0.2,"[[1677, 0], [12, 323]]",99.40%,100.00%,96.42%,98.18%,0.334,98.50%
-KPE,Bosque aleatorio,Partición 2,K pliegues estratificados,10057,2012,0.2,"[[1677, 0], [2, 333]]",99.90%,100.00%,99.40%,99.70%,0.341,99.75%
-KPE,Bosque aleatorio,Partición 3,K pliegues estratificados,10057,2012,0.2,"[[1676, 0], [4, 332]]",99.80%,100.00%,98.81%,99.40%,0.357,99.50%
-KPE,Bosque aleatorio,Partición 4,K pliegues estratificados,10058,2011,0.2,"[[1676, 0], [9, 326]]",99.55%,100.00%,97.31%,98.64%,0.341,98.88%
-KPE,Bosque aleatorio,Partición 5,K pliegues estratificados,10058,2011,0.2,"[[1676, 0], [3, 332]]",99.85%,100.00%,99.10%,99.55%,0.331,99.63%
-KPE,Bosque aleatorio,Partición 6,K pliegues estratificados,10058,2011,0.2,"[[1676, 0], [16, 319]]",99.20%,100.00%,95.22%,97.55%,0.347,98.00%

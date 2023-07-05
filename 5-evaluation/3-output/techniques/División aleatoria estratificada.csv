@@ -1,7 +1,0 @@
-sigla,algoritmo,particion,tecnicaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,tiempoPromedio,promedioMetricas
-DAE,Bosque aleatorio,Partición 1,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [15, 488]]",99.50%,100.00%,97.02%,98.49%,0.308,98.75%
-DAE,Bosque aleatorio,Partición 2,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [11, 492]]",99.64%,100.00%,97.81%,98.89%,0.301,99.09%
-DAE,Bosque aleatorio,Partición 3,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [18, 485]]",99.40%,100.00%,96.42%,98.18%,0.307,98.50%
-DAE,Bosque aleatorio,Partición 4,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [14, 489]]",99.54%,100.00%,97.22%,98.59%,0.314,98.84%
-DAE,Bosque aleatorio,Partición 5,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [14, 489]]",99.54%,100.00%,97.22%,98.59%,0.305,98.84%
-DAE,Bosque aleatorio,Partición 6,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [21, 482]]",99.30%,100.00%,95.83%,97.87%,0.299,98.25%

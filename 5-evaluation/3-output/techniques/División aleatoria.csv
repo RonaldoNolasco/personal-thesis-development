@@ -1,7 +1,0 @@
-sigla,algoritmo,particion,tecnicaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,tiempoPromedio,promedioMetricas
-DA,Bosque aleatorio,Partición 1,División aleatoria,9051,3018,0.2,"[[2525, 0], [22, 471]]",99.27%,100.00%,95.54%,97.72%,0.313,98.13%
-DA,Bosque aleatorio,Partición 2,División aleatoria,9051,3018,0.2,"[[2508, 0], [22, 488]]",99.27%,100.00%,95.69%,97.80%,0.302,98.19%
-DA,Bosque aleatorio,Partición 3,División aleatoria,9051,3018,0.2,"[[2506, 0], [24, 488]]",99.20%,100.00%,95.31%,97.60%,0.318,98.03%
-DA,Bosque aleatorio,Partición 4,División aleatoria,9051,3018,0.2,"[[2508, 0], [18, 492]]",99.40%,100.00%,96.47%,98.20%,0.309,98.52%
-DA,Bosque aleatorio,Partición 5,División aleatoria,9051,3018,0.2,"[[2531, 0], [11, 476]]",99.64%,100.00%,97.74%,98.86%,0.303,99.06%
-DA,Bosque aleatorio,Partición 6,División aleatoria,9051,3018,0.2,"[[2512, 0], [17, 489]]",99.44%,100.00%,96.64%,98.29%,0.306,98.59%

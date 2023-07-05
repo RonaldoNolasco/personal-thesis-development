@@ -1,25 +1,25 @@
-sigla,algoritmo,particion,tecnicaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,tiempoPromedio,promedioMetricas
-KP,Bosque aleatorio,Partición 1,K pliegues,10057,2012,0.2,"[[1693, 0], [16, 303]]",99.20%,100.00%,94.98%,97.43%,0.348,97.90%
-KP,Bosque aleatorio,Partición 2,K pliegues,10057,2012,0.2,"[[1667, 0], [12, 333]]",99.40%,100.00%,96.52%,98.23%,0.358,98.54%
-KP,Bosque aleatorio,Partición 3,K pliegues,10057,2012,0.2,"[[1679, 0], [5, 328]]",99.75%,100.00%,98.50%,99.24%,0.335,99.37%
-KP,Bosque aleatorio,Partición 4,K pliegues,10058,2011,0.2,"[[1672, 0], [3, 336]]",99.85%,100.00%,99.12%,99.56%,0.363,99.63%
-KP,Bosque aleatorio,Partición 5,K pliegues,10058,2011,0.2,"[[1700, 0], [9, 302]]",99.55%,100.00%,97.11%,98.53%,0.338,98.80%
-KP,Bosque aleatorio,Partición 6,K pliegues,10058,2011,0.2,"[[1647, 0], [14, 350]]",99.30%,100.00%,96.15%,98.04%,0.348,98.37%
-KPE,Bosque aleatorio,Partición 1,K pliegues estratificados,10057,2012,0.2,"[[1677, 0], [12, 323]]",99.40%,100.00%,96.42%,98.18%,0.334,98.50%
-KPE,Bosque aleatorio,Partición 2,K pliegues estratificados,10057,2012,0.2,"[[1677, 0], [2, 333]]",99.90%,100.00%,99.40%,99.70%,0.341,99.75%
-KPE,Bosque aleatorio,Partición 3,K pliegues estratificados,10057,2012,0.2,"[[1676, 0], [4, 332]]",99.80%,100.00%,98.81%,99.40%,0.357,99.50%
-KPE,Bosque aleatorio,Partición 4,K pliegues estratificados,10058,2011,0.2,"[[1676, 0], [9, 326]]",99.55%,100.00%,97.31%,98.64%,0.341,98.88%
-KPE,Bosque aleatorio,Partición 5,K pliegues estratificados,10058,2011,0.2,"[[1676, 0], [3, 332]]",99.85%,100.00%,99.10%,99.55%,0.331,99.63%
-KPE,Bosque aleatorio,Partición 6,K pliegues estratificados,10058,2011,0.2,"[[1676, 0], [16, 319]]",99.20%,100.00%,95.22%,97.55%,0.347,98.00%
-DA,Bosque aleatorio,Partición 1,División aleatoria,9051,3018,0.2,"[[2525, 0], [22, 471]]",99.27%,100.00%,95.54%,97.72%,0.313,98.13%
-DA,Bosque aleatorio,Partición 2,División aleatoria,9051,3018,0.2,"[[2508, 0], [22, 488]]",99.27%,100.00%,95.69%,97.80%,0.302,98.19%
-DA,Bosque aleatorio,Partición 3,División aleatoria,9051,3018,0.2,"[[2506, 0], [24, 488]]",99.20%,100.00%,95.31%,97.60%,0.318,98.03%
-DA,Bosque aleatorio,Partición 4,División aleatoria,9051,3018,0.2,"[[2508, 0], [18, 492]]",99.40%,100.00%,96.47%,98.20%,0.309,98.52%
-DA,Bosque aleatorio,Partición 5,División aleatoria,9051,3018,0.2,"[[2531, 0], [11, 476]]",99.64%,100.00%,97.74%,98.86%,0.303,99.06%
-DA,Bosque aleatorio,Partición 6,División aleatoria,9051,3018,0.2,"[[2512, 0], [17, 489]]",99.44%,100.00%,96.64%,98.29%,0.306,98.59%
-DAE,Bosque aleatorio,Partición 1,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [15, 488]]",99.50%,100.00%,97.02%,98.49%,0.308,98.75%
-DAE,Bosque aleatorio,Partición 2,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [11, 492]]",99.64%,100.00%,97.81%,98.89%,0.301,99.09%
-DAE,Bosque aleatorio,Partición 3,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [18, 485]]",99.40%,100.00%,96.42%,98.18%,0.307,98.50%
-DAE,Bosque aleatorio,Partición 4,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [14, 489]]",99.54%,100.00%,97.22%,98.59%,0.314,98.84%
-DAE,Bosque aleatorio,Partición 5,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [14, 489]]",99.54%,100.00%,97.22%,98.59%,0.305,98.84%
-DAE,Bosque aleatorio,Partición 6,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [21, 482]]",99.30%,100.00%,95.83%,97.87%,0.299,98.25%
+sigla,algoritmo,iteración,particion,tecnicaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,tiempoPromedio,promedioMetricas
+KP,Bosque aleatorio,Total de datos,Partición 1,K pliegues,10057,2012,0.2,"[[1693, 0], [16, 303]]",99.20%,100.00%,94.98%,97.43%,0.348,97.90%
+KP,Bosque aleatorio,Total de datos,Partición 2,K pliegues,10057,2012,0.2,"[[1667, 0], [12, 333]]",99.40%,100.00%,96.52%,98.23%,0.348,98.54%
+KP,Bosque aleatorio,Total de datos,Partición 3,K pliegues,10057,2012,0.2,"[[1679, 0], [5, 328]]",99.75%,100.00%,98.50%,99.24%,0.354,99.37%
+KP,Bosque aleatorio,Total de datos,Partición 4,K pliegues,10058,2011,0.2,"[[1672, 0], [3, 336]]",99.85%,100.00%,99.12%,99.56%,0.361,99.63%
+KP,Bosque aleatorio,Total de datos,Partición 5,K pliegues,10058,2011,0.2,"[[1700, 0], [9, 302]]",99.55%,100.00%,97.11%,98.53%,0.352,98.80%
+KP,Bosque aleatorio,Total de datos,Partición 6,K pliegues,10058,2011,0.2,"[[1647, 0], [14, 350]]",99.30%,100.00%,96.15%,98.04%,0.365,98.37%
+KPE,Bosque aleatorio,Total de datos,Partición 1,K pliegues estratificados,10057,2012,0.2,"[[1677, 0], [12, 323]]",99.40%,100.00%,96.42%,98.18%,0.352,98.50%
+KPE,Bosque aleatorio,Total de datos,Partición 2,K pliegues estratificados,10057,2012,0.2,"[[1677, 0], [2, 333]]",99.90%,100.00%,99.40%,99.70%,0.344,99.75%
+KPE,Bosque aleatorio,Total de datos,Partición 3,K pliegues estratificados,10057,2012,0.2,"[[1676, 0], [4, 332]]",99.80%,100.00%,98.81%,99.40%,0.404,99.50%
+KPE,Bosque aleatorio,Total de datos,Partición 4,K pliegues estratificados,10058,2011,0.2,"[[1676, 0], [9, 326]]",99.55%,100.00%,97.31%,98.64%,0.356,98.88%
+KPE,Bosque aleatorio,Total de datos,Partición 5,K pliegues estratificados,10058,2011,0.2,"[[1676, 0], [3, 332]]",99.85%,100.00%,99.10%,99.55%,0.353,99.63%
+KPE,Bosque aleatorio,Total de datos,Partición 6,K pliegues estratificados,10058,2011,0.2,"[[1676, 0], [16, 319]]",99.20%,100.00%,95.22%,97.55%,0.363,98.00%
+DA,Bosque aleatorio,Total de datos,Partición 1,División aleatoria,9051,3018,0.2,"[[2525, 0], [22, 471]]",99.27%,100.00%,95.54%,97.72%,0.323,98.13%
+DA,Bosque aleatorio,Total de datos,Partición 2,División aleatoria,9051,3018,0.2,"[[2508, 0], [22, 488]]",99.27%,100.00%,95.69%,97.80%,0.362,98.19%
+DA,Bosque aleatorio,Total de datos,Partición 3,División aleatoria,9051,3018,0.2,"[[2506, 0], [24, 488]]",99.20%,100.00%,95.31%,97.60%,0.327,98.03%
+DA,Bosque aleatorio,Total de datos,Partición 4,División aleatoria,9051,3018,0.2,"[[2508, 0], [18, 492]]",99.40%,100.00%,96.47%,98.20%,0.322,98.52%
+DA,Bosque aleatorio,Total de datos,Partición 5,División aleatoria,9051,3018,0.2,"[[2531, 0], [11, 476]]",99.64%,100.00%,97.74%,98.86%,0.314,99.06%
+DA,Bosque aleatorio,Total de datos,Partición 6,División aleatoria,9051,3018,0.2,"[[2512, 0], [17, 489]]",99.44%,100.00%,96.64%,98.29%,0.327,98.59%
+DAE,Bosque aleatorio,Total de datos,Partición 1,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [15, 488]]",99.50%,100.00%,97.02%,98.49%,0.324,98.75%
+DAE,Bosque aleatorio,Total de datos,Partición 2,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [11, 492]]",99.64%,100.00%,97.81%,98.89%,0.315,99.09%
+DAE,Bosque aleatorio,Total de datos,Partición 3,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [18, 485]]",99.40%,100.00%,96.42%,98.18%,0.327,98.50%
+DAE,Bosque aleatorio,Total de datos,Partición 4,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [14, 489]]",99.54%,100.00%,97.22%,98.59%,0.328,98.84%
+DAE,Bosque aleatorio,Total de datos,Partición 5,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [14, 489]]",99.54%,100.00%,97.22%,98.59%,0.319,98.84%
+DAE,Bosque aleatorio,Total de datos,Partición 6,División aleatoria estratificada,9051,3018,0.2,"[[2515, 0], [21, 482]]",99.30%,100.00%,95.83%,97.87%,0.312,98.25%

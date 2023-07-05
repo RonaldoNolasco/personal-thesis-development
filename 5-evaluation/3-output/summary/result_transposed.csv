@@ -1,10 +1,8 @@
 sigla,KP,KPE,DA,DAE
-algoritmo,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio,Bosque aleatorio
-particion,Todas,Todas,Todas,Todas
 tecnicaValidacion,K pliegues,K pliegues estratificados,División aleatoria,División aleatoria estratificada
 exactitud,99.51%,99.62%,99.37%,99.49%
 precision,100.00%,100.00%,100.00%,100.00%
 sensibilidad,97.06%,97.71%,96.23%,96.92%
 robustez,98.51%,98.84%,98.08%,98.44%
-tiempoPromedio,0.348,0.342,0.308,0.306
+tiempoPromedio,0.355,0.362,0.329,0.321
 promedioMetricas,98.77%,99.04%,98.42%,98.71%
