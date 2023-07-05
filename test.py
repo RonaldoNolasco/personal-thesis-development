@@ -17,7 +17,7 @@ arrays = [
 
 for array in arrays:
     res = stats.shapiro(array)
-    print(res.statistic)
+    print(res)
 
 for i in range(0, 5):
   print(stats.ttest_ind(arrays[i], arrays[i+5], equal_var=False))
