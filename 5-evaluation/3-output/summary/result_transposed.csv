@@ -1,8 +1,8 @@
 sigla,KP,KPE,DA,DAE
-tecnicaValidacion,K pliegues,K pliegues estratificados,División aleatoria,División aleatoria estratificada
-exactitud,0.9940,0.9940,0.9938,0.9947
-precision,1.0000,1.0000,0.9998,1.0000
-sensibilidad,0.9642,0.9642,0.9626,0.9680
-robustez,0.9818,0.9817,0.9808,0.9837
-tiempo,3.7679,3.7233,3.6555,3.6808
-promedioMetricas,0.9850,0.9850,0.9842,0.9866
+tecnica,K pliegues,K pliegues estratificados,División aleatoria,División aleatoria estratificada
+exactitud,0.9956,0.9968,0.9963,0.9967
+precision,1.0000,0.9999,1.0000,0.9999
+sensibilidad,0.9780,0.9840,0.9815,0.9836
+robustez,0.9889,0.9918,0.9907,0.9916
+tiempo,3.8646,3.9230,3.8982,3.8550
+promedioMetricas,0.9906,0.9931,0.9921,0.9929
