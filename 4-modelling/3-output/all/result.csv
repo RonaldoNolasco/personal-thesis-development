@@ -1,25 +1,25 @@
 sigla,algoritmo,iteración,particion,tecnicaValidacion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,tiempoPromedio,promedioMetricas
-KNN,K vecinos más cercanos,Iteración 0,Total de datos,Ninguna,9051,3018,0.2,"[[2368, 157], [107, 386]]",0.9125,0.7109,0.7830,0.7452,0.1808,0.7879
-KNN,K vecinos más cercanos,Iteración 1,Total de datos,Ninguna,9051,3018,0.2,"[[2356, 170], [118, 374]]",0.9046,0.6875,0.7602,0.7220,0.1786,0.7686
-KNN,K vecinos más cercanos,Iteración 2,Total de datos,Ninguna,9051,3018,0.2,"[[2381, 148], [120, 369]]",0.9112,0.7137,0.7546,0.7336,0.1686,0.7783
-KNN,K vecinos más cercanos,Iteración 3,Total de datos,Ninguna,9051,3018,0.2,"[[2353, 165], [110, 390]]",0.9089,0.7027,0.7800,0.7393,0.1758,0.7827
-SVM,Máquina de vectores de soporte,Iteración 0,Total de datos,Ninguna,9051,3018,0.2,"[[2525, 0], [180, 313]]",0.9404,1.0000,0.6349,0.7767,1.6283,0.8380
-SVM,Máquina de vectores de soporte,Iteración 1,Total de datos,Ninguna,9051,3018,0.2,"[[2523, 3], [200, 292]]",0.9327,0.9898,0.5935,0.7421,1.5860,0.8145
-SVM,Máquina de vectores de soporte,Iteración 2,Total de datos,Ninguna,9051,3018,0.2,"[[2525, 4], [202, 287]]",0.9317,0.9863,0.5869,0.7359,1.5818,0.8102
-SVM,Máquina de vectores de soporte,Iteración 3,Total de datos,Ninguna,9051,3018,0.2,"[[2518, 0], [188, 312]]",0.9377,1.0000,0.6240,0.7685,1.6019,0.8325
-LR,Regresión logística,Iteración 0,Total de datos,Ninguna,9051,3018,0.2,"[[2484, 41], [312, 181]]",0.8830,0.8153,0.3671,0.5063,0.1912,0.6429
-LR,Regresión logística,Iteración 1,Total de datos,Ninguna,9051,3018,0.2,"[[2449, 77], [316, 176]]",0.8698,0.6957,0.3577,0.4725,0.1902,0.5989
-LR,Regresión logística,Iteración 2,Total de datos,Ninguna,9051,3018,0.2,"[[2464, 65], [299, 190]]",0.8794,0.7451,0.3885,0.5108,0.1911,0.6309
-LR,Regresión logística,Iteración 3,Total de datos,Ninguna,9051,3018,0.2,"[[2468, 50], [298, 202]]",0.8847,0.8016,0.4040,0.5372,0.2082,0.6569
-DT,Árbol de decisión,Iteración 0,Total de datos,Ninguna,9051,3018,0.2,"[[2422, 103], [24, 469]]",0.9579,0.8199,0.9513,0.8808,0.1572,0.9025
-DT,Árbol de decisión,Iteración 1,Total de datos,Ninguna,9051,3018,0.2,"[[2435, 91], [21, 471]]",0.9629,0.8381,0.9573,0.8937,0.1365,0.9130
-DT,Árbol de decisión,Iteración 2,Total de datos,Ninguna,9051,3018,0.2,"[[2428, 101], [14, 475]]",0.9619,0.8247,0.9714,0.8920,0.1466,0.9125
-DT,Árbol de decisión,Iteración 3,Total de datos,Ninguna,9051,3018,0.2,"[[2414, 104], [19, 481]]",0.9592,0.8222,0.9620,0.8866,0.1460,0.9075
-RF,Bosque aleatorio,Iteración 0,Total de datos,Ninguna,9051,3018,0.2,"[[2525, 0], [22, 471]]",0.9927,1.0000,0.9554,0.9772,0.3129,0.9813
-RF,Bosque aleatorio,Iteración 1,Total de datos,Ninguna,9051,3018,0.2,"[[2526, 0], [21, 471]]",0.9930,1.0000,0.9573,0.9782,0.3109,0.9821
-RF,Bosque aleatorio,Iteración 2,Total de datos,Ninguna,9051,3018,0.2,"[[2529, 0], [15, 474]]",0.9950,1.0000,0.9693,0.9844,0.3178,0.9872
-RF,Bosque aleatorio,Iteración 3,Total de datos,Ninguna,9051,3018,0.2,"[[2517, 1], [17, 483]]",0.9940,0.9979,0.9660,0.9817,0.3116,0.9849
-GBM,Aumento de gradiente,Iteración 0,Total de datos,Ninguna,9051,3018,0.2,"[[2520, 5], [344, 149]]",0.8844,0.9675,0.3022,0.4606,1.2774,0.6537
-GBM,Aumento de gradiente,Iteración 1,Total de datos,Ninguna,9051,3018,0.2,"[[2518, 8], [355, 137]]",0.8797,0.9448,0.2785,0.4301,1.2736,0.6333
-GBM,Aumento de gradiente,Iteración 2,Total de datos,Ninguna,9051,3018,0.2,"[[2521, 8], [343, 146]]",0.8837,0.9481,0.2986,0.4541,1.2825,0.6461
-GBM,Aumento de gradiente,Iteración 3,Total de datos,Ninguna,9051,3018,0.2,"[[2514, 4], [348, 152]]",0.8834,0.9744,0.3040,0.4634,1.2731,0.6563
+KNN,K vecinos más cercanos,Iteración 0,Total de datos,Ninguna,9051,3018,0.2,"[[2368, 157], [107, 386]]",0.9125,0.7109,0.7830,0.7452,1.7924,0.7879
+KNN,K vecinos más cercanos,Iteración 1,Total de datos,Ninguna,9051,3018,0.2,"[[2356, 170], [118, 374]]",0.9046,0.6875,0.7602,0.7220,1.7893,0.7686
+KNN,K vecinos más cercanos,Iteración 2,Total de datos,Ninguna,9051,3018,0.2,"[[2381, 148], [120, 369]]",0.9112,0.7137,0.7546,0.7336,1.7417,0.7783
+KNN,K vecinos más cercanos,Iteración 3,Total de datos,Ninguna,9051,3018,0.2,"[[2353, 165], [110, 390]]",0.9089,0.7027,0.7800,0.7393,1.7417,0.7827
+SVM,Máquina de vectores de soporte,Iteración 0,Total de datos,Ninguna,9051,3018,0.2,"[[2525, 0], [180, 313]]",0.9404,1.0000,0.6349,0.7767,1.7342,0.8380
+SVM,Máquina de vectores de soporte,Iteración 1,Total de datos,Ninguna,9051,3018,0.2,"[[2523, 3], [200, 292]]",0.9327,0.9898,0.5935,0.7421,1.6674,0.8145
+SVM,Máquina de vectores de soporte,Iteración 2,Total de datos,Ninguna,9051,3018,0.2,"[[2525, 4], [202, 287]]",0.9317,0.9863,0.5869,0.7359,1.7092,0.8102
+SVM,Máquina de vectores de soporte,Iteración 3,Total de datos,Ninguna,9051,3018,0.2,"[[2518, 0], [188, 312]]",0.9377,1.0000,0.6240,0.7685,1.5594,0.8325
+LR,Regresión logística,Iteración 0,Total de datos,Ninguna,9051,3018,0.2,"[[2484, 41], [312, 181]]",0.8830,0.8153,0.3671,0.5063,0.1832,0.6429
+LR,Regresión logística,Iteración 1,Total de datos,Ninguna,9051,3018,0.2,"[[2449, 77], [316, 176]]",0.8698,0.6957,0.3577,0.4725,0.2019,0.5989
+LR,Regresión logística,Iteración 2,Total de datos,Ninguna,9051,3018,0.2,"[[2464, 65], [299, 190]]",0.8794,0.7451,0.3885,0.5108,0.1919,0.6309
+LR,Regresión logística,Iteración 3,Total de datos,Ninguna,9051,3018,0.2,"[[2468, 50], [298, 202]]",0.8847,0.8016,0.4040,0.5372,0.2092,0.6569
+DT,Árbol de decisión,Iteración 0,Total de datos,Ninguna,9051,3018,0.2,"[[2422, 103], [24, 469]]",0.9579,0.8199,0.9513,0.8808,0.1532,0.9025
+DT,Árbol de decisión,Iteración 1,Total de datos,Ninguna,9051,3018,0.2,"[[2435, 91], [21, 471]]",0.9629,0.8381,0.9573,0.8937,0.1319,0.9130
+DT,Árbol de decisión,Iteración 2,Total de datos,Ninguna,9051,3018,0.2,"[[2428, 101], [14, 475]]",0.9619,0.8247,0.9714,0.8920,0.1404,0.9125
+DT,Árbol de decisión,Iteración 3,Total de datos,Ninguna,9051,3018,0.2,"[[2414, 104], [19, 481]]",0.9592,0.8222,0.9620,0.8866,0.1407,0.9075
+RF,Bosque aleatorio,Iteración 0,Total de datos,Ninguna,9051,3018,0.2,"[[2525, 0], [22, 471]]",0.9927,1.0000,0.9554,0.9772,0.3006,0.9813
+RF,Bosque aleatorio,Iteración 1,Total de datos,Ninguna,9051,3018,0.2,"[[2526, 0], [21, 471]]",0.9930,1.0000,0.9573,0.9782,0.2968,0.9821
+RF,Bosque aleatorio,Iteración 2,Total de datos,Ninguna,9051,3018,0.2,"[[2529, 0], [15, 474]]",0.9950,1.0000,0.9693,0.9844,0.3059,0.9872
+RF,Bosque aleatorio,Iteración 3,Total de datos,Ninguna,9051,3018,0.2,"[[2517, 1], [17, 483]]",0.9940,0.9979,0.9660,0.9817,0.2990,0.9849
+GBM,Aumento de gradiente,Iteración 0,Total de datos,Ninguna,9051,3018,0.2,"[[2520, 5], [344, 149]]",0.8844,0.9675,0.3022,0.4606,1.2526,0.6537
+GBM,Aumento de gradiente,Iteración 1,Total de datos,Ninguna,9051,3018,0.2,"[[2518, 8], [355, 137]]",0.8797,0.9448,0.2785,0.4301,1.2490,0.6333
+GBM,Aumento de gradiente,Iteración 2,Total de datos,Ninguna,9051,3018,0.2,"[[2521, 8], [343, 146]]",0.8837,0.9481,0.2986,0.4541,1.2536,0.6461
+GBM,Aumento de gradiente,Iteración 3,Total de datos,Ninguna,9051,3018,0.2,"[[2514, 4], [348, 152]]",0.8834,0.9744,0.3040,0.4634,1.2517,0.6563
