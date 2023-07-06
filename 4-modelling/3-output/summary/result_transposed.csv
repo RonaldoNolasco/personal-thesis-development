@@ -1,8 +1,8 @@
 sigla,KNN,SVM,LR,DT,RF,GBM
 algoritmo,K vecinos más cercanos,Máquina de vectores de soporte,Regresión logística,Árbol de decisión,Bosque aleatorio,Aumento de gradiente
-exactitud,0.9093,0.9356,0.8792,0.9605,0.9937,0.8828
-precision,0.7037,0.9940,0.7644,0.8262,0.9995,0.9587
-sensibilidad,0.7694,0.6098,0.3793,0.9605,0.9620,0.2958
-robustez,0.7350,0.7558,0.5067,0.8883,0.9804,0.4521
-tiempoPromedio,1.7663,1.6676,0.1966,0.1416,0.3006,1.2517
-promedioMetricas,0.7794,0.8238,0.6324,0.9089,0.9839,0.6473
+exactitud,0.9097,0.9368,0.8803,0.9626,0.9946,0.8841
+precision,0.7027,0.9946,0.7572,0.8318,0.9997,0.9577
+sensibilidad,0.7769,0.6169,0.3958,0.9665,0.9670,0.3047
+robustez,0.7377,0.7614,0.5194,0.8941,0.9831,0.4622
+tiempoPromedio,1.7027,1.5887,0.1919,0.1364,0.3046,1.2588
+promedioMetricas,0.7818,0.8274,0.6382,0.9137,0.9861,0.6522
