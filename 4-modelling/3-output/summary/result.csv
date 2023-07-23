@@ -1,7 +1,7 @@
 sigla,algoritmo,exactitud,precision,sensibilidad,robustez,tiempo,promedioMetricas
-KNN,K vecinos más cercanos,0.9154,0.7625,0.8503,0.8039,21.7970,0.8330
-SVM,Máquina de vectores de soporte,0.9386,0.9939,0.7039,0.8239,21.3428,0.8651
-LR,Regresión logística,0.8652,0.7828,0.4694,0.5866,2.2279,0.6760
-DT,Árbol de decisión,0.9665,0.8720,0.9793,0.9225,1.6589,0.9351
-RF,Bosque aleatorio,0.9954,1.0000,0.9775,0.9887,3.7874,0.9904
-GBM,Aumento de gradiente,0.8593,0.9773,0.3177,0.4792,15.3209,0.6584
+KNN,K vecinos más cercanos,0.9094,0.7370,0.8465,0.7878,23.8079,0.8202
+SVM,Máquina de vectores de soporte,0.9447,0.9943,0.7256,0.8388,24.0324,0.8759
+LR,Regresión logística,0.8725,0.7795,0.4995,0.6085,2.6636,0.6900
+DT,Árbol de decisión,0.9674,0.8677,0.9864,0.9232,1.7189,0.9362
+RF,Bosque aleatorio,0.9970,1.0000,0.9847,0.9923,4.0693,0.9935
+GBM,Aumento de gradiente,0.8619,0.9625,0.3171,0.4768,16.5592,0.6546
