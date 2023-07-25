@@ -1,5 +1,5 @@
 sigla,tecnica,exactitud,precision,sensibilidad,robustez,tiempoEntrenamientoModelo,tiempoGeneracionReporte,promedioMetricas
-KP,K pliegues,0.9971,1.0000,0.9852,0.9925,3.9249,0.0641,0.9937
-KPE,K pliegues estratificados,0.9966,1.0000,0.9829,0.9913,3.8977,0.0686,0.9927
-DA,División aleatoria,0.9968,1.0000,0.9838,0.9918,3.9785,0.0616,0.9931
-DAE,División aleatoria estratificada,0.9978,1.0000,0.9890,0.9945,4.0102,0.0612,0.9953
+KP,K pliegues,0.9971,1.0000,0.9852,0.9925,4.1956,0.0605,0.9937
+KPE,K pliegues estratificados,0.9966,1.0000,0.9829,0.9913,4.1224,0.0607,0.9927
+DA,División aleatoria,0.9968,1.0000,0.9838,0.9918,4.2441,0.0607,0.9931
+DAE,División aleatoria estratificada,0.9978,1.0000,0.9890,0.9945,4.2323,0.0636,0.9953

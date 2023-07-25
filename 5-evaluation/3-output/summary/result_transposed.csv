@@ -4,6 +4,6 @@ exactitud,0.9971,0.9966,0.9968,0.9978
 precision,1.0000,1.0000,1.0000,1.0000
 sensibilidad,0.9852,0.9829,0.9838,0.9890
 robustez,0.9925,0.9913,0.9918,0.9945
-tiempoEntrenamientoModelo,3.9249,3.8977,3.9785,4.0102
-tiempoGeneracionReporte,0.0641,0.0686,0.0616,0.0612
+tiempoEntrenamientoModelo,4.1956,4.1224,4.2441,4.2323
+tiempoGeneracionReporte,0.0605,0.0607,0.0607,0.0636
 promedioMetricas,0.9937,0.9927,0.9931,0.9953
