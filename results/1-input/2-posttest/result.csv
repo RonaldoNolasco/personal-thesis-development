@@ -1,49 +1,49 @@
-sigla,algoritmo,tecnica,iteracion,particion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,tiempoEntrenamientoModelo,tiempoGeneracionReporte,promedioMetricas
-KP,Bosque aleatorio,K pliegues,Iteración 1,Partición 1,9429,3143,0.25,"[[2543, 0], [9, 591]]",0.9971,1.0000,0.9850,0.9924,4.1209,0.0602,0.9936
-KP,Bosque aleatorio,K pliegues,Iteración 1,Partición 2,9429,3143,0.25,"[[2506, 0], [5, 632]]",0.9984,1.0000,0.9922,0.9961,4.1067,0.0579,0.9967
-KP,Bosque aleatorio,K pliegues,Iteración 1,Partición 3,9429,3143,0.25,"[[2486, 0], [8, 649]]",0.9975,1.0000,0.9878,0.9939,4.0189,0.0557,0.9948
-KP,Bosque aleatorio,K pliegues,Iteración 1,Partición 4,9429,3143,0.25,"[[2523, 0], [13, 607]]",0.9959,1.0000,0.9790,0.9894,4.0588,0.0572,0.9911
-KP,Bosque aleatorio,K pliegues,Iteración 2,Partición 1,9429,3143,0.25,"[[2527, 0], [14, 602]]",0.9955,1.0000,0.9773,0.9885,3.9076,0.0556,0.9903
-KP,Bosque aleatorio,K pliegues,Iteración 2,Partición 2,9429,3143,0.25,"[[2520, 0], [9, 614]]",0.9971,1.0000,0.9856,0.9927,4.0342,0.0568,0.9939
-KP,Bosque aleatorio,K pliegues,Iteración 2,Partición 3,9429,3143,0.25,"[[2512, 0], [11, 620]]",0.9965,1.0000,0.9826,0.9912,3.8236,0.0566,0.9926
-KP,Bosque aleatorio,K pliegues,Iteración 2,Partición 4,9429,3143,0.25,"[[2499, 0], [5, 639]]",0.9984,1.0000,0.9922,0.9961,4.1661,0.0580,0.9967
-KP,Bosque aleatorio,K pliegues,Iteración 3,Partición 1,9429,3143,0.25,"[[2520, 0], [11, 612]]",0.9965,1.0000,0.9823,0.9911,3.9250,0.0569,0.9925
-KP,Bosque aleatorio,K pliegues,Iteración 3,Partición 2,9429,3143,0.25,"[[2510, 0], [10, 623]]",0.9968,1.0000,0.9842,0.9920,3.9991,0.0570,0.9933
-KP,Bosque aleatorio,K pliegues,Iteración 3,Partición 3,9429,3143,0.25,"[[2490, 0], [6, 647]]",0.9981,1.0000,0.9908,0.9954,3.9013,0.0563,0.9961
-KP,Bosque aleatorio,K pliegues,Iteración 3,Partición 4,9429,3143,0.25,"[[2538, 0], [10, 595]]",0.9968,1.0000,0.9835,0.9917,3.9372,0.0570,0.9930
-KPE,Bosque aleatorio,K pliegues estratificados,Iteración 1,Partición 1,9429,3143,0.25,"[[2515, 0], [32, 596]]",0.9898,1.0000,0.9490,0.9739,4.0538,0.0560,0.9782
-KPE,Bosque aleatorio,K pliegues estratificados,Iteración 1,Partición 2,9429,3143,0.25,"[[2515, 0], [7, 621]]",0.9978,1.0000,0.9889,0.9944,3.9191,0.0569,0.9953
-KPE,Bosque aleatorio,K pliegues estratificados,Iteración 1,Partición 3,9429,3143,0.25,"[[2514, 0], [1, 628]]",0.9997,1.0000,0.9984,0.9992,3.9219,0.0571,0.9993
-KPE,Bosque aleatorio,K pliegues estratificados,Iteración 1,Partición 4,9429,3143,0.25,"[[2514, 0], [19, 610]]",0.9940,1.0000,0.9698,0.9847,4.0225,0.0596,0.9871
-KPE,Bosque aleatorio,K pliegues estratificados,Iteración 2,Partición 1,9429,3143,0.25,"[[2515, 0], [6, 622]]",0.9981,1.0000,0.9904,0.9952,4.0287,0.0570,0.9959
-KPE,Bosque aleatorio,K pliegues estratificados,Iteración 2,Partición 2,9429,3143,0.25,"[[2515, 0], [6, 622]]",0.9981,1.0000,0.9904,0.9952,3.9305,0.0570,0.9959
-KPE,Bosque aleatorio,K pliegues estratificados,Iteración 2,Partición 3,9429,3143,0.25,"[[2514, 0], [9, 620]]",0.9971,1.0000,0.9857,0.9928,4.0478,0.0561,0.9939
-KPE,Bosque aleatorio,K pliegues estratificados,Iteración 2,Partición 4,9429,3143,0.25,"[[2514, 0], [7, 622]]",0.9978,1.0000,0.9889,0.9944,3.9834,0.0584,0.9953
-KPE,Bosque aleatorio,K pliegues estratificados,Iteración 3,Partición 1,9429,3143,0.25,"[[2515, 0], [17, 611]]",0.9946,1.0000,0.9729,0.9863,3.9743,0.0580,0.9885
-KPE,Bosque aleatorio,K pliegues estratificados,Iteración 3,Partición 2,9429,3143,0.25,"[[2515, 0], [7, 621]]",0.9978,1.0000,0.9889,0.9944,3.9321,0.0567,0.9953
-KPE,Bosque aleatorio,K pliegues estratificados,Iteración 3,Partición 3,9429,3143,0.25,"[[2514, 0], [17, 612]]",0.9946,1.0000,0.9730,0.9863,3.9120,0.0571,0.9885
-KPE,Bosque aleatorio,K pliegues estratificados,Iteración 3,Partición 4,9429,3143,0.25,"[[2514, 0], [1, 628]]",0.9997,1.0000,0.9984,0.9992,3.9427,0.0571,0.9993
-DA,Bosque aleatorio,División aleatoria,Iteración 1,Partición 1,9429,3143,0.25,"[[2543, 0], [12, 588]]",0.9962,1.0000,0.9800,0.9899,3.9676,0.0577,0.9915
-DA,Bosque aleatorio,División aleatoria,Iteración 1,Partición 2,9429,3143,0.25,"[[2492, 0], [6, 645]]",0.9981,1.0000,0.9908,0.9954,3.9660,0.0563,0.9961
-DA,Bosque aleatorio,División aleatoria,Iteración 1,Partición 3,9429,3143,0.25,"[[2511, 0], [8, 624]]",0.9975,1.0000,0.9873,0.9936,4.0051,0.0563,0.9946
-DA,Bosque aleatorio,División aleatoria,Iteración 1,Partición 4,9429,3143,0.25,"[[2530, 0], [10, 603]]",0.9968,1.0000,0.9837,0.9918,4.1593,0.0578,0.9931
-DA,Bosque aleatorio,División aleatoria,Iteración 2,Partición 1,9429,3143,0.25,"[[2527, 0], [14, 602]]",0.9955,1.0000,0.9773,0.9885,4.0219,0.0572,0.9903
-DA,Bosque aleatorio,División aleatoria,Iteración 2,Partición 2,9429,3143,0.25,"[[2538, 0], [2, 603]]",0.9994,1.0000,0.9967,0.9983,4.1885,0.0583,0.9986
-DA,Bosque aleatorio,División aleatoria,Iteración 2,Partición 3,9429,3143,0.25,"[[2531, 0], [11, 601]]",0.9965,1.0000,0.9820,0.9909,4.3833,0.0588,0.9924
-DA,Bosque aleatorio,División aleatoria,Iteración 2,Partición 4,9429,3143,0.25,"[[2505, 0], [13, 625]]",0.9959,1.0000,0.9796,0.9897,4.1970,0.0581,0.9913
-DA,Bosque aleatorio,División aleatoria,Iteración 3,Partición 1,9429,3143,0.25,"[[2520, 0], [11, 612]]",0.9965,1.0000,0.9823,0.9911,4.4681,0.0755,0.9925
-DA,Bosque aleatorio,División aleatoria,Iteración 3,Partición 2,9429,3143,0.25,"[[2540, 0], [8, 595]]",0.9975,1.0000,0.9867,0.9933,4.5491,0.0659,0.9944
-DA,Bosque aleatorio,División aleatoria,Iteración 3,Partición 3,9429,3143,0.25,"[[2522, 0], [9, 612]]",0.9971,1.0000,0.9855,0.9927,4.2201,0.0574,0.9938
-DA,Bosque aleatorio,División aleatoria,Iteración 3,Partición 4,9429,3143,0.25,"[[2510, 0], [17, 616]]",0.9946,1.0000,0.9731,0.9864,3.9717,0.0572,0.9885
-DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 1,Partición 1,9429,3143,0.25,"[[2515, 0], [8, 620]]",0.9975,1.0000,0.9873,0.9936,4.0220,0.0573,0.9946
-DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 1,Partición 2,9429,3143,0.25,"[[2514, 0], [0, 629]]",1.0000,1.0000,1.0000,1.0000,4.1497,0.0644,1.0000
-DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 1,Partición 3,9429,3143,0.25,"[[2515, 0], [9, 619]]",0.9971,1.0000,0.9857,0.9928,4.1939,0.0600,0.9939
-DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 1,Partición 4,9429,3143,0.25,"[[2515, 0], [5, 623]]",0.9984,1.0000,0.9920,0.9960,4.3900,0.0560,0.9966
-DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 2,Partición 1,9429,3143,0.25,"[[2514, 0], [8, 621]]",0.9975,1.0000,0.9873,0.9936,3.9149,0.0694,0.9946
-DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 2,Partición 2,9429,3143,0.25,"[[2515, 0], [7, 621]]",0.9978,1.0000,0.9889,0.9944,4.0975,0.0612,0.9953
-DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 2,Partición 3,9429,3143,0.25,"[[2515, 0], [12, 616]]",0.9962,1.0000,0.9809,0.9904,4.1526,0.0556,0.9919
-DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 2,Partición 4,9429,3143,0.25,"[[2515, 0], [6, 622]]",0.9981,1.0000,0.9904,0.9952,4.0442,0.0572,0.9959
-DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 3,Partición 1,9429,3143,0.25,"[[2515, 0], [12, 616]]",0.9962,1.0000,0.9809,0.9904,4.0404,0.0683,0.9919
-DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 3,Partición 2,9429,3143,0.25,"[[2514, 0], [12, 617]]",0.9962,1.0000,0.9809,0.9904,4.2493,0.0578,0.9919
-DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 3,Partición 3,9429,3143,0.25,"[[2515, 0], [4, 624]]",0.9987,1.0000,0.9936,0.9968,4.1333,0.0595,0.9973
-DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 3,Partición 4,9429,3143,0.25,"[[2514, 0], [0, 629]]",1.0000,1.0000,1.0000,1.0000,4.1323,0.0578,1.0000
+sigla,algoritmo,tecnica,iteracion,particion,registrosEntrenamiento,registrosPrueba,proporcionSobremuestreo,matrizConfusion,exactitud,precision,sensibilidad,robustez,tiempoPrediccionResultados,tiempoGeneracionReporte,promedioMetricas
+KP,Bosque aleatorio,K pliegues,Iteración 1,Partición 1,9429,3143,0.25,"[[2543, 0], [9, 591]]",0.9971,1.0000,0.9850,0.9924,3.8209,0.1023,0.9936
+KP,Bosque aleatorio,K pliegues,Iteración 1,Partición 2,9429,3143,0.25,"[[2506, 0], [5, 632]]",0.9984,1.0000,0.9922,0.9961,3.8101,0.0577,0.9967
+KP,Bosque aleatorio,K pliegues,Iteración 1,Partición 3,9429,3143,0.25,"[[2486, 0], [8, 649]]",0.9975,1.0000,0.9878,0.9939,3.9098,0.0735,0.9948
+KP,Bosque aleatorio,K pliegues,Iteración 1,Partición 4,9429,3143,0.25,"[[2523, 0], [13, 607]]",0.9959,1.0000,0.9790,0.9894,3.9409,0.0708,0.9911
+KP,Bosque aleatorio,K pliegues,Iteración 2,Partición 1,9429,3143,0.25,"[[2527, 0], [14, 602]]",0.9955,1.0000,0.9773,0.9885,3.8092,0.0563,0.9903
+KP,Bosque aleatorio,K pliegues,Iteración 2,Partición 2,9429,3143,0.25,"[[2520, 0], [9, 614]]",0.9971,1.0000,0.9856,0.9927,3.9017,0.0568,0.9939
+KP,Bosque aleatorio,K pliegues,Iteración 2,Partición 3,9429,3143,0.25,"[[2512, 0], [11, 620]]",0.9965,1.0000,0.9826,0.9912,3.9108,0.0590,0.9926
+KP,Bosque aleatorio,K pliegues,Iteración 2,Partición 4,9429,3143,0.25,"[[2499, 0], [5, 639]]",0.9984,1.0000,0.9922,0.9961,4.2385,0.0786,0.9967
+KP,Bosque aleatorio,K pliegues,Iteración 3,Partición 1,9429,3143,0.25,"[[2520, 0], [11, 612]]",0.9965,1.0000,0.9823,0.9911,3.8970,0.0607,0.9925
+KP,Bosque aleatorio,K pliegues,Iteración 3,Partición 2,9429,3143,0.25,"[[2510, 0], [10, 623]]",0.9968,1.0000,0.9842,0.9920,3.9830,0.0570,0.9933
+KP,Bosque aleatorio,K pliegues,Iteración 3,Partición 3,9429,3143,0.25,"[[2490, 0], [6, 647]]",0.9981,1.0000,0.9908,0.9954,3.7776,0.0550,0.9961
+KP,Bosque aleatorio,K pliegues,Iteración 3,Partición 4,9429,3143,0.25,"[[2538, 0], [10, 595]]",0.9968,1.0000,0.9835,0.9917,3.8310,0.0768,0.9930
+KPE,Bosque aleatorio,K pliegues estratificados,Iteración 1,Partición 1,9429,3143,0.25,"[[2515, 0], [32, 596]]",0.9898,1.0000,0.9490,0.9739,3.9487,0.0726,0.9782
+KPE,Bosque aleatorio,K pliegues estratificados,Iteración 1,Partición 2,9429,3143,0.25,"[[2515, 0], [7, 621]]",0.9978,1.0000,0.9889,0.9944,3.7851,0.0563,0.9953
+KPE,Bosque aleatorio,K pliegues estratificados,Iteración 1,Partición 3,9429,3143,0.25,"[[2514, 0], [1, 628]]",0.9997,1.0000,0.9984,0.9992,3.7462,0.0612,0.9993
+KPE,Bosque aleatorio,K pliegues estratificados,Iteración 1,Partición 4,9429,3143,0.25,"[[2514, 0], [19, 610]]",0.9940,1.0000,0.9698,0.9847,3.8730,0.1149,0.9871
+KPE,Bosque aleatorio,K pliegues estratificados,Iteración 2,Partición 1,9429,3143,0.25,"[[2515, 0], [6, 622]]",0.9981,1.0000,0.9904,0.9952,3.8810,0.0602,0.9959
+KPE,Bosque aleatorio,K pliegues estratificados,Iteración 2,Partición 2,9429,3143,0.25,"[[2515, 0], [6, 622]]",0.9981,1.0000,0.9904,0.9952,3.7152,0.0553,0.9959
+KPE,Bosque aleatorio,K pliegues estratificados,Iteración 2,Partición 3,9429,3143,0.25,"[[2514, 0], [9, 620]]",0.9971,1.0000,0.9857,0.9928,3.9474,0.0553,0.9939
+KPE,Bosque aleatorio,K pliegues estratificados,Iteración 2,Partición 4,9429,3143,0.25,"[[2514, 0], [7, 622]]",0.9978,1.0000,0.9889,0.9944,3.8020,0.0809,0.9953
+KPE,Bosque aleatorio,K pliegues estratificados,Iteración 3,Partición 1,9429,3143,0.25,"[[2515, 0], [17, 611]]",0.9946,1.0000,0.9729,0.9863,3.8199,0.0571,0.9885
+KPE,Bosque aleatorio,K pliegues estratificados,Iteración 3,Partición 2,9429,3143,0.25,"[[2515, 0], [7, 621]]",0.9978,1.0000,0.9889,0.9944,3.8041,0.0590,0.9953
+KPE,Bosque aleatorio,K pliegues estratificados,Iteración 3,Partición 3,9429,3143,0.25,"[[2514, 0], [17, 612]]",0.9946,1.0000,0.9730,0.9863,3.7573,0.0558,0.9885
+KPE,Bosque aleatorio,K pliegues estratificados,Iteración 3,Partición 4,9429,3143,0.25,"[[2514, 0], [1, 628]]",0.9997,1.0000,0.9984,0.9992,3.7685,0.0571,0.9993
+DA,Bosque aleatorio,División aleatoria,Iteración 1,Partición 1,9429,3143,0.25,"[[2543, 0], [12, 588]]",0.9962,1.0000,0.9800,0.9899,3.7725,0.0793,0.9915
+DA,Bosque aleatorio,División aleatoria,Iteración 1,Partición 2,9429,3143,0.25,"[[2492, 0], [6, 645]]",0.9981,1.0000,0.9908,0.9954,3.8291,0.0557,0.9961
+DA,Bosque aleatorio,División aleatoria,Iteración 1,Partición 3,9429,3143,0.25,"[[2511, 0], [8, 624]]",0.9975,1.0000,0.9873,0.9936,3.9081,0.0576,0.9946
+DA,Bosque aleatorio,División aleatoria,Iteración 1,Partición 4,9429,3143,0.25,"[[2530, 0], [10, 603]]",0.9968,1.0000,0.9837,0.9918,4.0846,0.0749,0.9931
+DA,Bosque aleatorio,División aleatoria,Iteración 2,Partición 1,9429,3143,0.25,"[[2527, 0], [14, 602]]",0.9955,1.0000,0.9773,0.9885,3.8959,0.0720,0.9903
+DA,Bosque aleatorio,División aleatoria,Iteración 2,Partición 2,9429,3143,0.25,"[[2538, 0], [2, 603]]",0.9994,1.0000,0.9967,0.9983,3.9239,0.0588,0.9986
+DA,Bosque aleatorio,División aleatoria,Iteración 2,Partición 3,9429,3143,0.25,"[[2531, 0], [11, 601]]",0.9965,1.0000,0.9820,0.9909,4.1482,0.0612,0.9924
+DA,Bosque aleatorio,División aleatoria,Iteración 2,Partición 4,9429,3143,0.25,"[[2505, 0], [13, 625]]",0.9959,1.0000,0.9796,0.9897,4.1708,0.0760,0.9913
+DA,Bosque aleatorio,División aleatoria,Iteración 3,Partición 1,9429,3143,0.25,"[[2520, 0], [11, 612]]",0.9965,1.0000,0.9823,0.9911,4.1284,0.0799,0.9925
+DA,Bosque aleatorio,División aleatoria,Iteración 3,Partición 2,9429,3143,0.25,"[[2540, 0], [8, 595]]",0.9975,1.0000,0.9867,0.9933,4.0540,0.0570,0.9944
+DA,Bosque aleatorio,División aleatoria,Iteración 3,Partición 3,9429,3143,0.25,"[[2522, 0], [9, 612]]",0.9971,1.0000,0.9855,0.9927,4.0595,0.0564,0.9938
+DA,Bosque aleatorio,División aleatoria,Iteración 3,Partición 4,9429,3143,0.25,"[[2510, 0], [17, 616]]",0.9946,1.0000,0.9731,0.9864,3.8872,0.0563,0.9885
+DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 1,Partición 1,9429,3143,0.25,"[[2515, 0], [8, 620]]",0.9975,1.0000,0.9873,0.9936,3.8379,0.0717,0.9946
+DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 1,Partición 2,9429,3143,0.25,"[[2514, 0], [0, 629]]",1.0000,1.0000,1.0000,1.0000,3.9182,0.0568,1.0000
+DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 1,Partición 3,9429,3143,0.25,"[[2515, 0], [9, 619]]",0.9971,1.0000,0.9857,0.9928,3.9107,0.0582,0.9939
+DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 1,Partición 4,9429,3143,0.25,"[[2515, 0], [5, 623]]",0.9984,1.0000,0.9920,0.9960,4.0900,0.0571,0.9966
+DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 2,Partición 1,9429,3143,0.25,"[[2514, 0], [8, 621]]",0.9975,1.0000,0.9873,0.9936,3.8710,0.0590,0.9946
+DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 2,Partición 2,9429,3143,0.25,"[[2515, 0], [7, 621]]",0.9978,1.0000,0.9889,0.9944,4.0678,0.0588,0.9953
+DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 2,Partición 3,9429,3143,0.25,"[[2515, 0], [12, 616]]",0.9962,1.0000,0.9809,0.9904,4.2390,0.0649,0.9919
+DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 2,Partición 4,9429,3143,0.25,"[[2515, 0], [6, 622]]",0.9981,1.0000,0.9904,0.9952,4.1560,0.0660,0.9959
+DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 3,Partición 1,9429,3143,0.25,"[[2515, 0], [12, 616]]",0.9962,1.0000,0.9809,0.9904,4.1336,0.0579,0.9919
+DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 3,Partición 2,9429,3143,0.25,"[[2514, 0], [12, 617]]",0.9962,1.0000,0.9809,0.9904,4.0558,0.0590,0.9919
+DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 3,Partición 3,9429,3143,0.25,"[[2515, 0], [4, 624]]",0.9987,1.0000,0.9936,0.9968,4.4351,0.0572,0.9973
+DAE,Bosque aleatorio,División aleatoria estratificada,Iteración 3,Partición 4,9429,3143,0.25,"[[2514, 0], [0, 629]]",1.0000,1.0000,1.0000,1.0000,4.3985,0.0575,1.0000
