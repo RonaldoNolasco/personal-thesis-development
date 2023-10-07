@@ -4,7 +4,7 @@ authors:
 - family-names: "Nolasco"
   given-names: "Ronaldo"
   orcid: "https://orcid.org/0009-0005-4398-5991"
-title: "Modelo predictivo basado en aprendizaje de máquina para mejorar la efectividad en la selección de personal en una empresa de consultoría tecnológica"
+title: "Modelo predictivo basado en aprendizaje de máquina para mejorar el proceso de selección de personal en una empresa de consultoría tecnológica."
 version: 1.0.0
 date-released: 2023-06-20
-url: "https://github.com/RonaldoNolasco/hrms-gys-ml"
+url: "https://github.com/RonaldoNolasco/personal-thesis-development"
